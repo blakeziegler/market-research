@@ -29,8 +29,18 @@ model.print_trainable_parameters()
 
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 
+dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
+
 def tokenize(batch):
     return tokenizer(batch["text"], truncation=True, max_length=32768)
+
+def filter_empty(example):
+    return len(example["input_ids"]) > 0
+
+tokenized_dataset = (
+    dataset.map(tokenize, batched=True, remove_columns=["text"], num_proc=4)
+           .filter(filter_empty, num_proc=4)
+)
 
 def check_token_types(dataset, num_batches=5):
     print("Checking token types...")
