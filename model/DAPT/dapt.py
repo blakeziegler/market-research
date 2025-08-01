@@ -1,9 +1,15 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments, DataCollatorForLanguageModeling
+from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments, DataCollatorForLanguageModeling, BitsAndBytesConfig
 from datasets import load_dataset
 
 model_name = "Dev9124/qwen3-finance-model"
+
+quantization_config = BitsAndBytesConfig(
+    load_in_8bit=True,
+    llm_int8_enable_fp32_cpu_offload=True,
+)
+
 tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config=quantization_config, device_map="auto")
 
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 
@@ -38,14 +44,3 @@ trainer = Trainer(
 )
 
 trainer.train()
-
-
-
-
-
-
-
-
-
-
-
