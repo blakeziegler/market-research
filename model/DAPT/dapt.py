@@ -1,6 +1,7 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments, DataCollatorForLanguageModeling, BitsAndBytesConfig
 from datasets import load_dataset
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
+import numpy as np
 
 model_name = "Dev9124/qwen3-finance-model"
 
@@ -27,7 +28,9 @@ model.print_trainable_parameters()
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 
 def tokenize(example):
-    return tokenizer(example["text"], truncation=True, max_length=32768)
+    result = tokenizer(example["text"], truncation=True, max_length=32768)
+    result["input_ids"] = np.array(result["input_ids"], dtype=np.int64)
+    return result
 
 tokenized_dataset = dataset.map(tokenize, batched=True, remove_columns=["text"], num_proc=4)
 
