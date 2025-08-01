@@ -60,7 +60,14 @@ training_args = TrainingArguments(
     save_total_limit=2,
 )
 
-data_collator = DataCollatorForLanguageModeling(
+class SafeDataCollator(DataCollatorForLanguageModeling):
+    def __call__(self, features):
+        batch = super().__call__(features)
+        batch["input_ids"] = batch["input_ids"].long()
+        batch["attention_mask"] = batch["attention_mask"].long()
+        return batch
+
+data_collator = SafeDataCollator(
     tokenizer=tokenizer,
     mlm=False,
 )
