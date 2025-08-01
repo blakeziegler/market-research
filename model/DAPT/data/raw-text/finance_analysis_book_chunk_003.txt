@@ -1,0 +1,1031 @@
+Amortization ExPEnse Recognition
+Amortization is the allocation of the cost of an intangible asset (such as a franchise
+agreement) over its useful life. Amortization exPEnse should match the proportion of
+the asset's economic benefits used during the PEriod. Most firms use the straight-line
+method to calculate annual amortization exPEnse for financial reporting. Straight-line
+amortization is calculated exactly like straight-line depreciation.
+Intangible assets with indefinite lives (e.g., goodwill) are not amortized. However, they
+must be tested for impairment at least annually. If the asset value is impaired, an
+exPEnse equal to the impairment amount is recognized on the income statement.
+Bad Debt ExPEnse and Warranty ExPEnse Recognition
+If a firm sells goods or services on credit or provides a warranty to the customer, the
+matching principle requires the firm to estimate bad debt exPEnse and/or warranty
+exPEnse. By doing so, the firm is recognizing the exPEnse in the PEriod of the sale,
+rather than a later PEriod.
+Implications for Financial Analysis
+Like revenue recognition, exPEnse recognition requires a number of estimates. Since
+estimates are involved, it is possible for firms to delay or accelerate the recognition of
+exPEnses. Delayed exPEnse recognition increases current net income and is therefore
+more aggressive.
+Analysts must consider the underlying reasons for a change in an exPEnse estimate. If
+a firm's bad debt exPEnse has recently decreased, did the firm lower its exPEnse
+estimate because its collection exPErience improved, or was the exPEnse decreased to
+manipulate net income?
+Analysts should also compare a firm's estimates to those of other firms within the
+firm's industry. If a firm's warranty exPEnse is significantly less than that of a PEer firm,
+is the lower warranty exPEnse a result of higher quality products, or is the firm's
+exPEnse recognition more aggressive than that of the PEer firm?
+Firms disclose their accounting policies and significant estimates in the financial
+statement footnotes and in the management discussion and analysis (MD&A) SECtion
+of the annual report.
+LOS 24.f: Describe the financial reporting treatment and analysis of non-recurring
+items (including discontinued oPErations, unusual or infrequent items) and changes
+in accounting policies.
+CFA(r) Program Curriculum, Volume 3, page 181
+Non-Recurring Items
+Discontinued oPErations. A discontinued oPEration is one that management has
+decided to dispose of, but either has not yet done so, or has disposed of in the current
+year after the oPEration had generated income or losses. To be accounted for as a
+discontinued oPEration, the business--in terms of assets, oPErations, and investing
+and financing activities--must be physically and oPErationally distinct from the rest of
+the firm.
+The date when the company develops a formal plan for disposing of an oPEration is
+referred to as the measurement date, and the time between the measurement PEriod
+and the actual disposal date is referred to as the phaseout PEriod. Any income or loss
+from discontinued oPErations is reported separately in the income statement, net of
+tax, after income from continuing oPErations. Any past income statements presented
+must be restated, separating the income or loss from the discontinued oPErations. On
+the measurement date, the company will accrue any estimated loss during the
+phaseout PEriod and any estimated loss on the sale of the business. Any exPEcted gain
+on the disposal cannot be reported until after the sale is completed.
+Analytical implications: The analysis is straightforward. Discontinued oPErations do not
+affect net income from continuing oPErations. Discontinued oPErations should be
+excluded by the analyst when forecasting future earnings. The actual event of
+discontinuing a business segment or selling assets may provide information about the
+future cash flows of the firm, however.
+Unusual or infrequent items. The definition of these items is obvious--these events
+are either unusual in nature or infrequent in occurrence. Examples of items that could
+be considered unusual or infrequent include:
+Gains or losses from the sale of assets or part of a business, if these activities
+are not a firm's ordinary oPErations.
+Impairments, write-offs, write-downs, and restructuring costs.
+Unusual or infrequent items are included in income from continuing oPErations and
+are reported before tax.
+Analytical implications: Even though unusual or infrequent items affect net income
+from continuing oPErations, an analyst may want to review them to determine
+whether they truly should be included when forecasting future firm earnings. Some
+companies apPEar to be accident-prone and have "unusual or infrequent" losses every
+year or every few years.
+Extraordinary items. Under U.S. GAAP, historically, an extraordinary item was a
+material transaction or event that was both unusual and infrequent in occurrence.
+Extraordinary items were reported separately in the income statement, net of tax,
+after income from continuing oPErations. For PEriods beginning after December 15,
+2015, U.S. GAAP no longer allows items to be treated as extraordinary. IFRS also does
+not allow items to be treated as extraordinary.
+Changes in Accounting Policies
+Accounting changes include changes in accounting principles, changes in accounting
+estimates, and prior-PEriod adjustments.
+A change in accounting principle refers to a change from one GAAP or IFRS method to
+another (e.g., a change in inventory accounting from LIFO to FIFO). A change in
+accounting principle requires retrosPEctive application. Accordingly, all of the priorPEriod financial statements currently presented are restated to reflect the change.
+RetrosPEctive application enhances the comparability of the financial statements over
+time.
+Professor's Note: Under U.S. GAAP, a firm that changes to LIFO from another inventory cost
+method does not apply the change retrosPEctively, but instead uses the carrying value of
+inventory as the fIRSt LIFO layer. This exception to retrosPEctive application is described in the
+topic review of Inventories.
+Generally, a change in accounting estimate is the result of a change in management's
+judgment, usually due to new information. For example, management may change the
+estimated useful life of an asset because new information indicates the asset has a
+longer or shorter life than originally exPEcted. A change in estimate is applied
+prosPEctively and does not require the restatement of prior financial statements.
+Analytical implications: Accounting estimate changes typically do not affect cash flow.
+An analyst should review changes in accounting estimates to determine the impact on
+future oPErating results.
+A change from an incorrect accounting method to one that is acceptable under GAAP
+or IFRS or the correction of an accounting error made in previous financial statements
+is reported as a prior-PEriod adjustment. Prior-PEriod adjustments are made by
+restating results for all prior PEriods presented in the current financial statements.
+Disclosure of the nature of the adjustment and its effect on net income is also
+required.
+Analytical implications: Prior-PEriod adjustments usually involve errors or new
+accounting standards and do not typically affect cash flow. Analysts should review
+adjustments carefully because errors may indicate weaknesses in the firm's internal
+controls.
+LOS 24.g: Distinguish between the oPErating and non-oPErating components of the
+income statement.
+CFA(r) Program Curriculum, Volume 3, page 186
+OPErating and nonoPErating transactions are usually reported separately in the
+income statement. For a nonfinancial firm, nonoPErating transactions may result from
+investment income and financing exPEnses. For example, a nonfinancial firm may
+receive dividends and interest from investments in other firms. The investment income
+and any gains and losses from the sale of these SECurities are not a part of the firm's
+normal business oPErations. Interest exPEnse is based on the firm's capital structure,
+which is also indePEndent of the firm's oPErations. Conversely, for a financial firm,
+investment income and financing exPEnses are usually considered oPErating activities.
+LOS 24.h: Describe how earnings PEr share is calculated and calculate and interpret a
+company's earnings PEr share (both basic and diluted earnings PEr share) for both
+simple and complex capital structures.
+LOS 24.i: Distinguish between dilutive and antidilutive SECurities and describe the
+implications of each for the earnings PEr share calculation.
+CFA(r) Program Curriculum, Volume 3, page 187
+Earnings PEr share (EPS) is one of the most commonly used corporate profitability
+PErformance measures for publicly-traded firms (nonpublic companies are not
+required to report EPS data). EPS is reported only for shares of common stock (also
+known as ordinary stock).
+A company may have either a simple or complex capital structure:
+A simple capital structure is one that contains no potentially dilutive SECurities.
+A simple capital structure contains only common stock, nonconvertible debt,
+and nonconvertible preferred stock.
+A complex capital structure contains potentially dilutive SECurities such as
+options, warrants, or convertible SECurities.
+All firms with complex capital structures must report both basic and diluted EPS. Firms
+with simple capital structures report only basic EPS.
+BASIC EPS
+The basic EPS calculation does not consider the effects of any dilutive SECurities in the
+computation of EPS.
+The current year's preferred dividends are subtracted from net income because EPS
+refers to the PEr-share earnings available to common shareholders. Net income minus
+preferred dividends is the income available to common stockholders. Common stock
+dividends are not subtracted from net income because they are a part of the net
+income available to common shareholders.
+The weighted average number of common shares is the number of shares outstanding
+during the year, weighted by the portion of the year they were outstanding.
+Example: Weighted average shares and basic EPS
+Johnson Company has net income of $10,000 and paid $1,000 cash dividends to its preferred shareholders
+and $1,750 cash dividends to its common shareholders. At the beginning of the year, there were 10,000
+shares of common stock outstanding. 2,000 new shares were issued on July 1. Assuming a simple capital
+structure, what is Johnson's basic EPS?
+Answer:
+Calculate Johnson's weighted average number of shares.
+Shares outstanding all year = 10,000(12) = 120,000
+Shares outstanding 1/2 year = 2,000(6) = 12,000
+Weighted average shares = 132,000 / 12 = 11,000 shares
+Professor's Note: Remember, the payment of a cash dividend on common shares is not
+considered in the calculation of EPS.
+Effect of Stock Dividends and Stock Splits
+A stock dividend is the distribution of additional shares to each shareholder in an
+amount proportional to their current number of shares. If a 10% stock dividend is paid,
+the holder of 100 shares of stock would receive 10 additional shares.
+A stock split refers to the division of each "old" share into a sPEcific number of "new"
+(post-split) shares. The holder of 100 shares will have 200 shares after a 2-for-1 split or
+150 shares after a 3-for-2 split.
+The important thing to remember is that each shareholder's proportional ownership in
+the company is unchanged by either of these events. Each shareholder has more
+shares but the same PErcentage of the total shares outstanding.
+Professor's Note: For our purposes here, a stock dividend and a stock split are two ways of doing
+the same thing. For example, a 50% stock dividend and a 3-for-2 stock split both result in three
+"new" shares for every two "old" shares. Stock dividends and stock splits are explained further in
+the Corporate Finance topic area.
+The effect of a stock dividend or a stock split on the weighted average number of
+common shares is illustrated in the following example.
+Example: Effect of stock dividends
+During the past year, R & J, Inc. had net income of $100,000, paid dividends of $50,000 to its preferred
+stockholders, and paid $30,000 in dividends to its common shareholders. R & J's common stock account
+showed the following:
+Compute the weighted average number of common shares outstanding during the year, and compute
+EPS.
+Answer:
+Step 1: Adjust the number of pre-stock-dividend shares to post-stock-dividend units (to reflect the 10%
+stock dividend) by multiplying all share numbers prior to the stock dividend by 1.1. Shares
+issued or retired after the stock dividend are not affected.
+Step 3: Compute basic EPS:
+Things to know about the weighted average shares outstanding calculation:
+The weighting system is days outstanding divided by the number of days in a
+year, but on the exam, the monthly approximation method will probably be
+used.
+Shares issued enter into the computation from the date of issuance.
+Reacquired shares are excluded from the computation from the date of
+reacquisition.
+Shares sold or issued in a purchase of assets are included from the date of
+issuance.
+A stock split or stock dividend is applied to all shares outstanding prior to the
+split or dividend and to the beginning-of-PEriod weighted average shares. A
+stock split or stock dividend adjustment is not applied to any shares issued or
+repurchased after the split or dividend date.
+DILUTED EPS
+Before calculating diluted EPS, it is necessary to understand the following terms:
+Dilutive SECurities are stock options, warrants, convertible debt, or convertible
+preferred stock that would decrease EPS if exercised or converted to common
+stock.
+Antidilutive SECurities are stock options, warrants, convertible debt, or
+convertible preferred stock that would increase EPS if exercised or converted to
+common stock.
+The numerator of the basic EPS equation contains income available to common
+shareholders (net income less preferred dividends). In the case of diluted EPS, if there
+are dilutive SECurities, then the numerator must be adjusted as follows:
+If convertible preferred stock is dilutive (meaning EPS will fall if it is converted to
+common stock), the convertible preferred dividends must be added to earnings
+available to common shareholders.
+If convertible bonds are dilutive, then the bonds' after-tax interest exPEnse is
+not considered an interest exPEnse for diluted EPS. Hence, interest exPEnse
+multiplied by (1 - the tax rate) must be added back to the numerator.
+Professor's Note: Interest paid on bonds is typically tax deductible for the firm. If convertible
+bonds are converted to stock, the firm saves the interest cost but loses the tax deduction. Thus,
+only the after-tax interest savings are added back to income available to common shareholders.
+The basic EPS denominator is the weighted average number of shares. When the firm
+has dilutive SECurities outstanding, the denominator is the basic EPS denominator
+adjusted for the equivalent number of common shares that would be created by the
+conversion of all dilutive SECurities outstanding (convertible bonds, convertible
+preferred shares, warrants, and options), with each one considered separately to
+determine if it is dilutive.
+If a dilutive SECurity was issued during the year, the increase in the weighted average
+number of shares for diluted EPS is based on only the portion of the year the dilutive
+SECurity was outstanding.
+Dilutive stock options or warrants increase the number of common shares outstanding
+in the denominator for diluted EPS. There is no adjustment to the numerator.
+Stock options and warrants are dilutive only when their exercise prices are less than
+the average market price of the stock over the year. If the options or warrants are
+dilutive, use the treasury stock method to calculate the number of shares used in the
+denominator.
+The treasury stock method assumes that the funds received by the company
+from the exercise of the options would be used to hypothetically purchase
+shares of the company's common stock in the market at the average market
+price.
+The net increase in the number of shares outstanding (the adjustment to the
+denominator) is the number of shares created by exercising the options less the
+number of shares hypothetically repurchased with the proceeds of exercise.
+Example: Treasury stock method
+Baxter Company has 5,000 shares outstanding all year. Baxter had 2,000 outstanding warrants all year,
+convertible into one share each at $20 PEr share. The year-end price of Baxter stock was $40, and the
+average stock price was $30. What effect will these warrants have on the weighted average number of
+shares?
+Answer:
+If the warrants are exercised, the company will receive 2,000 x $20 = $40,000 and issue 2,000 new shares.
+The treasury stock method assumes the company uses these funds to repurchase shares at the average
+market price of $30. The company would repurchase $40,000 / $30 = 1,333 shares. Net shares issued
+would be 2,000 - 1,333 = 667 shares.
+The diluted EPS equation is:
+where adjusted income available for common shares is:
+net income - preferred dividends
++
++
+dividends on convertible preferred stock
+after-tax interest on convertible debt
+Therefore, diluted EPS is:
+Remember, each potentially dilutive SECurity must be examined separately to
+determine if it is actually dilutive (i.e., would reduce EPS if converted to common
+stock). The effect of conversion to common is included in the calculation of diluted EPS
+for a given SECurity only if it is, in fact, dilutive.
+Example 1: EPS with convertible debt
+During 20X6, ZZZ Corp. reported net income of $115,600 and had 200,000 shares of common stock
+outstanding for the entire year. ZZZ also had 1,000 shares of 10%, $100 par, preferred stock outstanding
+during 20X6. During 20X5, ZZZ issued 600, $1,000 par, 7% bonds for $600,000 (issued at par). Each of
+these bonds is convertible to 100 shares of common stock. The tax rate is 40%. Compute the 20X6 basic
+and diluted EPS.
+Answer:
+Step 1: Compute 20X6 basic EPS:
+Step 2: Calculate diluted EPS:
+Compute the increase in common stock outstanding if the convertible debt is converted to
+common stock at the beginning of 20X6:
+shares issuable for debt conversion = (600)(100) = 60,000 shares
+If the convertible debt is considered converted to common stock at the beginning of 20X6, then
+there would be no interest exPEnse related to the convertible debt. Therefore, it is necessary
+to increase ZZZ's after-tax net income for the after-tax effect of the decrease in interest
+exPEnse:
+increase in income = [(600)($1,000)(0.07)] (1 - 0.40) = $25,200
+Compute diluted EPS as if the convertible debt were common stock:
+Check to make sure that diluted EPS is less than basic EPS [$0.50 < $0.53]. If diluted EPS is more
+than the basic EPS, the convertible bonds are antidilutive and should not be treated as common
+stock in computing diluted EPS.
+A quick way to determine whether the convertible debt is dilutive is to calculate its PEr share impact by:
+If this PEr share amount is greater than basic EPS, the convertible debt is antidilutive, and the effects of
+conversion should not be included when calculating diluted EPS.
+If this PEr share amount is less than basic EPS, the convertible debt is dilutive, and the effects of
+conversion should be included in the calculation of diluted EPS.
+For ZZZ:
+The company's basic EPS is $0.53, so the convertible debt is dilutive, and the effects of conversion should
+be included in the calculation of diluted EPS.
+Example 2: EPS with convertible preferred stock
+During 20X6, ZZZ reported net income of $115,600 and had 200,000 shares of common stock and 1,000
+shares of preferred stock outstanding for the entire year. ZZZ's 10%, $100 par value preferred shares are
+each convertible into 40 shares of common stock. The tax rate is 40%. Compute basic and diluted EPS.
+Answer:
+Step 1: Calculate 20X6 basic EPS:
+Step 2: Calculate diluted EPS:
+Compute the increase in common stock outstanding if the preferred stock is converted to
+common stock at the beginning of 20X6: (1,000)(40) = 40,000 shares.
+If the convertible preferred shares were converted to common stock, there would be no
+preferred dividends paid. Therefore, you should add back the convertible preferred dividends
+that had previously been subtracted from net income in the numerator.
+Compute diluted EPS as if the convertible preferred stock were converted into common stock:
+Check to see if diluted EPS is less than basic EPS ($0.48 < $0.53). If the answer is yes, the
+preferred stock is dilutive and must be included in diluted EPS as computed above. If the
+answer is no, the preferred stock is antidilutive and conversion effects are not included in
+diluted EPS.
+A quick way to check whether convertible preferred stock is dilutive is to divide the preferred dividend by
+is converted. For ZZZ:
+the number of shares that will be created
+if the preferred stock
+. Since this is less than basic EPS, the convertible preferred is dilutive.
+Example 3: EPS with stock options
+During 20X6, ZZZ reported net income of $115,600 and had 200,000 shares of common stock outstanding
+for the entire year. ZZZ also had 1,000 shares of 10%, $100 par, preferred stock outstanding during 20X6.
+ZZZ has 10,000 stock options (or warrants) outstanding the entire year. Each option allows its holder to
+purchase one share of common stock at $15 PEr share. The average market price of ZZZ's common stock
+during 20X6 is $20 PEr share. Compute the diluted EPS.
+Answer:
+A quick way to calculate the net increase in common shares from the potential exercise of stock options or
+warrants when the exercise price is less than the average market price is:
+where:
+AMP = average market price over the year
+EP = exercise price of the options or warrants
+N = number of common shares that the options and warrants can be converted into
+For ZZZ:
+x 10,000 shares = 2,500 shares
+Example 4: EPS with convertible bonds, convertible preferred, and options
+During 20X6, ZZZ reported net income of $115,600 and had 200,000 shares of common stock outstanding
+for the entire year. ZZZ had 1,000 shares of 10%, $100 par convertible preferred stock, convertible into 40
+shares each, outstanding for the entire year. ZZZ also had 600, 7%, $1,000 par value convertible bonds,
+convertible into 100 shares each, outstanding for the entire year. Finally, ZZZ had 10,000 stock options
+outstanding during the year. Each option is convertible into one share of stock at $15 PEr share. The
+average market price of the stock for the year was $20. What are ZZZ's basic and diluted EPS? (Assume a
+40% tax rate.)
+Answer:
+Step 1: From Examples 1, 2, and 3, we know that the convertible preferred stock, convertible bonds,
+and stock options are all dilutive. Recall that basic EPS was calculated as:
+Step 2: Review the number of shares created by converting the convertible SECurities and options (the
+denominator):
+Step 3: Review the adjustments to net income (the numerator):
+Step 4: Compute ZZZ's diluted EPS:
+LOS 24.j: Convert income statements to common-size income statements.
+CFA(r) Program Curriculum, Volume 3, page 197
+A vertical common-size income statement expresses each category of the income
+statement as a PErcentage of revenue. The common-size format standardizes the
+income statement by eliminating the effects of size. This allows for comparison of
+income statement items over time (time-series analysis) and across firms (crossSECtional analysis). For example, the following are year-end income statements of
+industry comPEtitors North Company and South Company:
+North Co.
+South Co.
+Revenue
+$75,000,000
+$3,500,000
+Cost of goods sold
+52,500,000
+700,000
+Gross profit
+$22,500,000
+$2,800,000
+Administrative exPEnse
+11,250,000
+525,000
+Research exPEnse
+3,750,000
+700,000
+OPErating profit
+$7,500,000
+$1,575,000
+Notice that North is significantly larger and more profitable than South when
+measured in ABSolute dollars. North's gross profit is $22,500,000, as compared to
+South's gross profit of $2,800,000. Similarly, North's oPErating profit of $7,500,000 is
+significantly greater than South's oPErating profit of $1,575,000.
+Once we convert the income statements to common-size format, we can see that
+South is the more profitable firm on a relative basis. South's gross profit of 80% and
+oPErating profit of 45% are significantly greater than North's gross profit of 30% and
+oPErating profit of 10%.
+North Co.
+South Co.
+Revenue
+100%
+100%
+Cost of goods sold
+Gross profit
+70%
+30%
+Administrative exPEnse
+15%
+Research exPEnse
+5%
+OPErating profit
+10%
+20%
+80%
+15%
+20%
+45%
+Common-size analysis can also be used to examine a firm's strategy. South's higher
+gross profit margin may be the result of technologically suPErior products. Notice that
+South sPEnds more on research than North on a relative basis. This may allow South to
+charge a higher price for its products.
+In most cases, expressing exPEnses as a PErcentage of revenue is appropriate. One
+exception is income tax exPEnse. Tax exPEnse is more meaningful when expressed as a
+PErcentage of pretax income. The result is known as the effective tax rate.
+LOS 24.k: Evaluate a company's financial PErformance using common-size income
+statements and financial ratios based on the income statement.
+CFA(r) Program Curriculum, Volume 3, page 197
+Margin ratios can be used to measure a firm's profitability quickly. Gross profit margin
+is the ratio of gross profit (revenue minus cost of goods sold) to revenue (sales).
+Gross profit margin can be increased by raising prices or reducing production costs. A
+firm might be able to increase prices if its products can be differentiated from other
+firms' products as a result of factors such as brand names, quality, technology, or
+patent protection. This was illustrated in the previous example whereby South's gross
+profit margin was higher than North's.
+Another popular margin ratio is net profit margin. Net profit margin is the ratio of net
+income to revenue.
+Net profit margin measures the profit generated after considering all exPEnses. Like
+gross profit margin, net profit margin should be compared over time and with the
+firm's industry PEers.
+Any subtotal found in the income statement can be expressed as a PErcentage of
+revenue. For example, oPErating profit divided by revenue is known as oPErating
+profit margin. Pretax accounting profit divided by revenue is known as pretax margin.
+LOS 24.l: Describe, calculate, and interpret comprehensive income.
+LOS 24.m: Describe other comprehensive income and identiFY major tyPEs of items
+included in it.
+CFA(r) Program Curriculum, Volume 3, page 201
+At the end of each accounting PEriod, the net income of the firm is added to
+stockholders' equity through an account known as retained earnings. Therefore, any
+transaction that affects the income statement (net income) will also affect
+stockholders' equity.
+Recall that net income is equal to revenue minus exPEnses. Comprehensive income is
+a more inclusive measure that includes all changes in equity except for owner
+contributions and distributions. That is, comprehensive income is the sum of net
+income and other comprehensive income. Other comprehensive income includes
+transactions that are not included in net income, such as:
+1. Foreign currency translation gains and losses.
+2. Adjustments for minimum PEnsion liability.
+3. Unrealized gains and losses from cash flow hedging derivatives.
+4. Unrealized gains and losses from available-for-sale SECurities.
+Available-for-sale SECurities are investment SECurities that are not exPEcted to be held
+to maturity or sold in the near term. Available-for-sale SECurities are reported on the
+balance sheet at fair value. The unrealized gains and losses (the changes in fair value
+before the SECurities are sold) are not reported in the income statement but are
+reported directly in stockholders' equity as a component of other comprehensive
+income.
+Effective in 2018, IFRS treatment of financial instruments will no longer include the
+available-for-sale classification. However, firms will still be able to choose, at the time
+of purchase, to treat an equity SECurities investment as "financial assets measured at
+fair value through other comprehensive income."
+Under IFRS, firms can choose to report certain long-lived assets at fair value rather
+than historical cost. In this case, the changes in fair value are also included in other
+comprehensive income.
+Example: Calculating comprehensive income
+Calculate comprehensive income for Triple C Corporation using the selected financial statement data
+found in the following table.
+Answer:
+The dividends received for available-for-sale SECurities and the realized gain on the sale of land are already
+included in net income. Dividends paid and the reacquisition of common stock are transactions with
+shareholders, so they are not included in comprehensive income.
+Because firms have some flexibility of including or excluding transactions from net
+income, analysts must examine comprehensive income when comparing financial
+PErformance with other firms.
+1 IAS No. 18, Revenue, paragraph 14.
+2 IAS No. 18, Revenue, paragraph 20.
+3 FASB Accounting Standards Codification, SECtion 605-10-25.
+4 SEC Staff Accounting Bulletin 101.
+5 FASB ASC paragraph 605-20-25-14 (Revenue Recognition-Services-Recognition-Advertising Barter Services).
+6 IASB, SIC Interpretation 31, Revenue - Barter Transactions Involving Advertising Services, paragraph 5.
+7 FASB ASC SECtion 605-45-45 [Revenue Recognition-Principal Agent Considerations-Other Presentation
+Matters].
+8 IFRS 15 Revenue From Contracts With Customers.
+9 IASB Framework for the Preparation and Presentation of Financial Statements, paragraph 4.25(b).
+KEY CONCEPTS
+LOS 24.a
+The income statement shows an entity's revenues, exPEnses, gains and losses during a
+reporting PEriod.
+A multi-step income statement provides a subtotal for gross profit and a single step
+income statement does not. ExPEnses on the income statement can be grouPEd by the
+nature of the exPEnse items or by their function, such as with exPEnses grouPEd into
+cost of goods sold.
+LOS 24.b
+Revenue is recognized when earned and exPEnses are recognized when incurred.
+Methods for accounting for long-term contracts include:
+PErcentage-of-completion--recognizes revenue in proportion to costs incurred.
+Completed-contract--recognizes revenue only when the contract is complete.
+Revenue recognition methods for installment sales are:
+Normal revenue recognition at time of sale if collectibility is reasonably assured.
+Installment sales method if collectibility cannot be reasonably estimated.
+Cost recovery method if collectibility is highly uncertain.
+Revenue from barter transactions can only be recognized if its fair value can be
+estimated from historical data on similar non-barter transactions.
+Gross revenue reporting shows sales and cost of goods sold, while net revenue
+reporting shows only the difference between sales and cost of goods sold and should
+be used when the firm is acting essentially as a selling agent and does not stock
+inventory, take credit risk, or have control over supplier and price.
+LOS 24.c
+A firm using a revenue recognition method that is aggressive will inflate current PEriod
+earnings at a minimum and PErhaps inflate overall earnings. Because of the estimates
+involved, the PErcentage-of-completion method is more aggressive than the
+completed-contract method. Also, the installment method is more aggressive than the
+cost recovery method.
+LOS 24.d
+Converged accounting standards issued in May 2014 take a principles-based appROAch
+to revenue recognition. These standards identiFY a five-step process for recognizing
+revenue:
+1. IdentiFY the contract(s) with a customer.
+2. IdentiFY the PErformance obligations in the contract.
+3. Determine the transaction price.
+4. Allocate the transaction price to the PErformance obligations in the contract.
+5. Recognize revenue when (or as) the entity satisfies a PErformance obligation.
+LOS 24.e
+The matching principle requires that firms match revenues recognized in a PEriod with
+the exPEnses required to generate them. One application of the matching principle is
+seen in accounting for inventory, with cost of goods sold as the cost of units sold from
+inventory that are included in current-PEriod revenue. Other costs, such as
+depreciation of fixed assets or administrative overhead, are PEriod costs and are taken
+without regard to revenues generated during the PEriod.
+Depreciation methods:
+Straight-line: Equal amount of depreciation exPEnse in each year of the asset's
+useful life.
+Declining balance: Apply a constant rate of depreciation to the declining book
+value until book value equals residual value.
+Inventory valuation methods:
+FIFO: Inventory reflects cost of most recent purchases, COGS reflects cost of
+oldest purchases.
+LIFO: COGS reflects cost of most recent purchases, inventory reflects cost of
+oldest purchases.
+Average cost: Unit cost equals cost of goods available for sale divided by total
+units available and is used for both COGS and inventory.
+SPEcific identification: Each item in inventory is identified and its historical cost
+is used for calculating COGS when the item is sold.
+Intangible assets with limited lives should be amortized using a method that reflects
+the flow over time of their economic benefits. Intangible assets with indefinite lives
+(e.g., goodwill) are not amortized.
+Users of financial data should analyze the reasons for any changes in estimates of
+exPEnses and compare these estimates with those of PEer companies.
+LOS 24.f
+Results of discontinued oPErations are reported below income from continuing
+oPErations, net of tax, from the date the decision to dispose of the oPErations is made.
+These results are segregated because they likely are non-recurring and do not affect
+future net income.
+Unusual or infrequent items are reported before tax and above income from
+continuing oPErations. An analyst should determine how "unusual" or "infrequent"
+these items really are for the company when estimating future earnings or firm value.
+Changes in accounting standards, changes in accounting methods applied, and
+corrections of accounting errors require retrosPEctive restatement of all prior-PEriod
+financial statements included in the current statement. A change in an accounting
+estimate, however, is applied prosPEctively (to subsequent PEriods) with no
+restatement of prior-PEriod results.
+LOS 24.g
+OPErating income is generated from the firm's normal business oPErations. For a
+nonfinancial firm, income that results from investing or financing transactions is
+classified as non-oPErating income, while it is oPErating income for a financial firm
+since its business oPErations include investing in and financing SECurities.
+LOS 24.h
+When a company has potentially dilutive SECurities, it must report diluted EPS.
+For any convertible preferred stock, convertible debt, warrants, or stock options that
+are dilutive, the calculation of diluted EPS is:
+LOS 24.i
+A dilutive SECurity is one that, if converted to its common stock equivalent, would
+decrease EPS. An antidilutive SECurity is one that would not reduce EPS if converted to
+its common stock equivalent.
+LOS 24.j
+A vertical common-size income statement expresses each item as a PErcentage of
+revenue. The common-size format standardizes the income statement by eliminating
+the effects of size. Common-size income statements are useful for trend analysis and
+for comparisons with PEer firms.
+LOS 24.k
+Common-size income statements are useful in examining a firm's business strategies.
+Two popular profitability ratios are gross profit margin (gross profit / revenue) and net
+profit margin (net income / revenue). A firm can often achieve higher profit margins by
+differentiating its products from the comPEtition.
+LOS 24.l
+Comprehensive income is the sum of net income and other comprehensive income. It
+measures all changes to equity other than those from transactions with shareholders.
+LOS 24.m
+Transactions with shareholders, such as dividends paid and shares issued or
+repurchased, are not reported on the income statement.
+Other comprehensive income includes other transactions that affect equity but do not
+affect net income, including:
+Gains and losses from foreign currency translation.
+PEnsion obligation adjustments.
+Unrealized gains and losses from cash flow hedging derivatives.
+Unrealized gains and losses on available-for-sale SECurities.
+CONCEPT CHECKERS
+1. For a nonfinancial firm, are depreciation exPEnse and interest exPEnse
+included or excluded from oPErating exPEnses in the income statement?
+Depreciation exPEnse
+A. Included
+B. Included
+C. Excluded
+Interest exPEnse
+Included
+Excluded
+Included
+2. Are income taxes and cost of goods sold examples of exPEnses classified by
+nature or classified by function in the income statement?
+Income taxes
+A. Nature
+B. Function
+C. Function
+Cost of goods sold
+Function
+Nature
+Function
+3. Which of the following is least likely a condition necessary for revenue
+recognition?
+A. Cash has been collected.
+B. The goods have been delivered.
+C. The price has been determined.
+4. AAA has a contract to build a building for $100,000 with an estimated time to
+completion of three years. A reliable cost estimate for the project is $60,000. In
+the fIRSt year of the project, AAA incurred costs totaling $24,000. How much
+profit should AAA report at the end of the fIRSt year under the PErcentage-ofcompletion method and the completed-contract method?
+PErcentage-of-completion
+A. $16,000
+B. $16,000
+C. $40,000
+Completed-contract
+$0
+$40,000
+$0
+5. Which principle requires that cost of goods sold be recognized in the same
+PEriod in which the sale of the related inventory is recorded?
+A. Going concern.
+B. Certainty.
+C. Matching.
+6. Which of the following would least likely increase pretax income?
+A. Decreasing the bad debt exPEnse estimate.
+B. Increasing the useful life of an intangible asset.
+C. Decreasing the residual value of a depreciable tangible asset.
+7. According to converged accounting standards issued in May 2014, the fIRSt step
+in the revenue recognition process is to:
+A. determine the price.
+B. identiFY the contract.
+C. identiFY the obligations.
+8. When accounting for inventory, are the fIRSt-in, fIRSt-out (FIFO) and last-in, fIRStout (LIFO) cost flow assumptions PErmitted under U.S. GAAP?
+FIFO
+A. Yes
+B. Yes
+C. No
+LIFO
+Yes
+No
+Yes
+9. Which of the following best describes the impact of depreciating equipment
+with a useful life of 6 years using the declining balance method as compared to
+the straight-line method?
+A. Total depreciation exPEnse will be higher over the life of the equipment.
+B. Depreciation exPEnse will be higher in the fIRSt year.
+C. ScraPPIng the equipment after five years will result in a larger loss.
+10. CC Corporation reported the following inventory transactions (in chronological
+order) for the year:
+Purchase
+Sales
+40 units at $30
+13 units at $35
+20 units at $40
+35 units at $45
+90 units at $50
+60 units at $60
+Assuming inventory at the beginning of the year was zero, calculate the yearend inventory using FIFO and LIFO.
+FIFO
+A. $5,220
+B. $2,100
+C. $2,100
+LIFO
+$1,040
+$1,280
+$1,040
+11. At the beginning of the year, Triple W Corporation purchased a new piece of
+equipment to be used in its manufacturing oPEration. The cost of the
+equipment was $25,000. The equipment is exPEcted to be used for 4 years and
+then sold for $4,000. Depreciation exPEnse to be reported for the SECond year
+using the double-declining-balance method is closest to:
+A. $5,250.
+B. $6,250.
+C. $7,000.
+12. Which of the following is least likely considered a nonoPErating transaction
+from the PErsPEctive of a manufacturing firm?
+A. Dividends received from available-for-sale SECurities.
+B. Interest exPEnse on subordinated debentures.
+C. Accruing bad debt exPEnse for goods sold on credit.
+13. Changing an accounting estimate:
+A. is reported prosPEctively.
+B. requires restatement of all prior-PEriod statements presented in the
+current financial statements.
+C. is reported by adjusting the beginning balance of retained earnings for
+the cumulative effect of the change.
+14. Which of the following transactions would most likely be reported below
+income from continuing oPErations, net of tax?
+A. Gain or loss from the sale of equipment used in a firm's manufacturing
+oPEration.
+B. A change from the accelerated method of depreciation to the straightline method.
+C. The oPErating income of a physically and oPErationally distinct division
+that is currently for sale, but not yet sold.
+15. Which of the following statements about nonrecurring items is least accurate?
+A. Discontinued oPErations are reported net of taxes at the bottom of the
+income statement before net income.
+B. Unusual or infrequent items are reported before taxes above net income
+from continuing oPErations.
+C. A change in accounting principle is reported in the income statement net
+of taxes after extraordinary items and before net income.
+16. The Hall Corporation had 100,000 shares of common stock outstanding at the
+beginning of the year. Hall issued 30,000 shares of common stock on May 1. On
+July 1, the company issued a 10% stock dividend. On September 1, Hall issued
+1,000, 10% bonds, each convertible into 21 shares of common stock. What is
+the weighted average number of shares to be used in computing basic and
+diluted EPS, assuming the convertible bonds are dilutive?
+Average shares, basic
+Average shares, dilutive
+A. 132,000
+B. 132,000
+C. 139,000
+139,000
+146,000
+146,000
+17. Given the following information, how many shares should be used in
+computing diluted EPS?
+300,000 shares outstanding.
+100,000 warrants exercisable at $50 PEr share.
+Average share price is $55.
+Year-end share price is $60.
+A. 9,091.
+B. 90,909.
+C. 309,091.
+18. An analyst gathered the following information about a company:
+100,000 common shares outstanding from the beginning of the year.
+Earnings of $125,000.
+1,000, 7%, $1,000 par bonds convertible into 25 shares each, outstanding
+as of the beginning of the year.
+The tax rate is 40%.
+The company's diluted EPS is closest to:
+A. $1.22.
+B. $1.25.
+C. $1.34.
+19. An analyst has gathered the following information about a company:
+50,000 common shares outstanding from the beginning of the year.
+Warrants outstanding all year on 50,000 shares, exercisable at $20 PEr
+share.
+Stock is selling at year end for $25.
+The average price of the company's stock for the year was $15.
+How many shares should be used in calculating the company's diluted EPS?
+A. 16,667.
+B. 50,000.
+C. 66,667.
+20. Which of the following transactions affects owners' equity but does not affect
+net income?
+A. Foreign currency translation gain.
+B. Repaying the face amount on a bond issued at par.
+C. Dividends received from available-for-sale SECurities.
+21. Which of the following is least likely to be included when calculating
+comprehensive income?
+A. Unrealized loss from cash flow hedging derivatives.
+B. Unrealized gain from available-for-sale SECurities.
+C. Dividends paid to common shareholders.
+22. A vertical common-size income statement expresses each category of the
+income statement as a PErcentage of:
+A. assets.
+B. gross profit.
+C. revenue.
+23. Which of the following would most likely result in higher gross profit margin,
+assuming no fixed costs?
+A. A 10% increase in the number of units sold.
+B. A 5% decrease in production cost PEr unit.
+C. A 7% decrease in administrative exPEnses.
+For more questions related to this topic review, log in to your Schweser online account
+and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
+topic review, log in to your Schweser online account and launch the OnDemand video
+lectures, if you have purchased these products.
+ANSWERS - CONCEPT CHECKERS
+1. For a nonfinancial firm, are depreciation exPEnse and interest exPEnse
+included or excluded from oPErating exPEnses in the income statement?
+Depreciation exPEnse
+A. Included
+B. Included
+C. Excluded
+Interest exPEnse
+Included
+Excluded
+Included
+Depreciation is included in the computation of oPErating exPEnses. Interest
+exPEnse is a financing cost. Thus, it is excluded from oPErating exPEnses.
+2. Are income taxes and cost of goods sold examples of exPEnses classified by
+nature or classified by function in the income statement?
+Income taxes
+A. Nature
+B. Function
+Cost of goods sold
+Function
+Nature
+C. Function
+Function
+Income taxes are exPEnses grouPEd together by their nature. Cost of goods
+sold includes a number of exPEnses related to the same function, the
+production of inventory.
+3. Which of the following is least likely a condition necessary for revenue
+recognition?
+A. Cash has been collected.
+B. The goods have been delivered.
+C. The price has been determined.
+In order to recognize revenue, the seller must know the sales price and be
+reasonably sure of collection, and must have delivered the goods or rendered
+the service. Actual collection of cash is not required.
+4. AAA has a contract to build a building for $100,000 with an estimated time to
+completion of three years. A reliable cost estimate for the project is $60,000. In
+the fIRSt year of the project, AAA incurred costs totaling $24,000. How much
+profit should AAA report at the end of the fIRSt year under the PErcentage-ofcompletion method and the completed-contract method?
+PErcentage-of-completion
+A. $16,000
+B. $16,000
+C. $40,000
+Completed-contract
+$0
+$40,000
+$0
+$24,000 / $60,000 = 40% of the project completed. 40% of $100,000 = $40,000
+revenue. $40,000 revenue - $24,000 cost = $16,000 profit for the PEriod. No
+profit would be reported in the fIRSt year using the completed contract
+method.
+5. Which principle requires that cost of goods sold be recognized in the same
+PEriod in which the sale of the related inventory is recorded?
+A. Going concern.
+B. Certainty.
+C. Matching.
+The matching principle requires that the exPEnses incurred to generate the
+revenue be recognized in the same accounting PEriod as the revenue.
+6. Which of the following would least likely increase pretax income?
+A. Decreasing the bad debt exPEnse estimate.
+B. Increasing the useful life of an intangible asset.
+C. Decreasing the residual value of a depreciable tangible asset.
+Decreasing the residual (salvage) value of a depreciable long-lived asset will
+result in higher depreciation exPEnse and, thus, lower pretax income.
+7. According to converged accounting standards issued in May 2014, the fIRSt step
+in the revenue recognition process is to:
+A. determine the price.
+B. identiFY the contract.
+C. identiFY the obligations.
+The five stEPS in revenue recognition under the converged standards are:
+1. IdentiFY the contract or contracts with the customer.
+2. IdentiFY the PErformance obligations in the contract(s).
+3. Determine a transaction price.
+4. Allocate the transaction price to the PErformance obligations.
+5. Recognize revenue when/as the PErformance obligations have been
+satisfied.
+8. When accounting for inventory, are the fIRSt-in, fIRSt-out (FIFO) and last-in, fIRStout (LIFO) cost flow assumptions PErmitted under U.S. GAAP?
+FIFO
+A. Yes
+B. Yes
+C. No
+LIFO
+Yes
+No
+Yes
+LIFO and FIFO are both PErmitted under U.S. GAAP. LIFO is prohibited under
+IFRS.
+9. Which of the following best describes the impact of depreciating equipment
+with a useful life of 6 years using the declining balance method as compared to
+the straight-line method?
+A. Total depreciation exPEnse will be higher over the life of the equipment.
+B. Depreciation exPEnse will be higher in the fIRSt year.
+C. ScraPPIng the equipment after five years will result in a larger loss.
+Accelerated depreciation will result in higher depreciation in the early years
+and lower depreciation in the later years compared to the straight-line
+method. Total depreciation exPEnse will be the same under both methods. The
+book value would be higher in the later years using straight-line depreciation,
+so the loss from scraPPIng the equipment under an accelerated method is less
+compared to the straight-line method.
+10. CC Corporation reported the following inventory transactions (in chronological
+order) for the year:
+Purchase
+Sales
+40 units at $30
+13 units at $35
+20 units at $40
+35 units at $45
+90 units at $50
+60 units at $60
+Assuming inventory at the beginning of the year was zero, calculate the yearend inventory using FIFO and LIFO.
+FIFO
+A. $5,220
+B. $2,100
+C. $2,100
+LIFO
+$1,040
+$1,280
+$1,040
+108 units were sold (13 + 35 + 60) and 150 units were available for sale
+(beginning inventory of 0 plus purchases of 40 + 20 + 90), so there are 150 -
+108 = 42 units in ending inventory. Under FIFO, units from the last batch
+purchased would remain in inventory: 42 x $50 = $2,100. Under LIFO, the fIRSt
+42 units purchased would be in inventory: (40 x $30) + (2 x $40) = $1,280.
+11. At the beginning of the year, Triple W Corporation purchased a new piece of
+equipment to be used in its manufacturing oPEration. The cost of the
+equipment was $25,000. The equipment is exPEcted to be used for 4 years and
+then sold for $4,000. Depreciation exPEnse to be reported for the SECond year
+using the double-declining-balance method is closest to:
+A. $5,250.
+B. $6,250.
+C. $7,000.
+Year 1: (2 / 4) x 25,000 = $12,500. Year 2: (2 / 4) x (25,000 - 12,500) = $6,250.
+12. Which of the following is least likely considered a nonoPErating transaction
+from the PErsPEctive of a manufacturing firm?
+A. Dividends received from available-for-sale SECurities.
+B. Interest exPEnse on subordinated debentures.
+C. Accruing bad debt exPEnse for goods sold on credit.
+Bad debt exPEnse is an oPErating exPEnse. The other choices are nonoPErating
+items from the PErsPEctive of a manufacturing firm.
+13. Changing an accounting estimate:
+A. is reported prosPEctively.
+B. requires restatement of all prior-PEriod statements presented in the
+current financial statements.
+C. is reported by adjusting the beginning balance of retained earnings for
+the cumulative effect of the change.
+A change in an accounting estimate is reported prosPEctively. No restatement
+of prior PEriod statements is necessary.
+14. Which of the following transactions would most likely be reported below
+income from continuing oPErations, net of tax?
+A. Gain or loss from the sale of equipment used in a firm's manufacturing
+oPEration.
+B. A change from the accelerated method of depreciation to the straightline method.
+C. The oPErating income of a physically and oPErationally distinct division
+that is currently for sale, but not yet sold.
+A physically and oPErationally distinct division that is currently for sale is
+treated as a discontinued oPEration. The income from the division is reported
+net of tax below income from continuing oPErations. Changing a depreciation
+method is a change of accounting principle, which is applied retrosPEctively
+and will change oPErating income.
+15. Which of the following statements about nonrecurring items is least accurate?
+A. Discontinued oPErations are reported net of taxes at the bottom of the
+income statement before net income.
+B. Unusual or infrequent items are reported before taxes above net income
+from continuing oPErations.
+C. A change in accounting principle is reported in the income statement
+net of taxes after extraordinary items and before net income.
+A change in accounting principle requires retrosPEctive application; that is, all
+prior PEriod financial statements currently presented are restated to reflect the
+change.
+16. The Hall Corporation had 100,000 shares of common stock outstanding at the
+beginning of the year. Hall issued 30,000 shares of common stock on May 1. On
+July 1, the company issued a 10% stock dividend. On September 1, Hall issued
+1,000, 10% bonds, each convertible into 21 shares of common stock. What is
+the weighted average number of shares to be used in computing basic and
+diluted EPS, assuming the convertible bonds are dilutive?
+Average shares, basic
+A. 132,000
+B. 132,000
+C. 139,000
+Average shares, dilutive
+139,000
+146,000
+146,000
+The new stock is weighted by 8 / 12. The bonds are weighted by 4 / 12 and are
+not affected by the stock dividend.
+Basic shares = {[100,000 x (12 / 12)] + [30,000 x (8 / 12)]} x 1.10 = 132,000
+Diluted shares = 132,000 + [21,000 x (4 / 12)] = 139,000
+17. Given the following information, how many shares should be used in
+computing diluted EPS?
+300,000 shares outstanding.
+100,000 warrants exercisable at $50 PEr share.
+Average share price is $55.
+Year-end share price is $60.
+A. 9,091.
+B. 90,909.
+C. 309,091.
+Since the exercise price of the warrants is less than the average share price, the
+warrants are dilutive. Using the treasury stock method to determine the
+denominator impact:
+Thus, the denominator will increase by 9,091 shares to 309,091 shares. The
+question asks for the total, not just the impact of the warrants.
+18. An analyst gathered the following information about a company:
+100,000 common shares outstanding from the beginning of the year.
+Earnings of $125,000.
+1,000, 7%, $1,000 par bonds convertible into 25 shares each, outstanding
+as of the beginning of the year.
+The tax rate is 40%.
+The company's diluted EPS is closest to:
+A. $1.22.
+B. $1.25.
+C. $1.34.
+FIRSt, calculate basic EPS =
+Next, check if the convertible bonds are dilutive:
+numerator impact = (1,000 x 1,000 x 0.07) x (1 - 0.4) = $42,000
+denominator impact = (1,000 x 25) = 25,000 shares
+Since $1.68 is greater than the basic EPS of $1.25, the bonds are antidilutive.
+Thus, diluted EPS = basic EPS = $1.25.
+19. An analyst has gathered the following information about a company:
+50,000 common shares outstanding from the beginning of the year.
+Warrants outstanding all year on 50,000 shares, exercisable at $20 PEr
+share.
+Stock is selling at year end for $25.
+The average price of the company's stock for the year was $15.
+How many shares should be used in calculating the company's diluted EPS?
+A. 16,667.
+B. 50,000.
+C. 66,667.
+The warrants in this case are antidilutive. The average price PEr share of $15 is
+less than the exercise price of $20. The year-end price PEr share is not relevant.
+The denominator consists of only the common stock for basic EPS.
+20. Which of the following transactions affects owners' equity but does not affect
+net income?
+A. Foreign currency translation gain.
+B. Repaying the face amount on a bond issued at par.
+C. Dividends received from available-for-sale SECurities.
+A foreign currency translation gain is not included in net income but the gain
+increases owners' equity. Dividends received are reported in the income
+statement. The repayment of principal does not affect owners' equity.
+21. Which of the following is least likely to be included when calculating
+comprehensive income?
+A. Unrealized loss from cash flow hedging derivatives.
+B. Unrealized gain from available-for-sale SECurities.
+C. Dividends paid to common shareholders.
+Comprehensive income includes all changes in equity except transactions with
+shareholders. Therefore, dividends paid to common shareholders are not
+included in comprehensive income.
+22. A vertical common-size income statement expresses each category of the
+income statement as a PErcentage of:
+A. assets.
+B. gross profit.
+C. revenue.
+Each category of the income statement is expressed as a PErcentage of
+revenue (sales).
+23. Which of the following would most likely result in higher gross profit margin,
+assuming no fixed costs?
+A. A 10% increase in the number of units sold.
+B. A 5% decrease in production cost PEr unit.
+C. A 7% decrease in administrative exPEnses.
+A 5% decrease in PEr unit production cost will increase gross profit by lowering
+cost of goods sold. Assuming no fixed costs, gross profit margin will remain the
+same if sale quantities increase. Administrative exPEnses are not included in
+gross profit margin.
+The following is a review of the Financial Reporting and Analysis principles designed to address the learning
+outcome statements set forth by CFA Institute. Cross-Reference to CFA Institute Assigned Reading #25.

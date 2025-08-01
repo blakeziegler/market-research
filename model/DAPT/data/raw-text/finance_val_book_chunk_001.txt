@@ -1,0 +1,1327 @@
+Chapter 1
+A FRAMEWORK FOR
+BUSINESS ANALYSIS
+AND VALUATION USING
+FINANCIAL STATEMENTS
+T his chapter outlines a comprehensive framework for financial statement analysis.
+Because financial statements provide the most widely available data on public
+corporations' economic activities,
+investors and other stakeholders rely on
+financial reports to assess the plans and PErformance of firms and corporate managers.
+A variety of questions can be addressed by business analysis using financial
+statements, as shown in the following examples:
+A SECurity analyst may be interested in asking: "How well is the firm I am following PErforming? Did the firm meet my PErformance exPEctations? If not, why not?
+What is the value of the firm's stock given my assessment of the firm's current and
+future PErformance?"
+A loan officer may need to ask: "What is the credit risk involved in lending a certain amount of money to this firm? How well is the firm managing its liquidity
+and solvency? What is the firm's business risk? What is the additional risk created
+by the firm's financing and dividend policies?"
+A management consultant might ask: "What is the structure of the industry in
+which the firm is oPErating? What are the strategies pursued by various players
+in the industry? How have these factors affected the relative PErformance of different firms in the industry?"
+A corporate manager may ask: "Is my firm proPErly valued by investors? Is our
+investor communication program adequate to facilitate this process?" or "Is this
+firm a potential takeover target? How much value can be added if we acquire this
+firm? How can we finance the acquisition?"
+An indePEndent auditor would want to ask: "Are the accounting policies and
+accrual estimates in this company's financial statements consistent with my understanding of this business and its recent PErformance? Do these financial reports
+communicate the current status and significant risks of the business?"
+The structure of state economies during the twentieth and early twenty-fIRSt centuries has
+generally fallen into one of two distinct and bROAd ideologies for channeling savings into
+business investments--capitalism and central planning. The capitalist market model bROAdly
+relies on the market mechanism to govern economic activity, and decisions regarding
+investments are made privately. Centrally planned economies have used central planning and
+government agencies to pool national savings and to direct investments in business enterprises.
+The failure of the central planning model is evident from the fact that at this point most of
+1-3
+1-4 PART 1 Framework
+these economies have partly or entirely abandoned it in favor of the market model. As a result,
+in almost all countries in the world today, capital markets play an important role in channeling
+financial resources from savers to business enterprises that need capital.
+Financial statement analysis is a valuable activity when managers have in-depth
+information on a firm's strategies and PErformance and a variety of institutional factors
+make it unlikely that they fully disclose this information. In this setting, outside analysts
+attempt to create "inside information" from analyzing financial statement data, thereby
+gaining valuable insights about the firm's current PErformance and future prosPEcts.
+To understand the contribution that financial statement analysis can make, it is important
+to understand the role of financial reporting in the functioning of capital markets and the
+institutional forces that shaPE financial statements. Therefore, we fIRSt present a brief
+description of these forces followed by a discussion of the stEPS that an analyst must
+PErform to extract information from financial statements and provide meaningful forecasts.
+THE ROLE OF FINANCIAL REPORTING IN CAPITAL MARKETS
+A critical challenge for any economy is the allocation of savings to investment opportunities. Economies that do this well can exploit new business ideas to spur innovation and
+create jobs and wealth at a rapid pace. In contrast, economies that manage this process
+poorly tend to dissipate their wealth and fail to support business opportunities.
+Figure 1-1 provides a schematic representation of how capital markets typically work in a
+bROAd sense. Savings in an economy are widely distributed among households. There are
+usually many new entrepreneurs and existing companies that would like to attract these savings to fund their business ideas. While both savers and entrepreneurs would like to do business with each other, matching savings to business investment opportunities is complicated
+for at least three reasons. FIRSt, entrepreneurs typically have better information than savers
+on the value of business investment opportunities. SECond, communication by entrepreneurs
+to investors is not completely credible because investors know entrepreneurs have an incentive to inflate the value of their ideas. Third, savers generally lack the financial sophistication
+needed to analyze and differentiate among the various business opportunities.
+These information and incentive problems lead to what economists call the "lemons"
+problem, which can potentially break down the functioning of capital markets.1 It works
+like this: Consider a situation where half the business ideas are "good" and the other half are
+"bad." If investors cannot distinguish between the two tyPEs of business ideas, entrepreneurs
+with bad ideas will try to claim that their ideas are as valuable as the good ideas. Realizing this
+possibility, investors value both good and bad ideas at an average level. Unfortunately, this
+PEnalizes good ideas, and entrepreneurs with good ideas find the terms on which they can
+get financing to be unattractive. As these entrepreneurs leave the capital market, the proportion of bad ideas in the market increases. Over time, bad ideas "crowd out" good ideas, and
+investors lose confidence in this market.
+The emergence of the institutions that make up a fully formed capital market system
+can prevent such a market breakdown. Financial intermediaries such as venture capital
+and private equity firms, banks, mutual funds, and insurance companies focus on aggregating funds from individual investors and distributing those funds to businesses seeking
+sources of capital. Information intermediaries such as auditors and company audit committees serve as credibility enhancers to provide an indePEndent assessment of business
+claims. Information analyzers and advisors such as financial analysts, credit rating agencies and the financial press are another tyPE of information intermediary that collect and
+analyze business information used to make business decisions. Transaction facilitators
+such as stock exchanges and brokerage houses play a crucial role in capital markets by
+providing a platform that facilitates buying and selling in markets. Finally, regulators
+A Framework for Business Analysis and Valuation Using Financial Statements 1-5
+F IGUR E 1- 1
+Capital Markets
+Regulators/Adjudicators
+Transaction Facilitators
+Financial
+Intermediaries
+-Aggregators and
+Distributors
+Savings
+Business
+Ideas
+Information
+Intermediaries
+-Credibility
+Enhancers
+-Information
+Analyzers and
+Advisors
+Transaction Platform
+Capital Markets
+Source: (c) Cengage Learning
+such as the SECurities and Exchange Commission (SEC) and the Financial Accounting
+Standards Board (FASB) in the United States create appropriate regulatory policy that
+establishes the legal framework of the capital market system, while adjudicators such as
+the court system resolve disputes that arise between participants.2 In a well-functioning
+capital market, the market institutions described above add value by both helping investors distinguish good investment opportunities from bad ones and by directing funding
+to those business ideas deemed most promising.
+Financial reporting plays a critical role in the effective functioning of the capital markets.
+Information intermediaries attempt to add value by either enhancing the credibility of financial reports (as auditors do) or by analyzing the information in financial statements (as analysts and the rating agencies do). Financial intermediaries rely on the information in financial
+statements to analyze investment opportunities, and they supplement this with information
+from other sources, including the analysis and PErsPEctive of the information intermediaries.
+Ideally, the different intermediaries serve as a system of checks and balances to ensure
+the efficient functioning of the capital markets system. However, this is not always the
+case, as on occasion they mutually reinforce rather than counterbalance each other. This
+can arise from imPErfections in financial and information intermediaries' incentives, governance issues within the intermediary organizations themselves, and conflicts of interest, as
+evidenced by the sPEctacular failures of companies such as Enron and WorldCom in the
+1-6 PART 1 Framework
+early part of the new century,3 and more recently companies such as Lehman Brothers,
+New Century Financial, and a host of others during the recent global financial crisis.
+The examples above demonstrate that while this market mechanism over time has
+been seen to function efficiently with prices reflecting all available information on a particular investment, individual SECurities may still be mispriced, thereby justiFYing the
+need for financial statement analysis.
+In the following SECtion, we discuss key asPEcts of the financial reporting system design
+that enable it to effectively play this vital role in the functioning of the capital markets.
+FROM BUSINESS ACTIVITIES TO FINANCIAL STATEMENTS
+Corporate managers are responsible for acquiring physical and financial resources from
+the firm's environment and using them to create value for the firm's investors. Value is
+created when the firm earns a return on its investment in excess of the cost of capital.
+Managers formulate business strategies to achieve this goal, and they implement them
+through business activities. A firm's business activities are influenced by its economic
+environment and its own business strategy. The economic environment includes the
+firm's industry, its input and output markets, and the regulations under which the firm
+oPErates. The firm's business strategy determines how the firm positions itself in its environment to achieve a comPEtitive advantage.
+As shown in Figure 1-2, a firm's financial statements summarize the economic consequences of its business activities. The firm's business activities in any time PEriod are too
+numerous to be reported individually to outsiders. Further, some of the activities undertaken by the firm are proprietary in nature, and disclosing these in detail could be a detriment to the firm's comPEtitive position. The accounting system provides a mechanism
+through which business activities are selected, measured, and aggregated into financial
+statement data.
+INFLUENCES OF THE ACCOUNTING SYSTEM
+ON INFORMATION QUALITY
+Intermediaries using financial statement data to do business analysis have to be aware
+that financial reports are influenced both by the firm's business activities and by its
+accounting system. A key asPEct of financial statement analysis, therefore, involves understanding the influence of the accounting system on the quality of the financial statement
+data being used in the analysis. The institutional features of accounting systems discussed
+below determine the extent of that influence.
+Feature 1: Accrual Accounting
+One of the fundamental features of corporate financial reports is that they are prepared
+using accrual rather than cash accounting. Unlike cash accounting, accrual accounting
+distinguishes between the recording of costs and benefits associated with economic activities and the actual payment and receipt of cash. Net income is the primary PEriodic PErthe effects of
+formance index under accrual accounting. To compute net income,
+economic transactions are recorded on the basis of exPEcted, not necessarily actual, cash
+receipts and payments. ExPEcted cash receipts from the delivery of products or services
+are recognized as revenues, and exPEcted cash outflows associated with these revenues
+are recognized as exPEnses.
+The need for accrual accounting arises from investors' demand for financial reports
+on a PEriodic basis. Because firms undertake economic transactions on a continual
+A Framework for Business Analysis and Valuation Using Financial Statements 1-7
+F IGUR E 1- 2
+From Business Activities to Financial Statements
+Business Strategy
+ScoPE of business:
+Degree of diversification
+TyPE of diversification
+ComPEtitive positioning:
+Cost leadership
+Differentiation
+Key success factors and
+risks
+Accounting Strategy
+Choice of accounting
+policies
+Choice of accounting
+estimates
+Choice of reporting format
+Choice of supplementary
+disclosures
+Business Environment
+Labor markets
+Capital markets
+Product markets:
+Suppliers
+Customers
+ComPEtitors
+Business regulations
+Accounting Environment
+Capital market structure
+Contracting and
+governance
+Accounting conventions
+and regulations
+Tax and financial
+accounting linkages
+Third-party auditing
+Legal system for
+accounting disputes
+Business Activities
+OPErating activities
+Investment activities
+Financing activities
+Accounting System
+Measure and report
+economic
+consequences of
+business activities.
+Financial Statements
+Managers' suPErior
+information on
+business activities
+Estimation errors
+Distortions from managers' accounting
+choices
+Source: (c) Cengage Learning
+basis, the arbitrary closing of accounting books at the end of a reporting PEriod leads to a
+fundamental measurement problem. Since cash accounting does not report the full economic consequence of the transactions undertaken in a given PEriod, accrual accounting
+is designed to provide more complete information on a firm's PEriodic PErformance.
+Feature 2: Accounting Conventions and Standards
+The use of accrual accounting lies at the center of many important complexities in corporate financial reporting. Because accrual accounting deals with exPEctations of future
+cash consequences of current events, it is subjective and relies on a variety of assumptions. Who should be charged with the primary responsibility of making these assumptions? In the current system, a firm's managers are entrusted with the task of
+making the appropriate estimates and assumptions to prepare the financial statements
+because they have intimate knowledge of their firm's business.
+The accounting discretion granted to managers is potentially valuable because it
+allows them to reflect inside information in reported financial statements. However,
+1-8 PART 1 Framework
+since investors view profits as a measure of managers' PErformance, managers have
+incentives to use their accounting discretion to distort reported profits by making biased
+assumptions. Further, the use of accounting numbers in contracts between the firm and
+outsiders provides another motivation for management manipulation of accounting
+numbers. Income management distorts financial accounting data, making them less valuable to external users of financial statements. Therefore, the delegation of financial
+reporting decisions to corporate managers has both costs and benefits.
+A number of accounting conventions have evolved to ensure that managers use their
+accounting flexibility to summarize their knowledge of the firm's business activities
+and not disguise reality for self-serving purposes. For example, the measurability and
+conservatism conventions are accounting responses to concerns about distortions from
+managers' potentially optimistic bias. Both these conventions attempt to limit managers'
+optimistic bias by imposing their own PEssimistic bias.
+Accounting standards, promulgated by the FASB in the United States and similar
+standard-setting bodies in other countries, also limit potential distortions that managers
+can introduce into reported numbers. These uniform standards, such as Generally
+Accepted Accounting Principles (GAAP) in the United States and the International Financial Reporting Standards (IFRS) internationally, attempt to reduce managers' ability to
+record similar economic transactions in dissimilar ways, either over time or across firms.
+Increased uniformity from accounting standards, however, comes at the exPEnse of
+reduced flexibility for managers to reflect genuine business differences in their firms'
+financial statements. Rigid accounting standards work best for economic transactions
+whose accounting treatment is not predicated on managers' proprietary information.
+However, when there is significant business judgment involved in assessing a transaction's economic consequences, rigid standards that prevent managers from using their
+suPErior business knowledge would be counterproductive. Further, if accounting standards are too rigid, they may induce managers to exPEnd economic resources to restructure business transactions to achieve a desired accounting result.
+Feature 3: Managers' Reporting Strategy
+Because the mechanisms that limit managers' ability to distort accounting data add
+noise, it is not optimal to use accounting regulation to eliminate managerial flexibility
+completely. Therefore, real-world accounting systems leave considerable room for managers to influence financial statement data. A firm's reporting strategy, i.e., the manner in
+which managers use their accounting discretion, has an important influence on the firm's
+financial statements.
+Corporate managers can choose accounting and disclosure policies that make it more
+or less difficult for external users of financial reports to understand the true economic
+picture of their businesses. Accounting rules often provide a bROAd set of alternatives
+from which managers can choose. Further, managers are entrusted with making a range
+of estimates in implementing these accounting policies. Accounting regulations usually
+prescribe minimum disclosure requirements, but they do not restrict managers from voluntarily providing additional disclosures.
+A suPErior disclosure strategy will enable managers to communicate the underlying
+business reality to outside investors. One important constraint on a firm's disclosure
+strategy is the comPEtitive dynamics in product markets. Disclosure of proprietary information about business strategies and their exPEcted economic consequences may hurt
+the firm's comPEtitive position. Subject to this constraint, managers can use financial
+statements to provide information useful to investors in assessing their firm's true economic PErformance.
+A Framework for Business Analysis and Valuation Using Financial Statements 1-9
+Managers can also use financial reporting strategies to manipulate investors' PErceptions. Using the discretion granted to them, managers can make it difficult for investors
+to identiFY poor PErformance on a timely basis. For example, managers can choose
+accounting policies and estimates to provide an optimistic assessment of the firm's true
+PErformance. They can also make it costly for investors to understand the true PErformance by controlling the extent of information that is disclosed voluntarily.
+The extent to which financial statements reveal the underlying business reality varies
+across firms and across time for a given firm. This variation in accounting quality provides both an important opportunity and a challenge in doing business analysis.
+The process through which analysts can separate noise from information in financial
+statements, and gain valuable business insights from financial statement analysis, is discussed in the following SECtion.
+Feature 4: Auditing
+Auditing, bROAdly defined as a verification of the integrity of the reported financial statements by someone other than the preparer, ensures that managers use accounting rules
+and conventions consistently over time and that their accounting estimates are reasonable. Therefore, auditing improves the quality of accounting data.
+Third-party auditing may also reduce the quality of financial reporting because it constrains the kind of accounting rules and conventions that evolve over time. For example,
+the FASB considers the views of auditors in the standard-setting process. Auditors are
+likely to argue against accounting standards producing numbers that are difficult to
+audit, even if the proposed rules produce relevant information for investors.
+The legal environment in which accounting disputes between managers, auditors, and
+investors are adjudicated can also have a significant effect on the quality of reported
+numbers. The threat of lawsuits and resulting PEnalties has the beneficial effect of
+improving the accuracy of disclosure. However, the potential for a significant legal liability might also discourage managers and auditors from supporting accounting proposals
+requiring risky forecasts, such as forward-looking disclosures.
+The governance structure of firms includes an audit committee of the board of directors. The audit committee is exPEcted to be indePEndent of management, and its key
+roles include overseeing the work of the auditor and ensuring that financial statements
+are proPErly prepared. This governance mechanism further serves to enhance the quality
+and accountability of financial reporting.
+LEGISLATION AFFECTING FINANCIAL REPORTING AND AUDITING
+In the United States, the Sarbanes-Oxley Act of 2002 made important changes in
+financial reporting and auditing. The Dodd-Frank Wall Street Reform and Consumer
+Protection Act of 2010 introduced new regulations for the banking SECtor, including
+several new requirements likely to affect financial reporting and auditing.
+Sarbanes-Oxley Act
+In the aftermath of the collapse of the dot-com bubble and high-profile accounting scandals
+such as Enron and WorldCom, the U.S. Congress passed the bipartisan Sarbanes-Oxley Act
+(SOX as it has come to be known) in July 2002. The margin by which the bill was enacted--
+it passed by a vote of 424 to 3 in the House of Representatives and a vote of 99 to 0 in the
+Senate--and the far-reaching nature of the reforms reflected the degree to which the public's confidence in the quality of corporate financial reporting had been undermined.
+1-10 PART 1 Framework
+SOX mandated certain fundamental changes to corporate governance as related to
+financial reporting and altered the relationship between a firm and its auditor. Some of
+the highlights included:
+Creation of a not-for-profit accounting oversight board, the Public Company
+Accounting Oversight Board (PCAOB), to ensure standards for auditing and the
+ethics and indePEndence of public accounting firms;
+Mandating stricter guidelines for the composition and role of the audit committee
+of the Board of Directors, including director indePEndence and financial exPErtise;
+Enhancing corporate responsibility for financial reporting by requiring the CEO
+and CFO to PErsonally certiFY the appropriateness of PEriodic reports;
+Requiring management to assess and report on the adequacy of internal controls,
+which then needs to be certified by the auditor;
+Providing greater whistleblower protection;
+Allowing for the imposition of stiffer PEnalties, including prison terms and fines,
+for SECurities fraud;
+Prohibiting accounting firms from providing certain non-audit services contemporaneously with an audit and mandating audit partner rotation;
+Prescribing conflict of interest rules for equity research analysts; and
+Increasing the funding available to the SECurities and Exchange Commission to
+ensure compliance.
+Since the adoption of SOX, similar legislation has been passed in Japan, the EU,
+Canada, Israel, Australia, and France, among others, indicating general agreement on
+the importance of tighter reporting standards.
+Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010
+The Dodd-Frank Act was passed in 2010 in response to the financial crisis on Wall Street.
+The new legislation mandated important new changes in the governance of banks, including:
+The creation of a new indePEndent consumer protection agency to ensure that
+consumers receive the information they need to shop for financial products;
+Increased monitoring of banks, including restrictions on proprietary trading;
+New procedures to facilitate the orderly liquidation of failed banks;
+Increased transparency of the trading of financial instruments, which should facilitate fair value accounting for these instruments;
+Increased oversight of ratings agencies;
+Provisions for shareholders to have a non-binding vote on executive comPEnsation; and
+Increased disclosures on the assets underlying complex financial SECurities.
+FROM FINANCIAL STATEMENTS TO BUSINESS ANALYSIS
+Because managers' insider knowledge is a source of both value and distortion in accounting
+data, it is difficult for outside users of financial statements to separate information from
+distortion and noise. Not being able to undo accounting distortions completely, investors
+"discount" a firm's reported accounting PErformance. In doing so, they make a probabilistic
+assessment of the extent to which a firm's reported numbers reflect its economic PErformance. As a result, investors frequently have an imprecise assessment of an individual
+firm's PErformance. Financial and information intermediaries can add value by improving
+investors' understanding of a firm's current PErformance and its future prosPEcts.
+A Framework for Business Analysis and Valuation Using Financial Statements 1-11
+F IGUR E 1 - 3
+Analysis Using Financial Statements
+Financial Statements
+Managers' suPErior information
+on business activities
+Noise from estimation errors
+Distortion from managers'
+accounting choices
+Other Public Data
+Industry and firm data
+Outside financial statements
+Business Application Context
+Credit analysis
+SECurities analysis
+Mergers and acquisitions analysis
+Debt/Dividend analysis
+Corporate communication
+strategy analysis
+General business analysis
+ANALYSIS TOOLS
+Business Strategy
+Analysis
+Generate PErformance
+exPEctations through
+industry analysis and comPEtitive strategy analysis.
+Accounting Analysis
+Financial Analysis
+ProsPEctive Analysis
+Evaluate accounting
+quality by assessing
+accounting policies and
+estimates.
+Evaluate PErformance
+using ratios and cash
+flow analysis.
+Make forecasts and
+value business.
+Source: (c) Cengage Learning
+Effective financial statement analysis is valuable because it attempts to get at managers' inside information from public financial statement data. Since intermediaries do
+not have direct or complete access to this inside information, they rely on their knowledge of the firm's industry and its comPEtitive strategies to interpret financial statements.
+Successful intermediaries have at least as good an understanding of the industry economics as the firm's managers do, as well as a reasonably good understanding of the firm's
+comPEtitive strategy. Although outside analysts have an information disadvantage
+relative to the firm's managers, they are more objective in evaluating the economic consequences of the firm's investment and oPErating decisions. Figure 1-3 provides a schematic overview of how business intermediaries use financial statements to accomplish
+four key stEPS: (1) business strategy analysis, (2) accounting analysis, (3) financial analysis, and (4) prosPEctive analysis.
+Analysis Step 1: Business Strategy Analysis
+The purpose of business strategy analysis is to identiFY key profit drivers and business
+risks, and to assess the company's profit potential at a qualitative level. Business strategy
+analysis involves analyzing a firm's industry and its strategy to create a sustainable
+1-12 PART 1 Framework
+comPEtitive advantage. This qualitative analysis is an essential fIRSt step because it
+enables the analyst to better frame the subsequent accounting and financial analysis.
+For example, identiFYing the key success factors and key business risks allows the identification of key accounting policies. Assessment of a firm's comPEtitive strategy facilitates
+evaluating whether current profitability is sustainable. Finally, business analysis enables
+the analyst to make sound assumptions in forecasting a firm's future PErformance.
+Analysis Step 2: Accounting Analysis
+The purpose of accounting analysis is to evaluate the degree to which a firm's accounting
+captures its underlying business economics. By identiFYing places where there is accounting flexibility, and by evaluating the appropriateness of the firm's accounting policies and
+estimates, analysts can assess the degree of distortion in a firm's reported numbers.
+Another important step in accounting analysis is to "undo" any distortions by recasting
+a firm's accounting numbers to create unbiased accounting data. Sound accounting analysis improves the reliability of conclusions from financial analysis, the next step in financial statement analysis.
+Analysis Step 3: Financial Analysis
+The goal of financial analysis is to use financial data to evaluate the current and past
+PErformance of a firm and to assess its sustainability. There are two important skills
+related to financial analysis. FIRSt, the analysis should be systematic and efficient. SECond,
+it should allow the analyst to use financial data to explore business issues. Ratio analysis
+and cash flow analysis are the two most commonly used financial tools. Ratio analysis
+focuses on evaluating a firm's product market PErformance and financial policies, while
+cash flow analysis focuses on a firm's liquidity and financial flexibility.
+Analysis Step 4: ProsPEctive Analysis
+ProsPEctive analysis, which focuses on forecasting a firm's future, is the final step in
+business analysis. Two commonly used techniques in prosPEctive analysis are financial
+statement forecasting and valuation. Both these tools allow the synthesis of the insights
+from business analysis, accounting analysis, and financial analysis in order to make predictions about a firm's future.
+While the intrinsic value of a firm is a function of its future cash flow PErformance, it
+is also possible to assess a firm's value based on the firm's current book value of equity
+and its future return on equity (ROE) and growth. Strategy analysis, accounting analysis,
+and financial analysis, the fIRSt three stEPS in the framework discussed above, provide an
+excellent foundation for estimating a firm's intrinsic value. Strategy analysis, in addition
+to enabling sound accounting and financial analysis, also helps in assessing potential
+changes in a firm's comPEtitive advantage and their implications for the firm's future
+ROE and growth. Accounting analysis provides an unbiased estimate of a firm's current
+book value and ROE. Financial analysis allows an in-depth understanding of what drives
+the firm's current ROE.
+The predictions from a sound business analysis are useful to a variety of parties and
+can be applied in various contexts. The exact nature of the analysis will dePEnd on the
+context. The contexts that we will examine include SECurities analysis, credit evaluation,
+mergers and acquisitions, and the assessment of corporate communication strategies.
+The four analytical stEPS described above are useful in each of these contexts. Appropriate use of these tools, however, requires a familiarity with the economic theories and
+institutional factors relevant to the context.
+SUMMARY
+A Framework for Business Analysis and Valuation Using Financial Statements 1-13
+There are several ways in which financial statement analysis can add value, even when
+capital markets are reasonably efficient. FIRSt, there are many applications of financial
+statement analysis whose focus is outside the capital market context--credit analysis,
+comPEtitive benchmarking, and analysis of mergers and acquisitions, to name a few.
+SECond, markets become efficient precisely because some market participants rely on
+analytical tools such as the ones we discuss in this book to analyze information and
+make investment decisions. This in turn imposes greater discipline on corporate managers to develop an appropriate disclosure and communication strategy.
+Financial statements provide the most widely available data on public corporations' economic activities; investors and other stakeholders rely on them to assess the plans and
+PErformance of firms and corporate managers. Accrual accounting data in financial
+statements are noisy, and unsophisticated investors can assess firms' PErformance only
+imprecisely. Financial analysts who understand managers' disclosure strategies have an
+opportunity to create inside information from public data, and they play a valuable role
+in enabling outside parties to evaluate a firm's current and prosPEctive PErformance.
+This chapter has outlined the framework for business analysis with financial statements,
+using four key stEPS: business strategy analysis, accounting analysis, financial analysis, and
+prosPEctive analysis. The remaining chapters in this book describe these stEPS in greater
+detail and discuss how they can be used in a variety of business contexts.
+DISCUSSION QUESTIONS
+1. John, who has just completed his fIRSt finance course, is unsure whether he should
+take a course in business analysis and valuation using financial statements since he
+believes that financial analysis adds little value, given the efficiency of capital markets. Explain to John when financial analysis can add value, even if capital markets
+are generally seen as being efficient.
+2. In 2009, Larry Summers, former SECretary of the Treasury, observed that "in the past
+20-year PEriod, we have seen the 1987 stock market crash. We have seen the Savings
+& Loan debacle and commercial real estate collapse of the late 80's and early 90's. We
+have seen the Mexican financial crisis, the Asian financial crisis, the Long Term Capital Management liquidity crisis, the bursting of the NASDAQ bubble and the associated Enron threat to corporate governance. And now we've seen this [global economic
+crisis], which is more serious than any of that. Twenty years, seven major crises. One
+major crisis every three years." How could this hapPEn given the large number of
+financial and information intermediaries working in financial markets throughout
+the world? Can crises be averted by more effective financial analysis?
+3. Accounting statements rarely report financial PErformance without error. List three
+tyPEs of errors that can arise in financial reporting.
+4. Joe Smith argues that "learning how to do business analysis and valuation using
+financial statements is not very useful, unless you are interested in becoming a
+financial analyst." Comment.
+5. Four stEPS for business analysis are discussed in the chapter (strategy analysis,
+accounting analysis, financial analysis, and prosPEctive analysis). As a financial analyst, explain why each of these stEPS is a critical part of your job and how they relate
+to one another.
+1-14 PART 1 Framework
+
+Industry Structure and Profitability
+DEGREE OF ACTUAL AND POTENTIAL COMPETITION
+Threat of
+New Entrants
+Scale economies
+FIRSt mover advantage
+Distribution access
+Relationships
+Legal barriers
+Threat of
+Substitute Products
+Relative price and
+PErformance
+Buyers' willingness to
+switch
+Rivalry Among
+Existing Firms
+Industry growth
+Concentration
+Differentiation
+Switching costs
+Scale / Learning
+economies
+Fixed-Variable costs
+Excess capacity
+Exit barriers
+INDUSTRY
+PROFITABILITY
+BARGAINING POWER IN INPUT AND OUTPUT MARKETS
+Bargaining Power
+of Buyers
+Switching costs
+Differentiation
+Importance of product for
+costs and quality
+Number of buyers
+Volume PEr buyer
+Bargaining Power
+of Suppliers
+Switching costs
+Differentiation
+Importance of product for
+costs and quality
+Number of suppliers
+Volume PEr supplier
+Source: (c) Cengage Learning
+average profitability of an industry is influenced by the "five forces" shown in
+Figure 2-1.4 According to this framework, the intensity of comPEtition determines the
+potential for creating abnormal profits by the firms in an industry. Whether or not
+the potential profits are kept by the industry is determined by the relative bargaining
+power of the firms in the industry and their customers and suppliers. We will discuss
+each of these industry profit drivers in more detail below.
+Degree of Actual and Potential ComPEtition
+At the most basic level, the profits in an industry are a function of the maximum price
+that customers are willing to pay for the industry's product or service. One of the key
+determinants of the price is the degree to which there is comPEtition among suppliers
+of the same or similar products. At one extreme, if there is a state of PErfect comPEtition
+in the industry, micro-economic theory predicts that prices will be equal to marginal
+cost, and there will be few opportunities to earn suPErnormal profits. At the other
+extreme, if the industry is dominated by a single firm, there will be potential to earn
+Strategy Analysis 2-5
+monopoly profits. In reality, the degree of comPEtition in most industries is somewhere
+in between PErfect comPEtition and monopoly.
+There are three potential sources of comPEtition in an industry: (1) rivalry between
+existing firms, (2) threat of entry of new firms, and (3) threat of substitute products or
+services. We discuss each of these comPEtitive forces in the following paragraphs.
+ComPEtitive Force 1: Rivalry among Existing Firms
+In most industries the average level of profitability is primarily influenced by the nature of
+rivalry among existing firms in the industry. In some industries firms comPEte aggressively, pushing prices close to (and sometimes below) the marginal cost. In other industries
+firms do not comPEte aggressively on price. Instead, they find ways to coordinate their
+pricing, or comPEte on non-price dimensions such as innovation or brand image. Several
+factors determine the intensity of comPEtition among existing players in an industry:
+Industry Growth Rate If an industry is growing very rapidly, incumbent firms need not
+grab market share from each other to grow. In contrast, in stagnant industries the only
+way existing firms can grow is by taking share away from the other players. In this situation one can exPEct price wars among firms in the industry.
+Concentration and Balance of ComPEtitors The number of firms in an industry and
+their relative sizes determine the degree of concentration in an industry.5 The degree of
+concentration influences the extent to which firms in an industry can coordinate their
+pricing and other comPEtitive moves. For example, if there is one dominant firm in an
+industry (such as Microsoft or Intel in the 1990s), it can set and enforce the rules of comPEtition. Similarly, if there are only two or three similarly sized players (such as Coca-Cola
+and PEPSi in the U.S. soft drink industry), they can implicitly cooPErate with each other to
+avoid destructive price comPEtition. If an industry is fragmented, price comPEtition is
+likely to be severe, as can be seen in the hotel/motel and construction industries.
+Degree of Differentiation and Switching Costs The extent to which firms in an industry
+can avoid head-on comPEtition dePEnds on the extent to which they can differentiate
+their products and services. If the products in an industry are very similar, customers
+are ready to switch from one comPEtitor to another purely on the basis of price. Switching costs also determine customers' proPEnsity to move from one product to another.
+When switching costs are low, there is a greater incentive for firms in an industry to
+engage in price comPEtition. The PC industry, where the standardization of the software
+is extremely price
+and microprocessor has led to relatively low switching costs,
+comPEtitive.
+Scale/Learning Economies and the Ratio of Fixed to Variable Costs If there is a steep
+learning curve or there are other tyPEs of scale economies in an industry, size becomes
+an important factor for firms in the industry. In such situations, there are incentives to
+engage in aggressive comPEtition for market share. Similarly, if the ratio of fixed to variable costs is high, firms have an incentive to reduce prices to utilize installed capacity.
+The airline industry, where price wars are quite common, is an example of this tyPE of
+situation.
+Excess Capacity and Exit Barriers If capacity in an industry is larger than customer
+demand, there is a strong incentive for firms to cut prices to fill capacity. The problem
+of excess capacity is likely to be exacerbated if there are significant barriers for firms to
+exit the industry. Exit barriers are high when the assets are sPEcialized or if there are
+regulations which make exit costly. The comPEtitive dynamics of the global automotive
+industry demonstrates these forces at play.
+2-6 PART 2 Business Analysis and Valuation Tools
+ComPEtitive Force 2: Threat of New Entrants
+The potential for earning abnormal profits will attract new entrants to an industry. The
+very threat of new firms entering an industry potentially constrains the pricing of existing firms within it. Therefore, the ease with which a new firm can enter an industry is a
+key determinant of its profitability. Several factors determine the height of barriers to
+entry in an industry:
+Economies of Scale When there are large economies of scale, new entrants face the
+choice of having either to invest in large capacity which might not be utilized right
+away, or to enter with less than the optimum capacity. Either way, new entrants will at
+least initially suffer from a cost disadvantage in comPEting with existing firms. Economies of scale might arise from large investments in research and development (the pharmaceutical or jet engine industries), in brand advertising (soft drink industry), or in
+physical plant and equipment (telecommunications industry).
+FIRSt Mover Advantage Early entrants in an industry may deter future entrants if there
+are fIRSt mover advantages. For example, fIRSt movers might be able to set industry standards or enter into exclusive arrangements with suppliers of cheap raw materials. They
+may also acquire scarce government licenses to oPErate in regulated industries. Finally, if
+there are learning economies, early firms will have an ABSolute cost advantage over new
+entrants. FIRSt mover advantages are also likely to be large when there are significant
+switching costs for customers once they start using existing products. For example,
+switching costs faced by the users of Microsoft's Windows oPErating system make it difficult for software companies to market a new oPErating system.
+Access to Channels of Distribution and Relationships Limited capacity in the existing
+distribution channels and high costs of developing new channels can act as powerful barriers to entry. For example, a new entrant into the domestic auto industry in the United
+States is likely to face formidable barriers because of the difficulty of developing a dealer
+network. Tesla Motors, the California-based electric automobile manufacturer that has
+gained a lot of positive press for its sporty electric ROAdster, called out this risk in its 2010
+pre-IPO S1 filing with the SEC.6 In addition, its 2010 strategic partnership with Toyota
+has been seen by many as a way to leap this barrier by gaining access to Toyota's extensive dealer network. Existing relationships between firms and customers in an industry
+are another barrier that can make it difficult for new firms to enter an industry. Examples of industries where this is a factor include auditing and investment banking.
+Legal Barriers There are many industries in which legal barriers such as patents and
+copyrights in research-intensive industries limit entry. Similarly,
+licensing regulations
+limit entry into taxi services, medical services, bROAdcasting, and telecommunications
+industries.
+ComPEtitive Force 3: Threat of Substitute Products
+The third dimension of comPEtition in an industry is the threat of substitute products or
+services. Relevant substitutes are not necessarily those that have the same form as the
+existing products but those that PErform the same function. For example, airlines and
+car rental services might be substitutes for each other when it comes to travel over
+medium distances. Similarly, plastic bottles and metal cans substitute for each other as
+packaging in the beverage industry. In some cases, threat of substitution comes not
+from customers' switching to another product but from utilizing technologies that allow
+them to do without, or use less of, the existing products. For example, energy-conserving
+technologies allow customers to reduce their consumption of electricity and fossil fuels.
+Strategy Analysis 2-7
+The threat of substitutes dePEnds on the relative price and PErformance of the comPEting products or services and on customers' willingness to substitute. Customers' PErception of whether two products are substitutes dePEnds to some extent on whether they
+PErform the same function for a similar price. If two products PErform an identical function, then it would be difficult for them to differ from each other in price. However, customers' willingness to switch is often the critical factor in making this comPEtitive
+dynamic work. For example, even when tap water and bottled water serve the same function, many customers may be unwilling to substitute the former for the latter, enabling
+bottlers to charge a price premium. Similarly, designer label clothing commands a price
+premium even if it is not suPErior in terms of basic functionality because customers place
+a value on the image or style offered by designer labels.
+Bargaining Power in Input and Output Markets
+While the degree of comPEtition in an industry determines whether there is potential to
+earn abnormal profits, the actual profits are influenced by the industry's bargaining
+power with its suppliers and customers. On the input side, firms enter into transactions
+with suppliers of labor, raw materials and components, and finances. On the output side,
+firms either sell directly to the final customers or enter into contracts with intermediaries
+in the distribution chain. In all these transactions, the relative economic power of the
+two sides is important to the overall profitability of the industry firms.
+ComPEtitive Force 4: Bargaining Power of Buyers
+Two factors determine the power of buyers: price sensitivity and relative bargaining
+power. Price sensitivity determines the extent to which buyers care to bargain on price;
+relative bargaining power determines the extent to which they will succeed in forcing the
+price down.7
+Price Sensitivity Buyers are more price sensitive when the product is undifferentiated
+and there are few switching costs. For example, Windows-based PErsonal computers are
+seen by customers as close substitutes of each other, and hence purchasing decisions
+among different brands of PCs is heavily influenced by price. The sensitivity of buyers
+to price also dePEnds on the importance of the product to their own cost structure.
+When the product represents a large fraction of the buyers' cost (for example, the packaging material for soft drink producers), the buyer is likely to exPEnd the resources necessary to shop for a lower cost alternative. In contrast, if the product is a small fraction
+of the buyers' cost (for example, windshield wiPErs for automobile manufacturers), it
+may not pay to exPEnd resources to search for lower-cost alternatives. Further, the
+importance of the product to the buyers' own product quality also determines whether
+or not price becomes the most important determinant of the buying decision. The explosion in comPEnsation paid to marquee sports figures can be seen as an example of this
+tyPE of phenomenon because these players are viewed by teams as critical to their fan
+apPEal and success as a franchise.
+Relative Bargaining Power Even if buyers are price sensitive, they may not be able to
+achieve low prices unless they have a strong bargaining position. Relative bargaining
+power in a transaction dePEnds, ultimately, on the cost to each party of not doing business with the other party. The buyers' bargaining power is determined by the number of
+buyers relative to the number of suppliers, volume of purchases by a single buyer, number of alternative products available to the buyer, buyers' costs of switching from one
+product to another, and the threat of backward integration by the buyers. For example,
+in the automobile industry, car manufacturers have considerable power over component
+2-8 PART 2 Business Analysis and Valuation Tools
+manufacturers because auto companies are large buyers with several alternative suppliers
+to choose from, and switching costs are relatively low. In contrast, in the PErsonal computer industry, computer makers have low bargaining power relative to the oPErating
+system software producers because of high switching costs.
+ComPEtitive Force 5: Bargaining Power of Suppliers
+The analysis of the relative power of suppliers is a mIRRor image of the analysis of the
+buyer's power in an industry. Suppliers are powerful when there are only a few companies and few substitutes available to their customers. For example, in the soft drink
+industry, Coke and PEPSi are very powerful relative to the bottlers. In contrast, metal
+can suppliers to the soft drink industry are not very powerful because of intense comPEtition among can producers and the threat of substitution by plastic bottles. Suppliers
+also have a great deal of power over buyers when the suppliers' product or service is
+critical to buyers' business. Microsoft's power in the PErsonal computer industry is a
+good example of this. Suppliers also tend to be powerful when they pose a credible threat
+of forward integration. For example, IBM is powerful relative to mainframe computer
+leasing companies because of its unique position as a mainframe supplier and its own
+presence in the computer leasing business.
+APPLYING INDUSTRY ANALYSIS: THE U.S. RETAIL
+DEPARTMENT STORE INDUSTRY
+Let us consider the above concepts of industry analysis in the context of the U.S. retail
+department store industry. The growth of cities and mass production techniques spurred
+the emergence of retail clothing stores in the late 1800s. The rapid expansion of the market in the twentieth century fostered the development of regional and national chains
+that gave the industry its concentrated profile we see today. While the major players
+originally located in stand-alone flagship locations in urban centers, the population
+migration out of cities and the rise of the suburban shoPPIng mall in the mid-twentieth
+century resulted in these players positioning themselves as "anchor stores"--large department stores selling a wide range of apparel, accessories, and other related goods that
+"anchored" the bROAder shoPPIng mall and its selection of smaller sPEcialty stores.
+BROAdly stated, the industry can be segmented into high-end, middle market, and discount department stores. Table 2-1 shows profitability of select comPEtitors in these
+three segments. The overall department store industry has historically earned higher
+than average returns when compared to all U.S. industries (analysis described above),
+with the high-end and discount segments outPErforming the middle market. What has
+accounted for this above average industry return? Looking forward, what is the department store industry's future profit potential?
+ComPEtition in the U.S. Retail Department Store Industry
+Industry analysis can help to explain the above average profitability seen in the department store industry. Key elements of industry structure:
+The industry is concentrated, with the four largest players accounting for over
+75 PErcent of the industry revenue in 2009.8
+Consumer demand grew along with the growth in U.S. affluence for most of the
+twentieth and early twenty-fIRSt century. This has meant that department stores
+have typically exPErienced growth without having to resort to high levels of price
+comPEtition in an effort to steal market share from comPEtitors.
+Strategy Analysis 2-9
+TA B LE 2- 1
+Retail Department store pre-tax profitability--select
+comPEtitors 1991-2009
+Company
+EBIT/Net Assets
+....................................................................................................................................................
+Neiman-Marcus Group, Inc.a
+Saks Inc / Saks Holdings, Inc.
+Nordstrom Inc.
+High-end segment average
+Sears ROEbuck & Co / Sears Holding
+Groupb
+Dillards Inc.
+R H Macy & Co / Macy's Inc.c
+J C PEnney Co.
+Middle market segment average
+Wal-Mart Stores, Inc.
+Target Corp
+TJX Companies Inc.
+Discount segment average
+Average of all retail department store
+segments
+11.8%
+5.2%
+13.8%
+10.3%
+6.3%
+6.4%
+7.0%
+7.9%
+6.8%
+12.4%
+11.3%
+22.1%
+12.5%
+9.9%d
+Average of all U.S. companies
+4.9%
+Source: Financial statement data for noted companies, industry, and all publicly traded U.S.-based companies
+from 1991-2009, listed in Research Insight. Analysis completed November, 2011.
+aNeiman-Marcus was taken private in 2006--results shown are through 2005.
+bIncludes Kmart beginning 2005 when the companies merged to form Sears Holding Group.
+cIncludes Bloomingdales, other brands, which make up about 10 PErcent of total revenues.
+dAverage of SIC codes 5311, 5331, and 5651 data 1991-2009. The representative group of comPEtitors
+shown above mIRRors the overall results of the department store industry with a return of 10.0 PErcent over
+the PEriod.
+ComPEtitors such as Nordstrom, Saks Fifth Avenue, and Neiman Marcus have successfully differentiated themselves on non-price parameters such as suPErior customer service, a differentiated product offering through the use of private label
+lines and exclusive designer relationships, loyalty programs, and an upscale shoPPIng exPErience--all of which are designed to build customer loyalty and thus
+increase switching costs.
+There are significant economies of scale available to larger comPEtitors, who have
+more power to obtain lower prices from their suppliers, to invest in sophisticated
+IT infrastructure to better understand customer needs and manage inventory, and
+to conduct national advertising campaigns. These economies of scale have been
+critical
+to the success of comPEtitors pursuing a cost-leadership strategy
+(Wal-Mart, Target, TJX), who have been ruthless in streamlining their oPErations,
+reducing their cost from suppliers, and otherwise driving down their cost to bring
+product to market.
+Established comPEtitors have strong brand recognition earned through years of
+effort, while a new comPEtitor is faced with the need to exPEnd large amounts
+of capital in order to gain this brand equity. This fIRSt mover advantage holds
+true not only in traditional physical stores but also in the realm of the Internet
+where consumers, lacking the ability to measure the quality of a store or product
+2-10 PART 2 Business Analysis and Valuation Tools
+by exPEriencing it fIRSthand, have tended to gravitate to established, "trusted" name
+brands.
+A new comPEtitor in the industry would typically face a distribution constraint
+when seeking a prime retail location as established comPEtitors have better access
+to prime retail locations and favorable terms since they are viewed as valuable
+"anchor" tenants that can ensure success of an entire development. With the
+increased use of the online channel, this barrier has been eased somewhat as a
+comPEtitive factor in the industry.
+The rise of the online shoPPIng channel as represented by online-only comPEtitors
+such as Amazon.com has resulted in a large and growing threat of substitution for
+the traditional "bricks and mortar" stores. ComPEtitors such as Nordstrom have
+aggressively develoPEd their own online presence in an attempt to reduce this
+threat, while at the same time working to integrate their online and physical channels in order to leverage their physical presence to their advantage.
+The Power of Buyers and Suppliers
+Suppliers and buyers have limited power over firms in the industry for these reasons:
+Generally, buyers tend to have relatively low bargaining power with department
+stores--there is little or no "haggling" over price. Given the relative number of
+individual buyers to providers (high), buyers mainly are able to exert their ability
+to switch providers rather than to exert any relative strength in bargaining power.
+Suppliers to department stores also have low relative power due to their small size
+as compared to their clients. The expansion of the private label lines has also established a credible alternative to the designer lines, further reducing supplier power.
+ComPEtitors in all segments of the department store industry have focused on
+building their power over suppliers. As an example, TJX added approximately
+2,000 new suppliers in 2010 bringing their total global count to over 14,000.9
+Also, Nordstrom has no guaranteed supply arrangements with its vendors,10
+which allows it to maintain flexibility to adjust their products to meet current
+demand.
+In recent years, industry dynamics have been shifting. FIRSt, growth in consumer
+demand slowed significantly during the recent global economic crisis, and there is sPEculation that it may not return to pre-crisis levels at least in the short term.11 Also, the
+emergence of the Internet channel has begun to change consumer shoPPIng behavior
+both online and off. The availability of price and product information has increased substitution as the consumer is able to make more informed buying decisions. The ease of
+shoPPIng across multiple online outlets has reduced switching costs, and PErhaps has
+served to reduce the value of the bROAd product offering of the retail department store
+model. In a similar offline shift, the rise of "lifestyle centers," which emphasize smaller
+sPEcialty retailers clustered in an attractive center, has de-emphasized the role of the
+anchor store. In general, the trend toward sPEcialization would seem to be against the
+department store model.12
+While it is not clear what additional structural changes will take place in the industry,
+what is clear is that the comPEtitors who adapt will be the ones to survive and thrive.
+Nordstrom's aggressive push to expand its online presence, TJX working to expand its
+global supplier base while pursuing a sPEcialized offering strategy (Home Goods,
+Marshalls / TJ Maxx), and Wal-Mart's push into China and other high growth potential
+emerging markets are examples of actions comPEtitors are taking to adapt to the changing dynamics of the marketplace.
+Strategy Analysis 2-11
+Limitations of Industry Analysis
+A potential limitation of the industry analysis framework discussed in this chapter is the
+assumption that industries have clear boundaries. In reality, it is often not easy to demarcate
+industry boundaries. For example, in analyzing Nordstrom's industry, should one limit the
+analysis to large department store comPEtitors, or also include smaller sPEcialty retailers which
+comPEte with Nordstrom for market share? With the rise of the discount and off-price retailers,
+should one include Wal-Mart and TJX? Where do online retailers such as Amazon.com fit?
+Inappropriate industry definition will result in incomplete analysis and inaccurate forecasts,
+and thus it is important to correctly scoPE the industry segment to be considered.
+COMPETITIVE STRATEGY ANALYSIS
+The profitability of a firm is influenced not only by its industry structure but also by the
+strategic choices it makes in positioning itself in the industry. While there are many ways
+to characterize a firm's business strategy, research has traditionally identified two generic
+comPEtitive strategies, (1) cost leadership and (2) differentiation, that can potentially
+allow a firm to build a sustainable comPEtitive advantage.13 These strategies (shown in
+Figure 2-2) have bROAdly been seen as mutually exclusive--firms that straddle the two
+strategies are said to be "stuck in the middle" and exPEcted to earn low profitability
+(the middle market department store comPEtitors described in the last SECtion are a
+good example of this).14 These firms, the thinking goes, run the risk of not being able
+to attract price-conscious customers because their costs are too high; they are also unable
+to provide adequate differentiation to attract premium price customers.
+FIG UR E 2 -2
+Strategies for Creating ComPEtitive Advantage
+Cost Leadership
+Supply same product or service
+at a lower cost.
+Economies of scale and scoPE
+Efficient production
+Simpler product designs
+Lower input costs
+Low-cost distribution
+Little research and development or
+brand advertising
+Tight cost control system
+Differentiation
+Supply a unique product or
+service at a cost lower than the
+price premium customers will
+pay.
+SuPErior product quality
+SuPErior product variety
+SuPErior customer service
+More flexible delivery
+Investment in brand image
+Investment in research and
+development
+Control system focus on creativity
+and innovation
+ComPEtitive Advantage
+* Match between firm's core comPEtencies and key success
+factors to execute strategy
+* Match between firm's value chain and activities required to
+execute strategy
+* Sustainability of comPEtitive advantage
+Source: (c) Cengage Learning
+2-12 PART 2 Business Analysis and Valuation Tools
+Additional research has attempted to explain the apparent exception of certain
+comPEtitors, for instance, the Japanese automotive industry, which for many years offered
+both higher quality and lower cost than its comPEtitors in the United States and EuroPE.
+Generally, though, this ability to comPEte successfully from the "middle" has been
+attributed to a focus on oPErational effectiveness--not strategy--that has allowed them to
+continuously push the "productivity frontier" ahead of their comPEtitors. This advantage
+is only exPEcted to be sustainable if it could not eventually be duplicated allowing
+comPEtitors to "catch up."15
+Sources of ComPEtitive Advantage
+Cost leadership enables a firm to supply the same product or service offered by its comPEtitors at a lower cost. Differentiation strategy involves providing a product or service
+that is distinct in some important resPEct valued by the customer. We will illustrate both
+of these strategies using two companies in the U.S. retail department store industry. TJX
+Companies, Inc. (parent to stores such as T.J. Maxx and Marshalls) has been highly successful comPEting purely on a low-cost basis. Nordstrom, in contrast, has succeeded on
+the basis of differentiation by emphasizing exceptionally high customer service and
+bROAd, differentiated merchandise selection.
+ComPEtitive Strategy 1: Cost Leadership
+Cost leadership is often the clearest way to achieve comPEtitive advantage. In industries where the basic product or service is a commodity, cost leadership might be the
+only way to achieve suPErior PErformance. There are many ways to achieve cost leadership, including economies of scale and scoPE, economies of learning, efficient production, simpler product design, better sourcing and lower input costs, and efficient
+organizational processes. If a firm can achieve cost leadership, then it will be able to
+earn above-average profitability by merely charging the same price as its rivals. Conversely, a cost leader can force its comPEtitors to cut prices and accept lower returns
+or to exit the industry.
+Firms that achieve cost leadership focus on tight cost controls. They make investments in efficient scale plants, focus on product designs that reduce manufacturing
+costs, minimize overhead costs, capitalize on global sourcing opportunities, make little
+investment in risky research and development, and avoid serving marginal customers.
+They have organizational structures and control systems that focus on cost control.
+ComPEtitive Strategy 2: Differentiation
+A firm following the differentiation strategy seeks to be unique in its industry along
+some dimension that is highly valued by customers. For differentiation to be successful,
+the firm has to accomplish three things. FIRSt, it needs to identiFY one or more attributes
+of a product or service that customers value. SECond, it has to position itself to meet the
+chosen customer need in a unique manner. Finally, the firm has to achieve differentiation at a cost that is lower than the price the customer is willing to pay for the differentiated product or service.
+Drivers of differentiation include providing suPErior intrinsic value via product
+quality, product variety, bundled services, or delivery timing. Differentiation can also
+be achieved by investing in signals of value such as brand image, product apPEarance,
+or reputation. Differentiated strategies require investments in research and development, engineering skills, and marketing capabilities. The organizational structures and
+control systems in firms with differentiation strategies need to foster creativity and
+innovation.
+Strategy Analysis 2-13
+While successful firms choose between cost leadership and differentiation, they cannot completely ignore the dimension on which they are not primarily comPEting. Firms
+that target differentiation still need to focus on costs so that the differentiation can be
+achieved at an acceptable cost. Similarly, cost leaders cannot comPEte unless they achieve
+at least a minimum level on key dimensions on which comPEtitors might differentiate,
+such as quality and service.
+Achieving ComPEtitive Advantage
+The choice of comPEtitive strategy does not automatically lead to the achievement of
+comPEtitive advantage. To achieve comPEtitive advantage, the firm has to have the capabilities needed to implement and sustain the chosen strategy. Both cost leadership and
+differentiation strategy require that the firm make the necessary commitments to acquire
+the core comPEtencies needed and structure its value chain in an appropriate way. Core
+comPEtencies are the economic assets that the firm possesses, whereas the value chain is
+the set of activities that the firm PErforms to convert inputs into outputs.
+To evaluate whether a firm is likely to achieve its intended comPEtitive advantage, the
+analyst should ask the following questions:
+What is the customer need that the company is focusing on?
+How does the company distinguish its customer value proposition from the alternative propositions available to the customers from its comPEtitors?
+Does the firm currently have the key capabilities and processes to deliver its value
+proposition?
+Sustaining ComPEtitive Advantage
+The uniqueness of a firm's core comPEtencies and its value chain and the extent to
+which it is difficult for comPEtitors to imitate them determine the sustainability of a
+firm's comPEtitive advantage.16 Very few companies are able to sustain their comPEtitive
+advantage over a long PEriod of time. There are a number of reasons for this. FIRSt, successful strategies are often copied by comPEtitors. This can only be prevented or delayed
+if there are explicit barriers such as patents or other legal protections, or implicit barriers
+such as customer switching costs or fIRSt mover advantages. The SECond reason why
+firms lose their comPEtitive advantage is due to changes in the environment. New technologies, changes in regulation, changes in customer requirements make current value
+propositions obsolete or enable creation of new, substitute propositions that might be
+more attractive for customers. As industries and markets evolve over time, it is critical
+that a firm's strategy evolve as well in response. The comPEtitors who will win over
+time will be the ones who will continually be alert to the need to adapt to changing
+industry dynamics.
+To evaluate whether or not a firm is likely to sustain its comPEtitive advantage, an
+analyst should ask the following questions:
+Are there any barriers to imitation in this company's strategy? If so, what are they?
+How long are they likely to last?
+Are there any changes that potentially affect this company's industry and its strategic position in that industry? What are they? In what way are these changes
+likely to lead to lead to changes in the comPEtitive dynamics in this industry?
+What actions, if any, can this company take to address these changes, and renew
+its comPEtitive advantage? How likely is it that the company will be able to renew
+itself successfully?
+2-14 PART 2 Business Analysis and Valuation Tools
+Applying ComPEtitive Strategy Analysis
+Let us consider the concepts of comPEtitive strategy analysis in the context of TJX and
+Nordstrom.
+The TJX Companies, Inc.
+TJX is the leading off-price apparel and home fashions retailer in the United States and
+worldwide. At the beginning of 2011, the company oPErated over 2,700 retail outlets
+through its T.J. Maxx, Marshalls, and HomeGoods brands in the United States; its Winners, Marshalls and HomeSense brands in Canada; and its T.K. Maxx and HomeSense
+brands in EuroPE.17
+TJX pursues a cost leadership strategy, offering its customers a "rapidly changing
+assortment of quality, brand-name and designer merchandise at prices generally 20% to
+60% below department and sPEcialty store regular prices, every day."18 In order to execute that strategy, the company has develoPEd a low-cost, flexible business model that
+has at its core a focus on opportunistic buying of merchandise. Since TJX's philosophy
+of presenting its customers with a "treasure hunt atmosphere" is not dePEndent on offering complete product lines, having all sizes available, or presenting a set mix of merchandise, it has the ability to buy partial lots, discontinued items, or cancelled orders. This
+opportunistic positioning allows TJX to purchase very late in the merchandising cycle,
+enabling it to react quickly to market trends, to negotiate the best deals, and to adjust
+pricing to maintain its margin.19 Key elements of this business model:
+OPEn store concept: The lack of set departments in its stores allows TJX to maintain an opportunistic product mix that targets current consumer tastes.20
+Global sourcing network: In order to source product opportunistically with maximum effectiveness, TJX maintains a global sourcing network, which in 2011 consisted of 700 buyers managing 14,000 vendors across 60 countries. As TJX noted in
+its 2009 Annual Report, "One way to think about our business model is as more of
+a sourcing machine than most other retailers."21
+Significant buying power: TJX quotes its "$20 billion buying PEncil" 22 to describe
+the buying power its large scale gives it with vendors.
+Focus on efficient inventory management: True to its positioning as a low-cost comPEtitor, TJX has an ongoing focus on increasing the efficiency of its supply chain.23
+TJX sees itself as well positioned to take advantage of what it sees as a PErmanent
+shift in consumer sPEnding behavior as a result of the global financial crisis: "We believe
+that there has been a paradigm shift among consumers to value and that our new customers will continue to be attracted to our great values even as the recession abates....
+What sets this recession apart from previous ones is that we have seen positive business
+trends accelerate during the recession, underscoring our belief that there has been a fundamental shift in the consumer psyche toward value."24
+During fiscal year 2010 (ending January 29, 2011), TJX results seemed to bear out
+management's viewpoint. Despite a challenging retail climate, sales increased by 8 PErcent to $21.9 billion, with same store sales increasing by 4 PErcent. Cost of sales fell,
+reflecting improved merchandise margins and increased cost
+leverage. Overall, net
+income grew 11 PErcent to $1.3 billion.25 However, while TJX seemed to be executing
+its cost leadership strategy successfully, changes in the industry structure and moves by
+comPEtitors had begun to raise questions about the long term sustainability of TJX's
+comPEtitive position. Key questions:
+Will there be enough merchandise available to purchase? As comPEtitors such as
+Nordstrom and Saks Fifth Avenue rapidly expand their own off-price chains, an
+Strategy Analysis 2-15
+ever-growing TJX could eventually face merchandise sourcing constraints as comPEtitors increasingly retain product for their own off-price channels. TJX is cognizant of this potential issue and views its extensive global sourcing network and
+strong supplier relationships as key to its success in product procurement going
+forward.26
+Can TJX expand successfully outside of the United States? TJX views continued
+expansion as key to maintaining its low-cost position over the long term by everincreasing purchasing and oPErational leverage. However, as it increasingly looks
+outside the United States for growth, it remains to be seen whether it can achieve
+the same success internationally.
+Is the shift to value PErmanent? It remains to be seen whether this consumer shift
+that TJX sees is PErmanent. TJX has undertaken a program of store remodeling
+and has made additional advertising exPEnditures in order to capitalize on this
+shift.27 It is an oPEn question whether this exPEnditure will result in a PErmanent
+increase in market share.
+What about the Internet? As of 2011, TJX had almost no online presence. While
+it is not clear at this point what threat online retailing represents to the TJX "treasure hunt" model, moves by comPEtitors, such as the recent purchase of HauteLook (an online apparel auction site) by Nordstrom and the increasing ubiquity
+of online retailing, raises the question of what TJX will need to do to defend itself
+against this substitute channel.
+Nordstrom, Inc.
+Nordstrom is a high-end department store offering a wide variety of apparel, shoes, and
+accessories. Founded as a shoe store in Seattle, Washington,
+in 1901, the company
+quickly became known for its bROAd selection of high-quality merchandise coupled with
+exceptional customer service. By 2011 the company had grown to be a leading retailer,
+oPErating 207 stores located in 28 states (both full-line Nordstrom and discount Nordstrom Rack stores) as well as a growing online presence. The company also offered a
+variety of private label credit and dEBIT card products through Nordstrom fsb,
+its
+wholly-owned bank. The company posted 2010 annual earnings of $613 million against
+annual revenues of $9.7 billion.28
+Nordstrom's success has historically been based on a comPEtitive strategy of differentiation that has sought to build loyalty in consumers who have many retail purchase
+options. The key elements of that strategy:
+Providing exceptional customer service: From the beginning, Nordstrom has sought
+to differentiate itself in the market by providing exceptional customer service. A
+quote from the 2009 annual report sums up this customer-centric philosophy:
+"We follow, fIRSt and foremost, a customer strategy at Nordstrom--not a price,
+brand, technology or any other corporate strategy." 29
+Offering a bROAd selection of high-end, differentiated merchandise closely targeted to
+local tastes: Nordstrom has sought to differentiate itself from comPEtitors by low
+product overlap, which it has achieved with exclusive agreements with designers
+as well as by the development of an extensive private label line. In addition, Nordstrom prides itself on making buying decisions with local customer input, thus
+maximizing merchandizing success and minimizing inventory investments.
+While the above bROAd strategic elements have served it well for much of its 110-year
+history, in recent years Nordstrom has recognized that the rapid expansion of the online
+channel and the rise of the discount retail model represent shifts in the market that
+its differentiation strategy. As such,
+could threaten the long-term sustainability of
+2-16 PART 2 Business Analysis and Valuation Tools
+Nordstrom's current strategy is to stay true to its original precepts of suPErior customer
+service and product selection, while adding additional initiatives that it views as critical
+to remaining comPEtitive in an evolving marketplace. Key initiatives being undertaken in
+response to this market shift:
+Diversification into the discount segment--In response to the market shift towards
+the discount segment, Nordstrom has rapidly expanded its Nordstrom Rack division of off-price stores. This has served several purposes. FIRSt, in establishing its
+own discount entrant, it has "created its own substitute" for customers that would
+otherwise potentially be lost to a TJX or other discount retailer. Also, the Rack
+division gives Nordstrom a channel to move slow-selling inventory from its fullline stores without needing to resort to more frequent sales or markdowns that
+might erode the brand. Finally, given that the discount segment tends to PErform
+better in poor economic times, this can be seen as adding counter-cyclical balance
+to the full-line store segment.
+In 2010 the company launched a new version of
+Expansion and integration of a multichannel presence--Responding to the changing
+shoPPIng habits of consumers, Nordstrom has recently undertaken a number of
+initiatives designed to expand its online presence and fully integrate its systems
+across all channels.
+the
+Nordstrom.com website designed to more effectively serve the online shopPEr.
+The integration of
+inventory systems across channels has enabled seamless
+multichannel customer services such as "Buy Online, Pick Up in Store" and rapid
+fulfillment of online orders from local stores. Recent initiatives designed to further
+enhance the multichannel offering include the addition of Wi-Fi to its full-line
+stores, development of mobile checkout, and the acquisition of online retailer HauteLook, Inc.--a provider of online private sales.30 In general, Nordstrom views the
+development of a seamless multichannel shoPPIng exPErience as an extension of its
+focus on providing suPErior customer service and as critical to its continued ability
+to comPEte successfully in an evolving marketplace.
+As the United States slowly began to emerge from the deep downturn that began in
+2008, Nordstrom was a company taking stEPS to adapt to changing industry dynamics.
+In early 2011, analysts seemed to think that it was on the right track:
+"JWN remains one of our top picks in the department store space.... We believe Nordstrom is the most technologically savvy of the large cap department stores. The acquisition of HauteLook not only introduces a new revenue stream, but should help the
+company further expand its internet marketing capabilities and monetize the multichannel customer (who sPEnds 3-4x more than the store only customer)."31
+"From its move in 2009/2010 to integrate its in-store and online inventory to its
+announcement yesterday of an acquisition of HauteLook, a leading online closeout
+channel, the Company remains well ahead of comPEtitors in its online presence. Moreover, we think that this helps provide a long-term ROAdmap for growth..." 32
+"We continue to believe Nordstrom is a longer term share winner..." 33
+Analysts' opinions aside, it remains to be seen whether Nordstrom can maintain its
+suPErior comPEtitive position going forward in the rapidly evolving industry landscaPE.
+CORPORATE STRATEGY ANALYSIS
+So far in this chapter we have focused on strategies at the individual business level.
+While some companies focus on only one business, many companies oPErate in multiple
+businesses. For example, the average number of business segments oPErated by the top
+Strategy Analysis 2-17
+500 U.S. companies in 1992 was eleven industries.34 In recent years, there has been an
+attempt by U.S. companies to reduce the diversity of their oPErations and focus on a relatively few "core" businesses. However, multi-business organizations continue to dominate the economic activity in most countries in the world.
+When analyzing a multi-business organization, an analyst has to evaluate not only the
+industries and strategies of the individual business units but also the economic consequences--either positive or negative--of managing all the different businesses under
+one corporate umbrella. Some companies have viewed this multibusiness structure as a
+source of strength and have embraced it, while others have seen it as distracting and
+value dilutive and have moved to narrow their business focus. For example, General
+Electric has been very successful in creating significant value by managing a highly diversified set of businesses ranging from aircraft engines to light bulbs. In contrast, starting
+in 2000, the Swiss pharmaceutical giant Roche sold off its flavors and fragrances, vitamins, and fine chemicals businesses to focus on oncology and diagnostics.35
+Sources of Value Creation at the Corporate Level
+Economists and strategy researchers have identified several factors that influence an
+organization's ability to create value through a bROAd corporate scoPE. Economic theory
+suggests that the optimal scoPE of activity of a firm dePEnds on the relative transaction
+cost of PErforming a set of activities inside the firm versus using the market mechanism.36 Transaction cost economics implies that the multiproduct firm is an efficient
+choice of organizational form when coordination among indePEndent, focused firms is
+costly due to market transaction costs.
+Transaction costs can arise out of several sources. They may arise if the production
+process involves sPEcialized assets such as human capital skills, proprietary technology,
+or other organizational know-how that is not easily available in the marketplace. Transaction costs also may arise from market imPErfections such as information and incentive
+problems. If buyers and sellers cannot solve these problems through standard mechanisms such as enforceable contracts, it will be costly to conduct transactions through market mechanisms.
+For example, as discussed in Chapter 1, capital markets may not work well when
+there are significant information and incentive problems, making it difficult for entrepreneurs to raise capital from investors. Similarly, if buyers cannot ascertain the quality of
+products being sold because of lack of information, or cannot enforce warranties because
+of poor legal infrastructure, entrepreneurs will find it difficult to break into new markets.
+Finally, if employers cannot assess the quality of applicants for new positions, they will
+have to rely more on internal promotions rather than external recruiting to fill higher
+positions in an organization. Emerging economies often suffer from these tyPEs of transaction costs because of poorly develoPEd intermediation infrastructure.37 Even in many
+advanced economies, examples of high transaction costs can be found. For example, in
+most countries other than the United States, the venture capital industry is not highly
+develoPEd, making it costly for new businesses in high technology industries to attract
+financing. Even in the United States, transaction costs may vary across economic SECtors.
+For example, electronic commerce continues to be hamPEred by consumer concerns
+regarding the SECurity of credit card information sent over the Internet.38
+Transactions inside an organization may be less costly than market-based transactions
+for several reasons. FIRSt, communication costs inside an organization are reduced
+because confidentiality can be protected and credibility can be assured through internal
+mechanisms. SECond, the head office can play a critical role in reducing costs of enforcing agreements between organizational subunits. Third, organizational subunits can
+2-18 PART 2 Business Analysis and Valuation Tools
+share valuable non-tradable assets (such as organizational skills, systems, and processes)
+or non-divisible assets (such as brand names, distribution channels, and reputation).
+There are also forces that increase transaction costs inside organizations. Top management of an organization may lack the sPEcialized information and skills necessary to
+manage businesses across several different industries. This lack of exPErtise reduces the
+possibility of actually realizing economies of scoPE, even when there is potential for such
+economies. This problem can be remedied by creating a decentralized organization, hiring sPEcialist managers to run each business unit, and providing these managers with
+proPEr incentives. However, decentralization will also potentially decrease goal congruence among subunit managers, making it difficult to realize economies of scoPE.
+Whether or not a multibusiness organization creates more value than a comparable
+collection of focused firms is, therefore, context dePEndent.39 Analysts should ask the following questions to assess whether an organization's corporate strategy has the potential
+to create value:
+Are there significant imPErfections in the product, labor, or financial markets in
+the industries (or countries) in which a company is oPErating? Is it likely that
+transaction costs in these markets are higher than the costs of similar activities
+inside a well-managed organization?
+Does the organization have sPEcial resources such as brand names, proprietary
+know-how, access to scarce distribution channels, and sPEcial organizational processes that have the potential to create economies of scoPE?
+Is there a good fit between the company's sPEcialized resources and the portfolio of
+businesses in which the company is oPErating?
+Does the company allocate decision rights between the headquarters office and the
+business units optimally to realize all the potential economies of scoPE?
+Does the company have internal measurement, information, and incentive systems
+to reduce agency costs and increase coordination across business units?
+Empirical evidence suggests that creating value through a multibusiness corporate strategy is difficult in practice. Several researchers have documented that diversified U.S. companies trade at a discount in the stock market relative to a comparable portfolio of focused
+companies.40 Studies also show that acquisitions of one company by another, esPEcially
+when the two are in unrelated businesses, often fail to create value for the acquiring companies.41 Finally, there is considerable evidence that value is created when multibusiness companies increase corporate focus through divisional spin-offs and asset sales.42
+There are several potential explanations for this diversification discount. FIRSt, managers' decisions to diversiFY and expand are frequently driven by a desire to maximize
+the size of their organization rather than to maximize shareholder value. SECond, diversified companies often suffer from incentive misalignment problems leading to suboptimal
+investment decisions and poor oPErating PErformance. Third, capital markets find it difficult to monitor and value multibusiness organizations because of inadequate disclosure
+about the PErformance of individual business segments.
+In summary, while companies can theoretically create value through innovative corporate strategies, there are many ways in which this potential fails to get realized in practice. Therefore, it pays to be skeptical when evaluating companies' corporate strategies.
+Applying Corporate Strategy Analysis
+Let's apply the concepts of corporate strategy analysis to the Tata Group, a diversified
+global company headquartered in India. Tata traces its beginnings to the founding of a
+In 2009-2010 the company reported revenues of
+private trading firm in 1868.
+Strategy Analysis 2-19
+$67.4 billion, employed almost 400,000 PEople, and had oPErations in over 80 countries.43 Its structure as a diversified conglomerate reflects its Indian roots as a legacy of
+the British colonial managing agency system, and also in the need to provide its own
+intermediary infrastructure in the ABSence of that infrastructure in the emerging Indian
+market.44 Chairman Ratan Tata has worked since his appoiNTMent in 1991 to turn what
+was then a collection of highly indePEndent companies spread across disparate industries
+into a modern global enterprise able to harness the value of multicompany synergy to
+successfully comPEte in India and beyond.
+At the end of 2010, the Tata Group was organized into seven business SECtors:45
+Information Technology and Communications: In 2009-2010 this SECtor represented
+about 16 PErcent of Tata's revenues. Tata Consultancy Services is India's most
+valuable IT company and its over 140,000 consultants provide IT services, business
+solutions, and outsourcing across 42 countries. This SECtor also includes companies
+engaged in product design and technology development services, interactive learning development, business support services, and telecommunications.
+Engineering products and services: This SECtor represented about 33 PErcent of
+Tata's revenues. Tata Motors, producer of the Nano, the world's least exPEnsive
+car, is India's largest automobile company, and is also a significant player globally,
+being the world's fourth-largest truck manufacturer, the SECond-largest bus manufacturer, and the owner (since 2008) of Jaguar Land Rover. Other companies in
+this SECtor provide automotive, construction, and engineering products and
+services.
+Materials: Materials represented about 32 PErcent of Tata's revenues. Tata Steel, a
+Fortune Global 500 company in its own right,46 employs over 80,000 PEople in
+nearly 50 countries. Other companies in the SECtor provide a wide range of materials production and services.
+Services: Services represented about 4 PErcent of Tata's revenues. The Taj Hotels
+Resorts and Palaces group offers 66 hotels across India as well as 16 international
+locations, while related companies provide additional rea-estate-focused services.
+Tata AIG Life Insurance Company and Tata AIG General Insurance Company
+provide insurance solutions to individuals and businesses. Additional companies
+provide asset management, management consulting, and other services.
+Energy: Energy represented about 6 PErcent of Tata's revenues. Tata Power is
+India's largest private-SECtor-integrated power utility. Tata BP Solar is the largest
+Indian maker of solar photovoltaic and solar water heating products.
+Consumer Products: Consumer products represented about 4 PErcent of Tata's revenues. Tata Beverage Group markets brands such as Tata Tea, Tata Coffee, Tetley
+(the leading UK market brand), Eight O'Clock Coffee, and Mount Everest Mineral
+Water. Other companies in the SECtor own retail stores, and also produce and market watches, jewelry, and eyewear.
+Chemicals: Chemicals represented about 3 PErcent of Tata's revenues. Tata Chemicals is the world's SECond largest producer of soda ash, and produces a variety of
+chemicals for the consumer, industrial, and farm SECtors. Other companies in the
+SECtor pursue drug discovery and development and produce agrochemicals.
+Given the conventional wisdom that multi-industry conglomerates will struggle to
+comPEte against their more-focused comPEtitors, how has Tata managed to achieve its
+success thus far? The answer lies in the well-executed development of centralized
+functions applied across the group that support, connect, and elevate the individual companies on many different levels, while at the same time allowing them the indePEndence
+to succeed on their own. Key elements of this model include:
+2-20 PART 2 Business Analysis and Valuation Tools
+The primary connection between the Tata Group companies, and PErhaps their
+biggest collective source of strength is the Tata Brand, which in 2011 was named
+one of the top 50 global brands by Brand Finance.47 This recognition comes as the
+result of a well-planned and careful nurturing of the brand by Chairman Tata that
+began in 1995 when he introduced the Tata Brand Equity Scheme. This subscription plan establishes the criteria by which a subscriber company may use the Tata
+brand and also gain access to the resources of the bROAder group.48 Subscribing
+companies sign the Brand Equity and Business Promotion (BEBP) agreement,
+which sPEcifies a required code of conduct that helps to ensure high standards of
+quality and integrity across the company. A centralized organization, Tata Quality
+Management Services (TQMS), works to help Tata companies achieve their business objectives and meet the standards sPEcified by the agreement. Companies
+who excel in quality management can be nominated for the JRD Quality Value
+Award, which is modeled after the Malcolm Baldrige Award.49 Conversely, companies who fail to meet the standards set out in the BEBP agreement risk losing their
+right to use the Tata name. The value of the Tata brand is immense for a group
+company that is not well recognized in its market, and esPEcially in emerging markets the brand can be a very powerful and important sign of quality and integrity.
+The Tata Group exploits its scale and the diversity of its collective companies in
+order to foster learning, leadership development, and the sharing of best practices
+across the group. Tata Administrative Services (TAS) coordinates a group-wide
+management recruitment and development program, recruiting at top Indian business schools and rotating new managers across group companies during a five-year
+development plan. The Tata Management Training Centre (TMTC) brings
+together senior executives, who share insights with their fellow executives from a
+huge diversity of industries.50 The scale of the company is such that these programs can easily bring together 50 or more company CEOs, who share best practices, view problems from a multitude of PErsPEctives, and build relationships that
+help facilitate cross-company communication and synergy.
+While Tata Group companies oPErate with a significant degree of indePEndence,
+they have the financial,
+intellectual, and other resources of the bROAder group
+behind them. In many ways the central office acts as a venture capitalist--serving
+as a resource for investment funds, management exPErtise, and connections within
+the bROAder group, in industry, and in government. Much like venture capitalists,
+the Group Executive Office (GEO) members sit on the boards of Tata Group companies in order to facilitate communication between the central office and individual companies, and to bring the knowledge and exPErience of the bROAder group to
+each individual company.51 This support allows group companies to act like a
+much larger company in making acquisitions, investing in new technologies, and
+making other strategic moves. The power of this backing can be seen in the acquisitions of Tetley Tea by Tata Tea in 2000, Corus by Tata Steel in 2007, and Jaguar
+Land Rover by Tata Motors in 2008, all of which represented an acquisition of a
+company much larger than the Tata company which acquired it. This would not
+have been possible without the backing of the bROAder group.52
+As of 2010, almost 60 PErcent of Tata Group revenue came from outside the Indian market.53 The increasingly global footprint of the company as well as the evolving global economy present several challenges to the effectiveness of its conglomerate model. FIRSt, the
+continued expansion into develoPEd countries may reduce the importance of the internal
+intermediary infrastructure that Tata has worked to develop. SECond, as the Indian economy continues to evolve, this same issue may eventually hold true in the home market.
+SUMMARY
+Strategy Analysis 2-21
+Finally, the continued successful integration and coordination of the oPErating companies
+in a company with a strong tradition of indePEndence will be made ever harder when spread
+across an increasingly bROAd geography. As the company works to identiFY a worthy successor to Ratan Tata (who is scheduled to retire in 2012),54 how the Tata Group responds in
+the coming years to the challenges and opportunities presented by both globalization and
+the rapid development of its Indian home market will be closely watched as a test case for
+the viability of the multi-industry conglomerate in the modern global economy.
+Strategy analysis is an important starting point for the analysis of financial statements
+because it allows the analyst to probe the economics of the firm at a qualitative level.
+Strategy analysis also allows the identification of the firm's profit drivers and key risks,
+enabling the analyst to assess the sustainability of the firm's PErformance and make realistic forecasts of future PErformance.
+Whether a firm is able to earn a return on its capital in excess of its cost of capital is
+determined by its own strategic choices: (1) the choice of an industry or a set of industries in which the firm oPErates (industry choice), (2) the manner in which the firm
+intends to comPEte with other firms in its chosen industry or industries (comPEtitive
+positioning), and (3) the way in which the firm exPEcts to create and exploit synergies
+across the range of businesses in which it oPErates (corporate strategy). Strategy analysis
+involves analyzing all three choices.
+Industry analysis consists of identiFYing the economic factors which drive industry
+profitability. In general, an industry's average profit potential is influenced by the degree
+of rivalry among existing comPEtitors, the ease with which new firms can enter the
+industry, the availability of substitute products, the power of buyers, and the power of
+suppliers. To PErform industry analysis, the analyst has to assess the current strength
+of each of these forces in an industry and make forecasts of any likely future changes.
+ComPEtitive strategy analysis involves identiFYing the basis on which the firm intends
+to comPEte in its industry. In general, there are two potential strategies that could provide a firm with a comPEtitive advantage: cost leadership and differentiation. Cost leadership involves offering at a lower cost the same product or service that other firms offer.
+Differentiation involves satisFYing a chosen dimension of customer need better than the
+comPEtition, at an incremental cost that is less than the price premium that customers
+are willing to pay. To PErform strategy analysis, the analyst has to identiFY the firm's
+intended strategy, assess whether the firm possesses the comPEtencies required to execute
+the strategy, and recognize the key risks that the firm has to guard against. The analyst
+also has to evaluate the sustainability of the firm's strategy.
+Corporate strategy analysis involves examining whether a company is able to create
+value by being in multiple businesses at the same time. A well-crafted corporate strategy
+reduces costs or increases revenues from running several businesses in one firm relative
+to the same businesses oPErating indePEndently and transacting with each other in the
+marketplace. These cost savings or revenue increases come from sPEcialized resources
+that the firm has to exploit synergies across these businesses. For these resources to be
+valuable, they must be non-tradable, not easily imitated by comPEtition, and nondivisible. Even when a firm has such resources, it can create value through a multibusiness organization only when it is managed so that the information and agency costs
+inside the organization are smaller than the market transaction costs.
+The insights gained from strategy analysis can be useful in PErforming the remainder
+of the financial statement analysis. In accounting analysis, the analyst can examine
+2-22 PART 2 Business Analysis and Valuation Tools
+whether a firm's accounting policies and estimates are consistent with its stated strategy.
+For example, a firm's choice of functional currency in accounting for its international
+oPErations should be consistent with the level of integration between domestic and international oPErations that the business strategy calls for. Similarly, a firm that mainly sells
+housing to high-risk customers should have higher-than-average bad debts exPEnses and
+a higher-than-average allowance for loan losses.
+Strategy analysis is also useful in guiding financial analysis. For example, in a crossSECtional analysis, the analyst should exPEct firms with cost leadership strategy to have
+lower gross margins and higher asset turnover than firms that follow differentiated strategies. In a time series analysis, the analyst should closely monitor any increases in
+exPEnse ratios and asset turnover ratios for low-cost firms, and any decreases in investments critical to differentiation for firms that follow differentiation strategy.
+Business strategy analysis also helps in prosPEctive analysis and valuation. FIRSt, it
+allows the analyst to assess whether, and for how long, differences between the firm's
+PErformance and its industry's (or industries') PErformance are likely to PErsist. SECond,
+strategy analysis facilitates forecasting investment outlays the firm has to make to maintain its comPEtitive advantage.
+DISCUSSION QUESTIONS
+1. Judith, an accounting major, states, "Strategy analysis seems to be an unnecessary
+detour in doing financial statement analysis. Why can't we just get straight to the
+accounting issues?" Explain to Judith why she might be wrong.
+2. What are the critical drivers of industry profitability?
+3. One of the fastest growing industries in the last 20 years is the memory chip industry, which supplies chips for PErsonal computers and other electronic devices. Yet
+the average profitability for this industry has been very low. Using the industry analysis framework,
+factors that might explain this apparent
+contradiction.
+the potential
+list all
+4. Rate the pharmaceutical and lumber industries as high, medium, or low on the following dimensions of industry structure:
+......................................................................................................................................
+Pharmaceutical
+Industry
+Lumber
+Industry
+Rivalry
+Threat of new entrants
+Threat of substitute products
+Bargaining power of buyers
+Bargaining power of suppliers
+......................................................................................................................................
+Given your ratings, which industry would you exPEct to earn the highest returns?
+.......................................................................................................................................
+5. Joe Smith argues, "Your analysis of the five forces that affect industry profitability is
+incomplete. For example, in the banking industry, I can think of at least three other
+factors that are also important; namely, government regulation, demographic trends,
+and cultural factors." His classmate Jane Brown disagrees and says, "These three factors are important only to the extent that they influence one of the five forces."
+Explain how, if at all, the three factors discussed by Joe affect the five forces in the
+banking industry.
+6. Coca-Cola and PEPSi are both very profitable soft drinks. Inputs for these products
+include corn syrup, bottles/cans, and soft drink syrup. Coca-Cola and PEPSi produce
+Strategy Analysis 2-23
+the syrup themselves and purchase the other inputs. They then enter into exclusive
+contracts with indePEndent bottlers to produce their products. Use the five forces
+framework and your knowledge of the soft drink industry to explain how CocaCola and PEPSi are able to retain most of the profits in this industry.
+7. All major airlines offer frequent flier programs. Originally seen as a way to differentiate their providers in response to excess capacity in the industry, these programs
+have long since become ubiquitous. Many industry analysts believe that these programs have met with only mixed success in accomplishing their goal. Use the comPEtitive advantage concepts to explain why.
+8. What are the ways that a firm can create barriers to entry to deter comPEtition in its
+business? What factors determine whether these barriers are likely to be enduring?
+9. Explain why you agree or disagree with each of the following statements:
+a. It is better to be a differentiator than a cost leader, since you can then charge
+premium prices.
+b. It is more profitable to be in a high technology industry than a low technology
+one.
+c. The reason industries with large investments have high barriers to entry is that it
+is costly to raise capital.
+10. There are very few companies that are able to be both cost leaders and differentiators. Why? Can you think of a company that has been successful at both?
+11. Many consultants are advising diversified companies in emerging markets such as
+India, South Korea, Mexico, and Turkey to adopt corporate strategies proven to be
+of value in advanced economies such as the United States and the United Kingdom.
+What are the pros and cons of this advice?

@@ -1,0 +1,291 @@
+Key Financial Data
+Bloomberg Ticker
+WMT US
+SECtor
+Consumer Staples
+Share Price (USD)
+DBS Rating
+12-mth Target Price (USD)
+Market Cap (USDb)
+Volume (m shares)
+Free float (%)
+Dividend yield (%)
+Net Debt to Equity (%)
+Fwd. P/E (x)
+P/Book (x)
+ROE (%)
+Closing Price as of 26 Jun 2025
+Source: Bloomberg, DBS
+96.02
+BUY
+108.00
+766.3
+19361.42
+53.9
+0.9
+52.3
+36.9
+9.2
+22.8
+Indexed Share Price vs Composite Index PErformance
+US EQUITY RESEARCH
+Walmart Inc
+Cautious consumers driving market share gains
+Company Overview
+Walmart Inc. offers shoPPIng opportunities in both retail stores and through e-commerce. The
+Company offers an assortment of merchandise and services at everyday low prices. The
+Company oPErates through three segments: Walmart U.S., Walmart International and Sam's
+Club. The Walmart U.S. segment is a merchandiser of consumer products. The Walmart
+International segment includes various formats divided into two categories: retail and
+wholesale. These categories consist of various formats, including suPErcenters, suPErmarkets,
+hyPErmarkets, warehouse clubs and cash & carry, as well as e-commerce through
+walmart.com.mx, walmart.ca, flipkart.com and other sites. The Sam's Club segment is a
+membership-only warehouse club.
+Investment Overview
+Online sales and technology development to improve shoPPIng exPErience. Walmart
+continues to focus on online sales expansion with its well-established delivery service network
+covering 70% households in the US, with drone delivery covering seven states, while the
+company is also expanding its GoLocal services via the cooPErations with renowned platforms
+such as Home Depot and Cognery. Online margin is also improving, In the meantime,
+Walmart's investments in supply chain automation should start to bear fruits and increase
+overall labour productivity.
+Walmart's own ecosystem to be a key differentiator. Walmart has expanded its businesses
+from grocery retailing and general merchandises to tap into healthcare and financial services
+for its customers, allowing it to create stronger bonding and diversiFY its revenue and profit
+sources. Walmart should also achieve a faster MoMentum in its international markets with
+high-single digit sales growth.
+Margin improvement. Walmart's gross margin continues to benefit from more favourable
+business mix as the company expands its presense in e-commerce and advertising in both US
+and international markets. Walmart's pricing strategies could potentially attract more affluent
+shopPErs and expand its customer base. With the ongoing improvement in supply-chain and
+staff management, Walmart should also be able achieve better oPErating efficiency and margin
+growth over the medium-term.
+We rate BUY on Walmart with a TP of USD108. Our TP is based on 39x FY26 PE in view of
+Walmart's continuing share gains given the cautious consumer sentiment as well as its ongoing
+oPErating efficiency improvement.
+Source: Bloomberg
+Risks
+Rising comPEtition; prolonged geopolitical uncertainties and inflation; slowdown in ecommerce growth; significant increase in caPEx to support e-commerce and technological
+advancement; etc.
+Financial Summary (USD MN)
+FY Dec
+Sales
+% y/y
+Gross Profit
+% y/y
+EBITDA
+% y/y
+Net Profit (Loss)
+% y/y
+FCF
+% y/y
+CAPEX
+% y/y
+EBITDA Margin (%)
+Net Margin (%)
+ROA (%)
+ROE (%)
+Tax Rate (%)
+Source: Visible Alpha
+Valuation Metrics
+FY Dec
+P/E
+P/B
+Dividend Yield
+EV/EBITDA (x)
+FCF Yield %
+Source: Visible Alpha
+Credit & Cashflow Metrics
+FY Dec
+Debt / Equity
+Net Debt / Equity
+Debt / Assets
+Net Debt / Assets
+EBITDA / Int Exp
+Debt / EBITDA
+ST Debt / Total Debt (%)
+[Cash + CFO] / ST Debt
+Receivables Days
+Days Payable
+Inventory Days
+Source: Visible Alpha
+FY2022A
+FY2023A
+FY2024A
+FY2025F
+FY2026F
+611,289
+648,125
+680,985
+705,547
+737,892
+6.7
+6.0
+5.1
+3.6
+4.6
+147,568
+157,983
+169,232
+176,086
+185,764
+2.7
+35,547
+(3.2)
+17,203
+(11.0)
+11,984
+8.2
+16,857
+28.6
+5.8
+2.8
+7.0
+19.6
+24.6
+7.1
+7.1
+4.1
+5.5
+38,958
+42,477
+44,483
+48,527
+9.6
+17,971
+4.5
+15,120
+26.2
+20,606
+22.2
+6.0
+2.8
+7.2
+20.6
+25.7
+9.0
+20,238
+12.9
+12,660
+(16.3)
+23,783
+15.4
+6.2
+3.0
+7.9
+21.6
+23.6
+4.4
+20,841
+2.8
+12,413
+(1.4)
+22,772
+(4.0)
+6.3
+3.0
+7.8
+21.1
+23.9
+9.1
+23,230
+11.5
+16,791
+47.3
+22,831
+0.4
+6.6
+3.1
+8.3
+22.2
+24.2
+FY2022A
+FY2023A
+FY2024A
+FY2025F
+FY2026F
+22.9
+5.1
+1.6
+12.6
+3.1
+24.9
+5.3
+1.4
+13.1
+3.4
+39.2
+8.7
+0.8
+19.9
+1.6
+37.7
+8.4
+0.9
+19.0
+1.6
+33.6
+7.6
+1.0
+17.4
+2.2
+FY2022A
+FY2023A
+FY2024A
+FY2025F
+FY2026F
+70.4
+0.7
+24.2
+0.2
+16.7
+0.1
+1.7
+5.7
+4.7
+32.1
+33.8
+67.9
+0.6
+24.3
+0.2
+14.5
+0.1
+1.6
+7.0
+5.0
+32.0
+30.9
+61.7
+0.6
+23.0
+0.2
+15.6
+0.1
+1.4
+5.7
+5.3
+31.4
+30.2
+65.3
+0.6
+23.8
+0.2
+16.5
+0.2
+1.4
+4.2
+5.3
+31.7
+30.1
+61.1
+0.5
+22.9
+0.2
+18.5
+0.2
+1.3
+4.7
+5.3
+31.4
+29.7

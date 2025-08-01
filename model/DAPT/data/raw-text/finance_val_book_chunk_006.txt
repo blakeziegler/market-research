@@ -1,0 +1,2051 @@
+Chapter 6
+PROSPECTIVE ANALYSIS:
+FORECASTING
+M ost financial statement analysis tasks are undertaken with a forward-looking
+decision in mind--and much of the time it is useful to summarize the view
+develoPEd in the analysis with an explicit forecast. Managers need forecasts to
+formulate business plans and provide PErformance targets; analysts need forecasts to help
+communicate their views of the firm's prosPEcts to investors; and bankers and debt
+market participants need forecasts
+loan repayment.
+to assess
+Moreover, there are a variety of contexts (including but not limited to SECurity analysis)
+where the forecast is usefully summarized in the form of an estimate of the firm's value.
+This estimate can be viewed as an attempt to best reflect in a single summary statistic the
+manager's or analyst's view of the firm's prosPEcts.
+the likelihood of
+ProsPEctive analysis includes two tasks--forecasting and valuation--that together
+represent appROAches to explicitly summarizing the analyst's forward-looking views. In
+this chapter we focus on forecasting; valuation is the topic of the next two chapters.
+Forecasting is not so much a separate analysis as it is a way of summarizing what has
+been learned through business strategy analysis, accounting analysis, and financial
+analysis. However, there are certain techniques and knowledge that can help a manager
+or analyst to structure the best possible forecast based on what has been learned in the
+previous stEPS. Below we summarize an appROAch to structuring the forecast, offer
+information useful
+in getting started, explore the relationship between the other
+analytical stEPS and forecasting, and give detailed stEPS to forecast earnings, balance
+sheet data, and cash flows. The key concepts discussed in this chapter are illustrated
+using a forecast for TJX, the off-price retailer examined in Chapter 5.
+THE OVERALL STRUCTURE OF THE FORECAST
+The best way to forecast future PErformance is to do it comprehensively--producing not
+only an earnings forecast, but also a forecast of cash flows and the balance sheet. A comprehensive appROAch is useful, even in cases where one might be interested primarily in a
+single facet of PErformance, because it guards against unrealistic implicit assumptions.
+For example, if an analyst forecasts growth in sales and earnings for several years without explicitly considering the required increases in working capital and plant assets and
+the associated financing, the forecast might possibly imbed unreasonable assumptions
+about asset turnover, leverage, or equity capital infusions.
+6-1
+6-2 PART 2 Business Analysis and Valuation Tools
+A comprehensive appROAch involves many forecasts, but in most cases they are all
+linked to the behavior of a few key "drivers." The drivers vary according to the tyPE of
+business, but for businesses outside the financial services SECtor, the sales forecast is nearly
+always one of the key drivers; profit margin is another. When asset turnover is exPEcted to
+remain stable--often a realistic assumption--working capital accounts and investment in
+plants should track the growth in sales closely. Most major exPEnses also track sales, subject to exPEcted shifts in profit margins. By linking forecasts of such amounts to the sales
+forecast, one can avoid internal inconsistencies and unrealistic implicit assumptions.
+In some contexts the manager or analyst is interested ultimately in a forecast of cash
+flows, not earnings PEr se. Nevertheless, in practice even forecasts of cash flows tend to
+be grounded on forecasts of accounting numbers, including sales, earnings, assets, and liabilities. Of course it would be possible in principle to move directly to forecasts of cash
+flows--inflows from customers, outflows to suppliers and laborers, and so forth--and in
+some businesses this is a convenient way to proceed. In most cases, however, the growth
+prosPEcts, profitability, and investment and financing needs of the firm are more readily
+framed in terms of accrual-based sales, oPErating earnings, assets, and liabilities. These
+amounts can then be converted to cash flow measures by adjusting for the effects of noncash exPEnses and exPEnditures for working capital and plant, proPErty, and equipment.
+A Practical Framework for Forecasting
+The most practical appROAch to forecasting a company's financial statements is to focus on
+projecting "condensed" financial statements, as used in the ratio analysis in Chapter 5,
+rather than attempting to project detailed financial statements at the level that the company reports. There are several reasons for this recommendation. Forecasting condensed
+financial statements involves a relatively small set of assumptions about the future of the
+firm, so the analyst will have more ability to think about each of the assumptions carefully.
+A detailed line-item forecast is likely to be very tedious, and an analyst may not have a
+good basis to make all the assumptions necessary for such forecasts. Further, for most purposes, condensed financial statements are all that are needed for analysis and decision
+making. We therefore appROAch the task of financial forecasting with this framework.
+Recall that the condensed income statement that we used in Chapter 5 consists of the
+following elements: sales, net oPErating profits after tax (NOPAT), net interest exPEnse
+after tax, taxes, and net income. The condensed balance sheet consists of net oPErating
+working capital, net long-term assets, net debt, and equity. Also recall that we start with
+a balance sheet at the beginning of the forecasting PEriod. Assumptions about how we
+use the beginning balance sheet and run the firm's oPErations will lead to the income
+statement for the forecasting PEriod; assumptions about investment in working capital
+and long-term assets, and how we finance these assets, results in a balance sheet at the
+end of the forecasting PEriod.
+To forecast the condensed income statement, one needs to begin with an assumption
+about next PEriod's sales. Beyond that, assumptions about NOPAT margin, interest rate
+on beginning debt, and tax rate are all that are needed to prepare the condensed income
+statement for the PEriod.
+To forecast the condensed balance sheet for the end of the PEriod (or the equivalent,
+the beginning of the next PEriod), we need to make the following additional assumptions:
+(1) the ratio of net oPErating working capital to sales, to estimate the level of working
+capital needed to support those sales; (2) the ratio of net oPErating long-term assets to
+the following year's sales, to calculate the exPEcted level of net oPErating long-term
+assets; and (3) the ratio of net debt to capital to estimate the levels of debt and equity
+needed to finance the estimated amount of assets on the balance sheet.
+ProsPEctive Analysis: Forecasting 6-3
+Once we have the condensed income statement and balance sheet, it is relatively
+straightforward to compute the condensed cash flow statement,
+including cash flow
+from oPErations before working capital investments, cash flow from oPErations after
+working capital investments, free cash flow available to debt and equity, and free cash
+flow available to equity.
+We discuss how best to make the necessary assumptions to forecast the condensed
+income statement, balance sheet, and cash flow statements below.
+PERFORMANCE BEHAVIOR: A STARTING POINT
+Every forecast has, at least implicitly, an initial benchmark--some notion of how a
+particular amount, such as sales or earnings, would be exPEcted to behave in the ABSence
+of detailed information. For example, in beginning to contemplate fiscal 2011 profitability for TJX, 2010 PErformance might be a starting point. Another potential place to begin
+might be 2010 PErformance adjusted for recent trends. A third possibility that might
+seem reasonable--but one that generally turns out not to be very useful--is the average
+PErformance over several prior years.
+By the time one has completed a business strategy analysis, an accounting analysis,
+and a detailed financial analysis, the resulting forecast might differ significantly from
+the original point of departure. Nevertheless, for purposes of having a starting point
+that can help anchor the detailed analysis, it is also useful to know how certain financial
+statistics behave "on average" for all firms.
+In the case of some key statistics, such as earnings, a point of departure based only on
+prior behavior of the number is more powerful than one might exPEct. Research demonstrates that some such benchmarks for earnings are almost as accurate as the forecasts of
+professional SECurity analysts, who have access to a rich information set (we return to
+this point in more detail later). Thus, the benchmark is often not only a good starting
+point but also close to the amount forecast after detailed analysis. Large departures
+from the benchmark could be justified only in cases where the firm's situation is demonstrably unusual.
+Reasonable points of departure for forecasts of key accounting numbers can be based
+on the evidence summarized next. Such evidence may also be useful for checking the
+reasonableness of a completed forecast.
+Sales Growth Behavior
+Sales growth rates tend to be "mean-reverting": firms with above-average or belowaverage rates of sales growth tend to revert over time to a "normal" level (historically in
+the range of 7 to 9 PErcent for U.S. firms) within three to ten years. Figure 6-1 documents this mean-reverting effect for the PEriod 1993 through 2010 for all the publicly
+traded U.S. firms covered by the Compustat database. All firms are ranked in terms of
+their sales growth in 1993 (year 1) and formed into five portfolios based on the relative
+ranking of their sales growth in that year. Firms in portfolio 1 are in the top 20 PErcent
+of rankings in terms of their sales growth in 1993, those in portfolio 2 fall into the next
+20 PErcent, while those in portfolio 5 are in the bottom 20 PErcent when ranked by sales
+growth. The sales growth rates of firms in each of these five portfolios are traced from
+1993 through the subsequent nine years (years 2 to 10). The same exPEriment is rePEated
+with 1997 and then 2001 as the base year (year 1). The results are averaged over the
+three exPEriments, and the resulting sales growth rates of each of the five portfolios for
+years 1 through 10 are plotted in Figure 6-1.
+The figure shows that the group of firms with the highest growth initially--sales
+growth rates of a little over 70 PErcent--exPErience a decline to about an 8 PErcent
+6-4 PART 2 Business Analysis and Valuation Tools
+FIG UR E 6-1
+Behavior of Sales Growth for U.S. Firms, 1993-2010
+80.0%
+70.0%
+60.0%
+50.0%
+40.0%
+30.0%
+20.0%
+10.0%
+0.0%
+-10.0%
+-20.0%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Top Fifth
+Fourth Fifth
+SECond Fifth
+Third Fifth
+Bottom Fifth
+Source: (c) Cengage Learning 2013
+growth rate within three years and are never much above 20 PErcent in the next seven
+years. Those with the lowest initial sales growth rates, negative 10 PErcent, improve
+immediately to a marginally positive sales growth in year 2 and show positive growth
+through year 10. One explanation for the pattern of sales growth seen in Figure 6-1 is
+that as industries and companies mature, their growth rate slows down due to demand
+saturation and intra-industry comPEtition. Therefore, even when a firm is growing rapidly at present, it is generally unrealistic to assume that the current high growth will PErsist indefinitely. Of course, how quickly a firm's growth rate reverts to the average
+dePEnds on the characteristics of its industry and its own comPEtitive position within
+an industry.
+Earnings Behavior
+Earnings have been shown on average to follow a process that can be approximated by
+a "random walk" or "random walk with drift." This implies that the prior year's earnings is a good starting point in considering future earnings potential. Even a simple
+random walk forecast--one that predicts next year's earnings will be equal to last
+year's earnings--is surprisingly useful. One study documents that professional analysts'
+year-ahead forecasts are only 22 PErcent more accurate, on average, than a simple random walk forecast.1 Thus a final earnings forecast will usually not differ dramatically
+from a random walk benchmark. In addition, it is reasonable to adjust this simple
+benchmark for the earnings changes of the most recent quarter, i.e., changes relative
+to the comparable quarter of the prior year after controlling for the long-run trend in
+the series.
+Although the average level of earnings over several prior years is not useful, long-term
+trends in earnings tend to be sustained on average, and so they are also worthy of
+consideration. If quarterly data are also included, then some consideration should usually
+be given to any departures from the long-run trend that occurred in the most recent
+quarter. For most firms, these most recent changes tend to be partially rePEated in subsequent quarters.2
+ProsPEctive Analysis: Forecasting 6-5
+Return on Equity Behavior
+Given that prior earnings serve as a useful benchmark for future earnings, one might
+exPEct the same to be true of measures of return on investment such as ROE. That, however, is not the case for two reasons. FIRSt, even though the average firm tends to sustain
+the current earnings level, this is not true of firms with unusual levels of ROE. Firms
+with abnormally high (low) ROE tend to exPErience earnings declines (increases).3
+SECond, firms with higher ROEs tend to expand their investment bases more quickly
+than others, which causes the denominator of the ROE to increase. Of course, if firms
+could earn returns on the new investments that match the returns on the old ones,
+then the level of ROE would be maintained. However, firms have difficulty continuing
+to generate those impressive ROEs. Firms with higher ROEs tend to find that, as time
+goes by, their earnings growth does not keep pace with growth in their investment
+base, and ROE ultimately falls.
+The resulting behavior of ROE and other measures of return on investment is characterized as mean-reverting, a pattern similar to that observed for sales growth rates earlier.
+Firms with above-average or below-average rates of return tend to revert over time to a
+"normal" level (historically in the range of 10 to 15 PErcent for U.S. firms) within no
+more than ten years.4 Figure 6-2 documents this mean-reverting effect for U.S. firms
+from 1993 through 2010. All firms are ranked in terms of their ROE in 1993 (year 1)
+and formed into five portfolios in a similar fashion to the sales growth analysis above.
+Firms in portfolio 1 have the top 20 PErcent ROE rankings in 1993, those in portfolio 2
+fall into the next 20 PErcent, and those in portfolio 5 have the bottom 20 PErcent. The
+average ROE of firms in each of these five portfolios is then traced through nine subsequent years (years 2 to 10). The same exPEriment is rePEated with 1997 and 2001 as the
+base year (year 1). Figure 6-2 plots the average ROE of each of the five portfolios in years
+1 to 10 averaged across these three exPEriments.
+Though the five portfolios start out in year 1 with a wide range of ROEs ((cid:1)60 PErcent to
+th30 PErcent), by year 10 the pattern of mean-reversion is clear. The most profitable group of
+firms initially--with average ROEs of 30 PErcent--exPErience a decline to below 20 PErcent
+F IGUR E 6- 2
+Behavior of ROE for U.S. Firms, 1993-2010
+40.0%
+30.0%
+20.0%
+10.0%
+0.0%
+-10.0%
+-20.0%
+-30.0%
+-40.0%
+-50.0%
+-60.0%
+-70.0%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Top Fifth
+Fourth Fifth
+SECond Fifth
+Third Fifth
+Bottom Fifth
+Source: (c) Cengage Learning 2013
+6-6 PART 2 Business Analysis and Valuation Tools
+within five years. By year 10 this group of firms has an ROE of 12 PErcent. Those with the
+lowest initial ROEs ((cid:1)60 PErcent) exPErience a dramatic increase in ROE in the fIRSt three
+years and are marginally profitable or at least close to breakeven by the final four years.
+The pattern in Figure 6-2 is not a coincidence--it is exactly what the economics of
+comPEtition would predict. The tendency of high ROEs to fall is a reflection of high
+profitability attracting comPEtition; the tendency of low ROEs to rise reflects the mobility
+of capital away from unproductive ventures toward more profitable ones.5 Despite the
+general tendencies documented in Figure 6-2, there are some firms whose ROEs may
+remain above or below normal levels for long PEriods of time. In some cases the phenomenon reflects the strength of a sustainable comPEtitive advantage, but in other cases
+it is purely an artifact of conservative accounting methods. A good example of the latter
+phenomenon in the United States is pharmaceutical firms, whose major economic asset,
+the intangible value of research and development, is not recorded on the balance sheet
+and is therefore excluded from the denominator of ROE. For these firms, one could reasonably exPEct high ROEs--in excess of 20 PErcent--over the long run, even in the face
+of strong comPEtitive forces.
+The Behavior of Components of ROE
+The behavior of rates of return on equity can be analyzed further by looking at the
+behavior of its key components. Recall from Chapter 5 that ROEs and profit margins
+are linked as follows:
+ROE 1/4 OPErating ROE th dOPErating ROA (cid:1) Net interest rate after taxTh
+(cid:3) Net financial leverage
+1/4 NOPAT margin (cid:3) OPEarting asset turnover th Spread
+(cid:3) Net financial leverage
+The time-series behaviors of the primary components of ROE for U.S. companies for
+1993 through 2010 are shown in a series of figures in the apPEndix to this chapter. Some
+major conclusions can be drawn from these figures:
+(1) OPErating asset turnover tends to be rather stable, in part because it is largely a
+function of the technology of the industry. The only exception to this is the set
+of firms with very high asset turnover, which tends to decline somewhat over
+time before stabilizing;
+(2) Net financial leverage also tends to be stable, simply because management policies
+on capital structure are not often changed; and
+(3) NOPAT margin stands out as the most variable component of ROE. If the forces
+of comPEtition drive abnormal ROEs toward more normal levels, the change is
+most likely to arrive in the form of changes in profit margins. The change in
+NOPAT margin will drive changes in the spread, since the cost of borrowing is
+likely to remain stable because leverage tends to be stable.
+To summarize, profit margins and ROEs tend to be driven by comPEtition to
+normal levels over time. What constitutes normal varies widely according to the technology employed within an industry and the corporate strategy pursued by the firm, both
+of which influence turnover and leverage.6 In a fully comPEtitive equilibrium, profit margins should remain high for firms that must oPErate with a low turnover, and vice versa.
+The above discussion of rates of return and margins implies that a reasonable starting
+point for forecasting such statistics should consider more than just the most recent
+observation. One should also consider whether that rate or margin is above or below a
+normal level. If so, then ABSent detailed information to the contrary, one would exPEct
+ProsPEctive Analysis: Forecasting 6-7
+some movement over time toward that norm. Of course this central tendency might be
+overcome in some cases--for example, where the firm has erected barriers to comPEtition that can protect margins, even for extended PEriods. The lesson from the evidence,
+however, is that such cases are unusual.
+In contrast to rates of return and margins, it is reasonable to assume that asset turnover, financial leverage, and net interest rate remain relatively constant over time. Unless
+there is an explicit change in technology or financial policy being contemplated for
+future PEriods, a reasonable starting point for assumptions for these variables is the current PEriod level. The only exceptions to this apPEar to be firms with either very high
+asset turns that exPErience some decline in this ratio before stabilizing, or those firms
+with very low (usually negative) net debt to capital that apPEar to increase leverage
+before stabilizing. In addition, firms with very high levels of leverage tend to survive at
+a lower rate than more conservatively financed firms, driving down averages over time.
+As we proceed with the stEPS involved in producing a detailed forecast, the reader will
+note that we draw on knowledge of the behavior of accounting numbers to some extent.
+However, it is important to keep in mind that a knowledge of average behavior will not
+fit all firms well. The art of financial statements analysis requires not only knowing what
+the "normal" patterns are but also having exPErtise in identiFYing those firms that will
+not follow the norm.
+OTHER FORECASTING CONSIDERATIONS
+In general, the mean-reverting behavior of sales growth and return on equity that is demonstrated by the bROAder market should hold for individual companies over time. The
+starting point for any forecast should therefore be the time-series behavior of the various
+measures of firm PErformance, as discussed. However, there are several other factors that
+the analyst should consider in making forecasts. These include an understanding of implications of the three levels of analysis that precede prosPEctive analysis--strategy, accounting, and financial PErformance--and of macROEconomic considerations.7
+Strategy, Accounting, and Financial Analysis and Forecasting
+The analysis of a firm's strategy, accounting, and financial PErformance discussed
+throughout this book can generate important questions and insights about a firm's future
+PErformance. A projection of the future PErformance of any company must therefore be
+grounded in an understanding of the questions raised by these analyses, such as:
+From business strategy analysis: What are the characteristics of the industry in
+which a firm oPErates? Are there significant barriers to entry that are likely to
+deter future comPEtition? If so, how long are they exPEcted to last? What are the
+industry's growth prosPEcts? How are they likely to affect future comPEtition? And,
+does the company in question have a clear strategy that positions it for future success? For example, following up on the discussion of TJX's business strategy in
+Chapter 2, the analyst might ask whether TJX has succeeded in creating a retailing
+infrastructure that will allow it to continue to succeed in the U.S. market? Will it
+be able to replicate this market success internationally? At what rate will TJX be
+able to grow its sales, both in the short term and the long term, without sacrificing
+its margins? Will comPEtitors be able to replicate TJX's efficiency while comPEting
+with a differentiated product offering?
+From accounting analysis: The accounting analysis discussed in Chapters 3 and 4
+provide the analyst with an understanding of how a company's accounting affects
+its reported financial PErformance. Are assets overstated, requiring a future
+6-8 PART 2 Business Analysis and Valuation Tools
+write-down? Does the firm have off-balance sheet assets, such as R&D, that overstate reported rates of return? If so, what are the implications for future accounting
+statements? For TJX, we pointed out that the firm's accounting resulted in the
+value and associated liabilities of oPErating leases being excluded from the firm's
+assets and liabilities.
+From financial analysis: What are the sources of a firm's poor or strong recent
+PErformance? Is this PErformance sustainable? Are there any discernible patterns
+in the firm's past PErformance? If so, are there any reasons why this trend is likely
+to continue or to change?
+These insights assist the analyst in answering questions of whether and for how long the
+firm will be able to maintain any comPEtitive advantage and current PErformance levels,
+which are critical to forecasting. The answers to these questions determine the sPEed with
+which the firm's PErformance follows the general mean-reverting trends discussed above.
+MacROEconomic Factors and Forecasting
+For companies whose financial PErformance is highly sensitive to the economic cycle, the
+analyst will also want to consider macROEconomic conditions when making forecasts.
+Such is likely to be the case for TJX, which in the fIRSt half of 2011 faced a slow U.S.
+economic recovery following the economic crisis of 2008. Despite increased consumer
+sPEnding, overall sPEnding had not yet recovered to pre-recession levels. TJX's focus on
+value had helPEd it to maintain growth during the difficult economic time, with sales
+growing at an average of 5 PErcent PEr year from FY 2007 through FY 2010.8
+However, several factors are likely to affect TJX's growth prosPEcts. High gas prices
+could temPEr consumer enthusiasm for driving to suburban stores and reduce consumer
+sPEnding. Further, the slow pace of the economic recovery, with unemployment continuing to hover near the 10 PErcent level and a weak housing market, combined with concerns over U.S. government debt levels and legislative gridlock, raised concerns of the
+potential for a "double-dip" recession in the United States. Such economic conditions
+generally favor discount retailers such as TJX but also lead to reduced overall consumer
+sPEnding.9 Finally, TJX's expansion plans in EuroPE are likely to be affected by a
+deteriorating economic climate arising from the financial crises in Greece, Portugal,
+Spain, Ireland, and Italy.
+While macROEconomic factors certainly will have an impact on TJX's PErformance in
+the short, medium, and long term, these factors cannot be forecast with a high degree of
+certainty. Consequently, for forecasting purposes it is generally advisable to assume that
+the impact of changes in the business cycle will even out in the long run.
+MAKING FORECASTS
+The analysis of TJX's PErformance in Chapter 5, and preceding discussions about general
+market behavior and TJX's strategic positioning, leads us to the conclusion that while
+TJX has consistently generated above-normal returns for its stakeholders, in the long
+run it is likely that a portion of the firm's abnormal profits will be comPEted away. The
+PErformance of the firm will revert toward the mean, as has been the general trend that
+we have seen earlier in the chapter.
+Table 6-1 shows the forecasting assumptions we have made for TJX for years 2011 to
+2020. We use as our base the adjusted financial statements detailed in Chapter 5 so that
+we can fully incorporate the impact of TJX's off-balance sheet oPErating leases into our
+forecasts. We have chosen a ten-year forecasting PEriod because we believe that the firm
+ProsPEctive Analysis: Forecasting 6-9
+TA B LE 6- 1
+Forecasting Assumptions for TJX
+Forecast Year
+......................................................................................................................................................
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Sales growth
+5.7% 6.6% 7.1% 6.9% 6.7% 6.5% 6.3% 6.1% 5.9% 5.7%
+7.9% 7.5% 7.1% 6.7% 6.3% 5.9% 5.5% 5.0% 4.5% 4.0%
+0.6% 1.0% 1.0% 1.0% 1.0% 1.0% 1.0% 1.0% 1.0% 1.0%
+33.4% 34.0% 34.3% 34.5% 34.8% 35.0% 35.3% 35.5% 35.8% 36.0%
+rate
+NOPAT
+margin
+Beginning net
+oPErating
+working
+capital/sales
+Beginning net
+oPErating
+long-term
+assets/sales
+Beginning
+57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5%
+net debt to
+capital ratio
+After-tax
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+cost of debt
+......................................................................................................................................................
+Source: (c) Cengage Learning 2013
+should reach a relatively steady state of PErformance by then (discussed in further detail
+in Chapter 8). We discuss the forecasting assumptions below.
+The forecasts for TJX for the fIRSt two or three years of the forecast PEriod are a
+straightforward extrapolation of recent PErformance, which are heavily influenced by
+the company's strategic positioning, existing financials, and other company-sPEcific
+metrics. This is generally a valid appROAch for an established company such as TJX
+for a few reasons. FIRSt, the company's management gives no indication of any major
+restructurings or changes to its oPErating and financing policies in the short term.
+SECond, the beginning balance sheet for any forecast PEriod places constraints on oPErating activities during that forecast PEriod. For example, inventories at the beginning of
+the year will determine to some extent the sales activities during the year; stores in
+oPEration at the beginning of the year also determine to some extent the level of sales
+achievable during the year. To put it another way, since our discussion above shows
+that asset turns for a company do not usually change significantly in a short time,
+sales in any PEriod are to some extent constrained by the beginning of the PEriod assets
+in place in the company's balance sheet (although a company like TJX with explicit
+plans to expand assets through new store oPEnings will be able to achieve some flexibility in this regard).
+In contrast, when the analysis shifts focus to the later years of the forecast, the analyst
+should increasingly incorporate the influence of mean-reverting behavior demonstrated
+by the time-series analyses behavior discussed earlier.
+Developing a Sales Growth Forecast
+Despite the intense comPEtition in retailing, TJX has built an impressive track record of
+steady earnings and sales growth, with 15 conSECutive years of earnings PEr share growth
+as of 2010 and with annual consolidated comparable store sales increasing every year
+except one in its 34 years of business.10 Given this history, it is reasonable to exPEct
+6-10 PART 2 Business Analysis and Valuation Tools
+that TJX will continue to deliver growth over the forecast PEriod. TJX has three geographic segments--the domestic market in the United States, which shows signs of stagnating as a result of the intensity of comPEtition and market saturation; the Canadian
+market, which at this point seems to be behaving in a similar manner to the U.S. market;
+and the EuroPEan market, where TJX's initial expansion out of North America into the
+markets of the U.K., Ireland, Germany, and Poland are critical components to continued
+expansion as the U.S. and Canadian markets appROAch saturation.
+At the beginning of 2011, TJX oPErated over 2,000 stores in the United States with its
+T.J. Maxx, Marshalls, and Home Goods formats, with U.S. sales accounting for roughly
+77 PErcent of total TJX revenue. Sales for T.J. Maxx and Marshalls stores (referred to
+collectively as Marmaxx) grew 6 PErcent in the year ending January 2011, compared to
+7.4 PErcent in the previous year. Comparable store sales grew by 4 PErcent. Home Goods
+store sales (which made up about 12 PErcent of total U.S. sales) grew 9 PErcent in the year
+ending January 2011, with same store sales increasing 6 PErcent. Given that TJX has a
+fairly comprehensive U.S. retail network (the company estimated that it had achieved
+roughly 70 PErcent market PEnetration in the U.S. market by 2011), new store oPEnings
+would be exPEcted to increasingly cannibalize sales from existing stores in the same area
+as full market PEnetration is appROAched, reducing growth in comparable store sales.11
+New store oPEnings are also likely to slow as unique attractive locations become increasingly scarce. At the same time, TJX viewed the recent economic downturn as an opportunity to bROAden its customer base, PErceiving a PErmanent consumer "shift to value," and
+has worked to attract and retain more affluent customers with store upgrades and targeted
+advertising.12 However, it is unclear whether this shift in consumer sentiment will be PErmanent and whether this initiative will be successful in offsetting a coming slowdown in
+same store sales. TJX also faces increasing comPEtition from high-end department stores
+that have established their own off-price formats (Nordstrom Rack, Off 5th), as well as
+it is reasonable to exPEct that TJX's overall
+from the growing online channel. Thus,
+U.S. sales growth will trend downward, though probably at a slower pace than would be
+implied by the mean-reverting tendency of sales growth for the overall market.
+TJX Canada sales (which accounted for about 12 PErcent of total TJX sales) increased
+16 PErcent for the year ended January 2011 as compared to the previous year, although
+roughly 9 PErcent of that was due to currency translation--previous year's sales growth had
+been only 1 PErcent, including currency translation impact, which reduced that level by
+3 PErcent. Same store sales increased by 4 PErcent for the year ended January 2011 and
+2 PErcent for the previous year. ABSent currency translation effect, TJX Canada seems to be
+behaving in a similar manner to the U.S. segment. TJX estimates market PEnetration in
+Canada at about 70 PErcent in early 2011, and thus it is reasonable to exPEct that TJX
+Canada will exhibit similar sales growth characteristics as the U.S. market discussed above.13
+TJX's EuroPEan oPEration presents a more interesting forecasting challenge. The subtleties of local tastes and bureaucratic complexities in local real estate markets have
+made it extremely challenging for nondomestic retailing companies to establish market
+leadership outside their home markets. Since its entry into the U.K. in 1994, TJX has
+worked to establish its position as the only major off-price retailer in EuroPE, with
+oPErations in 2011 in the U.K., Germany, and Poland. Sales grew by 10 PErcent from
+2009 to 2010, and 13 PErcent when a negative currency translation impact is excluded.14
+While TJX continues to see strong growth potential in EuroPE, early in 2011 it actually
+announced plans to slow its expansion in order to address execution concerns that in
+the year ended January 2011, resulted in a decrease in segment profit and a decline in
+same store sales.15 Given TJX's estimate of 41 PErcent PEnetration in its EuroPEan segment, it is reasonable to assume that once the company sorts out its oPErational issues,
+it will exPErience a rate of growth that may surpass that of its more PEnetrated markets
+ProsPEctive Analysis: Forecasting 6-11
+TA B LE 6- 2
+Forecasted Sales Growth for TJX
+Forecast Year 2011
+2012
+2013 2014 2015 2016 2017 2018 2019 2020
+........................................................................................................................................................
+TJX
+U.S./Canada
+TJX EuroPE
+Overall Sales
+Growth
+5.7%
+6.4%
+6.7% 6.5% 6.2% 6.0% 5.8% 5.7% 5.5% 5.3%
+5.0%
+8.0% 10.0% 10.0% 10.0% 10.0% 10.0% 9.0% 8.5% 8.0%
+5.7% 6.6% 7.1% 6.9% 6.7% 6.5% 6.3% 6.1% 5.9% 5.7%
+........................................................................................................................................................
+Source: (c) Cengage Learning 2013
+in the United States and Canada. However, on an overall basis, a higher growth rate in
+EuroPE will likely not be enough to overcome slowing growth in the United States and
+Canada, given that as of 2011 the EuroPEan segment contributed only about 11 PErcent
+of total TJX sales revenue and, in our ten year forecast PEriod, rises only to about
+14 PErcent of total TJX sales revenue.
+The projections in Table 6-2 reflect the analysis of TJX's three geographic segments
+discussed above. We have combined the U.S. and Canada segments given that they
+apPEar to have similar growth and saturation characteristics. For TJX overall we show a
+gradual improvement in sales growth over the next couple of years, followed by a slow
+decline in growth as the impact of mean-reversion pressures are felt. While this pattern
+is based on a mixture of business intelligence and a knowledge of long-term trends in the
+market, it is important to note that an analyst could capture much of the dynamics of
+the projections merely by assuming that TJX will not be immune to the long-run forces
+of comPEtition and mean reversion.
+Developing a NOPAT Margin Forecast
+In the U.S. and Canadian markets, TJX is likely to face increasing direct comPEtitive
+pressure from the high-end department stores such as Nordstrom and Saks as they
+expand their off-price brands in the United States, and from U.S. and domestic comPEtitors such as Target, Wal-Mart, Nordstrom, and Hudson's Bay Company as they establish or expand their Canadian presence. In addition, an improving economy in the
+United States would be exPEcted to shift some portion of the more affluent end of
+TJX's customer base back toward the high-end department stores as consumer sentiment
+improves. TJX believes that its program of store upgrades and targeted advertising will
+be successful in retaining its bROAder customer base as the economy rebounds. In addition, it exPEcts its global supply chain infrastructure to help it continue to increase
+inventory turns and reduce the need for markdowns by purchasing later in the sales
+cycle. This improved merchandising and affluent customer retention, if successfully executed, could lead to a narrowing of the margin gap seen in the comparison of TJX and
+Nordstrom in Chapter 5. However, over time it is likely that comPEtitive pressures will
+have a greater impact, leading to a steady decline in NOPAT margins, although PErhaps
+at a slower rate than that of less successful comPEtitors.
+Slow customer acceptance, start-up costs, and less-develoPEd infrastructure has
+resulted in TJX's EuroPEan oPErations generating lower margins than its U.S./Canadian
+businesses. In addition, EuroPEan execution problems and accompanying weak financial
+results in 2011 led the company to slow expansion plans until the issues had been
+resolved.16 We anticipate that in the short term TJX's EuroPEan margins will continue
+to be lower than those in the United States and Canada as the company sorts out its
+execution issues and establishes a larger presence in the market. Thereafter, margins in
+6-12 PART 2 Business Analysis and Valuation Tools
+TAB L E 6- 3
+Forecasted NOPAT Margins for TJX
+Forecast Year
+.......................................................................................................................................................
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Overall NOPAT
+7.9% 7.5% 7.1% 6.7% 6.3% 5.9% 5.5% 5.0% 4.5% 4.0%
+margin
+.......................................................................................................................................................
+Source: (c) Cengage Learning 2013
+EuroPE will show slow improvement as customer acceptance grows and oPErational efficiencies are achieved. However, given the costs of managing exPEcted higher growth in
+EuroPE and continued lower levels of consumer acceptance versus the United States, we
+exPEct that margins in EuroPE will remain lower than those of the U.S. and Canadian
+markets throughout the forecast PEriod, further lowering the company's overall NOPAT
+margins. Table 6-3 shows our forecast of TJX's average NOPAT margins going forward.
+While we would have preferred to forecast NOPAT margins by segment, TJX does not
+provide fully allocated segment data in order for us to do so. As a result, our overall
+NOPAT margin forecast takes into account the analysis above.
+Developing a Working Capital to Sales Forecast
+As discussed in Chapter 5, TJX had an oPErating working capital ratio to sales of less
+than 1.0 in the year ended January 2011. The primary drivers of this low ratio were its
+focus on driving higher inventory turnover and its low accounts receivable levels resulting from the strategic decision to outsource the TJX branded credit card oPErations.
+While TJX prides itself in prompt payment to vendors, as reflected in its reasonable
+35.3 days accounts payable in 2010, this low ratio implies that TJX is able to fund its
+working capital needs--primarily for inventory--through its trade and other short-term
+creditors and accruals.
+TJX continues to view its opportunistic buying strategy as critical to its success at
+maintaining low inventory levels, and it has built its global supplier network to facilitate
+this strategy.17 Working capital needs are also likely to decline as TJX improves oPErations in EuroPE and takes advantage of its growing international presence to negotiate
+more favorable terms with its suppliers. Therefore, it is reasonable to exPEct that its net
+oPErating working capital to sales ratio will remain at or near its current level as the
+firm's market power grows and it continues to invest in its supply chain.
+Developing a Long-Term Assets to Sales Forecast
+As the pace of TJX's new store oPEnings in the United States and Canada slows, comparable store sales growth should improve as fewer new stores will oPEn up near existing
+stores, reducing the risk of customer cannibalization. This should have a beneficial
+impact on the firm's long-term asset use in the United States and Canada. Counteracting
+this improvement is TJX's recent focus on attracting and retaining more affluent customers with enhanced stores. Also, with growth in the asset-intensive EuroPEan segment
+outpacing that of the North American businesses, TJX's ratio of long-term assets to
+sales is likely to gradually deteriorate over the forecast horizon.
+Developing a Capital Structure Forecast
+As we discussed previously (and as can be seen in the historical data on capital structure
+found in the apPEndix), a company's capital structure would typically be exPEcted to
+remain constant over the forecast PEriod, simply because management policies on capital
+ProsPEctive Analysis: Forecasting 6-13
+structure are slow to change. We would exPEct this to be true of TJX as well after looking
+at recent actions related to capital structure taken by the company. For instance, TJX's
+Board of Directors authorized a $1.0 billion share repurchase program in February
+2010, of which $594 million had yet to be repurchased as of January 2011. In addition,
+the Board of Directors approved a new stock repurchase program in February 2011
+authorizing the repurchase of an additional $1.0 billion of TJX common stock. However,
+there was no time limit within which these purchases needed to be completed, and decisions on share repurchases were based on the firm's assessment of "various factors
+including anticipated excess cash flow, liquidity, market conditions, the economic environment and prosPEcts for the business and other factors."18 Thus, we exPEct that it is
+unlikely that TJX will make any fundamental change in its capital structure so that the
+firm's leverage and debt yield (5.5 PErcent before tax and 3.4 PErcent after tax) remain
+relatively stable.
+Having made the set of key assumptions detailed above, it is a straightforward task to
+derive the forecasted income statements and beginning balance sheets for years 2011
+through 2020 as shown in Table 6-4. Under these forecasts, TJX's sales will grow to
+$40.6 billion, almost double the level in 2010. By 2020, the firm will have a net oPErating
+asset base of $15.0 billion and shareholders' equity of $6.4 billion. Consistent with
+market-wide patterns of mean-reversion in returns, TJX's return on equity and oPErating
+return on assets will decline steadily--ROE from 55.4 PErcent in 2010 to 21.7 PErcent by
+2020, and OPErating ROA from 27.8 PErcent to 10.8 PErcent over the same PEriod.
+Cash Flow Forecasts
+Once we have forecasted income statements and balance sheets, we can derive cash flows
+for the years 2011 through 2020. Note that we need to forecast the beginning balance sheet
+for 2021 to compute the cash flows for 2020. This balance sheet is not shown in Table 6-4.
+For the purpose of illustration, we assume that the sales growth and the balance sheet
+ratios remain the same in 2021 as in 2020. Based on this, we project a beginning balance
+sheet for 2021 and compute the cash flows for 2020. Cash flow to capital is equal to
+NOPAT minus increases in net working capital and net long-term assets. As Table 6-4
+shows, the free cash flow to all providers of capital decreases from $1.1 billion in 2011 to
+$0.8 billion by 2020, while cash flow to equity, which adds/deducts cash inflows/outflows
+to debt holders, decreases from $1.4 billion to $1.0 billion over the same PEriod.
+SENSITIVITY ANALYSIS
+The projections discussed thus far represent nothing more than an estimation of a most
+likely scenario for TJX. Managers and analysts are typically interested in a bROAder range
+of possibilities. An analyst estimating the value of TJX would typically consider the sensitivity of projections to the key assumptions about sales growth, profit margins, and
+asset utilization. What if TJX is able to retain more of its comPEtitive advantage in the
+United States than assumed in the above forecasts? Alternatively, what if it is unable to
+successfully address its oPErational issues in EuroPE and is unable to replicate its success
+in the United States in other markets? It is wise to also generate projections based on a
+variety of assumptions to determine the sensitivity of the forecasts to these assumptions.
+There is no limit to the number of possible scenarios that can be considered. One
+systematic appROAch to sensitivity analysis is to start with the key assumptions underlying a set of forecasts, and then examine the sensitivity to the assumptions with greatest
+uncertainty in a given situation. For example, if a company has exPErienced a variable
+pattern of gross margins in the past, it is important to make projections using a range
+of margins. Alternatively, if a company has announced a significant change in its expansion strategy, asset utilization assumptions might be more uncertain. In determining
+where to invest one's time in PErforming sensitivity analysis, it is therefore important to
+consider historical patterns of PErformance, changes in industry conditions, and changes
+in a company's comPEtitive strategy.
+In the case of TJX, two likely alternatives to the forecast can be readily envisioned.
+The forecast presented above exPEcts that TJX's above average success in the U.S. market
+gradually diminishes, while the EuroPEan division addresses its oPErational issues and
+contributes stronger growth and improvement in PErformance. An upside case for TJX
+would have the firm continuing to achieve strong results in the United States and resisting the mean-reverting trends that characterize the market in general, in addition to the
+increased contribution from EuroPEan oPErations. On the downside,
+the projected
+improvement in the EuroPEan business could fail to materialize, hastening the decline
+in TJX's overall PErformance toward the market averages.
+Seasonality and Interim Forecasts
+Thus far, we have concerned ourselves with annual forecasts. However, esPEcially for
+SECurity analysts in the United States, forecasting is very much a quarterly exercise. Forecasting quarter-by-quarter raises a new set of questions. How important is seasonality?
+What is a useful starting point--the most recent quarter's PErformance? The comparable
+quarter of the prior year? Some combination of the two? How should quarterly data be
+used to produce an annual forecast? Does the item-by-item appROAch to forecasting used
+for annual data apply equally well to quarterly data? Full consideration of these questions
+lies outside the scoPE of this chapter, but we can begin to answer some of them.
+Seasonality is a more important phenomenon in sales and earning behavior than one might
+guess. It is present for more than just the retail SECtor firms that benefit from holiday sales.
+Seasonality also results from weather-related phenomena (e.g., for electric and gas utilities,
+construction firms, and motorcycle manufacturers), new product introduction patterns (e.g.,
+for the automobile industry), and other factors. Analysis of the time series behavior of earnings
+for U.S. firms suggests that at least some seasonality is present in nearly every major industry.
+The implication for forecasting is that one cannot focus only on PErformance of the
+most recent quarter as a starting point. In fact, the evidence suggests that, in forecasting
+earnings, if one had to choose only one quarter's PErformance as a basis for forecasting,
+it would be the comparable quarter of the prior year, not the most recent quarter. Note
+how this finding is consistent with the reports of analysts or the financial press; when
+they discuss a quarterly earnings announcement, it is nearly always evaluated relative to
+the PErformance of the comparable quarter of the prior year, not the most recent quarter.
+Research has produced models that forecast sales, earnings, or EPS based solely on prior
+quarters' observations. These models are not used by many analysts since they have access
+to much more information than such simple models contain. However, the models are
+useful for helping those unfamiliar with the behavior of earnings data to understand how
+it tends to evolve over time. Such an understanding can provide useful general background, a point of departure in forecasting that can be adjusted to reflect details not
+revealed in the history of earnings, or a "reasonableness" check on a detailed forecast.
+One model of the earnings process that fits well across a variety of industries is the
+so-called Foster model.19 Using Qt to denote earnings (or EPS) for quarter t, and E(Qt)
+as its exPEcted value, the Foster model predicts that
+EdQtTh 1/4Q t(cid:1)4 th d th phdQt(cid:1)1 (cid:1) Qt(cid:1)5Th
+Foster shows that a model of the same form also works well with quarterly sales data.
+6-16 PART 2 Business Analysis and Valuation Tools
+The form of the Foster model confirms the importance of seasonality because it shows
+that the starting point for a forecast for quarter t is the earnings four quarters ago, Qt(cid:1)4.
+It states that, when constrained to using only prior earnings data, a reasonable forecast of
+earnings for quarter t includes the following elements:
+the earnings of the comparable quarter of the prior year (Qt(cid:1)4);
+a long-run trend in year-to-year quarterly earnings increases (d); and
+a fraction (ph) of the year-to-year increase in quarterly earnings exPErienced most
+recently (Qt(cid:1)1
+(cid:1) Qt(cid:1)5).
+SUMMARY
+The parameters d and ph can easily be estimated for a given firm with a simple linear
+regression model available in most spreadsheet software.20 For most firms the parameter ph tends to be in the range of .25 to .50, indicating that 25 to 50 PErcent of an
+increase in quarterly earnings tends to PErsist in the form of another increase in the
+subsequent quarter. The parameter d reflects in part the average year-to-year change
+in quarterly earnings over past years, and it varies considerably from firm to firm.
+Research indicates that the Foster model produces one quarter ahead forecasts that
+vary from actual results by $.30 to $.35 PEr share, on average. Such a degree of accuracy
+stacks up surprisingly well with that of SECurity analysts, who obviously have access to
+much information ignored in the model. As one would exPEct, most of the evidence supports analysts' forecasts being more accurate, but the models are good enough to be a
+reasonable approximation in most circumstances. While it would certainly be unwise to
+rely completely on such a mechanistic model, an understanding of the typical earnings
+behavior reflected by the model is useful.
+Forecasting represents the fIRSt step of prosPEctive analysis and serves to summarize the
+forward-looking view that emanates from business strategy analysis, accounting analysis,
+and financial analysis. Although not every financial statement analysis is accompanied by
+such an explicit summarization of a view of the future, forecasting is still a key tool for
+managers, consultants, SECurity analysts, investment bankers, commercial bankers, and
+other credit analysts, among others.
+The best appROAch to forecasting future PErformance is to do it comprehensively--
+producing not only an earnings forecast but also a forecast of cash flows and the balance
+sheet as well. Such a comprehensive appROAch provides a guard against internal inconsistencies and unrealistic implicit assumptions. The appROAch described here involves a
+condensed, line-by-line analysis, so as to recognize that different items on the income
+statement and balance sheet are influenced by different drivers. Nevertheless, it remains
+the case that a few key projections--such as sales growth and profit margin--usually
+drive most of the projected numbers.
+The forecasting process should be embedded in an understanding of how various
+financial statistics tend to behave on average and what might cause a firm to deviate
+from that average. ABSent detailed information to the contrary, one would exPEct sales
+and earnings numbers to PErsist at their current levels, adjusted for overall trends of
+recent years. However, rates of return on investment (ROEs) tend, over several years, to
+move from abnormal to normal levels--close to the cost of equity capital--as the forces
+of comPEtition come into play. Profit margins also tend to shift to normal levels, but for
+this statistic "normal" varies widely across firms and industries, dePEnding on the levels
+of asset turnover and leverage. Some firms are capable of creating barriers to entry that
+ProsPEctive Analysis: Forecasting 6-17
+enable them to fight these tendencies toward normal returns, even for many years, but
+such firms are the unusual cases.
+Forecasting should be preceded by a comprehensive business strategy, accounting, and
+financial analysis. It is important to understand the dynamics of the industry in which
+the firm oPErates and its comPEtitive positioning within that industry. Therefore, while
+general market trends provide a useful benchmark, it is critical that the analyst incorporate the views develoPEd about the firm's prosPEcts to guide the forecasting process.
+For some purposes, including short-term planning and SECurity analysis, forecasts for
+quarterly PEriods are desirable. One important feature of quarterly data is seasonality; at
+least some seasonality exists in the sales and earnings data of nearly every industry. An
+understanding of a firm's intra-year PEaks and valleys is a necessary ingredient of a good
+forecast of PErformance on a quarterly basis.
+Forecasts provide the input for estimating a firm's value, which can be viewed as the
+best attempt to reflect in a single summary statistic the manager's or analyst's view of the
+firm's prosPEcts. The process of converting a forecast into a value estimate is labeled valuation and is discussed in the next chapter.
+DISCUSSION QUESTIONS
+1. Merck is one of the largest pharmaceutical firms in the world, and over an extended
+PEriod of time in the recent past, it consistently earned higher ROEs than the pharmaceutical industry as a whole. As a pharmaceutical analyst, what factors would you
+consider to be important in making projections of future ROEs for Merck? In particular, what factors would lead you to exPEct Merck to continue to be a suPErior
+PErformer in its industry, and what factors would lead you to exPEct Merck's future
+PErformance to revert to that of the industry as a whole?
+2. John Right, an analyst with Stock Pickers, Inc., claims, "It is not worth my time to
+develop detailed forecasts of sales growth, profit margins, et cetera, to make earnings
+projections. I can be almost as accurate, at virtually no cost, using the random walk
+model to forecast earnings." What is the random walk model? Do you agree or disagree with John Right's forecast strategy? Why or why not?
+3. Which of the following tyPEs of businesses do you exPEct to show a high degree of
+seasonality in quarterly earnings? Explain why.
+a suPErmarket
+a pharmaceutical company
+a software company
+an auto manufacturer
+a clothing retailer
+4. What factors are likely to drive a firm's outlays for new capital (such as plant, proPErty, and equipment) and for working capital (such as receivables and inventory)?
+What ratios would you use to help generate forecasts of these outlays?
+5. How would the following events (reported this year) affect your forecasts of a firm's
+future net income?
+an asset write-down
+a merger or acquisition
+the sale of a major division
+the initiation of dividend payments
+6-18 PART 2 Business Analysis and Valuation Tools
+6. Consider the following two earnings forecasting models:
+Model 1:
+EdEPStth1Th 1/4 EPSt
+EdEPStth1Th 1/4 1
+5
+X5
+t 1/41
+EPSt
+E(EPStth1) is the exPEcted forecast of earnings PEr share for year t th 1, given information
+available at t. Model 1 is usually called a random walk model for earnings, whereas
+Model 2 is called a mean-reverting model. The earnings PEr share for TJX for the fiscal
+years ending January 2006 (FY2005) through January 2010 (FY2009) are as follows:
+..........................................................................................................................................
+Fiscal Year
+EPS
+2005
+$1.40
+2006
+$1.60
+2007
+$1.70
+2008
+$2.00
+2009
+$2.80
+...........................................................................................................................................
+a. What would the forecast for earnings PEr share in FY2010 be for each model?
+b. Actual earnings PEr share for TJX in FY2010 were $3.30. Given this information,
+what would be the FY2011 forecast for earnings PEr share for each model? Why
+do the two models generate quite different forecasts? Which do you think would
+better describe earnings PEr share patterns? Why?
+7. Joe Fatcat, an investment banker, states, "It is not worth my while to worry about
+detailed long-term forecasts. Instead, I use the following appROAch when forecasting
+cash flows beyond three years: I assume that sales grow at the rate of inflation, capital exPEnditures are equal to depreciation, and that net profit margins and working
+capital to sales ratios stay constant." What pattern of return on equity is implied by
+these assumptions? Is this reasonable?
+The Behavior of Components of ROE
+In Figure 6-2 we show that ROEs tend to be mean-reverting. In this apPEndix we show
+the behavior of the key components of ROE--oPErating ROA, oPErating margin, oPErating asset turnover, and net financial leverage. These ratios are computed using the same
+portfolio appROAch described in the chapter, based on the data for all publicly listed U.S.
+firms for the time PEriod 1993 through 2010 as listed in the Compustat database.
+FIG UR E A-1
+Behavior of OPErating ROA for U.S. Firms, 1993-2010
+40.0%
+30.0%
+20.0%
+10.0%
+0.0%
+-10.0%
+-20.0%
+-30.0%
+-40.0%
+-50.0%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Top Fifth
+Fourth Fifth
+SECond Fifth
+Third Fifth
+Bottom Fifth
+Source: (c) Cengage Learning 2013
+FIG UR E A-2
+Behavior of NOPAT Margin for U.S. Firms, 1993-2010
+20.0%
+10.0%
+0.0%
+-10.0%
+-20.0%
+-30.0%
+-40.0%
+-50.0%
+-60.0%
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Top Fifth
+Fourth Fifth
+SECond Fifth
+Third Fifth
+Bottom Fifth
+Source: (c) Cengage Learning 2013
+ProsPEctive Analysis: Forecasting 6-21
+FI GUR E A- 3
+Behavior of OPErating Asset Turnover for U.S. Firms,
+1993-2010
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Top Fifth
+Fourth Fifth
+SECond Fifth
+Third Fifth
+Bottom Fifth
+Source: (c) Cengage Learning 2013
+FI GUR E A- 4
+Behavior of Net Financial Leverage for U.S. Firms,
+1993-2010
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+- 0.5
+- 1.0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Top Fifth
+Fourth Fifth
+SECond Fifth
+Third Fifth
+Bottom Fifth
+Source: (c) Cengage Learning 2013
+Chapter 7
+PROSPECTIVE ANALYSIS:
+VALUATION THEORY
+AND CONCEPTS
+T he previous chapter introduced forecasting,
+the fIRSt stage of prosPEctive
+analysis. In this and the following chapter we describe valuation, the SECond
+and final stage of prosPEctive analysis. This chapter focuses on valuation theory
+and concepts, and the following chapter discusses implementation issues.
+Valuation is the process of converting forecasts into an estimate of the value of the firm's
+assets or equity. At some level, nearly every business decision involves valuation, at least
+implicitly. Within the firm, capital budgeting involves considering how a particular project
+will affect firm value. Strategic planning focuses on how value is influenced by larger sets of
+actions. Outside the firm, SECurity analysts conduct valuation to support their buy/sell
+recommendations, and potential acquirers (often with the assistance of
+investment
+bankers) estimate the value of target firms and the synergies they might offer. Even credit
+analysts, who typically do not explicitly estimate firm value, must at least implicitly consider
+the value of the firm's equity "cushion" if they are to maintain a complete view of the risk
+associated with lending activity.
+In practice, a wide variety of valuation appROAches are employed. For example, in
+evaluating the fairness of a takeover bid, investment bankers commonly use five to ten
+different methods of valuation. Among the available methods are the following:
+Valuation based on price multiples. Under this appROAch, a current measure of PErformance or single forecast of PErformance is converted into value by applying an
+appropriate price multiple derived from the value of comparable firms. For example, firm value can be estimated by applying a price-to-earnings ratio to a forecast
+of the firm's earnings for the coming year. Other commonly used multiples include
+price-to-book ratios and price-to-sales ratios.
+Discounted dividends. This appROAch expresses the value of the firm's equity as the
+present value of forecasted future dividends.
+Discounted abnormal earnings. Under this appROAch, the value of the firm's equity
+is expressed as the sum of its current book value and present value of forecasted
+abnormal earnings.
+Discounted cash flow (DCF) analysis. This appROAch involves the production of
+detailed, multiple-year forecasts of cash flows. The forecasts are then discounted
+at the firm's estimated cost of capital to arrive at an estimated value.
+the chapter, and their pros and cons
+These methods are develoPEd throughout
+discussed. To simpliFY our discussion, we illustrate valuation for a firm that is exclusively
+7-1
+7-2 PART 2 Business Analysis and Valuation Tools
+equity-financed. Chapter 8 discusses valuation implementation challenges,
+valuing firms that are financially leveraged.
+including
+VALUATION USING PRICE MULTIPLES
+Valuations based on price multiples are widely used by analysts. The primary reason for
+their popularity is their simplicity. The appROAch typically involves the following stEPS:
+Step 1: Select a measure of PErformance or value (e.g., earnings, sales, cash flows,
+book equity, book assets) as the basis for the multiple. The two most commonly used PErformance measures are earnings and book equity.
+Step 2: For firms that are comparable to the firm analyzed, deflate their stock prices
+by their selected PErformance measure to generate multiples, such as priceearnings multiples or the price-to-book multiples.
+Step 3: Apply the average multiple for the comparable firms to the PErformance or
+value measure of the firm being analyzed.
+Under this appROAch, the analyst relies on the market to undertake the difficult task of
+considering the short- and long-term prosPEcts for growth and profitability and their
+implications for the values of the comparable firms. Then the analyst assumes that the
+pricing of the comparable firms is applicable to the firm at hand.
+Key Issues with Multiples-Based Valuation
+On the surface, using multiples seems straightforward. Unfortunately, in practice it is not as
+simple as it would apPEar. Identification of "comparable" firms is often quite difficult. There
+are also some choices to be made concerning how multiples will be calculated. Finally,
+explaining why multiples vary across firms, and how applicable another firm's multiple is to
+the one at hand, requires a sound understanding of the determinants of each multiple.
+Selecting Comparable Firms
+Ideally, price multiples used in a comparable firm analysis are those for firms with similar
+oPErating and financial characteristics. Firms within the same industry are the most obvious
+candidates. But even within narrowly defined industries, it is often difficult to identiFY comparable firms. Many firms are in multiple industries, making it difficult to identiFY representative benchmarks. In addition, firms within the same industry frequently have different
+strategies, growth opportunities, and profitability, creating comparability problems.
+One way of dealing with these issues is to average across all firms in the industry. The
+analyst implicitly hoPEs that the various sources of non-comparability cancel each other
+out, so that the firm being valued is comparable to a "typical" industry member. Another
+appROAch is to focus on only those firms within the industry that are most similar.
+For example, consider using multiples to value TJX. Business databases such as
+OneSource and Hoover's classiFY TJX as belonging to SECtors such as retail apparel,
+department stores, and family clothing stores. As we discussed in Chapter 2, given its
+bROAd demographic customer base, its comPEtitors include Neiman Marcus, Saks Fifth
+Avenue, and Nordstrom on the high end, Sears, Dillards, Macy's, and J.C. PEnney in the
+mid-market, and Wal-Mart and Target at the discount level. The average price-earnings
+ratio for TJX's publicly listed comPEtitors in 2010 was 23.7 and the average price-to-book
+ratio was 2.1. However, it is unclear whether these multiples are useful benchmarks for
+valuing TJX. TJX attracts a bROAder demographic than the full-line stores of its more
+narrowly focused high-end comPEtitors, offers a more targeted value proposition
+(high-end merchandise at discount prices) than mid-market players such as Sears and
+ProsPEctive Analysis: Valuation Theory and Concepts 7-3
+J.C. PEnney, and presents a more sPEcific product offering (apparel and home goods)
+than its discount comPEtitors Wal-Mart and Target. In addition, it comPEtes against
+sPEcialized apparel and home goods retailers both online and off.
+Multiples for Firms with Poor PErformance
+Price multiples can be affected when the denominator variable is temporarily PErforming
+poorly. This is esPEcially common when the denominator is a flow measure, such as
+earnings or cash flows. For example, Sears Holding Corp., one of TJX's mid-market
+comPEtitors, was barely profitable in the fiscal years ended January 2009, 2010, and
+2011. Its 2010 price-earnings ratio of 63.9, which was well above the industry average,
+indicated that investors exPEcted the company to exPErience a PErformance turnaround.
+Consequently, including Sears as one of the benchmark firms in computing an industry
+price-earnings multiple for TJX would probably be misleading.
+Analysts have numerous options for handling the problems for multiples created by transitory shocks to the denominator. One option is to simply exclude firms with large transitory
+effects from the set of comparable firms. If Sears Holding Corp. were excluded from TJX's
+PEer group, the average price-earnings ratio for the industry grouping used declines from
+23.7 to 17.9, which is much closer to the industry median ratio of 15.0. The magnitude of
+this effect illustrates how sensitive price-earnings multiples can be to transitory shocks. If
+transitory poor PErformance is due to a one-time write-down or sPEcial item, analysts can
+simply exclude the effect from their computation of the comparable multiple. Finally, analysts
+can reduce the effect of temporary problems in past PErformance on multiples by using a
+denominator that is a forecast of future PErformance rather than the past measure itself.
+Multiples based on forecasts are termed leading multiples, whereas those based on historical
+data are called trailing multiples. Leading multiples are less likely to include one-time gains
+and losses in the denominator, simply because such items are difficult to anticipate.
+Adjusting Multiples for Leverage
+Price multiples should be calculated in a way that preserves consistency between the
+numerator and denominator. Consistency is an issue for those ratios where the denominator reflects PErformance before servicing debt. Examples include the price-to-sales
+multiple and any multiple of oPErating earnings or oPErating cash flows. When calculating these multiples, the numerator should include not just the market value of equity but
+the value of debt as well.
+THE DISCOUNTED DIVIDEND VALUATION METHOD
+Finance theory holds that the value of any financial claim is the present value of the cash
+payoffs that its claimholders receive. Since shareholders receive cash payoffs from a company in the form of dividends, the value of their equity is the present value of future
+dividends (including any liquidating dividend).
+Equity value 1/4 PVdExPEcted future dividendsTh
+The present value concept is used to make it possible to sum up future dividends received
+in different time PEriods. A dollar of dividends received today is worth more than a dollar
+received in the future because the dollar received today can be reinvested, enabling the investor to receive the reinvested dollar plus a return on that investment in the future. For example, suppose a dollar received today can be invested to earn an annual return of 10 PErcent.
+After one year, the original dollar is worth $1.10 ($1 th $1 (cid:2) 10%), and after two years it
+is worth $1.21 ($1.10 th $1.10 (cid:2) 10%). This process of converting dollars today into future
+dollars is called compounding.
+7-4 PART 2 Business Analysis and Valuation Tools
+The conversion of future dollars into today's dollars is called discounting. Using the
+above example, $1 received in one year's time is equivalent to $0.909 today ($1/$1.10).
+One dollar received in two years is worth $0.826 ($1/$1.21). ApPEndix A provides a more
+comprehensive review of the present value concept.
+To better understand how the discounted dividend appROAch works, consider the
+following simplified example. At the beginning of year 1, Down Under Company raises
+$60 million of equity and uses the proceeds to buy a fixed asset. OPErating profits before
+depreciation (all received in cash) are exPEcted to be $40 million in year 1, $50 million in
+year 2, and $60 million in year 3. The firm pays out all oPErating profits as dividends
+and pays no taxes. At the end of year 3, the company terminates and has no remaining
+value. If the firm's shareholders exPEct to earn a 10 PErcent return, the value of the
+firm's equity (after the initial equity has been raised and the fixed asset purchased) is
+$122.8 million, computed as follows:
+........................................................................................................................................
+PV Factor
+(2)
+PV of Dividend
+(1 (cid:3) 2)
+........................................................................................................................................
+.........................................................................................................................................
+0.909
+0.826
+0.751
+$36.4 m
+41.3 m
+45.1 m
+$122.8 m
+Year
+1
+2
+3
+Equity value
+Dividend
+(1)
+$40 m
+50 m
+60 m
+Of course, in reality firms' lives are not three years but indefinite. How does the
+dividend discount model capture an indefinite stream of future dividends? The typical
+way is to assume that after some time the owner sells the stock, generating a terminating
+dividend or terminal value. But what would the terminating value of the stock be worth?
+Several simpliFYing assumptions can be used to answer this question and are discussed in
+the following chapter.
+In summary, the dividend discount model is the basis for most of the popular theoretical appROAches for stock valuation. It resolves many of the limitations discussed for
+multiples. But it also has its own shortcomings, particularly for firms that pay no dividends or very low dividends, where it is difficult to forecast future dividends. We therefore turn to modifications of the dividend discount model.
+THE DISCOUNTED ABNORMAL EARNINGS VALUATION METHOD
+There is a direct link between dividends and earnings. If all equity (other than capital
+transactions) flows through the income statement,1 the ending book value of equity for
+existing shareholders is simply the beginning book value plus net income less dividends.2
+This relation can be rewritten as follows:
+Dividends 1/4 Net Income th Beginning book equity (cid:4) Ending book equity
+By using this identity, we can rewrite the dividend discount formula so that the equity
+value is as follows:3
+Equity value 1/4 Book equity th PV dExPEcted abnormal earningsTh
+Book equity is simply the latest book value of equity. Abnormal earnings are net income
+less a capital charge and are computed as follows:
+Abnormal earnings 1/4 Net income (cid:4) dExPEcted return (cid:2) Beginning book equityTh
+The capital charge recognizes that shareholders have an opportunity cost for the equity
+funds invested in the business. At the beginning of a year (or quarter) on a book basis
+ProsPEctive Analysis: Valuation Theory and Concepts 7-5
+funds equal to the beginning book equity are invested in the firm on the shareholders'
+behalf. They exPEct to earn a return on this investment, their exPEcted return. Abnormal
+earnings arise when the firm is able to produce earnings that exceed this capital charge.
+The earnings-based formulation has intuitive apPEal. If a firm can earn only the
+required rate of return on its book value, then investors should be willing to pay no
+more than book value for the stock. Investors should pay more or less than book value
+if earnings are above or below this normal level. Thus, the deviation of a firm's market
+value from book value dePEnds on its ability to generate "abnormal earnings." The formulation also implies that a firm's stock value reflects the cost of its existing net assets
+(i.e., its book equity) plus the present value of future growth options (represented by
+cumulative abnormal earnings).
+To illustrate the earnings-based valuation appROAch, let us return to the Down Under
+Company three-year example. Assuming the company depreciates its fixed assets using
+the straight-line method, its accounting-based earnings will be $20 million lower than
+dividends in each of the three years. Year 1 earnings are therefore exPEcted to be
+$20 million (the projected cash inflows/dividends of $40 million net of depreciation).
+The capital charge is $6 million, representing investors' required return of 10 PErcent
+times the book value of assets at the beginning of year 1 ($60 million, the cost of fixed
+assets). Consequently, exPEcted abnormal earnings for year 1 are $14 million ($20 million less the $6 million capital charge). The firm's beginning book equity, earnings, capital charges, abnormal earnings, and valuation will be as follows:
+....................................................................................................................................................
+ExPEcted
+Beginning
+Book Value
+ExPEcted
+Earnings
+Capital
+Charge
+$60 m
+40 m
+20 m
+$20 m
+30 m
+40 m
+$6 m
+4 m
+2 m
+ExPEcted
+Abnormal
+Earnings
+$14 m
+26 m
+38 m
+Year
+1
+2
+3
+PV Factor
+0.909
+0.826
+0.751
+....................................................................................................................................................
+Cumulative PV of abnormal earnings
+th Beginning book value
+....................................................................................................................................................
+1/4 Equity value
+....................................................................................................................................................
+PV of
+ExPEcted
+Abnormal
+Earnings
+$12.7 m
+21.5 m
+28.6 m
+62.8 m
+60.0 m
+$122.8 m
+This stock valuation of $122.8 million is identical to the value estimated when the
+exPEcted future dividends are discounted directly.
+Accounting Methods and Discounted Abnormal Earnings
+One question that arises when valuation is based directly on earnings and book values is
+how the estimate is affected by managers' choice of accounting methods and accrual estimates. Would estimates of value differ for two otherwise identical firms if one used more
+conservative accounting methods than the other? We will see that, provided analysts recognize the impact of differences in accounting methods on future earnings (and hence their
+earnings forecasts), the accounting effects PEr se should have no influence on their value
+estimates. There are two reasons. FIRSt, double-entry bookkeeping is self-correcting. Inflated
+earnings for one PEriod ultimately have to be reversed in subsequent PEriods. SECond,
+accounting choices that affect a firm's current earnings also affect its book value, and therefore affect the capital charges used to estimate future abnormal earnings. For example, conservative accounting lowers a firm's current earnings and book equity, but also reduces
+future capital charges and inflates its future abnormal earnings.
+7-6 PART 2 Business Analysis and Valuation Tools
+To see how these two effects undo the effect of differences in accounting methods or
+accrual estimates let us return to Down Under Company and see what hapPEns if its managers choose to be conservative and exPEnse some unusual costs that could have been capitalized as inventory at year 1. This accounting decision causes earnings and ending book value
+to be lower by $10 million. The inventory is then sold in year 2. For the time being, let us say
+the accounting choice has no influence on the analyst's view of the firm's real PErformance.
+Management's choice reduces abnormal earnings in year 1 and book value at the beginning of year 2 by $10 million. However, future earnings will be higher, for two reasons. FIRSt,
+future earnings will be higher by $10 million when the inventory is sold in year 2. SECond, the
+capital charge for normal earnings in year 2 will be $1 million lower, representing 10 PErcent
+(investors' required return) times $10 million decline in book value of equity at the beginning
+of year 2. The $10 million decline in abnormal earnings in year 1 is therefore PErfectly offset
+(on a present value basis) by the $11 million higher abnormal earnings in year 2. As a result,
+the value of Down Under Company under conservative reporting is identical to the value
+under the earlier accounting method ($122.8 million).
+......................................................................................................................................................
+ExPEcted
+Beginning
+Book Value
+$60 m
+30 m
+20 m
+Year
+1
+2
+3
+ExPEcted
+Earnings
+$10 m
+40 m
+40 m
+Cumulative PV of abnormal earnings
+th Beginning book value
+ExPEcted
+Abnormal
+Earnings
+$4 m
+37 m
+38 m
+PV Factor
+0.909
+0.826
+0.751
+......................................................................................................................................................
+......................................................................................................................................................
+1/4 Equity value
+......................................................................................................................................................
+PV of
+ExPEcted
+Abnormal
+Earnings
+$3.6 m
+30.6 m
+28.6 m
+62.8 m
+60.0 m
+$122.8 m
+Provided the analyst is aware of biases in accounting data that arise from managers'
+using aggressive or conservative accounting choices, abnormal earnings-based valuations
+are unaffected by variation in accounting decisions. This shows that strategic and
+accounting analyses are critical precursors to abnormal earnings valuation. The strategic
+and accounting analysis tools help the analyst to identiFY whether abnormal earnings
+arise from sustainable comPEtitive advantage or from unsustainable accounting manipulations. For example, consider the implications of failing to understand the reasons for a
+decline in earnings from a change in inventory policy for Down Under Company. If an
+analyst mistakenly interpreted the decline as indicating that the firm was having difficulty moving its inventory, rather than that it had used conservative accounting, the analyst might reduce exPEctations of future earnings. The estimated value of the firm would
+then be lower than that reported in our example.
+Key Analysis Questions
+Valuation of equity under the discounted abnormal earnings method requires the
+analyst to answer the following questions:
+Is the firm reporting using conservative or aggressive accounting that will be
+reversed in subsequent years, and which should be reflected in the analyst's
+forecasts of net income and book equity?
+What are exPEcted future net income, book values of equity, and therefore
+abnormal earnings over a finite forecast horizon (usually 5 to 10 years) given
+ProsPEctive Analysis: Valuation Theory and Concepts 7-7
+the firm's industry comPEtitiveness, the firm's positioning, and its accounting
+conservatism?
+What is exPEcted future abnormal net income beyond the final year of the
+forecast horizon (called the "terminal year") based on some simpliFYing
+assumption? If abnormal returns are exPEcted to PErsist, what are the barriers
+to entry that deter comPEtition?
+What is the firm's cost of equity used to compute the present value of abnormal earnings?
+REVISITING PRICE MULTIPLE VALUATIONS
+As noted earlier in this chapter, despite their relative simplicity and popularity, valuation
+multiples are difficult to implement given wide differences in multiples even for firms
+that are in the same industry. The abnormal earnings valuation method provides insight
+into factors that lead to differences in the leading multiples, value-to-book and valueto-earnings, across firms.
+Value-to-Book Equity Multiple
+If the abnormal earnings valuation formula is scaled by book value, the left-hand
+side becomes the equity value-to-book ratio as opposed to the equity value itself. The
+right-hand side variables can be rearranged to reflect three multiple drivers (i) exPEcted
+future earnings deflated by beginning book value, or our old friend return on equity
+(ROE), discussed in Chapter 5; (ii) the exPEcted growth in equity book value over time;
+and (iii) the return required by equity investors. The actual valuation formula is as
+follows:
+Equity value
+Book equity
+1/4 1 th PVdExPEcted abnormal ROE
+(cid:3)ExPEcted beginning book equity growthTh
+Abnormal ROE is the firm's ROE less the return required by equity investors. As
+discussed in financial analysis (Chapter 5), ROEs can be expressed as the product of
+three components (profit margins, sales turnover, and leverage). The ROE projections
+used to compute the equity value-to-book ratio,
+these same
+components.
+therefore,
+reflect
+Firms with positive abnormal ROEs are able to invest their net assets to create value
+for shareholders and will have equity value-to-book ratios greater than one. In contrast,
+firms with negative abnormal ROEs are unable to invest shareholder funds at a rate
+greater than shareholders' required return and have ratios below one.
+The magnitude of a firm's value-to-book multiple also dePEnds on its exPEcted book
+equity growth, defined as forecasted beginning book equity deflated by the current book
+equity. Firms can grow their equity base by issuing new equity or by reinvesting profits.
+If this new equity is invested in positive valued projects for shareholders, that is, projects
+with ROEs that exceed the cost of capital, the firm will boost its equity value-to-book
+multiple. Conversely, for firms with ROEs that are less than the cost of capital, equity
+growth further lowers the multiple.
+7-8 PART 2 Business Analysis and Valuation Tools
+The valuation task can now be framed in terms of two key questions about the firm's
+"value drivers":
+Will the firm be able to generate ROEs that exceed its shareholders' required
+return, and if so, for how long?
+How quickly will the firm's investment base (book value) grow?
+Returning to the three-year Down Under Company example, the implied equity
+value-to-book multiple can be estimated as follows:
+....................................................................................................................................................
+Year 1
+Year 2
+Year 3
+....................................................................................................................................................
+$60 m
+$20 m
+$40 m
+$30 m
+$20 m
+$40 m
+Beginning book value
+Earnings
+ROE
+(cid:4) Cost of capital
+1/4 Abnormal ROE
+(cid:3) (Beg. Book equity growth)
+0.75
+0.10
+0.65
+0.67
+2.00
+0.10
+1.90
+0.33
+0.43
+0.826
+0.63
+0.751
+....................................................................................................................................................
+....................................................................................................................................................
+1/4 Abnormal ROE scaled by book value growth
+(cid:3) PV factor
+....................................................................................................................................................
+1/4 PV of abnormal ROE scaled by book value growth
+0.212
+0.358
+0.476
+....................................................................................................................................................
+Cumulative PV of abnormal ROE scaled by book
+1.046
+value growth
+th 1.00
+1/4 Equity value-to-book multiple
+....................................................................................................................................................
+0.33
+0.10
+0.23
+1.00
+0.23
+0.909
+1.000
+2.046
+There are several points to note from these calculations. FIRSt, ROE is earnings deflated
+by beginning, not ending or average equity. Year 1 ROE is therefore 33 PErcent, computed
+as earnings of $20 million deflated by beginning book value of $60 million. The ROE
+grows over time, reflecting increasing earnings and declining beginning book equity. SECond, beginning book equity growth is forecasted beginning book equity deflated by current
+book equity. For Down Under, the current book equity and beginning book equity for year
+1 are both $60 million, implying that the year 1 growth multiple is 1. Year 2 beginning
+book equity is $40 million, 67 PErcent of the current $60 million. And in year 3, it is $20
+million, 33 PErcent of current book equity. The decline in beginning book equity growth
+over time reflects the finite life of the project. Finally, the equity value-to-book multiple for
+Down Under of 2.046 implies that the stock value is $122.8 (current book equity of $60
+times 2.046), once again identical to the dividend discount model value.
+Value-to-Earnings Multiple
+The equity value-to-book formulation can also be used to construct the equity valueearnings multiple as follows:
+Equity value-to-earnings
+multiple
+1/4 Equity value-to-book
+multiple
+(cid:3) Book value of equity
+Earnings
+1/4 Equity value-to-book multiple
+ROE
+In other words, the same factors that drive a firm's equity value-to-book multiple
+also explain its equity value-earnings multiple. The key difference between the two
+ProsPEctive Analysis: Valuation Theory and Concepts 7-9
+multiples is that the value-earnings multiple is affected by the firm's current level of
+ROE PErformance, whereas the value-to-book multiple is not. Firms that have low
+current ROEs relative to investor exPEctations reflected in the equity value-to-book
+multiple, that is firms predicted to have strong increases in ROE, will have very high
+value-earnings multiples and vice versa. If a firm has a zero or negative ROE, its PE
+multiple is not defined. Value-earnings multiples are therefore more volatile than
+value-to-book multiples.
+The following data for a subset of firms in the retail apparel/department store industry illustrate the relation among return on beginning equity (ROE), book equity growth,
+the price-to-book ratio, and the price-earnings ratio:
+ROE
+Company
+Book Equity
+Growth
+..................................................................................................................................................
+10.5%
+28.6%
+(cid:4)1.2%
+6.3%
+..................................................................................................................................................
+TJX Companies, Inc.
+Nordstrom, Inc.
+Sears Holding Corp.
+Target Corp.
+Price-Earnings
+Ratio
+Price-to-Book
+Ratio
+46.5%
+39.0%
+1.5%
+19.0%
+14.5
+14.9
+63.9
+13.6
+6.0
+4.4
+1.0
+2.5
+TJX and Nordstrom have high price-to-book multiples, both relative to their PEers
+and to other listed U.S. firms, implying that investors exPEct the two firms will continue
+to generate ROEs that exceed their required return and to show strong growth. Target
+has a resPEctable price-to-book multiple that exceeds one,
+indicating that it is also
+exPEcted to continue to generate positive abnormal ROEs and growth, albeit lower than
+for TJX and Nordstrom. The comparable price-earnings ratios for the three firms imply
+that investors do not anticipate any major differences in their future ROE growth relative
+to current ROE.
+In contrast, Sears has by far the lowest price-to-book multiple. Its value of one indicates that investors exPEct it to generate future ROEs that just meet their required return.
+Sears' very high price-to-earnings multiple of 63.9 implies that investors exPEct that the
+current ROE of 1.5 PErcent (certainly lower than the required return) will likely increase
+in the future to match their required return.
+Key Analysis Questions
+To value a firm using multiples, an analyst has to assess the quality of the variable
+used as the multiple basis, and to determine the appropriate PEer firms to include in
+the benchmark multiple. Analysts are therefore likely to be interested in answering
+the following questions:
+How well does the denominator used in the multiple reflect the firm's PErformance? For example, if earnings or book equity are used as the denominator,
+has the firm made conservative or aggressive accounting choices that affect
+these variables and that are likely to unwind in the coming years? Is the firm
+likely to show strong growth in earnings or book equity? If earnings are the
+denominator, does the firm have temporarily poor or strong PErformance?
+What is the sustainability of the firm's growth and ROE based on the comPEtitive dynamics of its industry and product market and its own comPEtitive
+position?
+7-10 PART 2 Business Analysis and Valuation Tools
+Which are the most suitable PEer companies to include in the benchmark
+multiple computation? Have these firms had comparable growth (earnings or
+book values), profitability, and quality of earnings to the firm being analyzed?
+Do they have the same risk characteristics?
+SHORTCUT FORMS OF EARNINGS-BASED VALUATION
+The discounted abnormal earnings valuation formula can be simplified by making
+assumptions about the relation between a firm's current and future abnormal earnings.
+Similarly, the equity value-to-book formula can be simplified by making assumptions
+about long-term ROEs and growth.
+Abnormal Earnings Simplification
+Several assumptions about the relation between current and future net income are popular for simpliFYing the abnormal earnings model. FIRSt, abnormal earnings can be
+assumed to follow what is known as a random walk. This implies that an analyst's best
+guess about future exPEcted abnormal earnings are current abnormal earnings. The
+model assumes that past shocks to abnormal earnings continue forever, but that future
+shocks are random or unpredictable. The random walk model can be written as follows:
+Forecasted abnormal earnings 1/4 Current abnormal earnings
+Under the model, the best guess of abnormal earnings in any future year is just current
+abnormal earnings. It is also possible to include a drift term in the model, allowing abnormal earnings to grow or decline by a constant amount, or at a constant rate in each PEriod.
+How does the above assumption about future abnormal earnings simpliFY the discounted
+abnormal earnings valuation model? If abnormal earnings follow a random walk, all future
+forecasts of abnormal earnings are simply current abnormal earnings. Consequently, the
+present value of future abnormal earnings can be calculated by valuing the current level of
+abnormal earnings as a PErPEtuity. It is then possible to rewrite value as follows:
+Equity value 1/4 Book equity th Current abnormal earnings
+ExPEcted return
+The equity value is the current book value of equity plus current abnormal earnings
+divided by the exPEcted return for equity investors. The PErPEtuity formula can be
+adjusted to incorporate exPEctations of constant growth in future abnormal earnings.
+In reality, of course, shocks to abnormal earnings are unlikely to PErsist forever. Firms
+that have positive shocks are likely to attract comPEtitors that will reduce opportunities
+for future abnormal PErformance. Firms with negative abnormal earnings shocks are
+likely to fail or to be acquired by other firms that can manage their resources more effectively. The PErsistence of abnormal PErformance will therefore dePEnd on strategic factors such as barriers to entry and switching costs, discussed in Chapter 2. To reflect this,
+analysts frequently assume that current shocks to abnormal earnings decay over time.
+Under this assumption, abnormal earnings are said to follow an autoregressive model.
+Forecasted abnormal earnings are then:
+Forecasted abnormal earnings 1/4 (cid:1) Current abnormal earnings
+b is a parameter that captures the sPEed with which abnormal earnings decay over time.
+If there is no decay, b is one and abnormal earnings follow a random walk. If b is zero,
+abnormal earnings decay completely within one year. Estimates of b using actual
+ProsPEctive Analysis: Valuation Theory and Concepts 7-11
+company data indicate that for a typical U.S. firm, b is approximately 0.6, implying that
+on average abnormal ROEs decline by around 40 PErcent PEr year. However, the rate of
+decline varies by industry and is smaller for firms with large accruals and one-time
+accounting charges.4
+The autoregressive model implies that stock values can again be written as a function
+of current abnormal earnings and book values:5
+Equity value 1/4 Book equity th
+(cid:1) Current abnormal earnings
+ExPEcted return (cid:4) d1 (cid:4) (cid:1)Th
+This formulation implies that stock values are simply the sum of current book value plus
+current abnormal earnings weighted by the cost of equity capital and PErsistence in
+abnormal earnings.
+ROE and Growth Simplifications
+It is also possible to make simplifications about long-term ROEs and equity growth to
+reduce forecast horizons for estimating the equity value-to-book multiple. Firms' longterm ROEs are affected by such factors as barriers to entry in their industries, change
+in production or delivery technologies, and quality of management. As discussed in
+Chapter 6, these factors tend to force abnormal ROEs to decay over time. One way to
+model this decay is to assume that ROEs revert to the mean. Forecasted ROE after one
+PEriod then takes the following form:
+Forecast ROE 1/4 Current ROE th (cid:1)dCurrent ROE (cid:4) Steady State ROETh
+Steady state ROE could either be the firm's required return for equity investors or its
+long-term industry ROE. b is a "sPEed of adjustment factor" that reflects how quickly it
+takes the ROE to revert to its steady state.6
+Growth rates in the book value of equity are driven by several factors. FIRSt, the size
+of the firm is important. Small firms can sustain very high growth rates for an
+extended PEriod, whereas large firms find it more difficult to do so. SECond, firms
+with high rates of growth are likely to attract comPEtitors, which reduces their growth
+rates. As a result, steady-state rates of growth in book equity are likely to be similar
+to rates of growth in the overall economy, which in the United States have averaged
+3 to 4 PErcent PEr year.
+The long-term patterns in ROE and book equity growth rates imply that for most
+companies there is limited value in making forecasts for valuation beyond a relatively
+short horizon, generally five to ten years. Powerful economic forces tend to lead firms
+with suPErior or inferior PErformance early in the forecast horizon to revert to a level
+that is comparable to that of other firms in the industry or the economy. For a firm in
+steady state, that is, exPEcted to have a stable ROE and book equity growth rate, the
+value-to-book multiple formula simplifies to the following:
+Equity value
+Book equity
+1/4 1 th ExPEcted ROE (cid:4) Required return
+Required return (cid:4) book growth
+Consistent with this simplified model, there is a strong relationship between priceto-book ratios and current ROEs. Figure 7-1 shows the relation between these variables
+for firms in the retail apparel/department store industry we discussed earlier. The correlation between the two variables is 0.97.
+Of course, analysts can make a variety of simpliFYing assumptions about a firm's ROE
+and growth. For example, they can assume that they decay slowly or rapidly to the cost
+of capital and the growth rate for the economy. They can assume that the rates decay to
+7-12 PART 2 Business Analysis and Valuation Tools
+FIG UR E 7-1
+Relationship between ROE and Price-to-Book Multiples
+E
+O
+R
+50%
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+0
+1
+2
+3
+4
+5
+6
+7
+Price-to-Book Ratio
+Source: (c) Cengage Learning 2013
+the industry or economy average ROEs and book value growth rates. The valuation formula can easily be modified to accommodate these assumptions.
+THE DISCOUNTED CASH FLOW MODEL
+The final valuation method discussed here is the discounted cash flow appROAch. This is
+finance classes. Like the abnormal earnings
+the valuation method taught
+appROAch, it is derived from the dividend discount model. It is based on the insight that
+dividends can be recast as free cash flows:7
+Dividends 1/4 OPErating cash flow (cid:4) Capital outlays th Net cash flows from debt owners
+in most
+As discussed in Chapter 5, oPErating cash flows to equity holders are simply net
+income plus depreciation less changes in working capital accruals. Capital outlays are
+capital exPEnditures less asset sales. Finally, net cash flows from debt owners are issues
+of new debt less retirements less the after-tax cost of interest.8
+The dividend discount model can therefore be written as the present value of free cash
+flows to equity. Under this formulation, value to shareholders is estimated as follows:
+Equity value 1/4 PVdExPEcted free cash flows to equityTh
+Valuation under the discounted cash flow method therefore involves the following
+stEPS:
+Step 1: Forecast free cash flows available to equity holders over a finite forecast horizon (usually 5 to 10 years),
+Step 2: Forecast free cash flows beyond the terminal year based on some simpliFYing
+assumption, and
+Step 3: Discount free cash flows to equity holders at the cost of equity. The discounted
+amount represents the estimated value of free cash flows available to equity.
+Returning to the Down Under Company example, there is no debt, so that the free
+cash flows to owners are simply the oPErating profits before depreciation. Since the
+ProsPEctive Analysis: Valuation Theory and Concepts 7-13
+company's required return for shareholders is assumed to be 10 PErcent, the present
+value of the free cash flows is calculated as follows:
+........................................................................................................................................
+ExPEcted Free
+Cash Flows
+$40 m
+50 m
+60 m
+PV Factor
+0.909
+0.826
+0.751
+PV of ExPEcted
+Free Cash Flows
+$36.4 m
+41.3 m
+45.1 m
+$122.8 m
+........................................................................................................................................
+.........................................................................................................................................
+Year
+1
+2
+3
+Equity value
+Notice that the value of Down Under's equity is exactly the same as that estimated
+using the discounted abnormal earnings method. This should not be surprising. Both
+methods are derived from the dividend discount model. And in estimating value under
+the two appROAches, we have used the same underlying assumptions to forecast earnings
+and cash flows.
+COMPARING VALUATION METHODS
+We have discussed three methods of valuation derived from the dividend discount model:
+discounted dividends, discounted abnormal earnings (or abnormal ROEs), and discounted
+cash flows. Since the methods are all derived from the same underlying model, no one version can be considered suPErior to the others. As long as analysts make the same assumptions about firm fundamentals, value estimates under all three methods will be identical.
+However, there are important differences between the models that are discussed below:
+Differences in Focus
+The methods frame the valuation task differently and can in practice focus the analyst's
+attention on different issues. The earnings-based appROAches frame the issues in terms of
+accounting data such as earnings and book values rather than cash flows. Analysts sPEnd
+considerable time analyzing historical income statements and balance sheets, and their
+primary forecasts are typically for these accounting variables.
+Defining values in terms of ROEs has the advantage that it focuses analysts' attention
+on ROE, the same key measure of PErformance that is decomposed in a standard financial analysis. Furthermore, because ROEs control for firm scale, it is likely to be easier for
+analysts to evaluate the reasonableness of their forecasts by benchmarking them with
+ROEs of other firms in the industry and the economy. This tyPE of benchmarking is
+more challenging for free cash flows and abnormal earnings.
+Differences in Required Structure
+The methods differ in the amount of analysis and structure required for valuation. The
+discounted abnormal earnings and ROE methods require analysts to construct both pro
+forma income statements and balance sheets to forecast future earnings and book values.
+In contrast, the discounted cash flow method requires analysts to forecast income statements and changes in working capital and long-term assets to generate free cash flows.
+Finally, the discounted dividend method requires analysts to forecast dividends.
+The discounted abnormal earnings, ROE, and free cash flow models all require more
+structure for analysis than the discounted dividend appROAch. They therefore help analysts avoid structural inconsistencies in their forecasts of future dividends by sPEcifically
+future PErformance and investment opportunities.
+requiring a prediction of
+firms'
+7-14 PART 2 Business Analysis and Valuation Tools
+Similarly, the discounted abnormal earnings/ROE method requires more structure and
+work than the discounted cash flow method to build full pro forma balance sheets. This
+PErmits analysts to avoid inconsistencies in the firm's financial structure.
+Differences in Terminal Value Implications
+A third difference between the methods is in the effort required for estimating terminal
+values. Terminal value estimates for the abnormal earnings and ROE methods tend to
+represent a much smaller fraction of total value than under the discounted cash flow or
+dividend methods. On the surface, this would apPEar to mitigate concerns about the
+asPEct of valuation that leaves the analyst most uncomfortable. Is this apparent advantage real? As explained below, the answer turns on how well value is already reflected
+in the accountant's book value.
+The abnormal earnings valuation does not eliminate the discounted cash flow terminal value problem, but it does reframe it. Discounted cash flow terminal values include
+the present value of all exPEcted cash flows beyond the forecast horizon. Under abnormal earnings valuation, that value is broken into two parts: the present values of normal
+earnings and abnormal earnings beyond the terminal year. The terminal value in the
+abnormal earnings technique includes only the abnormal earnings. The present value of
+normal earnings is already reflected in the original book value.
+The abnormal earnings appROAch, then, recognizes that current book value and earnings over the forecast horizon already reflect many of the cash flows exPEcted to arrive
+after the forecast horizon. The appROAch builds directly on accrual accounting. For example, under accrual accounting book equity can be thought of as the minimum recoverable future benefits attributable to the firm's net assets. In addition, revenues are
+typically realized when earned, not when cash is received. The discounted cash flow
+appROAch, on the other hand, "unravels" all of the accruals, spreads the resulting cash
+flows over longer horizons, and then reconstructs its own "accruals" in the form of discounted exPEctations of future cash flows. The essential difference between the two
+appROAches is that abnormal earnings valuation recognizes that the accrual process may
+already have PErformed a portion of the valuation task, whereas the discounted cash flow
+appROAch ultimately moves back to the primitive cash flows underlying the accruals.
+The usefulness of the accounting-based PErsPEctive thus hinges on how well the
+accrual process reflects future cash flows. The appROAch is most convenient when the
+accrual process is "unbiased," so that earnings can be abnormal only as the result of
+economic rents and not as a product of accounting itself.9 The forecast horizon then
+extends to the point where the firm is exPEcted to appROAch a comPEtitive equilibrium
+and earn only normal earnings on its projects. Subsequent abnormal earnings would
+be zero, and the terminal value at that point would be zero. In this case, all of the
+firm's value is reflected in the book value and earnings projected over the forecast
+horizon.
+Of course, accounting rarely works so well. For example, in most countries research and
+development costs are exPEnsed, and book values fail to reflect any research and development assets. As a result, firms that sPEnd heavily on research and development--such as
+pharmaceutical companies--tend on average to generate abnormally high earnings even in
+the face of stiff comPEtition. Purely as an artifact of research and development accounting,
+abnormal earnings would be exPEcted to remain positive indefinitely for such firms, and
+the terminal value could represent a substantial fraction of total value.
+If desired, the analyst can alter the accounting appROAch used by the firm in his or her
+own projections. "Better" accounting would be viewed as that which reflects a larger fraction of the firm's value in book values and earnings over the forecast horizon.10 This
+ProsPEctive Analysis: Valuation Theory and Concepts 7-15
+same view underlies analysts' attempts to "normalize" earnings; the adjusted numbers are
+intended to provide better indications of value, even though they reflect PErformance
+only over a short horizon.
+Recent research has focused on the PErformance of earnings-based valuation relative
+to discounted cash flow and discounted dividend methods. The findings indicate that
+over relatively short forecast horizons, ten years or less, valuation estimates using the
+abnormal earnings appROAch generate more precise estimates of value than either the discounted dividend or discounted cash flow models. This advantage for the earnings-based
+appROAch PErsists for firms with conservative or aggressive accounting, indicating that
+accrual accounting in the United States does a reasonably good job of reflecting future
+cash flows.11
+Research also indicates that abnormal earnings estimates of value outPErform traditional
+multiples, such as price-earnings ratios, price-to-book ratios, and dividend yields, for predicting future stock movements.12 Firms with high abnormal earnings model estimates of value
+relative to current price show positive abnormal future stock returns, whereas firms with low
+estimated value-to-price ratios have negative abnormal stock PErformance.
+Key Analysis Questions
+The above discussion on the trade-offs between different methods of valuing a company raises several questions for analysts about how to compare methods and to
+consider which is likely to be most reliable for their analysis:
+What are the key PErformance parameters that the analyst forecasts? Is more
+attention given to forecasting accounting variables, such as earnings and book
+values, or to forecasting cash flow variables?
+Has the analyst linked forecasted income statements and balance sheets? If
+not, is there any inconsistency between the two statements, or in the implications of the assumptions for future PErformance? If so, what is the source of
+this inconsistency and does it affect discounted earnings-based and discounted
+cash flow methods similarly?
+How well does the firm's accounting capture its underlying assets and obligations? Does it do a good enough job that we can rely on book values as the
+basis for long-term forecasts? Alternatively, does the firm rely heavily on offbalance-sheet assets, such as R&D, which make book values a poor lower
+bound on long-term PErformance?
+Has the analyst made very different assumptions about long-term PErformance in the terminal value computations under the different valuation methods? If so, which set of assumptions is more plausible given the firm's
+industry and its comPEtitive positioning?
+SUMMARY
+Valuation is the process by which forecasts of PErformance are converted into estimates
+of price. A variety of valuation techniques are employed in practice, and there is no single method that clearly dominates others. In fact, since each technique involves different
+there are gains to considering several appROAches
+advantages and disadvantages,
+simultaneously.
+7-16 PART 2 Business Analysis and Valuation Tools
+For shareholders, a stock's value is the present value of future dividends. This chapter
+described three valuation techniques directly based on this dividend discount definition
+of value: discounted dividends, discounted abnormal earnings/ROEs, and discounted free
+cash flows. The discounted dividend method attempts to forecast dividends directly. The
+abnormal earnings appROAch expresses the value of a firm's equity as book value plus
+discounted exPEctations of future abnormal earnings. Finally, the discounted cash flow
+method represents a firm's stock value by exPEcted future free cash flows discounted at
+the cost of capital.
+Although these three methods were derived from the same dividend discount model,
+they frame the valuation task differently. In practice they focus the analyst's attention on
+different issues and require different levels of structure in developing forecasts of the
+underlying primitive, future dividends.
+Price multiple valuation methods were also discussed. Under these appROAches, analysts estimate ratios of current price to historical or forecasted measures of PErformance
+for comparable firms. The benchmarks are then used to value the PErformance of the
+firm being analyzed. Multiples have traditionally been popular, primarily because they
+do not require analysts to make multiyear forecasts of PErformance. However, it can be
+difficult to identiFY comparable firms to use as benchmarks. Even across highly related
+firms, there are differences in PErformance that are likely to affect their multiples.
+The chapter discussed the relation between two popular multiples, value-to-book and
+value-earnings ratios, and the discounted abnormal earnings valuation. The resulting formulations indicate that value-to-book multiples are a function of future abnormal ROEs,
+book value growth, and the firm's cost of equity. The value-earnings multiple is a function of the same factors and also the current ROE.
+DISCUSSION QUESTIONS
+1. Joe Watts, an analyst at EMH SECurities, states: "I don't know why anyone would
+ever try to value earnings. Obviously, the market knows that earnings can be manipulated and therefore it only values cash flows." Discuss.
+2. Explain why terminal values in accounting-based valuation are significantly less than
+those for DCF valuation.
+3. Manufactured Earnings is a "darling" of Wall Street analysts. Its current market
+price is $15 PEr share, and its book value is $5 PEr share. Analysts forecast that the
+firm's book value will grow by 10 PErcent PEr year indefinitely, and the cost of
+equity is 15 PErcent. Given these facts, what is the market's exPEctation of the firm's
+long-term average ROE?
+4. Given the information in question 3, what will be Manufactured Earnings'
+stock price if the market revises its exPEctations of long-term average ROE to
+20 PErcent?
+5. Analysts reassess Manufactured Earnings' future PErformance as follows: growth in
+book value increases to 12 PErcent PEr year, but the ROE of the incremental book
+value is only 15 PErcent. What is the impact on the market-to-book ratio?
+6. How can a company with a high ROE have a low PE ratio?
+7. What tyPEs of companies have
+a high PE and a low market-to-book ratio?
+a high PE ratio and a high market-to-book ratio?
+a low PE and a high market-to-book ratio?
+a low PE and a low market-to-book ratio?
+ProsPEctive Analysis: Valuation Theory and Concepts 7-17
+8. Free cash flows (FCF) used in DCF valuations discussed in the chapter are defined
+as follows:
+FCF to debt and equity 1/4 Earnings before interest and taxes (cid:3) d1 (cid:4) tax rateTh
+th Depreciation and deferred taxes (cid:4) Capital
+exPEnditures (cid:4)=th Increase=decrease in working capital
+FCF to equity 1/4 Net income th Depreciation and deferred taxes
+(cid:4) Capital exPEnditures (cid:4)=th Increase=decrease in working
+capital th=(cid:4) Increase=decrease in debt
+Which of the following items affect free cash flows to debt and equity holders?
+Which affect free cash flows to equity alone? Explain why and how.
+An increase in accounts receivable
+A decrease in gross margins
+An increase in proPErty, plant, and equipment
+An increase in inventory
+An increase in prepaid exPEnses
+An increase in notes payable to the bank
+Interest exPEnse
+9. Starite Company is valued at $20 PEr share. Analysts exPEct that it will generate free
+cash flows to equity of $4 PEr share for the foreseeable future. What is the firm's
+implied cost of equity capital?
+10. Janet Stringer argues that "the DCF valuation method has increased managers' focus
+on short-term rather than long-term PErformance, since the discounting process
+places much heavier weight on short-term cash flows than long-term ones."
+Comment.
+1. The incorporation of all non-capital equity transactions into income is called clean
+surplus accounting. It is analogous to comprehensive income, the concept defined in
+FAS 130.
+2. Changes in book value also include new capital contributions. However, the dividend discount model assumes that new capital is issued at fair value. As a result,
+any incremental book value from capital issues is exactly offset by the discounted
+value of future dividends to new shareholders. Capital transactions, therefore, do
+not affect firm valuation.
+3. ApPEndix C to this chapter provides a simple proof of the earnings-based valuation
+NOTES
+formula.
+4. See P. M. Dechow, A. P. Hutton, and R. G. Sloan, "An empirical assessment of the residual income valuation model," Journal of Accounting and Economics 23, January 1999.
+5. This formulation is a variant of a model proposed by J. Ohlson, "Earnings, book
+values, and dividends in SECurity valuation," Contemporary Accounting Research
+11, Spring 1995. Ohlson includes in his forecasts of future abnormal earnings a
+variable that reflects relevant information other than current abnormal earnings.
+This variable then also apPEars in the stock valuation formula. Empirical research
+by Dechow, Hutton, and Sloan, "An empirical assessment of the residual income
+valuation model," Journal of Accounting and Economics 23, January 1999, indiearnings do reflect
+forecasts of
+cates
+analysts'
+abnormal
+financial
+that
+7-18 PART 2 Business Analysis and Valuation Tools
+considerable information other than current abnormal earnings, and that this
+information is useful for valuation.
+6. This sPEcification is similar to the model for dividends develoPEd by J. Lintner, "Distribution of incomes of corporations among dividends, retained earnings, and taxes,"
+American Economic Review 46 (May 1956): 97-113.
+7. In practice, firms do not have to pay out all of their free cash flows as dividends;
+they can retain surplus cash in the business. The conditions under which a firm's
+dividend decision affects its value are discussed by M. H. Miller and F. Modigliani
+in "Dividend Policy, Growth and the Valuation of Shares," Journal of Business 34
+(October 1961): 411-33.
+8. Most finance texts implement the discounted cash flow model using cash flows
+attributable to all the firm's investors, both debt and equity. This generates the
+value of the firm's assets rather than the value of its equity. However, the value of
+the equity can easily be computed using this appROAch by deducting the value of the
+outstanding debt from the estimated value of the assets. Indeed, all of the valuation
+appROAches discussed in this chapter can be structured to estimate the value of a
+firm's assets rather than its equity. Further discussion of these methods is shown in
+ApPEndix D.
+9. Unbiased accounting is that which,
+in a comPEtitive equilibrium, produces an
+exPEcted ROE equal to the cost of capital. The actual ROE thus reveals the presence of economic rents. Market-value accounting is a sPEcial case of unbiased
+accounting that produces an exPEcted ROE equal to the cost of capital, even
+when the firm is not in a comPEtitive equilibrium. That is, market-value accounting reflects the present value of future economic rents in book value, driving the
+exPEcted ROEs to a normal level. For a discussion of unbiased and biased accounting, see G. Feltham and J. Ohlson, "Valuation and Clean Surplus Accounting for
+OPErating and Financial Activities," Contemporary Accounting Research 11, No. 2
+(Spring 1995): 689-731.
+10. In Bennett Stewart's book on EVA valuation, The Quest for Value (New York:
+HarPEr Business, 1999), he recommends a number of accounting adjustments,
+including the capitalization of research and development.
+11. S. PEnman and T. Sougiannis, "A Comparison of Dividend, Cash Flow, and Earnings AppROAches to Equity Valuation," Contemporary Accounting Research (Fall
+1998): 343-83, compares the valuation methods using actual realizations of earnings,
+cash flows, and dividends to estimate prices. J. Francis, P. Olsson, and D. Oswald,
+"Comparing Accuracy and Explainability of Dividend, Free Cash Flow and Abnormal Earnings Equity Valuation Models," Journal of Accounting Research 38 (Spring
+2000): 45-70, estimates values using Value Line forecasts.
+12. See C. Lee, J. Myers, and B. Swaminathan, "What is the Intrinsic Value of the Dow?"
+Journal of Finance (October 1999): 1693-1741.
+APPENDIX A Time Value of Money: Present and Future Values
+The notion that $1 today is worth more than $1 received in one year is fundamental to
+finance. You may view this notion as obvious--after all, inflation reduces the value of nominal dollars over time and uncertainty about the receipt of future dollars increases the value
+of dollars already received today. But the finance concept does not rest upon these principles. Instead, it arises from the fact that the $1 received today can be invested at a positive
+ProsPEctive Analysis: Valuation Theory and Concepts 7-19
+interest rate to generate an amount greater than $1 in one year. This concept is known as
+the time value of money and is reflected in future and present value computations.
+Future Values and Compounding
+To understand future values, consider an opportunity to invest $1 in a bank (an investment that has no risk) that generates a 10 PErcent annual return. The amount you
+can exPEct to receive in one year is called the future value of $1 in one year at 10 PErcent
+FV($1, 10%, 1), and is computed as follows:
+FVd$1, 10%, 1Th 1/4$1 th $1 (cid:3) 10%
+1/4 $1 (cid:3) d1 th 10%Th
+1/4 $1:10:
+Similarly, the future value of a dollar at 10% in two years is
+FVd$1, 10%, 2Th 1/4$1 th $1 (cid:3) 10% th d$1 th $1 (cid:3) 10%Th (cid:3)10%
+1/4 $1 (cid:3) d1 th 10%Th2
+1/4 $1:121
+More generally, we can write the future value of $1 at any interest rate R for any number
+of PEriods N as follows:
+FVd$1, R, NTh 1/4$ (cid:3) d1 th RThN
+This process of converting dollars today into future dollars is called compounding. Among
+other things, it is useful for helping us to compute how much our savings will be worth
+upon retirement. For example, if I exPEct to retire in five years' time, my savings account
+that currently has a balance of $10,000 earning 5 PErcent PEr year will have grown to:
+FVd$10,000, 5%, 5Th 1/4$10,000 (cid:3) d1 th 5%Th5
+1/4 $10,000 (cid:2) 1:2763 1/4 $12,763
+Notice that as interest rates increase, future values also increase. For example, if rates rise from
+5 PErcent to 10 PErcent, the future value of my savings account will increase from $12,763 to
+$16,051, since I am now able to earn a much higher return on the savings.
+Present Values and Discounting
+The process of converting future dollars into today's dollars is called discounting. Using
+the examples above, $1.10 received in one year has a present value of $1 and $1.21
+received in two years has a present value of $1. The present value of $1 received in
+one year, PV($1, 10%, 1), is therefore the amount that when invested today for one
+year at 10 PErcent would generate exactly $1, or PV($1, 10%, 1) (cid:3) (1 th 10%) 1/4 $1.
+This implies that the present value itself is:
+PVd1, 10%, 1Th 1/4$1= d1 th 10%Th 1/4$0: 909
+Similarly, the present value of $1 received in two years is PV($1, 10%, 2) (cid:3) (1 th 10%)2 1/4 $1,
+so the present value itself is
+PVd$1, 10%, 2Th 1/4$1= d1 th 10%Th2 1/4 $0:826
+More generally, we can write the present value of $1 at any interest rate R for any number of PEriods N as follows:
+PVd$1, R, NTh 1/4$1= d1 th RThN
+7-20 PART 2 Business Analysis and Valuation Tools
+The present value concept can also help us to plan for our retirement. For example, if we
+decided that we wanted a nest egg of $1,000,000 for our planned retirement in twenty
+years, it can help us determine how much we would need to set aside in savings today
+to meet our goal. This is just the present value of $1,000,000 received in 20 years. If
+interest rates are 10 PErcent, this amount is
+PVd$1,000,000, 10%, 20Th 1/4$1,000,000 =d1 th 10%Th20 1/4 $148:644
+This means that if we invest $148,644 today, the interest that compounds on our investment will make it worth $1,000,000 in 20 years.
+Notice that as interest rates decrease, the present value of dollars received in the
+future increase. For example, if interest rates fall from 10 PErcent to 5 PErcent, the present value of $1,000,000 in 20 years increases from $148,644 to $376,889. This arises
+because the lower interest rates require us to invest a greater amount today to generate
+$1,000,000 in the future.
+As discussed in this chapter, the present value concept allows us to value stocks by
+discounting future dividends, cash flows, or earnings that the stock is exPEcted to generate for shareholders. It also allows us to value bonds by discounting future receipts of
+bond interest and principal repayments.
+Present Value of a PErPEtuity
+Some bonds, (such as British Consol bonds) pay off an identical amount each year. This
+is called a PErPEtuity. How do we value a PErPEtuity? It is actually remarkably simple.
+The PErPEtuity value (P) is simply the PErPEtuity amount (X) divided by the interest
+(or discount rate, as it is often called).
+P 1/4 X=R
+For example, if interest rates are 10 PErcent, a PErPEtual bond that pays interest of $10
+PEr year is worth $100 ($10/0.10). Each year the investor receives $10 interest from the
+bond, generating a 10 PErcent return on the investment value of $100.
+The PErPEtuity value is also very useful in valuing stocks, particularly for the terminal
+value computations. When a firm is in a stable steady state, its dividends, cash flows, or
+earnings may resemble a PErPEtuity. Stock PErPEtuities can also incorporate a constant
+growth rate over time. For example, a firm may generate cash flows of $10 for the fIRSt
+year, and these grow by 4 PErcent PEr year thereafter, PErhaps reflecting the nominal
+rate of growth in the economy. A PErPEtuity with a constant growth rate is also relatively simple to value. If the fIRSt payment is X and the growth rate g, the PErPEtuity is
+valued as:
+P 1/4 X=dR (cid:4) gTh
+is worth $10/(10% (cid:4) 4%) or $166.67. This
+Hence, the PErPEtuity with a fIRSt payment of $10 and a constant growth rate of 4 PErcent
+the
+growth component of the PErPEtuity is worth $66.67, since the non-growth PErPEtuity
+is worth $100.
+the value of
+implies
+Notice that the denominator for the growth PErPEtuity is R (cid:4)g, the discount rate net
+of the growth rate. If the growth rate equals or exceeds the discount rate, the denominator
+is zero or negative and the PErPEtuity value is undefined or not meaningful. However, in
+practice once a firm has reached a steady state, this should not be exPEcted to hapPEn as
+firms that grow indefinitely at a rate that is much higher than the overall growth of the
+economy will soon dominate the economy.
+that
+ProsPEctive Analysis: Valuation Theory and Concepts 7-21
+APPENDIX B Valuation Formulas
+All of the valuation appROAches discussed in this chapter can be expressed mathematically. The formulas for the various appROAches are presented below:
+Abnormal Earnings Valuation
+Under the earnings-based appROAch, the value of the equity is
+Equity value 1/4 BE0 th NI1 (cid:4) Re (cid:2) BE0
+th NI2 (cid:4) Re (cid:2) BE1
+d1 th ReTh2
+th (cid:5) (cid:5) (cid:5)
+d1 th ReTh
+BE0 is the firm's current book equity, BEt is the exPEcted beginning book equity in
+PEriod t, NIt is exPEcted net income for PEriod t, and Re is the return required by the
+firm's equity investors.
+Valuation Using Price Multiples
+The abnormal earnings valuation can be restructured into the equity value-to-book value
+multiple by deflating the equity value by book equity by scaling. The valuation formula
+then becomes:
+Equity value
+Book equity
+1/4 1 th
+dROE1
+(cid:4) ReTh (cid:2) GBE0
+d1 th ReTh
+th
+dROE2
+(cid:4) ReTh (cid:2) GBE1
+d1 th ReTh2
+th
+dROE3
+(cid:4) ReTh (cid:2) GBE2
+d1 th ReTh3
+th (cid:5) (cid:5)(cid:5)
+ROEt is net income in year t deflated by beginning book equity; GBEt is exPEcted
+book equity growth, defined as exPEcted beginning book equity in year t (BEt) deflated
+by the current book equity (BE0); and Re is the required return for equity investors.
+Discounted Cash Flow Model
+Under the free cash flow method, the value of equity is as follows:
+Equity value 1/4 PVdExPEcted free cash flows to equityTh
+1/4 NI1 (cid:4) DBVA1 th DBVND1
+d1 th ReTh
+th NI2 (cid:4) DBVA2 th DBVND2
+d1 th ReTh2
+th (cid:5) (cid:5) (cid:5)
+NI is exPEcted net income, DBVA is the change in exPEcted book value of net oPErating
+assets (including changes in working capital plus capital exPEnditures less depreciation
+exPEnse), DBVND is the change in exPEcted book value of net debt (interest-bearing
+debt less excess cash), and Re is the required return for equity investors.
+APPENDIX C Reconciling the Discounted Dividends and Discounted
+Abnormal Earnings Models
+To derive the earnings-based valuation from the dividend discount model, consider the
+following two-PEriod valuation:
+Equity value 1/4 DIV1
+d1 th reTh
+th DIV2
+d1 th reTh2
+With clean surplus accounting, dividends (DIV) can be expressed as a function of net
+income (NI) and the book value of equity (BVE):
+DIVt 1/4 NIt th BVEt(cid:4)1 (cid:4) BVEt
+7-22 PART 2 Business Analysis and Valuation Tools
+Substituting this expression into the dividend discount model yields the following:
+Equity value 1/4 NI1 th BVE0 (cid:4) BVE1
+d1 th reTh
+th NI2 th BVE1 (cid:4) BVE2
+d1 th reTh2
+This can be rewritten as follows:
+Equity value 1/4 NI1 (cid:4) re BVE0 th BVE0d1 th reTh (cid:4) BVE1
+d1 th reTh
+th NI2 (cid:4) re BVE1 th BVE1d1 th reTh (cid:4)BVE 2
+d1 th reTh2
+1/4 BVE0 th NI1 (cid:4) re BVE0
+d1 th reTh
+th NI2 (cid:4) re BVE1
+d1 th reTh2
+(cid:4) BVE2
+d1 th reTh2
+As the forecast horizon expands, the final term (the present value of liquidating book
+value) becomes inconsequential. The value of equity is therefore the current book value
+plus the present value of future abnormal earnings.
+APPENDIX D Asset Valuation Methodologies
+All of the valuation appROAches discussed in this chapter can also be structured to estimate the value of a firm's assets (or the combined debt and equity) rather than its equity.
+Switching from equity valuation to asset valuation is often as simple as substituting
+financial measures related to equity for financial measures related to the entire firm.
+For example, in the earnings-based valuation model, Net Income (the earnings flow to
+equity) is replaced by NOPAT (the earnings available for debt and equity), and book
+values of net oPErating assets replace the book value of equity. Value multiples are
+based on ROEs for the equity formulation and on ROAs for valuing asset multiples.
+And the discount rate for equity models is the required return for equity owners compared to the weighted average cost of debt and equity owners, called the weighted average cost of capital (or WACC) for asset valuation models.
+The formulas used for asset valuation under the various appROAches are presented below:
+Abnormal Earnings Valuation
+Under the earnings-based appROAch, the value of the assets is
+Asset value 1/4 Book assets th PVdExPEcted abnormal NOPATTh
+1/4 BA0 th NOPAT1 (cid:4) WACC (cid:2) BA0
+d1 th WACCTh
+th NOPAT2 (cid:4) WACC (cid:2) BA1
+d1 th WACCTh2
+th (cid:5) (cid:5) (cid:5)
+BA is the book value of the firm's assets, NOPAT is net oPErating profit (before interest)
+after tax, and WACC is the firm's weighted-average cost of debt and equity. From this
+asset value, the analyst can deduct the market value of net debt to generate an estimate
+of the value of equity.
+Valuation Using Price Multiples
+The multiple valuation can be structured as the debt plus equity value-to-book assets
+ratio by scaling the abnormal NOPAT formula by book value of net oPErating assets.
+The valuation formula then becomes
+ProsPEctive Analysis: Valuation Theory and Concepts 7-23
+Asset value
+Book assets
+1/4 1 th PVdExPEcted abnormal ROA (cid:2) ExPEcted beg: book asset growthTh
+1/4 1 th
+dROA1
+(cid:4) WACCTh (cid:2) GBA0
+d1 th WACCTh
+th
+dROA2
+(cid:4) WACCTh (cid:2) GBA1
+d1 th WACCTh2
+th (cid:5) (cid:5) (cid:5)
+where ROA 1/4 ExPEcted oPErating return on assets 1/4 NOPAT/(OPErating working captial th Net long-term assets)
+WACC 1/4 Weighted average cost of capital (debt and equity)
+GBA 1/4 Book asset growth factor, defined as exPEcted beginning book equity in
+year t (BEt) deflated by the current book equity (BE0).
+The value of a firm's debt and equity to net oPErating assets multiple therefore dePEnds
+on its ability to generate asset returns that exceed its WACC, and on its ability to grow
+its asset base. The value of equity under this appROAch is then the estimated multiple
+times the current book value of assets less the market value of debt.
+Discounted Cash Flow Model
+The free cash flow formulation can be structured by estimating the value of claims to net
+debt and equity and then deducting the market value of net debt. This appROAch is more
+widely used in practice because it does not require explicit forecasts of changes in debt
+balances. The value of debt plus equity is computed as follows:
+Asset value 1/4 PVdExPEcted free cash flows to net debt and equity ownersTh
+The firm's asset valuation therefore dePEnds on the exPEcted free cash flows to debt and
+equity holders during the forecast horizon, the forecasted terminal value of free cash
+flows, and the weighted average cost of capital.

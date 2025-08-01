@@ -1,0 +1,2279 @@
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic Moat TM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+Price vs. Fair Value
+520
+450
+380
+310
+240
+Last Close: 564.82
+Fair Value: 500.00
+25 Feb 2025 21:11, UTC
+Overvalued
+Undervalued
+2020
+1.23
+20.08
+2021
+1.02
+1.16
+2022
+0.94
+-2.68
+2023
+1.01
+23.31
+2024
+1.13
+24.08
+YTD
+1.13
+Analysis
+Price/Fair Value
+7.41
+Total Return %
+Morningstar Rating
+Total Return % as of 27 Feb 2025. Last Close as of 27 Feb 2025. Fair Value as of 25 Feb 2025 21:11, UTC.
+Contents
+Business Description
+Business Strategy & Outlook (25 Feb 2025)
+Bulls Say / Bears Say (25 Feb 2025)
+Economic Moat (25 Feb 2025)
+Fair Value and Profit Drivers (25 Feb 2025)
+Risk and Uncertainty (25 Feb 2025)
+Capital Allocation (25 Feb 2025)
+Analyst Notes Archive
+Financials
+ESG Risk
+ApPEndix
+Research Methodology for Valuing Companies
+Important Disclosure
+The conduct of Morningstar ' s analysts is governed by Code of Ethics/Code of
+Conduct Policy, PErsonal SECurity Trading Policy (or an equivalent of), and
+Investment Research Policy. For information regarding conflicts of interest, please
+visit: http://global.morningstar.com/equitydisclosures.
+Mastercard Enjoys a Wide Moat and Strong Growth
+ProsPEcts
+Business Strategy & Outlook Brett Horn, CFA, Senior Equity Analyst, 25 Feb 2025
+Mastercard has multiple characteristics that should draw investors ' attention. FIRSt, despite ongoing
+evolution in the payment space, we think a wide moat surrounds the business and view Mastercard ' s
+position in the current global electronic payment infrastructure as essentially unassailable. SECond,
+Mastercard benefits from the ongoing shift toward electronic payments, which should provide plenty of
+opportunities to utilize its wide moat to create value over the long term. Digital payments, on a global
+basis, surpassed cash payments just a few years ago, suggesting that this trend still has a lot of room to
+run, and we think emerging markets could offer a further leg of growth even as growth in develoPEd
+markets starts to slow. Finally, Mastercard is something of a tolLBOoth business, and the company is
+relatively agnostic to smaller shifts within the electronic payment space, as it earns fees regardless of
+The primary analyst covering this company does not own its stock.
+whether payment is credit, dEBIT, or mobile.
+1 The ESG Risk Rating Assessment is a representation of Sustainalytics ' ESG Risk
+Rating.
+Mastercard has faced some volatility over the past few years. Cross-border transactions, which are
+particularly lucrative for the networks, came under heavy pressure due to the fallout from the pandemic
+and a reduction in global travel. We exPEcted a full recovery, and we believe that has largely played out.
+Although the ongoing bounceback remains a modest tailwind, we think the benefit is now mostly
+realized. From a longer-term point of view, we think it is likely that smaller and more regional networks
+
+Page 2 of 20
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+5 Feb 2025 06:00, UTC
+SECtor
+Industry
+y Financial Services
+Credit Services
+Business Description
+years, but we haven't seen a material effect yet.
+In the near term, we exPEct Mastercard's results to normalize to a level in line with the prepandemic
+Mastercard is the SECond-largest payment processor in
+PEriod. We see the state of the economy as Mastercard ' s biggest risk. A downturn in the economy
+the world, having processed close to $10 trillion in
+would slow overall growth, as Mastercard ' s revenue is sensitive to the volume and dollar amount of
+volume during 2024. Mastercard oPErates in over 200
+countries and processes transactions in over 150
+currencies.
+consumer transactions. But we don ' t see any SECular industry trends that will imPEde Mastercard ' s
+ability to maintain double-digit growth in the coming years, and the company looks poised to continue
+to modestly outPErform its larger PEer, Visa.
+Bulls Say Brett Horn, CFA, Senior Equity Analyst, 25 Feb 2025
+u Mastercard historically has outPErformed Visa in terms of growth. Its smaller size and some leveling in
+market share between the two could maintain this trend.
+u There is still plenty of runway for growth in electronic payments. Electronic payments only surpassed
+cash payments on a global basis a few years ago.
+u Management is appropriately focused on long-term growth opportunities and not near-term margins.
+Bears Say Brett Horn, CFA, Senior Equity Analyst, 25 Feb 2025
+u Mastercard is a distant number-two player in a scalable industry, which could hamPEr long-term
+margins.
+u The oligopolistic nature of the industry makes Visa and Mastercard a target for regulators, and the
+companies have historically paid some large fines.
+u UnionPay provides an example of how governments could favor local networks, and this could shut
+Mastercard out of some emerging-market opportunities.
+Economic Moat Brett Horn, CFA, Senior Equity Analyst, 25 Feb 2025
+Payment networks such as Mastercard benefit, unsurprisingly, from a network effect. The more
+consumers that are plugged into a payment network, the more attractive that payment network
+becomes for merchants, which, in turn, makes the network more convenient for consumers and so on.
+In our view, this dynamic explains why a handful of networks have come to dominate electronic
+payments over time, and at this point, Mastercard has reached essentially universal acceptance in most
+develoPEd markets. While the network effect is the initial and primary driver of economic moats in the
+space, the highly scalable nature of payment processing leads to sizable cost advantages for large
+payment networks, which further cements their comPEtitive positions. For the dominant payment
+networks with global footprints, such as Mastercard, the network effect and resulting cost advantage is
+strong enough to lead to a wide moat, in our view.
+Mastercard ' s origin lies in the formation of the Interbank Card Association by a group of banks that
+acquired Master Charge in 1969 and adopted the company ' s current logo. In the decades since,
+Mastercard has been one of the largest beneficiaries of the ongoing shift toward using electronic
+
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+ComPEtitors
+Mastercard Inc Class A MA
+American Express Co AXP
+Discover Financial Services DFS
+Visa Inc Class A V
+Last Close
+564.82
+Fair Value
+500.00
+Uncertainty : Medium
+Last Close
+294.20
+Fair Value
+255.00
+Uncertainty : Medium
+Last Close
+191.20
+Fair Value
+187.00
+Uncertainty : High
+Last Close
+355.74
+Fair Value
+289.00
+Uncertainty : Medium
+Currency
+Fair Value
+1-Star Price
+5-Star Price
+Assessment
+Analysis
+Economic Moat
+SECurity 1
+Wide
+USD
+SECurity 2
+Wide
+USD
+SECurity 3
+Narrow
+USD
+SECurity 4
+Wide
+USD
+500.00 25 Feb 2025 21:11, UTC
+255.00 24 Feb 2025 19:22, UTC
+187.00 23 Jan 2025 16:04, UTC
+289.00 13 Dec 2024 19:08, UTC
+675.00
+350.00
+344.25
+178.50
+289.85
+112.20
+390.15
+202.30
+Overvalued 27 Feb 2025
+Overvalued 27 Feb 2025
+Fairly Valued 27 Feb 2025
+Overvalued 27 Feb 2025
+Morningstar Rating
+QQ 27 Feb 2025 22:31, UTC
+QQ 27 Feb 2025 22:28, UTC
+QQQ 27 Feb 2025 22:31, UTC
+QQ 27 Feb 2025 22:34, UTC
+Analyst
+Brett Horn, Senior Equity Analyst
+Michael Miller, Equity Analyst
+Michael Miller, Equity Analyst
+Brett Horn, Senior Equity Analyst
+Capital Allocation
+Standard
+Price/Fair Value
+Price/Sales
+Price/Book
+Price/Earning
+Dividend Yield
+Market Cap
+52-Week Range
+Investment Style
+1.13
+18.47
+79.05
+38.44
+0.49%
+514.95 Bil
+428.86 -- 576.94
+Large Blend
+Standard
+1.15
+3.20
+6.87
+21.83
+0.95%
+206.68 Bil
+214.51 -- 326.28
+Large Blend
+Standard
+1.02
+2.67
+2.83
+10.73
+1.46%
+48.11 Bil
+118.74 -- 205.76
+Mid Growth
+Standard
+1.23
+19.19
+18.10
+33.75
+0.62%
+686.23 Bil
+252.70 -- 360.31
+Large Blend
+payments. During 2024, the company processed over $8 trillion in purchase transactions. Visa,
+meanwhile, processes roughly twice as many transactions as Mastercard and leads it in terms of market
+share in every major global region. However, Mastercard has a similarly commanding lead over any
+other network and is the only other company with a truly global presence. Mastercard ' s global market
+share for credit and dEBIT cards has been estimated at 29% and 24%, resPEctively, a level that dwarfs
+comPEtitors outside of Visa. Mastercard may face some comPEtition in processing domestic
+transactions, but we think the company ' s global presence is a relatively unique asset that allows the
+company to process cross-border transactions and charge materially higher fees in this area. We don ' t
+believe that building a new network with a comparable size and reach is realistic over any foreseeable
+time line and view Mastercard ' s position within the current global electronic payment infrastructure as
+essentially unassailable.
+Mastercard has translated its dominant comPEtitive position into an enviable level of profitability.
+
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+OPErating margins (using net revenue) in 2024 were 58%, and margins have generally trended upward
+over time due to the scalability of the business. Further, given the relatively asset-light nature of the
+business, returns on invested capital are multiple above any reasonable estimate of the cost of capital.
+Fair Value and Profit Drivers Brett Horn, CFA, Senior Equity Analyst, 25 Feb 2025
+We are increasing our fair value estimate for Mastercard to $500 PEr share from $465, due to time value
+since our last update and some modest changes to our assumptions. Our new fair value estimate
+equates to 31.6 times projected 2025 earnings, adjusted for one-time exPEnses.
+While revenue declined in 2020 due to the coronavirus and that issue bled into the start of 2021, growth
+bounced back quickly and Mastercard has enjoyed outsize growth the past few years. We think
+conditions have now normalized and we exPEct a return to growth levels more in line with the
+prepandemic PEriod. We think SECular trends and improving share should allow Mastercard to maintain
+strong growth rates over the next five years. We project net revenue to grow at a 12% compound
+annual growth rate. We think growth will be increasingly fueled by international markets, and
+Mastercard's mix leaves it relatively well-positioned.
+While margins were materially pressured in 2020, profitability has recovered since, and margins (based
+on net revenue) are now slightly ahead of the prepandemic level. In the future, we exPEct oPErating
+margins (based on net revenue) to improve from 58% in 2024 to 61% by 2029, based on the scalability of
+the business. This equates to an annual average improvement of about 70 basis points. On a gross
+revenue basis, we exPEct increasing client incentives to result in basically flat margins over the
+projection PEriod. Given the company ' s history of fines and one-time charges, we include ongoing onetime costs roughly in line with historical averages in our projections, but these costs are excluded from
+the margin levels above.
+We use a cost of equity of 9%.
+Risk and Uncertainty Brett Horn, CFA, Senior Equity Analyst, 25 Feb 2025
+We assign Mastercard a Medium Morningstar Uncertainty Rating.
+Mastercard ' s revenue is tied to the amount and volume of consumer purchases, which creates
+significant macROEconomic sensitivity. Cross-border transactions are highly lucrative for Mastercard,
+making the company particularly sensitive to any swings in these tyPEs of transactions. Cross-border
+transactions are disproportionally tied to travel and online transactions, both of which tend to be
+sensitive to macROEcnomic conditions.
+Both Visa and Mastercard have paid substantial fines historically related to the oligopolistic nature of
+the industry, and we see legal and regulatory risk as intrinsic to the business model, given merchants '
+
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+desires to lower fees.
+While Visa's and Mastercard ' s positions in the current electronic payment infrastructure are largely set,
+the payment industry continues to evolve in ways that could reduce their volume or profitability. Some
+governments have shown a preference for local payment networks, which could freeze Mastercard out
+of certain markets and imPEde the value it drives from its global network.
+We see the company's largest environmental, social, and governance risk as data SECurity. Any
+company involved in processing payments has potential exposure to breaches in its systems.
+Capital Allocation Brett Horn, CFA, Senior Equity Analyst, 25 Feb 2025
+Our Morningstar Capital Allocation Rating for Mastercard is Standard. In our opinion, the company ' s
+balance sheet is sound, its capital investment decisions are fair, and its capital return strategy is
+appropriate. We have a favorable view of the management team at Mastercard, but we believe the
+company's wide moat and positive SECular tailwinds have been the dominant factor behind its strong
+historical results.
+Ajay Banga served as the company ' s CEO from 2010 until the end of 2020. Banga initially moved to the
+chairman position, but then retired at the end of 2021. Michael Miebach, who has been with the
+company for over 10 years and previously served as chief product officer, replaced Banga as CEO. We
+like that Miebach held leadership positions in the company across geographic regions, as we exPEct the
+company ' s growth to come increasingly from international markets over time. Still, given that the
+company turned to a company veteran for the CEO role, we didn ' t exPEct any major strategic pivots as a
+result of this change, and think this view has largely played out. We view staying the course as the right
+move for Mastercard.
+While we attribute the company ' s strong historical PErformance primarily to the wide moat that
+surrounds the business and SECular tailwinds, it is notable that Mastercard has generally outPErformed
+Visa in terms of growth in recent years. This suggests management is effectively exploiting the growth
+opportunities the company has in front of it. Further, we like that management has been hesitant to
+commit to oPErating margin targets over the short term. We believe the company still has significant
+growth opportunities, and the nature of the business requires reinvestment through the income
+statement. We think focusing on near-term profitability targets could hamPEr long-term value creation,
+and we think management is right to maintain flexibility on this score, although we think the scalability
+of the business model will allow for margin improvement over time.
+While Mastercard has completed some acquisitions, they have generally been small and sporadic. We
+think the company ' s comPEtitive position argues against aggressive M&A, and we are pleased that
+management has shown discipline in this regard.
+Management historically has returned essentially all of Mastercard ' s profitability to shareholders and
+
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+we appreciate the company ' s diligence on this front. Dividends PEr share have doubled over the past
+five years. We like this trend and think committing to a larger dividend helps to signal managment's
+commitment to returning capital.
+Analyst Notes Archive
+Mastercard Earnings: Growth Picks Up Brett Horn, CFA,Senior Equity Analyst,30 Jan 2025
+Mastercard ' s recent results suggested that consumer sPEnding was largely holding steady as impacts
+from one-time issues started to fade. But fourth-quarter results suggest the environment may be
+improving a bit. We will maintain our $465 fair value estimate. We see the shares as modestly
+overvalued. The quarter suggests the near-term outlook may be a little better than we had anticipated,
+and we think the market is reacting to that, but we believe significant uncertainty still exists on this
+front.On a constant-currency basis, net revenue grew 16% year over year, up from 14% last quarter.
+Payment volume grew 11.6% on a constant-currency basis, up from 10.5% in the previous quarter.
+Management pointed to low unemployment and moderate inflation as supportive of consumer
+sPEnding.Cross-border volume has been a tailwind for the networks over the past couple of years, as
+the bounceback in travel from pandemic lows drove outsize growth. That tailwind has been fading in
+recent quarters, but this quarter bucked the trend. Constant-currency cross-border volume, excluding
+intra-EuroPE transactions -- which are priced similarly to domestic transactions -- grew 20% year over
+year, up from 17% last quarter. We believe most of the benefit from the travel recovery has been
+realized, but this quarter suggests there could be further upside. Still, we ' d like to see more than one
+quarter to materially revise our view.Adjusted oPErating margin improved to 56.3% from 56.2% last year.
+For the full year, the company saw a 40-basis-point improvement. Margin improvement apPEars to have
+slowed, but we don ' t read much into near-term margin results, as we think lower margins are often
+driven by investments for growth. Client incentives grew 17% year over year on a constant-currency
+basis. We think incentives growing faster than revenue supports our view that Mastercard will not
+achieve margin improvement on a gross revenue basis over time.
+Mastercard Earnings: Settling Into a Groove Brett Horn, CFA,Senior Equity Analyst,31 Oct 2024
+We think Mastercard ' s third-quarter earnings largely mIRRored what we saw from Visa, although
+Mastercard apPEars to be PErforming a bit better at the margin. In recent quarters, we ' ve seen
+pandemic, political, and macro effects dissipate, and we see this quarter as further evidence of stability.
+We think Mastercard ' s attractive long-term growth prosPEcts and its strong profitability become more
+clear in this tyPE of situation. We will maintain our $465 fair value estimate for the wide-moat company
+and see shares as about fairly valued.Constant currency net revenue increased 14% year over year, a 1PErcentage-point improvement from the previous quarter. Payment volume was up 10% constant
+currency, also up slightly from last quarter. Overall, though, we think results from the networks suggest
+
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+consumer sPEnding is holding steady.Cross-border volume has been the one area seeing an ongoing
+tailwind over the past couple of years. But this tailwind has been fading, and this quarter provided
+further evidence. Constant-currency cross-border volume, excluding intra-EuroPE transactions -- which
+are priced similarly to domestic transactions -- grew 17% year over year in the quarter, down a bit from
+18% in the last quarter. While Mastercard is seeing cross-border growth fade at a similar rate as Visa,
+its ABSolute growth is higher, suggesting its volumes might not have fully normalized yet.Adjusted
+oPErating margins (based on net revenue) improved to 59.3%, compared with 58.8% last year. The rate
+of margin improvement was in line with what we ' ve seen from the company this year and with our
+long-term exPEctations. Mastercard is outPErforming Visa on this front, but we don ' t read much into
+near-term margin results, as we think lower margins are often driven by investments for growth. Client
+incentives grew 19% year over year on a constant currency basis, highlighting how margin improvement
+on a gross revenue basis is a much more difficult task.
+Mastercard: Buying Recorded Future for $2.65 Billion Brett Horn, CFA,Senior Equity Analyst,12 Sep
+2024
+Mastercard announced that it will acquire Recorded Future for $2.65 billion. Recorded Future is a cyber
+defense company with 1,900 customers across 75 countries. Mastercard believes the addition of
+Recorded Future will add to its fraud prevention capabilities. Controlling fraud within its payment
+networks is an ongoing issue for Mastercard, so investing in this area seems appropriate. Due to its
+wide moat, we don ' t think Mastercard needs to be aggressive in terms of mergers and acquisitions, but
+smaller deals like this that add certain capabilities make sense, in our view. However, the deal is not
+large enough to have a material impact on our $465 fair value estimate, which we maintain. We see
+Mastercard ' s shares as fairly valued at the MoMent.
+Mastercard Earnings: Results Suggest Consumer SPEnding Remains Steady 
+Equity Analyst,31 Jul 2024
+While Mastercard ' s SECond-quarter results show many of the same dynamics we saw from Visa,
+Mastercard apPEars to be modestly outPErforming its PEer at the MoMent. We continue to believe that
+Mastercard has slightly stronger long-term prosPEcts given its smaller size and lower exposure to
+relatively mature markets. We will maintain our $451 fair value estimate for the wide-moat company
+and see shares as fairly valued at the MoMent.Net revenue increased 11% year over year, or 13% on a
+constant-currency basis. Gross dollar volume was up 9% on a constant-currency basis, and switched
+transactions were up 11%. This represented a slight decline from the previous quarter, but this apPEars
+to be mainly due to the inclusion of leap year last quarter. Overall, while we think macro conditions
+remain the biggest potential swing factor in the near term, these results suggest that consumer
+sPEnding remains relatively stable for now.Cross-border volume is particularly lucrative for Mastercard
+
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+for both Visa and Mastercard, and this quarter provided further evidence. Constant-currency crossborder volume, excluding intra-EuroPE transactions -- which are priced similarly to domestic
+transactions -- grew 18% year over year in the quarter, down slightly from 19% in the last quarter. While
+growth in this area is still healthy and Mastercard is modestly outPErforming Visa, the recovery in crossborder volume increasingly looks to be largely realized.Adjusted oPErating margin for the quarter was
+59.4% compared with 58.6% last year. With Mastercard seeing relatively strong growth, it apPEars to be
+benefiting from some scale benefits. Client incentives increased 16% year over year on a constantcurrency basis. With client incentives resuming their historical upward path, margin improvement on a
+gross revenue basis will likely be harder to realize.
+Visa and Mastercard: Judge May Not Approve Settlement Brett Horn, CFA,Senior Equity Analyst,14
+Jun 2024
+In March, Visa and Mastercard announced that they had reached a settlement to a long-standing
+antitrust lawsuit. As part of the agreement, the networks would slightly lower credit interchange fees
+and cap these fees at the current level for five years. At the time, we were happy to see this lawsuit
+seemingly resolved. But according to The Wall Street Journal, the judge has now informed Visa and
+Mastercard that she deems these changes inadequate and is unlikely to approve the settlement. This
+would presumably force the networks to arrange a new settlement or go to trial. While this is an
+obvious setback and we would prefer to see this matter closed as quickly as possible, we believe Visa
+and Mastercard ' s unique comPEtitive positions and their wide moats create ongoing legal and
+regulatory event risk, and this lawsuit represents just one piece of that. We will maintain our $272 and
+$451 fair value estimates for Visa and Mastercard, resPEctively, and see shares for both companies as
+about fairly valued.
+Mastercard Earnings: A Stable Environment Highlights Mastercard' s Strengths Brett Horn,
+CFA,Senior Equity Analyst,1 May 2024
+Mastercard ' s fIRSt-quarter results show that the company is on a steady path and PErforming roughly in
+line with its PEer Visa. Following the dramatic ups and downs of the pandemic and the ensuing
+recovery, we think Mastercard has settled into a more stable environment, and the company ' s fIRStquarter results are largely in line with our long-term exPEctations. We will maintain our $451 fair value
+estimate and wide moat rating, and we consider shares fairly valued at the MoMent.Net revenue was
+up 11% year over year on a constant-currency basis. Gross dollar volume increased 10% on a constantcurrency basis, and transactions were up 13%. While macro uncertainty exists, consumer sPEnding
+apPEars to be holding for now, and we think the current environment highlights the solid growth the
+company can achieve over time, given favorable long-term SECular tailwinds.Cross-border volume, which
+has been the most volatile area over the past few years, has now settled into a more stable groove.
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+to domestic transactions -- grew 19% year over year in the quarter, in line with the last quarter.
+Mastercard apPEars to be modestly outPErforming Visa on this front. Cross-border growth is still a bit
+above our long-term exPEctations, but we think most of the benefit from the bounceback in travel has
+been realized.Adjusted oPErating margins (on a net revenue basis and excluding one-time items)
+increased to 58.8% from 58.2% last year. With solid growth, we think the scalability of the business is
+showing through. However, client incentives increased 20% year over year on a constant-currency basis.
+With incentives increasing again now that pandemic-related distortions have rolled off, margin
+improvement on a gross revenue basis will be much harder to come by.
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+ComPEtitors Price vs. Fair Value
+American Express Co AXP
+283
+233
+183
+133
+83
+Last Close: 294.20
+Fair Value: 255.00
+24 Feb 2025 19:22, UTC
+Overvalued
+Undervalued
+2020
+1.12
+-1.49
+2021
+1.04
+36.73
+2022
+0.89
+-8.47
+2023
+1.05
+28.37
+2024
+1.29
+59.86
+YTD
+1.15 Price/Fair Value
+-0.64 Total Return %
+Morningstar Rating
+Total Return % as of 27 Feb 2025. Last Close as of 27 Feb 2025. Fair Value as of 24 Feb 2025 19:22, UTC.
+Discover Financial Services DFS
+172
+137
+102
+67
+32
+Last Close: 191.20
+Fair Value: 187.00
+23 Jan 2025 16:04, UTC
+Overvalued
+Undervalued
+2020
+1.13
+8.81
+2021
+1.02
+29.72
+2022
+0.67
+-13.35
+2023
+0.74
+17.65
+2024
+1.13
+56.61
+YTD
+1.02 Price/Fair Value
+10.78 Total Return %
+Total Return % as of 27 Feb 2025. Last Close as of 27 Feb 2025. Fair Value as of 23 Jan 2025 16:04, UTC.
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+ComPEtitors Price vs. Fair Value
+Visa Inc Class A V
+318
+278
+238
+198
+158
+Last Close: 355.74
+Fair Value: 289.00
+13 Dec 2024 19:08, UTC
+Overvalued
+Undervalued
+2020
+1.18
+17.06
+2021
+0.98
+-0.31
+2022
+0.91
+-3.40
+2023
+1.00
+26.21
+2024
+1.09
+22.22
+YTD
+1.23 Price/Fair Value
+12.75 Total Return %
+
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+Morningstar Historical Summary
+Financials as of 31 Dec 2024
+Fiscal Year, ends 31 Dec
+Revenue (USD Bil)
+Revenue Growth %
+EBITDA (USD Bil)
+EBITDA Margin %
+OPErating Income (USD Bil)
+OPErating Margin %
+Net Income (USD Bil)
+Net Margin %
+2015
+9.67
+2.4
+5.39
+55.7
+5.06
+52.3
+3.81
+39.4
+2016
+10.78
+11.5
+6.11
+56.7
+5.91
+54.9
+4.06
+37.7
+2017
+12.50
+16.0
+7.11
+56.9
+6.74
+54.0
+3.92
+31.3
+2018
+14.95
+19.6
+7.85
+52.5
+8.37
+56.0
+5.86
+39.2
+2019
+16.88
+12.9
+10.48
+62.1
+9.70
+57.4
+8.12
+48.1
+2020
+15.30
+-9.4
+8.72
+57.0
+8.16
+53.3
+6.41
+41.9
+Diluted Shares Outstanding (Mil)
+1,137
+1,101
+1,072
+1,047
+1,022
+1,006
+Diluted Earnings PEr Share (USD)
+Dividends PEr Share (USD)
+Valuation as of 31 Jan 2025
+Price/Sales
+Price/Earnings
+Price/Cash Flow
+Dividend Yield %
+Price/Book
+EV/EBITDA
+3.35
+0.64
+2015
+11.6
+29.9
+29.9
+0.66
+17.3
+0.0
+OPErating PErformance / Profitability as of 31 Dec 2024
+Fiscal Year, ends 31 Dec
+ROA %
+ROE %
+ROIC %
+Asset Turnover
+Financial Leverage
+Fiscal Year, ends 31 Dec
+Debt/Capital %
+Equity/Assets %
+Total Debt/EBITDA
+EBITDA/Interest ExPEnse
+2015
+24.1
+59.4
+43.9
+0.6
+2015
+35.2
+37.1
+0.6
+88.3
+3.69
+0.76
+2016
+10.9
+28.5
+25.3
+0.74
+18.0
+0.0
+2016
+23.2
+69.5
+41.0
+0.6
+2016
+47.8
+30.3
+0.8
+64.4
+3.65
+0.88
+2017
+13.7
+35.3
+34.5
+0.58
+24.8
+0.0
+2017
+19.6
+70.4
+36.9
+0.6
+2017
+49.8
+25.6
+0.8
+46.2
+5.60
+1.00
+2018
+13.8
+38.2
+30.1
+0.53
+33.7
+0.0
+2018
+25.4
+107
+52.0
+0.6
+2018
+51.9
+21.7
+0.8
+42.2
+7.94
+1.32
+2019
+18.9
+44.2
+46.9
+0.44
+60.6
+0.0
+2019
+30.0
+143
+64.8
+0.6
+2019
+59.1
+20.2
+0.8
+46.8
+6.37
+1.60
+2020
+23.1
+53.5
+45.2
+0.45
+61.3
+0.0
+2020
+20.4
+104
+39.4
+0.5
+2020
+65.3
+19.0
+1.5
+22.9
+Morningstar Analyst Historical/Forecast Summary as of 25 Feb 2025
+Financials
+Estimates
+Fiscal Year, ends 31 Dec 2024
+2023
+2024
+2025
+2026
+2027
+Revenue (USD Mil)
+Revenue Growth %
+EBITDA (USD Mil)
+EBITDA Margin %
+OPErating Income (USD Mil)
+OPErating Margin %
+Net Income (USD Mil)
+Net Margin %
+Diluted Shares Outstanding (Mil)
+Diluted Earnings PEr Share(USD)
+Dividends PEr Share(USD)
+40,279
+14.0
+15,013
+37.3
+14,547
+36.1
+11,637
+28.9
+946
+12.30
+2.28
+45,796
+13.7
+16,797
+36.7
+16,262
+35.5
+13,448
+29.4
+927
+14.51
+2.64
+51,608
+12.7
+18,808
+36.4
+17,960
+34.8
+14,422
+28.0
+906
+15.93
+3.04
+58,193
+12.8
+21,341
+36.7
+20,397
+35.1
+16,417
+28.2
+882
+18.60
+3.49
+65,677
+12.9
+24,401
+37.2
+23,348
+35.6
+18,610
+28.3
+860
+21.64
+4.02
+Forward Valuation
+Price/Sales
+Price/Earnings
+Price/Cash Flow
+Dividend Yield %
+Price/Book
+EV/EBITDA
+2021
+18.88
+23.4
+11.46
+60.7
+10.23
+54.2
+8.69
+46.0
+992
+8.76
+1.76
+2021
+20.1
+44.2
+42.0
+0.49
+52.6
+0.0
+2021
+24.4
+126
+44.9
+0.5
+2021
+64.2
+19.4
+1.2
+26.6
+2022
+22.24
+17.8
+12.95
+58.3
+12.72
+57.2
+9.93
+44.7
+971
+10.22
+1.96
+2022
+15.7
+34.7
+30.1
+0.56
+52.4
+0.0
+2022
+26.0
+145
+49.7
+0.6
+2022
+68.6
+16.3
+1.1
+27.5
+2023
+9.9
+34.7
+--
+0.5
+58.3
+27.2
+2023
+25.10
+12.9
+15.01
+59.8
+14.63
+58.3
+11.20
+44.6
+946
+11.83
+2.28
+2023
+16.7
+37.2
+37.0
+0.53
+63.3
+0.0
+2023
+27.6
+169
+54.4
+0.6
+2023
+67.4
+16.3
+1.0
+26.1
+2024
+10.5
+36.3
+--
+0.5
+75.2
+29.0
+2024
+28.17
+12.2
+16.80
+59.6
+16.33
+58.0
+12.87
+45.7
+927
+13.89
+2.64
+YTD
+28.17
+12.2
+16.80
+59.6
+16.33
+58.0
+12.87
+45.7
+927
+13.89
+2.64
+2024 Recent Qtr
+18.0
+18.0
+39.8
+39.8
+34.8
+34.8
+0.5
+0.5
+64.5
+64.5
+0.0
+0.0
+2024
+28.4
+192
+56.7
+0.6
+YTD
+28.4
+192.0
+56.7
+0.6
+2024 Recent Qtr
+72.9
+72.9
+13.5
+13.5
+1.1
+1.1
+26.0
+26.0
+Estimates
+2025
+10.0
+35.5
+--
+0.5
+84.9
+27.9
+2026
+8.8
+30.4
+--
+0.6
+96.1
+24.6
+TTM
+28.17
+12.2
+16.80
+59.6
+16.33
+58.0
+12.87
+45.7
+927
+13.89
+2.64
+TTM
+18.3
+40.0
+34.8
+0.49
+78.1
+0.0
+TTM
+28.4
+192.0
+56.7
+0.6
+TTM
+--
+--
+--
+26.0
+2027
+7.8
+26.1
+--
+0.7
+94.8
+21.5
+Mastercard Inc Class A MA QQ 27 Feb 2025 22:31, UTC
+Last Price
+564.82 USD
+27 Feb 2025
+Fair Value Estimate
+500.00 USD
+25 Feb 2025 21:11, UTC
+Price/FVE
+1.13
+Market Cap
+514.95 USD Bil
+27 Feb 2025
+Economic MoaTTM
+Wide
+Equity Style Box
+2 Large Blend
+Uncertainty
+Medium
+Capital Allocation
+Standard
+ESG Risk Rating Assessment1
+;;;;;
+5 Feb 2025 06:00, UTC
+ESG Risk Rating Breakdown
+Exposure
+Company Exposure1
+- Manageable Risk
+Unmanageable Risk2
+Management
+Manageable Risk
+- Managed Risk3
+Management Gap4
+Overall Unmanaged Risk
+ESG Risk Rating
+39.6
+36.5
+3.1
+36.5
+23.5
+13.0
+16.1
+16.13
+Low
+Subject
+Subindustry (36.0)
+39.6
+Medium
+0
+Low
+Medium
+High
+64.4%
+Strong
+100
+u Exposure represents a company ' s vulnerability to ESG
+risks driven by their business model
+u Exposure is assessed at the Subindustry level and then
+55+
+sPEcified at the company level
+u Scoring ranges from 0-55+ with categories of low, medium, and high-risk exposure
+u Management measures a company ' s ability to manage
+ESG risks through its commitments and actions
+u Management assesses a company's efficiency on ESG
+0
+programs, practices, and policies
+Strong
+Average
+Weak
+u Management score ranges from 0-100% showing how
+much manageable risk a company is managing
+ESG Risk Rating Assessment5
+Negligible
+Low
+Medium
+High
+Severe
+ESG Risk Ratings measure the degree to which a company ' s value is impacted by environmental, social, and governance
+risks, by evaluating the company ' s ability to manage the ESG risks it faces.
+1. A company's Exposure to material ESG issues 2. Unmanageable Risk refers to risks that are inherent to a particular business model that cannot be managed by
+programs or initiatives 3. Managed Risk = Manageable Risk multiplied by a Management score of 64.4% 4. Management Gap assesses risks that are not
+managed, but are considered manageable 5. ESG Risk Rating Assessment = Overall Unmanaged Risk = Management Gap plus Unmanageable Risk
+ESG Risk Rating is of Feb 05, 2025. Highest Controversy Level is as of Feb 08,
+2025. Sustainalytics Subindustry: Data Processing. Sustainalytics provides
+Morningstar with company ESG ratings and metrics on a monthly basis and
+as such, the ratings in Morningstar may not necessarily reflect current
+Sustainalytics ' scores for the company. For the most up to date rating and
+more information, please visit: sustainalytics.com/esg-ratings/.
+PEer Analysis 05 Feb 2025
+PEers are selected from the company's Sustainalytics-defined Subindustry and are displayed based on the closest market cap values
+Company Name
+Mastercard Inc
+American Express Co
+The Western Union Co
+Discover Financial Services
+Visa Inc
+Exposure
+39.6 | Medium
+39.2 | Medium
+34.3 | Low
+36.4 | Medium
+36.8 | Medium
+0
+0
+0
+0
+0
+Management
+64.4 | Strong
+56.6 | Strong
+53.3 | Strong
+39.4 | Average
+63.2 | Strong
+55+
+55+
+55+
+55+
+55+
+100
+100
+100
+100
+100
+ESG Risk Rating
+16.1 | Low
+18.3 | Low
+17.4 | Low
+22.8 | Medium
+15.4 | Low
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+40+
+40+
+40+
+40+
+40+
+Historical Morningstar Rating
+November October
+December
+Mastercard Inc Class A MA 27 Feb 2025 22:31, UTC
+September August
+July
+May
+May
+April
+March
+February
+January
+Dec 2025
+-
+Dec 2024
+QQ
+Dec 2023
+QQQ
+Dec 2022
+QQQ
+Dec 2021
+QQQ
+Dec 2020
+QQ
+Nov 2025
+-
+Nov 2024
+QQ
+Nov 2023
+QQQ
+Nov 2022
+QQQ
+Nov 2021
+QQQ
+Nov 2020
+QQ
+Oct 2025
+-
+Oct 2024
+QQQ
+Oct 2023
+QQQ
+Oct 2022
+QQQQ
+Oct 2021
+QQQ
+Oct 2020
+QQQ
+Sep 2025
+-
+Sep 2024
+QQQ
+Sep 2023
+QQQ
+Sep 2022
+QQQQ
+Sep 2021
+QQQ
+Sep 2020
+QQ
+Aug 2025
+-
+Aug 2024
+QQQ
+Aug 2023
+QQQ
+Aug 2022
+QQQ
+Aug 2021
+QQQ
+Aug 2020
+QQ
+Jul 2025
+-
+Jul 2024
+QQQ
+Jul 2023
+QQQ
+Jul 2022
+QQQ
+Jul 2021
+QQ
+Jul 2020
+QQ
+Jun 2025
+-
+Jun 2024
+QQQ
+Jun 2023
+QQQ
+Jun 2022
+QQQQ
+Jun 2021
+QQ
+Jun 2020
+QQQ
+May 2025
+-
+May 2024
+QQQ
+May 2023
+QQQ
+May 2022
+QQQ
+May 2021
+QQ
+May 2020
+QQQ
+Apr 2025
+-
+Apr 2024
+QQQ
+Apr 2023
+QQQ
+Apr 2022
+QQQ
+Apr 2021
+QQ
+Apr 2020
+QQQ
+Mar 2025
+-
+Mar 2024
+QQQ
+Mar 2023
+QQQ
+Mar 2022
+QQQ
+Mar 2021
+QQ
+Mar 2020
+QQQ
+Feb 2025
+QQ
+Feb 2024
+QQ
+Feb 2023
+QQQ
+Feb 2022
+QQQ
+Feb 2021
+QQ
+Feb 2020
+QQQ
+Jan 2025
+QQ
+Jan 2024
+QQQ
+Jan 2023
+QQQ
+Jan 2022
+QQQ
+Jan 2021
+QQQ
+Jan 2020
+QQ
+December
+American Express Co AXP 27 Feb 2025 22:28, UTC
+NovemberOctober
+September August
+July
+May
+May
+April
+March
+February
+January
+Dec 2025
+-
+Dec 2024
+QQ
+Dec 2023
+QQQ
+Dec 2022
+QQQQ
+Dec 2021
+QQQ
+Dec 2020
+QQQ
+Nov 2025
+-
+Nov 2024
+QQ
+Nov 2023
+QQQ
+Nov 2022
+QQQ
+Nov 2021
+QQQ
+Nov 2020
+QQQ
+Oct 2025
+-
+Oct 2024
+QQ
+Oct 2023
+QQQQ
+Oct 2022
+QQQQ
+Oct 2021
+QQ
+Oct 2020
+QQQQ
+Sep 2025
+-
+Sep 2024
+QQ
+Sep 2023
+QQQQ
+Sep 2022
+QQQQ
+Sep 2021
+QQ
+Sep 2020
+QQQ
+Aug 2025
+-
+Aug 2024
+QQ
+Aug 2023
+QQQ
+Aug 2022
+QQQ
+Aug 2021
+QQ
+Aug 2020
+QQQ
+Jul 2025
+-
+Jul 2024
+QQ
+Jul 2023
+QQQ
+Jul 2022
+QQQQ
+Jul 2021
+QQ
+Jul 2020
+QQQQ
+Jun 2025
+-
+Jun 2024
+QQ
+Jun 2023
+QQQ
+Jun 2022
+QQQQ
+Jun 2021
+QQ
+Jun 2020
+QQQQ
+May 2025
+-
+May 2024
+QQ
+May 2023
+QQQ
+May 2022
+QQQ
+May 2021
+QQ
+May 2020
+QQQQ
+Apr 2025
+-
+Apr 2024
+QQ
+Apr 2023
+QQQ
+Apr 2022
+QQQ
+Apr 2021
+QQ
+Apr 2020
+QQQQ
+Mar 2025
+-
+Mar 2024
+QQ
+Mar 2023
+QQQ
+Mar 2022
+QQQ
+Mar 2021
+QQQ
+Mar 2020
+QQQQ
+Feb 2025
+QQ
+Feb 2024
+QQ
+Feb 2023
+QQQ
+Feb 2022
+QQ
+Feb 2021
+QQ
+Feb 2020
+QQQ
+Jan 2025
+Q
+Jan 2024
+QQQ
+Jan 2023
+QQQ
+Jan 2022
+QQ
+Jan 2021
+QQQ
+Jan 2020
+QQQ
+NovemberOctober
+December
+Discover Financial Services DFS 27 Feb 2025 22:31, UTC
+September August
+July
+May
+May
+April
+March
+February
+January
+Dec 2025
+-
+Dec 2024
+QQQ
+Dec 2023
+QQQQ
+Dec 2022
+QQQQ
+Dec 2021
+QQQ
+Dec 2020
+QQQ
+Nov 2025
+-
+Nov 2024
+QQ
+Oct 2025
+-
+Oct 2024
+QQQ
+Sep 2025
+-
+Sep 2024
+QQQ
+Aug 2025
+-
+Aug 2024
+QQQ
+Nov 2023
+QQQQQ
+Oct 2023
+QQQQQ
+Sep 2023
+QQQQQ
+Aug 2023
+QQQQ
+Nov 2022
+QQQQ
+Nov 2021
+QQQ
+Nov 2020
+QQQ
+Oct 2022
+QQQQ
+Oct 2021
+QQQ
+Oct 2020
+QQQQ
+Sep 2022
+QQQQ
+Sep 2021
+QQQ
+Sep 2020
+QQQQ
+Aug 2022
+QQQQ
+Aug 2021
+QQ
+Aug 2020
+QQQQ
+Jul 2025
+-
+Jul 2024
+QQQ
+Jul 2023
+QQQQ
+Jul 2022
+QQQQ
+Jul 2021
+QQQ
+Jul 2020
+QQQQ
+Jun 2025
+-
+Jun 2024
+QQQ
+Jun 2023
+QQQQ
+Jun 2022
+QQQQ
+Jun 2021
+QQQ
+Jun 2020
+QQQQ
+May 2025
+-
+May 2024
+QQQ
+May 2023
+QQQQ
+May 2022
+QQQQ
+May 2021
+QQQ
+Apr 2025
+-
+Apr 2024
+QQQ
+Apr 2023
+QQQQ
+Apr 2022
+QQQQ
+Apr 2021
+QQQ
+Mar 2025
+-
+Mar 2024
+QQQ
+Mar 2023
+QQQQ
+Mar 2022
+QQQQ
+Mar 2021
+QQQ
+Feb 2025
+QQQ
+Feb 2024
+QQQ
+Feb 2023
+QQQQ
+Feb 2022
+QQQ
+Feb 2021
+QQ
+May 2020
+QQQQQ
+Apr 2020
+QQQQQ
+Mar 2020
+QQQQQ
+Feb 2020
+QQQQ
+Jan 2025
+QQQ
+Jan 2024
+QQQQ
+Jan 2023
+QQQQ
+Jan 2022
+QQQ
+Jan 2021
+QQQ
+Jan 2020
+QQQ
+
+November
+December
+Visa Inc Class A V 27 Feb 2025 22:34, UTC
+October
+September August
+July
+May
+May
+April
+March
+February
+January
+Dec 2025
+-
+Dec 2024
+QQQ
+Dec 2023
+QQQ
+Dec 2022
+QQQ
+Dec 2021
+QQQ
+Dec 2020
+QQ
+Nov 2025
+-
+Nov 2024
+QQ
+Nov 2023
+QQQ
+Nov 2022
+QQQ
+Nov 2021
+QQQ
+Nov 2020
+QQ
+Oct 2025
+-
+Oct 2024
+QQQ
+Oct 2023
+QQQ
+Oct 2022
+QQQQ
+Oct 2021
+QQQ
+Oct 2020
+QQQ
+Sep 2025
+-
+Sep 2024
+QQQ
+Sep 2023
+QQQ
+Sep 2022
+QQQQ
+Sep 2021
+QQQ
+Sep 2020
+QQ
+Aug 2025
+-
+Aug 2024
+QQQ
+Aug 2023
+QQQ
+Aug 2022
+QQQQ
+Aug 2021
+QQQ
+Aug 2020
+QQ
+Jul 2025
+-
+Jul 2024
+QQQ
+Jul 2023
+QQQ
+Jul 2022
+QQQ
+Jul 2021
+QQ
+Jul 2020
+QQ
+Jun 2025
+-
+Jun 2024
+QQQ
+Jun 2023
+QQQ
+Jun 2022
+QQQQ
+Jun 2021
+QQ
+Jun 2020
+QQ
+May 2025
+-
+May 2024
+QQQ
+May 2023
+QQQ
+May 2022
+QQQ
+May 2021
+QQ
+May 2020
+QQ
+Apr 2025
+-
+Apr 2024
+QQQ
+Apr 2023
+QQQ
+Apr 2022
+QQQ
+Apr 2021
+QQ
+Apr 2020
+QQQ
+Mar 2025
+-
+Mar 2024
+QQQ
+Mar 2023
+QQQ
+Mar 2022
+QQQ
+Mar 2021
+QQQ
+Mar 2020
+QQQ
+Feb 2025
+QQ
+Feb 2024
+QQQ
+Feb 2023
+QQQ
+Feb 2022
+QQQ
+Feb 2021
+QQ
+Feb 2020
+QQ
+Jan 2025
+QQ
+Jan 2024
+QQQ
+Jan 2023
+QQQ
+Jan 2022
+QQQ
+Jan 2021
+QQQ
+Jan 2020
+QQ
+
+Research Methodology for Valuing Companies
+Overview
+At the heart of our valuation system is a detailed projection of a company's future cash flows, resulting from our
+analysts' research. Analysts create custom industry and
+company assumptions to feed income statement, balance
+sheet, and capital investment assumptions into our globally standardized, proprietary discounted cash flow, or
+DCF, modeling templates. We use scenario analysis, indepth comPEtitive advantage analysis, and a variety of other
+analytical tools to augment this process. Moreover, we
+think analyzing valuation through discounted cash flows
+presents a better lens for viewing cyclical companies,
+high-growth firms, businesses with finite lives (e.g.,
+mines), or companies exPEcted to generate negative
+earnings over the next few years. That said, we don't dismiss multiples altogether but rather use them as supporting cross-checks for our DCF-based fair value estimates.
+We also acknowledge that DCF models offer their own
+challenges (including a potential proliferation of estimated inputs and the possibility that the method may miss
+shortterm market-price movements), but we believe these
+negatives are mitigated by deep analysis and our
+longterm appROAch.
+Morningstar's equity research group ("we," "our") believes that a company's intrinsic worth results from the
+future cash flows it can generate. The Morningstar Rating
+for stocks identifies stocks trading at a discount or premium to their intrinsic worth--or fair value estimate, in
+Morningstar terminology. Five-star stocks sell for the
+biggest risk adjusted discount to their fair values, whereas 1-star stocks trade at premiums to their intrinsic worth.
+Four key components drive the Morningstar rating: (1) our
+assessment of the firm's economic moat, (2) our estimate
+of the stock's fair value, (3) our uncertainty around that
+fair value estimate and (4) the current market price. This
+process ultimately culminates in our singlepoint star rating.
+turns on invested capital (or ROIC) over and above our estimate of a firm's cost of capital, or weighted average
+cost of capital (or WACC). Without a moat, profits are
+more susceptible to comPEtition. We have identified five
+sources of economic moats: intangible assets, switching
+costs, network effect, cost advantage, and efficient scale.
+Companies with a narrow moat are those we believe are
+more likely than not to achieve normalized excess returns
+for at least the next 10 years. Wide-moat companies are
+those in which we have very high confidence that excess
+returns will remain for 10 years, with excess returns more
+likely than not to remain for at least 20 years. The longer
+a firm generates economic profits, the higher its intrinsic
+value. We believe low-quality, no-moat companies will
+see their normalized returns gravitate toward the firm ' s
+cost of capital more quickly than companies with moats.
+When considering a company's moat, we also assess
+whether there is a substantial threat of value destruction,
+stemming from risks related to ESG, industry disruption,
+financial health, or other idiosyncratic issues. In this context, a risk is considered potentially value destructive if its
+occurrence would eliminate a firm ' s economic profit on a
+cumulative or midcycle basis. If we deem the probability
+of occurrence sufficiently high, we would not characterize
+the company as possessing an economic moat.
+2. Estimated Fair Value
+Combining our analysts ' financial forecasts with the
+firm ' s economic moat helps us assess how long returns
+on invested capital are likely to exceed the firm ' s cost of
+capital. Returns of firms with a wide economic moat rating are assumed to fade to the PErPEtuity PEriod over a
+longer PEriod of time than the returns of narrow-moat
+firms, and both will fade slower than no-moat firms, increasing our estimate of their intrinsic value.
+Our model is divided into three distinct stages:
+1. Economic Moat
+Stage I: Explicit Forecast
+The concept of an economic moat plays a vital role not
+only in our qualitative assessment of a firm's long-term
+investment potential, but also in the actual calculation of
+our fair value estimates. An economic moat is a structural
+feature that allows a firm to sustain excess profits over a
+long PEriod of time. We define economic profits as reIn this stage, which can last five to 10 years, analysts
+make full financial statement forecasts, including items
+such as revenue, profit margins, tax rates, changes in
+workingcapital accounts, and capital sPEnding. Based on
+these projections, we calculate earnings before interest,
+after taxes (EBI) and the net new investment (NNI) to deMorningstar Equity Research Star Rating Methodology
+rive our annual free cash flow forecast.
+Stage II: Fade
+The SECond stage of our model is the PEriod it will take
+the company ' s return on new invested capital -- the return on capital of the next dollar invested ( " RONIC " ) -- to
+decline (or rise) to its cost of capital. During the Stage II
+PEriod, we use a formula to approximate cash flows in
+lieu of explicitly modeling the income statement, balance
+sheet, and cash flow statement as we do in Stage I. The
+length of the SECond stage dePEnds on the strength of
+the company ' s economic moat. We forecast this PEriod to
+last anywhere from one year (for companies with no economic moat) to 10 - 15 years or more (for wide-moat companies). During this PEriod, cash flows are forecast using
+four assumptions: an average growth rate for EBI over the
+PEriod, a normalized investment rate, average return on
+new invested capital (RONIC), and the number of years
+until PErPEtuity, when excess returns cease. The investment rate and return on new invested capital decline until a PErPEtuity value is calculated. In the case of firms
+that do not earn their cost of capital, we assume marginal
+ROICs rise to the firm ' s cost of capital (usually attributable to less reinvestment), and we may truncate the
+SECond stage.
+Stage III: PErPEtuity
+Once a company ' s marginal ROIC hits its cost of capital,
+we calculate a continuing value, using a standard PErPEtuity formula. At PErPEtuity, we assume that any
+growth or decline or investment in the business neither
+creates nor destroys value and that any new investment
+provides a return in line with estimated WACC.
+Because a dollar earned today is worth more than a dollar
+earned tomorrow, we discount our projections of cash
+flows in stages I, II, and III to arrive at a total present
+value of exPEcted future cash flows. Because we are
+modeling free cash flow to the firm -- representing cash
+available to provide a return to all capital providers -- we
+discount future cash flows using the WACC, which is a
+weighted average of the costs of equity, debt, and preferred stock (and any other funding sources), using exPEcted future proportionate long-term, market-value
+weights.
+3. Uncertainty Around That Fair Value Estimate
+Morningstar ' s Uncertainty Rating is designed to capture
+the range of potential outcomes for a company ' s intrinsic
+value. This rating is used to assign the margin of safety
+required before investing, which in turn explicitly drives
+our stock star rating system. The Uncertainty Rating is
+aimed at identiFYing the confidence we should have in assigning a fair value estimate for a given stock.
+Our Uncertainty Rating is meant to take into account anything that can increase the potential disPErsion of future
+outcomes for the intrinsic value of a company, and any-
+
+Research Methodology for Valuing Companies
+thing that can affect our ability to accurately predict
+these outcomes. The rating begins with a suggested rating produced by a quantitative process based on the trailing 12-month standard deviation of daily stock returns.
+An analyst overlay is then applied, with analysts using
+the suggested rating, historical rating data, and their own
+knowledge of the company to inform them as they make
+the final Uncertainty Rating decision. Ultimately, the rating decision rests with the analyst. Analysts take into account many characteristics when making their final decision, including cyclical factors, oPErational and financial
+factors such as leverage, company-sPEcific events, ESG
+risks, and anything else that might increase the potential
+disPErsion of future outcomes and our ability to estimate
+those outcomes.
+Our recommended margin of safety--the discount to fair
+value demanded before we'd recommend buying or
+selling the stock--widens as our uncertainty of the estimated value of the equity increases. The more uncertain
+we are about the potential disPErsion of outcomes, the
+greater the discount we require relative to our estimate of
+the value of the firm before we would recommend the
+purchase of the shares. In addition, the Uncertainty Rating provides guidance in portfolio construction based on
+risk tolerance.
+Our Uncertainty Ratings are: Low, Medium, High, Very
+High, and Extreme.
+Margin of Safety
+Qualitative Analysis
+Uncertainty Ratings QQQQQRating
+QRating
+Low
+Medium
+High
+Very High
+Extreme
+20% Discount
+30% Discount
+40% Discount
+50% Discount
+75% Discount
+25% Premium
+35% Premium
+55% Premium
+75% Premium
+300% Premium
+Our uncertainty rating is based on the interquartile range,
+or the middle 50% of potential outcomes, covering the
+25th PErcentile-75th PErcentile. This means that when a
+stock hits 5 stars, we exPEct there is a 75% chance that
+the intrinsic value of that stock lies above the current
+market price. Similarly, when a stock hits 1 star, we exPEct there is a 75% chance that the intrinsic value of that
+stock lies below the current market price.
+4. Market Price
+The market prices used in this analysis and noted in the
+report come from exchange on which the stock is listed
+which we believe is a reliable source.
+For more details about our methodology, please go to
+https://shareholders.morningstar.com
+Morningstar Star Rating for Stocks
+Morningstar Equity Research Star Rating Methodology
+Once we determine the fair value estimate of a stock, we
+compare it with the stock ' s current market price on a
+daily basis, and the star rating is automatically re-calculated at the market close on every day the market on
+which the stock is listed is oPEn. Our analysts keep close
+tABS on the companies they follow, and, based on thorough and ongoing analysis, raise or lower their fair value
+estimates as warranted.
+justed return is highly likely over a multiyear time frame.
+Scenario analysis develoPEd by our analysts indicates
+that the current market price represents an excessively
+PEssimistic outlook, limiting downside risk and maximizing upside potential.
+QQQQ We believe appreciation beyond a fair risk-adjusted return is likely.
+Please note, there is no predefined distribution of stars.
+That is, the PErcentage of stocks that earn 5 stars can
+fluctuate daily, so the star ratings, in the aggregate, can
+serve as a gauge of the bROAder market ' s valuation. When
+there are many 5-star stocks, the stock market as a whole
+is more undervalued, in our opinion, than when very few
+companies garner our highest rating.
+We exPEct that if our base-case assumptions are true the
+market price will converge on our fair value estimate over
+time generally within three years (although it is impossible to predict the exact time frame in which market
+prices may adjust).
+Our star ratings are guideposts to a bROAd audience and
+individuals must consider their own sPEcific investment
+goals, risk tolerance, tax situation, time horizon, income
+needs, and complete investment portfolio, among other
+factors.
+The Morningstar Star Ratings for stocks are defined below:
+QQQQQ We believe appreciation beyond a fair risk adQQQ Indicates our belief that investors are likely to receive a fair risk-adjusted return (approximately cost of
+equity).
+QQ We believe investors are likely to receive a less than
+fair risk-adjusted return.
+Q Indicates a high probability of undesirable risk-adjusted returns from the current market price over a multiyear
+time frame, based on our analysis. Scenario analysis by
+our analysts indicates that the market is pricing in an excessively optimistic outlook, limiting upside potential and
+leaving the investor exposed to Capital loss.
+Other Definitions
+Last Price: Price of the stock as of the close of the market of the last trading day before date of the report.
+Capital Allocation Rating: Our Capital Allocation (or
+Stewardship) Rating represents our assessment of the
+quality of management ' s capital allocation, with particular emphasis on the firm ' s balance sheet, investments,
+and shareholder distributions. Analysts consider compan-
+
+Research Methodology for Valuing Companies
+ies' investment strategy and valuation, balance sheet
+management, and dividend and share buyback policies.
+Corporate governance factors are only considered if they
+are likely to materially impact shareholder value, though
+either the balance sheet, investment, or shareholder distributions. Analysts assign one of three ratings: "Exemplary", "Standard", or "Poor". Analysts judge Capital Allocation from an equity holder's PErsPEctive. Ratings are determined on a forward looking and ABSolute basis. The
+Standard rating is most common as most managers will
+exhibit neither exceptionally strong nor poor capital allocation.
+Capital Allocation (or Stewardship) analysis published prior to Dec. 9, 2020, was determined using a different process. Beyond investment strategy, financial leverage, and
+dividend and share buyback policies, analysts also considered execution, comPEnsation, related party transactions, and accounting practices in the rating.
+Capital Allocation Rating: Our Capital Allocation (or
+Stewardship) Rating represents our assessment of the
+quality of management's capital allocation, with particular emphasis on the firm's balance sheet, investments,
+and shareholder distributions. Analysts consider companies' investment strategy and valuation, balance sheet
+management, and dividend and share buyback policies.
+Corporate governance factors are only considered if they
+are likely to materially impact shareholder value, though
+either the balance sheet, investment, or shareholder distributions. Analysts assign one of three ratings: "Exemplary", "Standard", or "Poor". Analysts judge Capital Allocation from an equity holder's PErsPEctive. Ratings are determined on a forward looking and ABSolute basis. The
+Standard rating is most common as most managers will
+exhibit neither exceptionally strong nor poor capital allocation.
+Capital Allocation (or Stewardship) analysis published prior to Dec. 9, 2020, was determined using a different process. Beyond investment strategy, financial leverage, and
+dividend and share buyback policies, analysts also considered execution, comPEnsation, related party transactions, and accounting practices in the rating.
+Sustainalytics ESG Risk Rating Assessment:The ESG
+Risk Rating Assessment is provided by Sustainalytics; a
+Morningstar company.
+Sustainalytics' ESG Risk Ratings measure the degree to
+which company's economic value at risk is driven by environment, social and governance (ESG) factors.
+starting at zero (no risk) with lower scores representing
+less unmanaged risk and, for 95% of cases, the unmanaged ESG Risk score is below 50.
+Based on their quantitative scores, companies are
+grouPEd into one of five Risk Categories (negligible, low,
+medium, high, severe). These risk categories are ABSolute,
+meaning that a ' high risk ' assessment reflects a comparable degree of unmanaged ESG risk across all subindustries covered.
+The ESG Risk Rating Assessment is a visual representation of Sustainalytics ESG Risk Categories on a 1 to 5
+scale. Companies with Negligible Risk = 5 Globes, Low
+Risk = 4, Medium Risk = 3 Globes, High Risk = 2 Globes,
+Severe Risk = 1 Globe. For more information, please visit
+sustainalytics.com/esg-ratings/
+Ratings should not be used as the sole basis in evaluating
+a company or SECurity. Ratings involve unknown risks and
+uncertainties which may cause our exPEctations not to
+occur or to differ significantly from what was exPEcted
+and should not be considered an offer or solicitation to
+buy or sell a SECurity.
+Risk Warning
+Please note that investments in SECurities are subject to
+market and other risks and there is no assurance or guarantee that the intended investment objectives will be
+achieved. Past PErformance of a SECurity may or may not
+be sustained in future and is no indication of future PErformance. A SECurity investment return and an investor ' s
+principal value will fluctuate so that, when redeemed, an
+investor ' s shares may be worth more or less than their
+original cost. A SECurity ' s current investment PErformance
+may be lower or higher than the investment PErformance
+noted within the report. Morningstar ' s Uncertainty Rating
+serves as a useful data point with resPEct to sensitivity
+analysis of the assumptions used in our determining a fair
+value price.

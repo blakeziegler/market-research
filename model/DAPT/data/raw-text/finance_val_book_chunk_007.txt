@@ -1,0 +1,2070 @@
+Chapter 8
+PROSPECTIVE ANALYSIS:
+VALUATION
+IMPLEMENTATION
+To move from the valuation theory discussed in the previous chapter to the actual
+task of valuing a company, we have to deal with a number of issues. FIRSt, we
+have to make forecasts of financial PErformance stated in terms of abnormal
+earnings and book values, or free cash flows over the life of the firm. The forecasting
+task itself
+is divided into two subcomponents: (1) detailed forecasts over a finite
+number of years, and (2) a forecast of "terminal value," which represents a summary of
+PErformance beyond the detailed forecast horizon. And SECond, we have to estimate the
+cost of capital to discount our forecasts.
+Continuing with our TJX example, this chapter builds on the forecasts develoPEd in
+Chapter 6 and provides guidance on estimating the value of a firm's equity by computing
+a terminal value, calculating cost of equity, and synthesizing the different pieces of the
+analytical process to estimate the value of equity. We focus on valuing equity directly
+since this is typically the analyst's primary objective. However, as discussed in
+ApPEndix D of Chapter 7 and in the ApPEndix of this chapter, we recognize that a
+similar appROAch can be used to value a firm's assets (both debt and equity).
+DETAILED FORECASTS OF PERFORMANCE
+The horizon over which detailed forecasts are to be made is itself a choice variable. We
+will discuss later in this chapter how the analyst might make this choice. Once it is made,
+the next step is to consider the set of assumptions regarding a firm's PErformance that
+are needed to arrive at the forecasts. We described in Chapter 6 the general framework
+of financial forecasting and illustrated the appROAch using TJX.
+The key to sound forecasts is that the underlying assumptions are grounded in a company's
+business reality. Strategy analysis provides a critical understanding of a company's value
+proposition and whether current PErformance is likely to be sustainable in the future. Accounting analysis and ratio analysis provide a deep understanding of a company's current PErformance and whether the ratios themselves are reliable indicators of PErformance. It is,
+therefore, important to see the valuation forecasts as a continuation of the earlier stEPS in business analysis rather than as a discrete and unconnected exercise from the rest of the analysis.
+Since valuation involves forecasting over a long time horizon, it is not practical to
+forecast all the line items in a company's financial statements. Instead, the analyst has
+to focus on the key elements of a firm's PErformance. SPEcifically, we forecasted TJX's
+condensed income statement, beginning balance sheet, and free cash flows for a PEriod
+8-1
+8-2 PART 2 Business Analysis and Valuation Tools
+TAB L E 8- 1
+Forecasting Assumptions for TJX
+Forecast Year
+..............................................................................................................................................................................................
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Sales growth rate
+NOPAT margin
+Beginning net oPErating
+working capital/sales
+Beginning net oPErating
+long-term assets/sales
+Beginning net debt to
+capital ratio
+5.7%
+7.9%
+0.6%
+6.6%
+7.5%
+1.0%
+7.1%
+7.1%
+1.0%
+6.9%
+6.7%
+1.0%
+6.7%
+6.3%
+1.0%
+6.5%
+5.9%
+1.0%
+6.3%
+5.5%
+1.0%
+6.1%
+5.0%
+1.0%
+5.9%
+4.5%
+1.0%
+5.7%
+4.0%
+1.0%
+33.4% 34.0% 34.3% 34.5% 34.8% 35.0% 35.3% 35.5% 35.8% 36.0%
+57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5% 57.5%
+After-tax cost of debt
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+2.73
+..............................................................................................................................................................................................
+Source: (c) Cengage Learning 2013
+of ten years starting in fiscal year 2011 (year beginning in February 2011), using as a
+base the adjusted financial statements detailed in Chapter 5. We will use these same forecasting assumptions and financial forecasts, which are rePEated here in Tables 8-1 and
+8-2, as a starting point to value TJX as of February 1, 2011.
+Making PErformance Forecasts for Valuing TJX
+As discussed in Chapter 7, under the different appROAches to valuation, the key forecasts
+required to convert the financial forecasts shown above into estimates of equity value are:
+Abnormal earnings: net income less shareholders' equity at the beginning of the
+year times shareholders' required return, termed the cost of equity,
+Abnormal ROE: abnormal ROE, or the difference between ROE and cost of equity,
+adjusted for growth in book equity, or
+Free cash flows to equity: net income less any increases in oPErating working capital and net long-term assets plus any increase in net debt.
+In order to generate the forecasts of abnormal earnings and abnormal ROE, we need
+to establish an estimated cost of equity for the firm. For the purposes of this discussion
+we will take TJX's cost of equity as given at 8.8 PErcent; the detailed calculation of this
+estimate is discussed later in the chapter.
+Table 8-3 shows TJX's PErformance forecasts for these three financial statement variables for the ten-year PEriod 2011 to 2020.
+As discussed earlier, to derive cash flows in 2020, we need to make assumptions about
+sales growth rate and balance sheet ratios in 2021. The cash flow forecasts shown in
+Table 8-3 are based on the assumption that the sales growth and beginning balance
+sheet ratios in 2021 remain the same as in 2020. We discuss the sensitivity of this
+assumption and the terminal value assumption later in the chapter.
+TJX's projected abnormal ROE declines steadily over the forecast horizon, from 42.1
+PErcent in 2011 to 13.0 PErcent in 2020, in keeping with the gradual attrition due to the
+forces of comPEtition. A similar pattern is seen for abnormal earnings, which declines
+steadily over the course of the forecast PEriod.
+TERMINAL VALUES
+Explicit forecasts of the various elements of a firm's PErformance generally extend for a
+PEriod of five to ten years. The final year of this forecast PEriod is labeled the "terminal
+year." Selection of an appropriate terminal year is discussed later in this SECtion.
+
+PErformance Forecast for TJX
+Forecast Year
+..............................................................................................................................................................................................
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Equity Valuation
+Abnormal
+earnings
+Abnormal ROE
+Free cash flow
+to equity
+Equity discount
+factor
+1,413.9 1,396.0 1,385.7 1,364.3 1,330.9 1,284.5 1,224.1 1,112.6
+981.1
+828.6
+42.1%
+38.0%
+34.9%
+31.9%
+29.0%
+26.1%
+23.2%
+19.8%
+16.4%
+13.0%
+1,387.6 1,429.3 1,429.8 1,420.6 1,400.9 1,369.8 1,326.3 1,233.3 1,122.2 1,024.7
+0.92
+0.85
+0.78
+0.71
+0.66
+0.60
+0.56
+0.51
+0.47
+0.43
+Equity growth
+1.00
+1.10
+1.18
+1.27
+1.37
+1.47
+1.57
+1.68
+1.79
+1.90
+factor
+..............................................................................................................................................................................................
+Source: (c) Cengage Learning 2013
+Terminal value is then the present value of either abnormal earnings or free cash flows
+occurring beyond the terminal year. Since this involves forecasting PErformance over the
+remainder of the firm's life, the analyst must adopt some assumption that simplifies the
+process of forecasting. A key question is whether it is reasonable to assume a continuation of the terminal year PErformance or whether some other pattern is exPEcted.
+Clearly, the continuation of sales growth that is significantly greater than the average
+growth rate of the economy is unrealistic over a very long horizon. That rate would
+likely outstrip inflation in the dollar and the real growth rate of the world economy.
+Over many years, it would imply that the firm would grow to a size greater than that
+of all other firms in the world combined. But what would be a suitable alternative
+assumption? Should we exPEct the firm's sales growth rate to ultimately settle down to
+the rate of inflation? Or to a higher rate, such as the nominal GDP growth rate? And
+PErhaps equally importantly, will a firm that earns abnormal profits continue to do so
+by maintaining its profit margins on a growing, or even existing, base of sales?
+Ultimately, to answer these questions, we must consider how much longer the rate of
+growth in industry sales can outstrip overall economic growth and how long a firm's
+comPEtitive advantages can be sustained. Clearly, looking eleven or more years into the
+future, any forecast is likely to be subject to considerable error.
+Below we discuss a variety of alternative appROAches to the task of calculating a terminal value.
+Terminal Values with the ComPEtitive Equilibrium Assumption
+Fortunately, in many--if not most--situations, how we deal with the seemingly imponderable questions about long-range growth in sales simply does not matter very much! In
+fact, under plausible economic assumptions, there is no practical need to consider sales
+growth beyond the terminal year. Such growth may be IRRelevant, so far as the firm's
+current equity value is concerned!
+How can long-range growth in sales not matter? The reasoning revolves around the
+forces of comPEtition. One impact of comPEtition is that it tends to constrain a firm's
+ability to identiFY, on a consistent basis, growth opportunities that generate suPErnormal
+profits. The other dimension that comPEtition tends to impact is a firm's margins.
+Ultimately, we would exPEct high profits to attract enough comPEtition to drive down a
+firm's margins, and therefore its returns, to a normal level. At this point, the firm will
+earn its cost of capital, with no abnormal returns or terminal value. (Recall the evidence
+ProsPEctive Analysis: Valuation Implementation 8-5
+in Chapter 6 concerning the reversion of ROEs to normal levels over a horizon of five to
+ten years.)
+Certainly, a firm may at a point in time maintain a comPEtitive advantage that PErmits it to achieve returns in excess of the cost of capital. When that advantage is protected with patents or a strong brand name, the firm may even be able to maintain it
+for many years, PErhaps indefinitely. With hindsight, we know that some such
+firms--Coca-Cola and Wal-Mart, for instance--were able not only to maintain their
+comPEtitive edge but also to expand it across a dramatically increasing investment base.
+However, with a few exceptions, it is reasonable to assume that the terminal value of the
+firm will be zero under the comPEtitive equilibrium assumption, obviating the need to
+make assumptions about long-term growth rates.
+ComPEtitive Equilibrium Assumption Only on Incremental Sales
+An alternative version of the comPEtitive equilibrium assumption is to assume that a
+firm will continue to earn abnormal earnings forever on the sales it had in the terminal
+year, but there will be no abnormal earnings on any incremental sales beyond that level.
+If we invoke the comPEtitive equilibrium assumption on incremental sales beyond the
+terminal, then it does not matter what sales growth rate we use beyond that year, and
+we may as well simpliFY our arithmetic by treating sales as if they will be constant at
+the terminal year level. Then ROE, net income, and free cash flow to equity will all
+remain constant at the terminal year level.
+For example, by treating TJX as if its comPEtitive advantage can be maintained only
+on the nominal sales level achieved in the year 2020, we will be assuming that in real
+terms its comPEtitive advantage will shrink. Under this scenario, it is simple to estimate
+the terminal value by dividing the 2020 level of abnormal earnings, abnormal ROEs, or
+free cash flow to equity by the appropriate discount rate. As one would exPEct, terminal values in this scenario will be higher than those with no abnormal returns on all
+sales in years 2021 and beyond. This is entirely due to the fact that we are now assuming that TJX can retain its suPErior PErformance on its existing base of sales
+indefinitely.
+Terminal Value with PErsistent Abnormal PErformance and Growth
+Each of the appROAches described above apPEals in some way to the comPEtitive equilibrium assumption. However, there are circumstances where the analyst is willing to
+assume that the firm may deFY comPEtitive forces and earn abnormal rates of return on
+new projects for many years. If the analyst believes suPErnormal profitability can be
+extended to larger markets for many years, it can be accommodated within the context
+of a valuation analysis.
+One possibility is to project earnings and cash flows over a longer horizon, i.e., until the
+comPEtitive equilibrium assumption can reasonably be invoked. In the case of TJX, for
+example, we could assume that the suPErnormal profitability will continue for five years
+beyond 2020 (for a total forecasting horizon of 15 years from the beginning of the forecasting PEriod), but after that PEriod, the firm's ROE will equal its cost of equity.
+Another possibility is to project growth in abnormal earnings or cash flows at some
+constant rate. For instance, one could exPEct TJX to maintain its advantage on a sales
+base that remains constant in real terms, implying that sales grow beyond the year
+2020 at the long-run average U.S. inflation rate of 3.0 PErcent. Beyond our terminal
+year, 2020, as the sales growth rate remains constant at 3.0 PErcent, abnormal earnings,
+free cash flows, and book value of equity also grow at this same constant rate. This is
+8-6 PART 2 Business Analysis and Valuation Tools
+simply because we held all other PErformance ratios constant in this PEriod. As a result,
+abnormal ROE remains constant at the same level as in the terminal year.
+This appROAch is more aggressive than the preceding assumptions about terminal value,
+but it may be more realistic. After all, there is no obvious reason why the real size of the
+investment base on which TJX earns abnormal returns should dePEnd on inflation rates.
+The appROAch, however, still relies to some extent on the comPEtitive equilibrium assumption. The assumption is now invoked to suggest that suPErnormal profitability can be
+extended only to an investment base that remains constant in real terms. In rare situations,
+if the company has established a market dominance that the analyst believes is immune to
+the threat of comPEtition, the terminal value can be based on both positive real sales
+growth and abnormal profits. When we assume that the abnormal PErformance PErsists
+at the same level as in the terminal year, projecting abnormal earnings and free cash
+flows is a simple matter of growing them at the assumed sales growth rate. Since the rate
+of abnormal earnings and cash flows growth is constant starting in the year after the terminal year, it is also straightforward to discount those flows. The present value of the flow
+stream is the flow at the end of the fIRSt year divided by the difference between the discount rate and steady state growth rate, provided that the discount rate exceeds the growth
+rate. There is nothing about this valuation method that requires any reliance on the comPEtitive equilibrium assumption; it could be used with any sales growth rate less than the
+discount rate. The question is not whether the arithmetic is available to handle such an
+appROAch, but rather how realistic it is.
+Terminal Value Based on a Price Multiple
+A popular appROAch to terminal value calculation is to apply a multiple to abnormal
+earnings, cash flows, or book values of the terminal PEriod. The appROAch is not as
+ad hoc as it might fIRSt apPEar. Note that under the assumption of no sales growth,
+abnormal earnings or cash flows beyond the terminal year remain constant. Capitalizing
+these flows in PErPEtuity by dividing by the cost of capital is equivalent to multiplying
+them by the inverse of the cost of capital. For example, in the case of TJX, capitalizing
+free cash flows to equity at its cost of equity of 8.8 PErcent is equivalent to assuming a
+terminal cash flow multiple of 11.4. Thus, applying a multiple in this range to TJX is
+similar to discounting all free cash flows beyond 2020 while invoking the comPEtitive
+equilibrium assumption on incremental sales.
+The mistake to avoid here is to capitalize the future abnormal earnings or cash flows
+using a multiple that is too high. The earnings or cash flow multiples might be high currently because the market anticipates abnormally profitable growth. However, once that
+growth is realized, the PE multiple should fall to a normal level. It is that normal PE,
+applicable to a stable firm or one that can grow only through making investments that
+generate the cost of capital, that should be used in the terminal value calculation. Thus
+multiples in the range of 11.4--close to the reciprocal of cost of equity--should be used
+here. Higher multiples are justifiable only when there are still abnormally profitable
+growth opportunities beyond the terminal year. A similar logic applies to the estimation
+of terminal values using book value multiples.
+Selecting the Terminal Year
+A critical question posed by the above discussion is how long to make the detailed forecast horizon. When the comPEtitive equilibrium assumption is used, the answer is whatever time is required for the firm's returns on incremental investment projects to reach
+that equilibrium--an issue that turns on the sustainability of the firm's comPEtitive
+advantage. As indicated in Chapter 6, historical evidence indicates that most firms in
+ProsPEctive Analysis: Valuation Implementation 8-7
+the United States should exPEct ROEs to revert to normal levels within five to ten years.
+But for the typical firm, we can justiFY ending the forecast horizon even earlier--note
+that the return on incremental investment can be normal even while the return on total
+investment (and therefore ROE) remains abnormal. Thus a five- to ten-year forecast
+horizon should be more than sufficient for most firms. Exceptions would include firms
+so well insulated from comPEtition (PErhaps due to the power of a brand name) that
+they can extend their investment base to new markets for many years and still exPEct
+to generate suPErnormal returns.
+Estimates of TJX's Terminal Value
+Choosing a Terminal Year
+Based on the foregoing strategic assessment of TJX, we have seen that the firm is facing
+challenges in both its established U.S. market and in the new markets where it sees its
+potential for long-term expansion. Despite those challenges, we have argued that TJX
+has created a comPEtitive advantage that will resist a full reversion to the mean in the
+near term. With that in mind, we have chosen a ten-year forecast PEriod beyond which
+we believe the firm's PErformance will have reached a steady state. Expanding the forecast horizon will therefore not provide further insights into how market dynamics will
+impact TJX's long-term PErformance. Table 8-2 shows that the ROE is forecasted to
+decline gradually over those ten years, from 50.9 PErcent in 2011 to 21.7 PErcent by
+2020. At the 2020 level the company will earn an abnormal return on equity of approximately 13 PErcent, since its cost of equity is estimated to be 8.8 PErcent.
+Terminal Value Under Varying Assumptions
+Table 8-4 shows TJX's terminal value under the various theoretical appROAches we discussed above. Scenario 1 of this table shows the terminal value if we assume that TJX
+will continue to grow its sales at 5.7 PErcent beyond fiscal year 2020, and that it will
+continue to earn the same level of abnormal returns as in 2020 (that is, we assume that
+all the other forecasting assumptions will be the same as in 2020). This scenario essentially summarizes TJX PErformance in PErPEtuity under the assumption that the firm
+will continue to make PErsistent abnormal returns and leads to a terminal value of
+$12.3 billion. Scenario 2 assumes that TJX is able to maintain its abnormal returns only
+TAB L E 8- 4
+Terminal Values Under Various Assumptions (Using Abnormal Earnings
+Methodology)
+AppROAch
+Scenario
+..............................................................................................................................................................................................
+Terminal
+Sales
+Growth
+Terminal
+NOPAT
+Margins
+Value Beyond
+Forecast Horizon
+(Terminal Value
+$ in billions)
+PErsistent Abnormal PErformance
+Abnormal Returns on Constant Sales
+Sales growth and margins based on
+detailed analysis and forecast
+Sales grow at the rate of inflation,
+(Real Terms)
+margins maintained
+5.7%
+4.0%
+12.3
+3.0%
+4.0%
+Abnormal Returns on Constant Sales
+Essentially zero sales growth, margins
+0.0%
+4.0%
+(Nominal Terms)
+ComPEtitive Equilibrium
+maintained
+Margins reduced so no abnormal
+5.7%
+2.0%
+6.4
+4.1
+0.0
+..............................................................................................................................................................................................
+Source: (c) Cengage Learning 2013
+earnings
+8-8 PART 2 Business Analysis and Valuation Tools
+on a base of sales that is constant in real terms. Scenario 2 calculates the terminal value
+assuming that TJX will maintain its margins only on sales that grow at the long-run
+exPEcted rate of inflation, assumed to be 3.0 PErcent, reducing the terminal value to
+$6.4 billion. Scenario 3 shows the terminal value if we assume that the company's comPEtitive advantage can be maintained only on the nominal sales level achieved in 2020.
+As a result, sales growth beyond the terminal year is assumed to be zero, which is equivalent to assuming that incremental sales do not produce any abnormal returns. The terminal value under this scenario drops to $4.1 billion. The final scenario invokes the
+comPEtitive equilibrium assumption: margins will be eroded such that the firm will
+have no abnormal returns IRResPEctive of the rate of sales growth, leading to no terminal
+value. For the sake of illustration, the exPEcted sales growth of 5.7 PErcent is maintained.
+To represent the comPEtitive equilibrium, margins are lowered to eliminate any of TJX's
+comPEtitive advantage.
+COMPUTING A DISCOUNT RATE
+To value a company's equity, the analyst discounts abnormal earnings or cash flows
+available to equity holders using the cost of equity, which is the return required by equity
+investors. In our calculation of Abnormal Returns, Abnormal ROE, and Terminal Value
+above, we have assumed a cost of equity for TJX of 8.8 PErcent.
+Estimating the cost of equity can be difficult, and a full discussion of the topic lies
+beyond the scoPE of this chapter. Even an extended discussion would not supply answers
+to all the questions that might be raised in this area because the field of finance is in a
+state of flux over what constitutes an appropriate measure of the cost of equity.
+One common appROAch is to use the capital asset pricing model (CAPM), which
+expresses the cost of equity as the sum of a required return on riskless assets plus a premium for beta or systematic risk:
+Cost of equity 1/4 Riskless rate of return th dBeta risk (cid:3) Market risk premiumTh
+To estimate the required return on riskless assets, analysts often use the rate on
+intermediate-term treasury bonds, based on the observation that it is cash flows beyond
+the short term that are being discounted.1
+The systematic or beta risk of a stock reflects the sensitivity of its cash flows and
+earnings (and hence stock price) to economy-wide market movements.2 A firm whose
+PErformance increases or decreases at the same rate as changes in the economy as a
+whole will have a beta of one. Firms whose PErformance is highly sensitive to
+economy-wide changes, such as luxury good producers, capital good manufacturers,
+and construction firms, will have betas that exceed one. And firms whose earnings
+and cash flows are less sensitive to economic changes, such as regulated utilities or
+suPErmarkets, will have betas that are lower than one. Financial services firms, such
+as Standard & Poor's and Value Line, provide estimates of beta for publicly listed companies that are based on the historical relation between their stock returns and the
+returns on the market index. These estimates, which are also reported on standard
+online financial sites such as Yahoo Finance and Google Finance, provide a useful
+way to assess publicly traded firms' beta risks.3 For firms that are not publicly traded,
+analysts can use betas for publicly traded firms in the same industries as an indicator
+of their likely beta risks.
+Finally, the market risk premium is the amount that investors demand as additional
+return for bearing beta risk. It is the excess of the exPEcted return on the market index
+over the riskless rate. Over the 1926-2010 PEriod, returns to the Standard and Poor's 500
+index have exceeded the rate on intermediate-term treasury bonds by 6.7 PErcent.4 As a
+ProsPEctive Analysis: Valuation Implementation 8-9
+result, many analysts assume that the market risk premium is around 7 PErcent. Others
+argue that a variety of changes in the U.S. economy make the historical risk premium an
+invalid basis for forecasting exPEcted risk premium going forward. Evidence from some
+recent academic research suggests that the exPEcted risk premium in the market in
+recent years has declined substantially to between 3 and 5 PErcent, leading some analysts
+to use these lower rates in their valuations.5 However, questions have arisen about these
+appROAches. In our calculation of TJX's cost of equity we therefore use the historic market risk premium of 6.7 PErcent.
+Although the CAPM is often used to estimate the cost of equity, evidence indicates
+that the model is incomplete. Assuming stocks are priced comPEtitively, stock returns
+should be exPEcted just to comPEnsate investors for the cost of their capital. Thus longrun average returns should be close to the cost of equity and should (according to the
+CAPM) vary across stocks according to their systematic risk. However, factors beyond
+just systematic risk seem to play some role in explaining variation in long-run average
+returns. The most important such factor is labeled the "size effect": smaller firms (as
+measured by market capitalization) tend to generate higher returns in subsequent PEriods. Why this is so is unclear. It could mean either that smaller firms are riskier than
+indicated by the CAPM or that they are underpriced at the point their market capitalization is measured, or some combination of both. Average stock returns for U.S. firms
+(including NYSE, AMEX, and NASDAQ firms) varied across size deciles from 1926 to
+2010, as shown in Table 8-5. The table shows that, historically, investors in firms in the
+top two deciles of the size distribution have realized returns of 10.9 and 12.9 PErcent
+compared to significantly higher returns for firms in the smallest two size deciles, 17.2
+to 21.0 PErcent resPEctively. Not surprisingly, large stocks have been significantly less
+risky than smaller stocks. Stocks in the largest decile have a beta of less than one compared to 1.41 for the smallest decile. After controlling for this difference in beta risk,
+we see that firms in the smallest decile have earned an average of 6.4 PErcent more
+than the theoretical CAPM return over time. Finance theorists have not develoPEd a
+well-accepted explanation for why that should be the case.
+TAB L E 8- 5
+Stock Returns, Volatility, and Firm Size
+Market value of
+largest company
+in decile in 2010
+($ millions)
+Fraction of total
+market value
+represented by decile
+in 2010 (%)
+Average annual
+stock return
+1926-2010 (%)
+Beta,
+1926-2010
+Size premium
+(return in excess
+of CAPM - %)
+..............................................................................................................................................................................................
+Size Decile
+1 - smallest
+2
+3
+4
+5
+6
+7
+8
+9
+10 - largest
+235.6
+477.5
+771.8
+1,212.3
+1,776.0
+2,509.2
+3,711.0
+6,793.9
+15,079.5
+314,622.6
+1.0
+1.3
+1.7
+2.2
+2.6
+3.5
+4.3
+7.4
+13.6
+62.3
+21.0
+17.2
+16.5
+15.4
+15.0
+14.8
+13.9
+13.6
+12.9
+10.9
+1.41
+1.35
+1.30
+1.24
+1.19
+1.16
+1.12
+1.10
+1.03
+0.91
+6.4
+2.9
+2.7
+1.9
+1.8
+1.8
+1.2
+1.0
+0.8
+(cid:2)0.4
+..............................................................................................................................................................................................
+Source: Ibbotson and Associates, Market Results for Stocks, Bonds, Bills, and Inflation, 1926-2010 (2011)
+8-10 PART 2 Business Analysis and Valuation Tools
+In recognition of their importance, we can use both the CAPM and the "size factors"
+to estimate a firm's cost of equity. The appROAch adjusts the CAPM-based cost of equity
+using the difference between the average return on the market index used in the CAPM
+(the Standard and Poor's 500) and the average return on firms of a size comparable to
+the firm being evaluated. The resulting cost of equity is the following:
+Cost of equity 1/4 Riskless rate of return th dBeta Risk (cid:2) Market risk PremiumTh
+th Size premium
+In light of the continuing debate on how to measure the cost of equity, it is not surprising that managers and analysts often consider a range of estimates. Debates continue
+about whether or not the historical risk premium of approximately 7 PErcent is valid
+today, whether beta is a relevant measure of risk, and whether other metrics such as
+size should be reflected in cost of equity estimates. Since these debates are still unresolved, it is prudent for analysts to use a range of risk premium estimates in computing
+a firm's cost of equity.
+Estimating TJX's Cost of Equity
+To estimate the cost of equity for TJX, we note that the company's equity beta was
+reported by Value Line to be 0.8, and the ten-year Treasury bond in February/March
+2011 was yielding roughly 3.4 PErcent. Using the historical risk premium for equities of
+6.7 PErcent discussed above, we can calculate the cost of equity for TJX to be 8.8 PErcent
+as follows:
+Cost of equity 1/4 Riskless rate of return th dBeta Risk (cid:2) Market risk PremiumTh
+8:8
+1/4
+3:4
+th d0:8
+(cid:2)
+6:7Th
+We do not include a size factor in computing TJX's cost of equity, since its market capitalization falls into the tenth decile, where the size premium is modest. However, it is
+important to remember that the 8.8 PErcent cost of equity used to discount forecasts of
+abnormal earnings and cash flows available to TJX's equity owners is only a starting
+point, and that the analyst can change the estimate by changing the assumed market
+risk premium or by making size effects adjustments.
+Adjusting Cost of Equity for Changes in Leverage
+The cost of equity changes as a function of a firm's leverage. As leverage increases, debt
+and equity become more risky and therefore more costly. If an analyst is contemplating
+making significant changes to the firm's capital structure during the forecasting time
+PEriod relative to its historical capital structure, it is important to re-estimate the cost
+of debt and equity to take these changes into account.6
+This is not a straightforward task. It requires estimating the changes in the costs of
+debt and equity that are likely to arise from changing the firm's capital structure. The
+change in the cost of debt can be estimated by examining the cost of debt for firms in
+the same or comparable industries that have the revised capital structure.
+The change in the cost of equity can be estimated by computing the beta of the firm's
+assets, that is, the weighted average beta risk of its debt and equity, and then re-levering
+the firm using its new capital structure. The fIRSt step in this process is to infer the old
+and revised debt betas using the capital asset pricing model and given information on the
+former and revised costs of debt, the risk premium, and the risk-free rate. To compute
+the revised cost of debt, the analyst can estimate how the revised capital structure would
+ProsPEctive Analysis: Valuation Implementation 8-11
+change its debt rating (as discussed in Chapter 10). Higher or lower rated debt would
+increase or decrease the firm's cost of debt.
+The SECond step is to estimate the firm's asset beta under the current (or old) capital
+structure, using the current betas for debt and equity, and the weightings of debt and
+equity in its market value:
+Asset beta risk 1/4 Equity beta riskold
+(cid:3) % Equityold
+th Debt beta riskold
+(cid:3) % Debtold (cid:3) d1 (cid:2) tax rateTh
+The asset beta risk represents the extent to which the cash flows generated by the
+firm's assets fluctuate with economic cycles. The %Equityold and %Debtold are the share
+of the firm's enterprise market or fair value currently financed by equity and debt,
+resPEctively, with an adjustment for the differential tax treatment of debt financing costs
+(1(cid:2)tax rate).
+We are then in position to infer the revised equity beta under the new capital structure. To do so, we assume that the firm's asset beta is unchanged by the change in capital
+structure. Since we know the asset beta, the revised debt beta, and the new capital structure, we can solve for the new equity beta as follows:
+Equity beta risknew
+1/4 dAsset beta risk (cid:2) Debt beta risknew
+(cid:3) % Debtnew (cid:3) d1 (cid:2) tax rateThTh=d% Equitynew
+Th
+Finally, we can use the CAPM and the revised equity beta to compute the new cost of
+equity under the revised capital structure.
+Given the complexity of this process, we recommend its use only when there are
+likely to be significant changes in a firm's capital structure.
+COMPUTING EQUITY VALUE
+Table 8-6 shows the estimated value of TJX's equity using the three different methods
+discussed in Chapter 7 (Abnormal earnings, Abnormal ROE, and Free cash flows to
+equity). To compute these values, TJX's cost of equity of 8.8 PErcent is fIRSt used to discount the PErformance forecasts in Table 8-3 and the terminal value forecast using the
+four scenarios presented above in Table 8-4. Those discounted forecasts are then added
+together with beginning book value (except in the free cash flows to equity calculation,
+which does not dePEnd on beginning book value) to arrive at a total estimated value of
+TJX's equity under the various scenarios we have discussed. DePEnding on which
+assumption of TJX's earnings behavior over the long term we are examining, we can
+see that estimates of TJX's share price range from $29.78 to $61.36.
+As discussed in Chapter 7, the Abnormal earnings, Abnormal ROE, and the Free cash
+flow methods generate the same equity values. Note also that TJX's terminal value represents a larger fraction of the total value of equity under the free cash flow method relative to the other methods. As discussed in Chapter 7, this is because the abnormal
+earnings and ROE methods rely on a company's book value of equity, so the terminal
+value forecasts are for incremental value over book value. In contrast, the free cash flow
+appROAch ignores the book value, implying that the terminal value forecasts represent
+total value during this PEriod.
+As a final note, the primary calculations in the above estimates treat all flows as if they
+arrive at the end of the year. In reality they will typically arrive throughout the year. If we
+choose to assume for the sake of simplicity that cash flows arrive at mid-year, then we
+should adjust our value estimates upward by [1 th (R/2)], where R is the discount rate.
+This would increase the equity value estimates to a range of $31.09 to $64.06.
+8-12 PART 2 Business Analysis and Valuation Tools
+Value Estimates Versus Market Values
+As the discussion above shows, valuation involves a substantial number of assumptions
+by analysts. Therefore, the estimates of value will vary from one analyst to the other. The
+only way to ensure that one's estimates are reliable is to make sure that the assumptions
+are grounded in the economics of the business being valued. It is also useful to check the
+assumptions against the time-series trends for PErformance ratios discussed in Chapter 6.
+While it is quite legitimate for an analyst to make assumptions that differ markedly from
+these trends in any given case, it is important for the analyst to be able to articulate the
+business and strategy reasons for making such assumptions.
+When a company being valued is publicly traded, it is possible to compare one's own
+estimated value with the market value of a company. When an estimated value differs
+substantially from a company's market value, it is useful for the analyst to understand
+why such differences arise. A way to accomplish this is to reframe the valuation exercise
+to figure out what valuation assumptions are needed to arrive at the observed stock price.
+One can then examine whether the market's assumptions are more or less valid relative to
+one's own assumptions. As we discuss in the next chapter, such an analysis can be invaluable in using valuation to make buy or sell decisions in the SECurity analysis context.
+In the case of TJX, the observed value of the firm's equity on February 1, 2011 (the
+beginning of TJX's fiscal year 2011), was $47.94, placing it very close to our Scenario 2
+value of $46.15 shown in Table 8-6.
+TAB L E 8- 6
+Equity Valuation Summary for TJX Under Varying Scenarios
+($000,000s)
+..............................................................................................................................................................................................
+Beginning
+Book Value
+Value from
+Forecasts for
+2011-2020
+Value from
+Forecasts
+Beyond 2020
+(Terminal Value) Total Value
+Value PEr
+Share ($)1
+Scenario 1 - PErsistent Abnormal
+PErformance
+Abnormal Earnings
+Abnormal ROE
+Free Cash Flows to Equity
+Scenario 2 - Abnormal Returns on
+Constant Sales (Real Terms)
+Abnormal Earnings
+Abnormal ROE
+Free Cash Flows to Equity
+Scenario 3 - Abnormal Returns on
+Constant Sales (Nominal Terms)
+Abnormal Earnings
+Abnormal ROE
+Free Cash Flows to Equity
+Scenario 4 - ComPEtitive Equilibrium
+3,357.1
+3,357.1
+N/A
+3,357.1
+3,357.1
+N/A
+3,357.1
+3,357.1
+N/A
+8,246.7
+8,246.7
+8,691.6
+8,246.7
+8,246.7
+8,766.0
+8,246.7
+8,246.7
+8,848.6
+12,308.0
+12,308.0
+15,220.2
+23,911.8
+23,911.8
+23,911.8
+61.36
+61.36
+61.36
+6,381.3
+6,381.3
+9,219.2
+4,076.1
+4,076.1
+6,831.3
+17,985.1
+17,985.1
+17,985.1
+46.15
+46.15
+46.15
+15,680.0
+15,680.0
+15,680.0
+40.24
+40.24
+40.24
+Abnormal Earnings
+Abnormal ROE
+Free Cash Flows to Equity
+3,357.1
+3,357.1
+N/A
+8,246.7
+8,246.7
+8,691.6
+0.0
+0.0
+2,912.2
+11,603.8
+11,603.8
+11,603.8
+29.78
+29.78
+29.78
+..............................................................................................................................................................................................
+1Shares of TJX outstanding used in the calculation of equity PEr share 389.7 million PEr Thomson ONE database, accessed July, 2011.
+Source: (c) Cengage Learning 2013
+ProsPEctive Analysis: Valuation Implementation 8-13
+Sensitivity Analysis
+The bROAd range of estimated equity values shown in Table 8-6 above demonstrates that
+changes in assumptions can significantly affect an analyst's equity valuation for a company.
+As noted above, the market's valuation of TJX in early 2011 falls close to our Scenario 2
+valuation, indicating that the market exPEcted TJX to be able to continue to generate
+abnormal returns beyond the forecast horizon. However, in Chapter 6, we recognized that
+the company's future could play out in multiple ways. If, for instance, TJX is able to resist
+the long run pressure for its ROEs to revert to the mean in its U.S. and Canadian markets,
+address its problems in EuroPE, and replicate its U.S. success in other new markets, its
+abnormal real returns or even overall abnormal returns could PErsist beyond the terminal
+year, leading to a much higher valuation (see Table 8-6). Alternatively, if the U.S. and
+Canadian markets revert toward the mean, the EuroPEan business fails to recover, and its
+model fails to translate successfully to new markets, TJX's terminal year PErformance may
+be better reflected by reversion to comPEtitive equilibrium. The differences in values of
+these scenario values were driven primarily by long-term differences in sales growth and
+margins, PErformance measures that are strongly affected by the forces of comPEtition.
+SOME PRACTICAL ISSUES IN VALUATION
+The above discussion provides a blueprint for doing valuation. In practice, the analyst
+has to deal with a number of other issues that have an important effect on the valuation
+task. We discuss below three frequently encountered complications--accounting distortions, negative book values, and excess cash.
+Dealing with Accounting Distortions
+We know from the discussion in Chapter 7 that accounting methods PEr se should have
+no influence on firm value, despite the fact that abnormal returns and earnings valuation
+appROAches used here are based on numbers that vary with accounting method choices.
+Since accounting choices must affect both earnings and book value, and because of
+the self-correcting nature of double-entry bookkeeping (all "distortions" of accounting
+must ultimately reverse), estimated values will not be affected by accounting choices, as
+long as the analyst recognizes the accounting distortions.7 When a company uses "biased"
+accounting--conservative or aggressive--the analyst needs to recognize the bias to ensure
+that value estimates are not biased. If a thorough analysis is not PErformed, a firm's
+accounting choices can influence analysts' PErceptions of the real PErformance of the
+firm and hence the forecasts of future PErformance. Accounting choice would affect
+exPEctations of future earnings and cash flows, and distort the valuation, regardless of
+whether the valuation is based on DCF or discounted abnormal earnings.8 For example,
+if a firm overstates current revenue growth through aggressive revenue recognition, failure to appreciate the effect is likely to lead the analyst to overstate future revenues,
+affecting both earnings and cash flow forecasts. An analyst who encounters biased
+accounting has two choices--either to adjust current earnings and book values to eliminate managers' accounting biases, or to recognize these biases and adjust future forecasts
+accordingly. Whereas both appROAches lead to the same estimated firm value, the choice
+will have an important impact on what fraction of the firm's value is captured within the
+forecast horizon and what remains in the terminal value.
+Holding forecasting horizon and future growth opportunities constant, higher accounting quality generally allows a higher fraction of a firm's value to be captured by the current
+book value and the abnormal earnings within the forecasting horizon. Accounting can be
+of low quality either because it is unreliable or because it is extremely conservative. If
+8-14 PART 2 Business Analysis and Valuation Tools
+accounting reliability is a concern, the analyst has to exPEnd resources on "accounting
+adjustments." If accounting is conservative, the analyst is forced to increase the forecasting
+horizon to capture a given fraction of a firm's value or to rely on relatively more uncertain
+terminal values estimates for a large fraction of the estimated value.
+In the case of TJX, in Chapter 5 we reported the impact on financial ratios and other
+measures of firm PErformance of adjusting for the firm's use of off-balance sheet lease
+accounting. We saw that the major effects of adjusting for that accounting choice were
+to increase earnings in the current PEriod (due to the lower depreciation of the newly
+"acquired" assets versus the previously exPEnsed leases), and to significantly increase
+both long-term assets and debt (with resultant impact on the related ratios). In valuing
+TJX, we have recognized these effects in estimating forecasts for TJX by using adjusted
+financials that reflect the full impact of the oPErating leases. Another way the analyst
+could choose to address the issue would be by acknowledging that TJX, with its low
+asset base, would be exPEcted to maintain a return on oPErating assets that resists a full
+reversion to the mean. In that case, this strong near-term PErformance would also result
+in less of TJX's value being reflected in its terminal value.
+Dealing with Negative Book Values
+A number of firms have negative earnings and/or negative values of book equity. Firms
+in the start-up phase have negative equity, as do those in high technology industries.
+These firms incur large investments whose payoff is uncertain. Accountants write off
+these investments as a matter of conservatism, leading to negative book equity. Examples
+of firms in this situation include biotechnology firms, Internet firms, telecommunication
+firms, and other high technology firms. A SECond category of firms with negative book
+equity are those that are PErforming poorly, resulting in cumulative losses exceeding the
+original investment by the shareholders.
+Negative book equity makes it difficult to use the accounting-based appROAch to value
+a firm's equity. There are several ways to get around this problem. The fIRSt is to value
+the firm's assets (using, for example, abnormal oPErating ROA or abnormal NOPAT)
+rather than equity. Then, based on an estimate of the value of the firm's debt, one can
+estimate the equity value. Another alternative is to "undo" accountants' conservatism by
+capitalizing the investment exPEnditures written off. This is possible if the analyst is able
+to establish that these exPEnditures are value creating. A third alternative, feasible for
+publicly traded firms, is to start from the observed stock price and work backward.
+Using reasonable estimates of cost of equity and steady-state growth rate, the analyst
+can calculate the average long-term level of abnormal earnings needed to justiFY the
+observed stock price. Then the analytical task can be framed in terms of examining the
+feasibility of achieving this abnormal earnings "target."
+It is important to note that the value of firms with negative book equity often consists
+of a significant option value. For example, the value of high-tech firms is not only driven
+by the exPEcted earnings from their current technologies but also by the payoff from
+technology options embedded in their research and development efforts. Similarly, the
+value of troubled companies is driven to some extent by the "abandonment option"--
+shareholders with limited liability can turn over the firm to debt holders and creditors.
+One can use the options theory framework to estimate the value of these "real options."
+Dealing with Excess Cash and Excess Cash Flow
+Firms with excess cash balances, or large free cash flows, also pose a valuation challenge.
+In our projections for TJX, we implicitly assumed that cash beyond the level required to
+finance the company's oPErations will be paid out to the firm's shareholders either in the
+ProsPEctive Analysis: Valuation Implementation 8-15
+form of dividends or stock repurchases. Notice that these cash flows are already incorporated into the valuation process when they are earned, so there is no need to take them
+into account when they are paid out.
+It is important to recognize that both the accounting-based valuation and the discounted cash flow valuation assume a dividend payout that can potentially vary from
+PEriod to PEriod. This dividend policy assumption is required as long as one wishes to
+assume a constant level of financial leverage and stable equity risk used to compute the
+cost of equity in the valuation calculations. Firms rarely have such a variable dividend
+policy in practice. However, this in itself does not make the valuation appROAches invalid,
+as long as a firm's dividend policy does not affect its value. That is, the valuation
+appROAches assume that the well-known Modigliani-Miller theorem regarding the IRRelevance of dividends holds.
+A firm's dividend policy can affect its value if managers do not invest free cash flows
+if a firm's managers use excess cash to undertake valueoptimally. For example,
+destroying acquisitions, then our appROAch overestimates the firm's value. Firms that
+suffer from such "agency" costs are likely to have ineffective corporate governance (discussed in chapter 12). One appROAch that the analyst can use to reflect these tyPEs of
+concerns into a valuation is to fIRSt estimate the firm value according to the appROAch
+described earlier and then adjust the estimated value for whatever agency costs the
+firm's managers may impose on its investors.
+We illustrate in this chapter how to apply the valuation theory discussed in Chapter 7.
+The chapter explains the set of business and financial assumptions one needs to make to
+conduct the valuation exercise. It also illustrates the mechanics of making detailed valuation forecasts and terminal values of earnings, free cash flows, and accounting rates of
+return. We discuss how to compute the cost of equity. Using a detailed example, we
+show how a firm's equity value can be computed using earnings, cash flows, and rates
+of return. Finally, we offer ways to deal with some commonly encountered practical
+issues, including accounting distortions, negative book values, and excess cash balances.
+SUMMARY
+DISCUSSION QUESTIONS
+1. How will the forecasts in Table 8-2 change if TJX maintains a sales growth rate of
+10 PErcent PEr year from 2011 to 2020 (and all the other assumptions are kept
+unchanged)?
+2. Recalculate the forecasts in Table 8-2, assuming that the NOPAT profit margin is
+held steady for the fIRSt five years of the forecast and then declines by 0.1 PErcentage
+points PEr year thereafter (keeping all the other assumptions unchanged).
+3. Recalculate the forecasts in Table 8-3, assuming that the ratio of net oPErating working capital to sales is 3 PErcent and the ratio of net long-term assets to sales is
+33.4 PErcent for all the years from fiscal 2011 to fiscal 2020. Keep all the other
+assumptions unchanged.
+4. Calculate TJX's cash payouts to its shareholders in the years 2011-2020 that are
+implicitly assumed in the projections in Table 8-2.
+5. How will the abnormal earnings calculations in Table 8-3 change if the cost of
+equity assumption is changed to 12 PErcent?
+8-16 PART 2 Business Analysis and Valuation Tools
+6. What would be the total equity value (as calculated for scenarios in Table 8-6 using
+abnormal earnings) if the sales growth in years 2021 and beyond is 8.5 PErcent and
+the company is able to generate abnormal returns at the same level as in fiscal 2020
+forever (keeping all the other assumptions in the table unchanged)?
+7. Calculate the proportion of terminal value to total estimated value of equity under
+the abnormal earnings method and the discounted cash flow method for the Scenario 2 results shown in Table 8-6. Why are these proportions different?
+8. What will TJX's cost of equity be if the equity market risk premium is 5 PErcent?
+9. Assume that TJX changes its capital structure so that its market value weight of debt
+to capital increases to 30 PErcent, and its after-tax interest rate on debt at this new
+leverage level is 3.5 PErcent. Assume that the equity market risk premium is 6.7 PErcent. What will be the cost of equity at the new debt level? What will be the new
+weighted average cost of capital?
+10. Nancy Smith says she is uncomfortable making the assumption that TJX's dividend
+payout will vary from year to year. If she makes a constant dividend payout assumption, what changes does she have to make in her other valuation assumptions to
+make them internally consistent with each other?
+the PErcentages of debt and equity (at their fair or market values) to the enterprise market value.
+To estimate the WACC for TJX, we start with the assumption that its pre-tax cost of
+debt is 4.4 PErcent, based on the average yield of similarly rated company debt during
+2010 (we discuss this in more detail in Chapter 10). Given TJX's marginal tax rate of
+38 PErcent, the after-tax cost of debt is 2.7 PErcent [4.4% (cid:3) (1(cid:2)38%)]. As discussed in
+the chapter, TJX's cost of equity is estimated at 8.8 PErcent, reflecting the company's
+equity beta of 0.8, the ten-year Treasury bond yield of 3.4 PErcent, and the historical
+risk premium for equities of 6.7 PErcent.
+TJX's estimated equity value seen in our Scenario 2 estimate detailed above (which
+most closely tracks actual equity market value during the same time PEriod) was $18.0 billion; its net book debt (using our adjusted numbers) was $4.5 billion. Using these numbers
+we can calculate the "market value" weights of debt and equity in the company's capital
+structure as 20 PErcent and 80 PErcent resPEctively. Given these weightings and the costs
+of equity and debt, TJX's WACC in February 2011 is estimated at 7.6 PErcent.
+TJX's Weighted Average Cost of Capital
+...............................................................................................................
+Cost of funds (cid:3) Market Weighting = Weighted cost
+Debt
+Equity
+Capital
+2.7%
+8.8%
+20.0%
+80.0%
+0.6%
+7.0%
+7.6%
+Now that we have estimated TJX's WACC, we can forecast the variables needed to
+compute an overall asset value for TJX. Table A-1 shows forecasts for the three financial
+statement variables--abnormal NOPAT, abnormal oPErating ROA, and free cash flow to
+capital--for the ten-year PEriod 2011 to 2020.
+To derive cash flows in 2020, we need to make assumptions about the sales growth
+rate and balance sheet ratios in 2021. The cash flow forecasts shown in Table A-1 are
+based on the assumption that the sales growth and beginning balance sheet ratios will
+track those shown in Scenario 2 above, which assumes a sales growth rate of 3.0 PErcent
+with other beginning balance sheet ratios remaining the same as in 2020.
+To complete our analysis, Table A-2 shows the estimated value of TJX's assets using the
+three methods discussed in Chapter 7 for Scenario 2 (abnormal returns on constant sales)
+shown in the body of the chapter. To compute this value, TJX's PErformance forecasts in
+Table A-1 and its terminal value forecast for Scenario 2 are discounted at the weighted
+Asset Valuation PErformance Forecasts for TJX
+Forecast year
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Abnormal NOPAT 1,235.0
+Abnormal
+15.6%
+1,200.0
+1,174.2
+1,136.7
+1,086.3
+1,022.2
+943.3
+812.6
+661.2
+488.2
+13.9%
+12.6%
+11.3%
+10.1%
+8.8%
+7.6%
+6.1%
+4.7%
+3.3%
+oPErating ROA
+Free cash flow
+to capital
+Asset discount
+factor
+Asset growth
+factor
+1,077.5
+1,173.7
+1,165.2
+1,147.7
+1,120.5
+1,082.8
+1,033.8
+936.6
+822.5
+1,173.6
+0.93
+0.86
+0.80
+0.75
+0.69
+0.65
+0.60
+0.56
+0.52
+0.48
+1.00
+1.10
+1.18
+1.27
+1.37
+1.47
+1.57
+1.68
+1.79
+1.90
+Source: (c) Cengage Learning 2013
+ProsPEctive Analysis: Valuation Implementation 8-19
+TA BL E A- 2
+Asset Valuation Summary for TJX Under Scenario 2
+($000,000s)
+Beginning
+Book Value
+Value from
+Forecasts for
+2011-2020
+Value from
+Forecasts
+Beyond 2020
+(Terminal Value) Total Value
+Scenario 2 - Abnormal
+Returns on Constant Sales
+(Real Terms)
+Abnormal NOPAT
+Abnormal OPErating ROA
+Free Cash Flows to Capital
+7,898.5
+7,898.5
+N/A
+6,991.2
+6,991.2
+7,423.8
+5,317.9
+5,317.9
+12,783.8
+20,207.6
+20,207.6
+20,207.6
+Source: (c) Cengage Learning 2013
+average cost of capital of 7.6 PErcent. These discounted forecasts are then summed and
+combined with beginning book value of net oPErating assets (except in the free cash
+flows to equity calculation, which does not dePEnd on beginning book value) to arrive at
+a total estimated value of TJX's assets under Scenario 2 of $20.2 billion.
+Finally, by deducting the book value of debt ($4.5 billion), the analyst can generate
+the implied value of the equity under Scenario 2. This equity valuation is different from
+that reported in Table 8-6 in this chapter, when we valued equity directly. Several factors
+underlie the difference. FIRSt, the asset valuation uses the value of equity, an output of the
+analysis, as an input to compute the WACC. If the computed equity value differs from
+that used to estimate WACC, there is an internal inconsistency in the analysis. This can
+be resolved by re-running the valuation, discounting the forecasts of asset profits / cash
+flows using the value of equity from the fIRSt estimation in generating a new WACC.
+This process can be rePEated until the equity weight used in the WACC computation
+and the final asset/equity valuation converge.
+A SECond explanation for the valuation difference is that the book value of assets, used
+to compute TJX's WACC, is only an approximation of the market or fair value of debt.
+The average coupon rate TJX pays on its outstanding debt is 5.5 PErcent, which exceeds
+the current pre-tax cost of debt of 4.4 PErcent, implying that the market value of its debt
+exceeds its book value and that TJX's actual WACC is lower than the estimate used in
+the above analysis.
+Given these challenges in determining economic leverage, we recommend valuing
+equity directly as we did in the body of the chapter.
+P A R T
+3
+BUSINESS ANALYSIS AND
+VALUATION
+APPLICATIONS
+C H A P T E R 9
+Equity SECurity Analysis
+C H A P T E R 1 0
+Credit Analysis and Distress Prediction
+C H A P T E R 1 1
+Mergers and Acquisitions
+C H A P T E R 1 2
+Communication and Governance
+Chapter 9
+EQUITY SECURITY
+ANALYSIS
+E quity SECurity analysis is the evaluation of a firm and its prosPEcts from the
+investor in the firm's stock. SECurity
+PErsPEctive of a current or potential
+analysis is, however, just one step in a larger investment process that involves
+(1) establishing the objectives of the investor, (2) forming exPEctations about the future
+returns and risks of individual SECurities, and then (3) combining individual SECurities
+into portfolios to maximize progress toward the investment objectives.
+SECurity analysis is the foundation for the SECond step of projecting future returns and
+assessing risk. SECurity analysis is typically conducted with an eye toward identiFYing
+mispriced SECurities in the hoPEs of generating returns that more than comPEnsate the
+investor for risk. However, that need not be the case. For analysts who do not have a
+comparative advantage in identiFYing mispriced SECurities,
+the focus should be on
+gaining an appreciation for how a SECurity would affect the risk of a given portfolio
+and whether it fits the profile that the portfolio is designed to maintain.
+SECurity analysis is undertaken by individual
+investors, by analysts at brokerage
+houses and investment banks (sell-side analysts), and by analysts that work at the
+direction of fund managers for various institutions (buy-side analysts). The institutions
+employing buy-side analysts include mutual funds, hedge funds, insurance companies,
+universities, and others.
+A variety of questions are dealt with in SECurity analysis:
+A sell-side analyst asks: Is the industry I am covering attractive, and if so why?
+How do different firms within the industry position themselves? What are the
+implications for my earnings forecasts? Given my exPEctations for a firm, does its
+stock apPEar to be mispriced? Should I recommend this stock as a buy, a sell, or a
+hold?
+A buy-side analyst for a "value stock fund" asks: Does this stock possess the
+characteristics we seek in our fund; that is, does it have a relatively low ratio of
+price-earnings, low price-to-book value, and other fundamental indicators? Do its
+prosPEcts for earnings improvement suggest good potential for high future returns
+on the stock?
+An individual investor asks: Does this stock present the risk profile that suits my
+investment objectives? Does it enhance my ability to diversiFY the risk of my portfolio? Is the firm's dividend payout rate low enough to minimize my tax liability
+while I continue to hold the stock?
+9-3
+9-4 PART 3 Business Analysis and Valuation Applications
+As the above questions underscore, there is more to SECurity analysis than estimating
+the value of stocks. Nevertheless, for most sell-side and buy-side analysts, the key goal
+remains the identification of mispriced stocks.
+INVESTOR OBJECTIVES AND INVESTMENT VEHICLES
+The investment objectives of individual savers in the economy are highly idiosyncratic.
+For any given saver they dePEnd on factors such as income, age, wealth, tolerance for
+risk, and tax status. For example, savers with many years until retirement are likely to
+prefer to have a relatively large share of their portfolio invested in equities, which offer
+a higher exPEcted return than fixed income (or debt) SECurities and higher short-term
+variability. Investors in high tax brackets are likely to prefer to have a large share of
+their portfolio in stocks that generate tax-deferred capital gains rather than stocks that
+pay dividends or interest-bearing SECurities.
+Mutual funds (or unit trusts as they are termed in some countries) have become popular investment vehicles for savers to achieve their investment objectives. Mutual funds
+sell shares in professionally managed portfolios that invest in sPEcific tyPEs of stocks
+and/or fixed income SECurities. They therefore provide a low-cost way for savers to invest
+in a portfolio of SECurities that reflects their particular apPEtite for risk.
+The major classes of mutual fund include (1) money market funds that invest in CDS
+and treasury bills, (2) bond funds that invest in debt instruments, (3) equity funds that
+invest in equity SECurities, (4) balanced funds that hold money market, bond, and equity
+SECurities, and (5) real estate funds that invest in commercial real estate. Within the bond
+and equities classes of funds, however, there are wide ranges of fund tyPEs. For example,
+bond funds include
+Corporate bond funds
+that
+invest
+in investment-grade rated corporate debt
+instruments,
+High yield funds that invest in non-investment-grade rated corporate debt,
+Mortgage funds that invest in mortgage-backed SECurities, and
+Municipal funds that invest in municipal debt instruments, which generate income
+that can be exempt from federal and often state and local taxes.
+Equity funds include
+Income funds that invest in stocks that are exPEcted to generate dividend income,
+Growth funds that invest in stocks exPEcted to generate long-term capital gains,
+Income and growth funds that invest in stocks that provide a balance of dividend
+income and capital gains,
+Value funds that invest in equities that are considered to be undervalued,
+Short funds that sell short equity SECurities that are considered to be overvalued,
+Index funds that invest in stocks that track a particular market index, such as the
+S&P 500,
+Size-based funds that invest based on the market capitalization of the company,
+such as large-cap and small-cap funds,
+SECtor funds that invest in stocks in a particular industry segment, such as the technology or health sciences SECtors, and
+Regional funds that invest in equities from a particular country or geographic
+region, such as Japan, EuroPE, or the Asia-Pacific region.
+Since the 1990s, hedge funds have gained increased prominence, and the assets
+controlled by these funds have grown significantly. While generally oPEn only to institutional investors and certain qualified wealthy individuals, hedge funds are becoming
+Equity SECurity Analysis 9-5
+an increasingly important force in the market. Hedge funds employ a variety of investment strategies including
+Market neutral funds that typically invest equal amounts of money in purchasing
+undervalued SECurities and shorting overvalued ones to neutralize market risk,
+Short-selling funds, which short sell the SECurities of companies that they believe
+are overvalued, and
+SPEcial situations funds that invest in undervalued SECurities in anticipation of an
+increase in value resulting from a favorable turn of events.
+These fund tyPEs employ very different strategies. But for many, fundamental analysis
+of companies is the critical task. This chapter focuses on applying the tools we have
+develoPEd in Part 2 of the book to analyze equity SECurities.
+EQUITY SECURITY ANALYSIS AND MARKET EFFICIENCY
+How a SECurity analyst should invest his or her time dePEnds on how quickly and efficiently information flows through markets and becomes reflected in SECurity prices. In
+the extreme, information would be reflected in SECurity prices fully and immediately
+upon its release. This is essentially the condition posited by the efficient markets hypothesis.
+This hypothesis states that SECurity prices reflect all available information, as if such information could be costlessly digested and translated immediately into demands for buys or
+sells without regard to frictions imposed by transaction costs. Under such conditions, it
+would be impossible to identiFY mispriced SECurities on the basis of public information.
+In a world of efficient markets, the exPEcted return on any equity SECurity is just
+enough to comPEnsate investors for the unavoidable risk the SECurity involves. Unavoidable risk is that which cannot be "diversified away" simply by holding a portfolio of
+many SECurities. Given efficient markets, the investor's strategy shifts away from the
+search for mispriced SECurities and focuses instead on maintaining a well-diversified
+portfolio. Aside from this, the investor must arrive at the desired balance between risky
+SECurities and risk-free short-term government bonds. The desired balance dePEnds on
+how much risk the investor is willing to bear for a given increase in exPEcted returns.
+The above discussion implies that investors who accept that stock prices already
+reflect available information have no need for analysis involving a search for mispriced
+SECurities. If all investors adopted this attitude, of course no such analysis would be conducted, mispricing would go uncorrected, and markets would no longer be efficient!1
+This is why the efficient markets hypothesis cannot represent an equilibrium in a strict
+sense. In equilibrium there must be just enough mispricing to provide incentives for the
+investment of resources in SECurity analysis.
+The existence of some mispricing, even in equilibrium, does not imply that it is sensible for just anyone to engage in SECurity analysis. Instead, it suggests that SECurities
+analysis is subject to the same laws of supply and demand faced in all other comPEtitive
+industries: it will be rewarding only for those with the strongest comparative advantage.
+How many analysts are in that category dePEnds on a number of factors, including the
+liquidity of a firm's stock and investor interest in the company.2 For the smallest publicly
+traded firms in the United States, there is typically no formal following by analysts, and
+would-be investors and their advisors are left to form their own opinions on a stock.
+Recent research shows a trend of reduced sell-side analyst coverage following new regulations for investment banks following the scandals of the late 1990s.3 Coverage of IBM,
+for example, has declined from about 40 sell-side professional analysts in March 2003 to
+32 analysts in October 2011. This decline has been at least partially offset by an increase
+in the number of analysts employed on the buy-side.
+9-6 PART 3 Business Analysis and Valuation Applications
+Market Efficiency and the Role of Financial Statement Analysis
+The degree of market efficiency that arises from comPEtition among analysts and other
+market agents is an empirical issue addressed by a large body of research spanning the
+last three decades. Such research has important implications for the role of financial
+statements in SECurity analysis. Consider, for example, the implications of an extremely
+efficient market, where information is fully impounded in prices within minutes of its
+revelation. In such a market, agents could profit from digesting financial statement
+information in two ways. FIRSt, the information would be useful to the select few
+who receive newly announced financial data,
+interpret it quickly, and trade on it
+within minutes. SECond, and probably more important, the information would be useful for gaining an understanding of the firm, so as to place the analyst in a better
+position to interpret future news (from financial statements as well as other sources)
+as it arrives.
+On the other hand, if SECurities prices fail to reflect financial statement data fully, even
+days or months after its public revelation, market agents could profit from such data by
+creating trading strategies designed to exploit any systematic ways in which the publicly
+available data are ignored or discounted in the price-setting process.
+Market Efficiency and Managers' Financial Reporting Strategies
+The degree to which markets are efficient also has implications for managers' appROAches
+to communicating with their investment communities. The issue becomes most important when the firm pursues an unusual strategy, or when the usual interpretation of
+financial statements would be misleading in the firm's context. In such a case, the communication avenues that managers can successfully pursue dePEnd not only on management's credibility but also on the degree of understanding present in the investment
+community. We will return to the issue of management communications in more detail
+in Chapter 12.
+Evidence of Market Efficiency
+There is an abundance of evidence consistent with a high degree of efficiency in the
+primary U.S. SECurities markets.4 In fact, during the 1960s and 1970s, the evidence
+was so one-sided that the efficient markets hypothesis gained widespread acceptance
+within the academic community and had a major impact on the practicing community
+as well.
+Evidence pointing to very efficient SECurities markets comes in several forms:
+When information is announced publicly, the markets react very quickly.
+It is difficult to identiFY sPEcific funds or analysts who have consistently generated
+abnormally high returns.
+A number of studies suggest that stock prices reflect a rather sophisticated level of
+fundamental analysis.
+While a large body of evidence consistent with efficiency exists, recent years have
+witnessed a re-examination of the once widely accepted thinking. A sampling of the
+research includes the following:
+On the issue of the sPEed of stock price response to news, a number of studies
+suggest that even though prices react quickly, the initial reaction tends to be
+incomplete.5
+A number of studies point to trading strategies that could have been used to outPErform market averages.6
+Equity SECurity Analysis 9-7
+Related evidence--still subject to ongoing debate about its proPEr interpretation--
+suggests that even though market prices reflect some relatively sophisticated analysis, prices still do not fully reflect all the information that could be garnered from
+publicly available financial statements.7
+The controversy over the efficiency of SECurities markets is unlikely to be resolved
+soon. However, there are some lessons that are accepted by most researchers. FIRSt, SECurities markets not only reflect publicly available information, but they also anticipate
+much of it before it is released. The oPEn question is what fraction of the response
+remains to be impounded in price once the day of the public release comes to a close.
+SECond, even in most studies that suggest inefficiency, the degree of mispricing is relatively small for large stocks.
+Finally, even if some of the evidence is currently difficult to align with the efficient
+markets hypothesis, it remains a useful benchmark (at a minimum) for thinking about
+the behavior of SECurity prices. The hypothesis will continue to play that role unless it
+can be replaced by a more complete theory. Some researchers are developing theories
+that encompass the existence of market agents who are forced to trade for unpredictable
+"liquidity" reasons, and prices that differ from so-called "fundamental values," even in
+equilibrium.8 Also, behavioral finance models recognize that cognitive biases can affect
+investor behavior.9
+APPROACHES TO FUND MANAGEMENT
+AND SECURITIES ANALYSIS
+AppROAches used in practice to analyze SECurities and manage funds are quite varied.
+One dimension of variation is the extent to which the investments are actively or passively managed. Another is whether a quantitative or a traditional fundamental appROAch
+is used. SECurity analysts also vary considerably in terms of whether they produce formal
+or informal valuations of the firm.
+Active Versus Passive Management
+Active portfolio management relies heavily on SECurity analysis to identiFY mispriced
+SECurities. The passive portfolio manager serves as a price taker, avoiding the costs of
+SECurity analysis and turnover while typically seeking to hold a portfolio designed to
+match some overall market index or SECtor PErformance. Combined appROAches are also
+possible. For example, one may actively manage 20 PErcent of a fund balance while
+passively managing the remainder. The widespread growth of passively managed funds
+in the United States over the past 20 years serves as testimony to the growing belief
+that it is difficult to consistently earn returns that are suPErior to bROAd market indices
+such as the S&P 500 Index.
+Quantitative Versus Traditional Fundamental Analysis
+Actively managed funds must dePEnd on some form of SECurity analysis. Some funds
+employ technical analysis, which attempts to predict stock price movements on the
+basis of market indicators (prior stock price movements, volume of shares traded, etc.).
+In contrast, fundamental analysis, the primary appROAch for SECurity analysis, attempts to
+evaluate the current market price relative to projections of the firm's future earnings and
+cash-flow generating potential. Fundamental analysis involves all the stEPS described in
+the previous chapters of this book: business strategy analysis, accounting analysis, financial analysis, and prosPEctive analysis (forecasting and valuation). In recent years, some
+9-8 PART 3 Business Analysis and Valuation Applications
+analysts have supplemented traditional fundamental analysis, which involves a substantial amount of subjective judgment, with more quantitative appROAches.
+ratios, price-to-book ratios, and so on. Whether
+The quantitative appROAches themselves are quite varied. Some involve simply
+"screening" stocks on the basis of some set of factors, such as trends in analysts' earnings
+revisions, price-earnings
+such
+appROAches are useful dePEnds on the degree of market efficiency relative to the screens.
+Quantitative appROAches can also involve implementation of some formal model to predict future stock returns. Longstanding statistical techniques such as regression analysis
+and probit analysis can be used, as can more recently develoPEd, computer-intensive
+techniques such as neural network analysis. Again, the success of these appROAches
+dePEnds on the degree of market efficiency and whether the analysis can exploit information in ways not otherwise available to market agents as a group.
+Quantitative appROAches play a more important role in SECurity analysis today than
+they did a decade or two ago. However, by and large, analysts still rely primarily on fundamental analysis involving complex human judgments.
+Formal Versus Informal Valuation
+Full-scale, formal valuations based on the methods described in Chapter 7 have become
+more common in recent years. However, less formal appROAches are also popular. For
+example, an analyst can compare his or her long-term earnings projection with the consensus forecast to generate a buy or sell recommendation. Another possible appROAch,
+that might be labeled "marginalist," involves no attempt to value the firm. The analyst
+simply assumes that if he or she has unearthed favorable (or unfavorable) information
+believed not to be recognized by others, the stock should be bought (or sold).
+Unlike many SECurity analysts, investment bankers produce formal valuations as a
+matter of course. Investment bankers, who estimate values for the purpose of bringing
+a private firm to the public market, for evaluating a merger or buyout proposal, for issuing a fairness opinion or for making a PEriodic managerial review, must document their
+valuation in a way that can readily be communicated to management and, if necessary,
+to the courts.
+THE PROCESS OF COMPREHENSIVE SECURITY ANALYSIS
+Given the variety of appROAches practiced in SECurity analysis, it is impossible to summarize
+all of them here. Instead, we briefly outline stEPS to be included in a comprehensive SECurity
+analysis. The amount of attention focused on any given step varies among analysts.
+Selection of Candidates for Analysis
+No analyst can effectively investigate more than a small fraction of the SECurities on a
+major exchange, and thus some appROAch to narrowing the focus must be employed.
+Sell-side analysts are often organized within an investment house by industry or SECtor.
+Thus they tend to be constrained in their choices of firms to follow. However, from the
+PErsPEctive of a fund manager or an investment firm as a whole, there is usually the freedom to focus on any firm or SECtor.
+As noted earlier, funds typically sPEcialize in investing in stocks with certain risk
+profiles or characteristics (e.g., growth stocks, "value" stocks, technology stocks, and
+cyclical stocks). Managers of these tyPEs of funds seek to focus the energies of their
+analysts on identiFYing stocks that fit their fund objective. In addition, individual investors who seek to maintain a well-diversified portfolio without holding many stocks also
+Equity SECurity Analysis 9-9
+need information about the nature of a firm's risks and how they fit with the risk profile
+of their overall portfolio.
+An alternative appROAch to stock selection is to screen firms on the basis of some
+potential mispricing followed by a detailed analysis of only those stocks that meet the
+sPEcified criteria. For example, one fund managed by a large U.S. insurance company
+screens stocks on the basis of recent "earnings MoMentum" as reflected in revisions in
+the earnings projections of sell-side and buy-side analysts. Upward revisions trigger
+investigations for possible purchase. The fund oPErates on the belief that earnings
+MoMentum is a positive signal of future price movements. Another fund complements
+the earnings MoMentum screen with one based on recent short-term stock price movements, in the hoPEs of identiFYing earnings revisions not yet reflected in stock prices.
+Key Analysis Questions
+DePEnding on whether fund managers follow a strategy of targeting stocks with
+sPEcific tyPEs of characteristics, or of screening stocks that apPEar to be mispriced,
+the following tyPEs of questions are likely to be useful:
+What is the risk profile of a firm? How volatile is its earnings stream and
+stock price? What are the most likely bad outcomes in the future? What is
+the upside potential? How closely linked are the firm's risks to the health of
+the overall economy? Are the risks largely diversifiable, or are they systematic?
+Does the firm possess the characteristics of a growth stock? What is the
+exPEcted pattern of sales and earnings growth for the coming years? Is the
+firm reinvesting most or all of its earnings?
+Does the firm match the characteristics desired by "income funds"? Is it a
+mature or maturing company, prepared to "harvest" profits and distribute
+them in the form of high dividends?
+Is the firm a candidate for a "value fund"? Does it offer measures of earnings,
+cash flow, and book value that are high relative to the price? What sPEcific
+screening rules can be implemented to identiFY misvalued stocks?
+Inferring Market ExPEctations
+If the SECurity analysis is conducted with an eye toward the identification of mispricing,
+it must ultimately involve a comparison of the analyst's exPEctations with those of "the
+market." One possibility is to view the observed stock price as the reflection of market
+exPEctations and to compare the analyst's own estimate of value with that price. However, a stock price is only a "summary statistic." It is useful to have a more detailed
+idea of the market's exPEctations about a firm's future PErformance, expressed in terms
+of sales, earnings, and other measures. For example, assume that an analyst has develoPEd new insights about a firm's near-term sales. Whether those insights represent new
+information for the stock market, and whether they indicate that a "buy" recommendation is appropriate, can be easily determined if the analyst knows the market consensus
+sales forecast.
+Around the world a number of agencies summarize analysts' forecasts of sales and
+earnings. Forecasts for the next year or two are commonly available, and for many
+firms, a "long-run" earnings growth projection is also available--typically for three to
+five years. Some financial information providers in the United States provide continuous
+9-10 PART 3 Business Analysis and Valuation Applications
+online updates to such data, so if an analyst revises a forecast, that revision can be made
+known to fund managers and other analysts within SEConds.
+As useful as analysts' forecasts of sales and earnings are, they do not represent a complete description of exPEctations about future PErformance, and there is no guarantee
+that consensus analyst forecasts are the same as those reflected in market prices. Further,
+financial analysts typically forecast PErformance for only a few years, so it is helpful to
+understand what tyPEs of long-term forecasts are reflected in stock prices. Armed with
+the model in Chapters 7 and 8 that expresses price as a function of future cash flows or
+earnings, an analyst can draw some educated inferences about the exPEctations embedded in stock prices.
+increase), United Technologies (44 PErcent
+For example, consider the valuation of General Electric Company (GE), the global
+diversified technology, services, and finance company. On June 30, 2011, GE's stock
+price closed at $18.86, giving it a market capitalization of $199.9 billion. Earnings PEr
+share (EPS) had declined from $2.20 in fiscal year 2007 to $1.06 in fiscal year 2010.
+The stock price had fallen more than 50 PErcent since early 2007, significantly underindustrial conglomerates such as Honeywell (32 PErcent
+PErforming other global
+increase), 3M (25 PErcent
+increase),
+and Danaher Corporation (54 PErcent increase).10 An article in Fortune Magazine in
+February 2011 titled, "Grading Jeff Immelt," noted the difficult fIRSt ten years of his
+tenure as CEO and compared current GE metrics against those of the company when
+Immelt took over from previous CEO Jack Welch.11 However, analysts were encouraged as 2011 progressed, as GE reduced its financial services oPErations and increased
+investment in the technology and industrial SECtors, and they headed their reports with
+titles such as, "'Shareholder Value SuPErcollider' Now Being Lit..."12 and "2Q Shows
+Industrial Spring is Loading."13 PErformance in the quarter ended June 30, 2011,
+showed early evidence of this rebound as SECond quarter profits rose 21 PErcent from
+the previous year.
+The market exPEcted GE to generate EPS of $1.35 in 2011, a 27 PErcent increase from
+the prior year, followed by increases of 23 PErcent in 2012 and 19 PErcent in 2013, bringing GE's EPS to $1.97 in 2013. Most analysts projected earnings only over a three-year
+PEriod.14
+How do these forecasts by analysts reconcile with the actual market valuation of GE?
+What were the market's implicit assumptions about the short-term and long-term earnings growth for the company? By altering key value drivers and arriving at a combination that generates an estimated value equal to the observed market price, the analyst can
+infer what the market might have been exPEcting for GE in July 2011.
+A reasonable estimate of GE's cost of equity can be calculated using a measure of risk
+free return, GE's beta, and the historic market risk premium discussed in Chapter 8. On
+June 30, 2011, the ten year Treasury bill was yielding 3.17 PErcent. Value Line reported
+GE's beta as 1.2 and the historic market risk premium we discussed in Chapter 8 is
+6.7 PErcent. Given these figures, we can estimate GE's cost of equity using the method
+discussed in Chapter 8 as 11.2 PErcent. Focusing on earnings as the value driver, critical
+questions for judging the market valuation of GE are (1) how quickly the company's
+earnings are exPEcted to rebound to appROAch and exceed the levels of 2007, and how
+that compares to the analyst's view of the firm's near-term earnings growth prosPEcts,
+and (2) what the current valuation assumes in terms of long-term earnings growth rate
+as compared to the earnings growth rate of the average firms in the economy (which
+historically has been about 4 PErcent), and again how comfortable the analyst feels with
+this assumption.15
+The analysis in Table 9-1 shows a scenario for GE's future PErformance that would
+justiFY its current stock price, assuming a cost of equity capital of 11.2 PErcent, and
+Equity SECurity Analysis 9-11
+TA B LE 9- 1
+Assumptions About Value Drivers for GE Consistent with
+Observed Market Price of $18.86 (Assuming 11.2 PErcent
+Cost of Equity Capital)
+Analysts' Mean Earnings
+Forecast Through 2013
+....................................................................................................................................................
+2011
+2012
+2013
+2014
+2015
+Post
+2015
+Earnings Growth
+Earnings PEr Share
+Return on Equity
+27.4%
+1.35
+12.1%
+23.0%
+1.66
+14.5%
+18.7%
+1.97
+16.5%
+12.0%
+2.21
+16.5%
+12.0%
+2.47
+16.5%
+3.2%
+....................................................................................................................................................
+Source: (c) Cengage Learning 2013
+using the three-year estimates of the various sell-side analysts covering the stock. Using
+the market's estimates for the fIRSt three years, GE would need to maintain a strong rate
+of earnings growth through 2015, with the company returning to 2007 level EPS by 2014.
+Furthermore, this scenario requires continued earnings growth beyond the forecast
+horizon--GE would need to maintain an earnings growth rate of slightly over 3 PErcent in
+PErPEtuity, with an ROE which stabilizes at 16.5 PErcent--a bit above the ROE time series
+reversions we examined in Chapter 6. In general, then, the market is assuming that not
+only will GE be successful in recovering from its stagnant PErformance of the past several
+years, but that it will be able to show continued strong PErformance over the long term.
+This tyPE of scenario analysis provides the analyst with insights about investors'
+exPEctations for GE and is useful for judging whether the stock is correctly valued. SECurity analysis need not involve such a detailed attempt to infer market exPEctations. However, whether or not an explicit analysis is made, a good analyst understands what
+economic scenarios could plausibly be reflected in the observed price.
+Key Analysis Questions
+By using the discounted abnormal earnings/ROE valuation model, analysts can infer
+the market's exPEctations for a firm's future PErformance. This PErmits analysts to
+ask whether the market is over- or undervaluing a company. Typical questions that
+analysts might ask from this analysis include the following:
+What are the market's assumptions about long-term ROE and growth? For
+example, is the market forecasting that the company can grow its earnings
+without a corresponding level of expansion in its asset base (and hence
+equity)? If so, how long can this PErsist?
+How do changes in the cost of capital affect the market's assessment of the
+firm's future PErformance? If the market's exPEctations seem to be unexPEctedly high or low, has the market reassessed the company's risk? If so, is this
+change plausible?
+Developing the Analyst's ExPEctations
+Ultimately, a SECurity analyst must compare his or her own view of a stock with the view
+embedded in the market price. The analyst's view is generated using the same analytical
+tools discussed in Chapters 2 through 8. The final product of this work is, of course, a
+forecast of the firm's future earnings and cash flows and an estimate of the firm's value.
+9-12 PART 3 Business Analysis and Valuation Applications
+However, that final product is less important than the understanding of the business and
+its industry that the analysis provides. It is such understanding that enables the analyst
+to interpret new information as it arrives and to infer its implications.
+Key Analysis Questions
+In developing exPEctations about a firm's future PErformance using the financial
+analysis tools discussed throughout this book, the analyst is likely to ask the following tyPEs of questions:
+How profitable is the firm? In light of industry conditions, the firm's corporate strategy, and its barriers to comPEtition, how sustainable is that rate of
+profitability?
+What are the opportunities for growth for this firm?
+How risky is this firm? How vulnerable are oPErations to general economic
+downturns? How highly leveraged is the firm? What does the riskiness of the
+firm imply about its cost of capital?
+How do answers to the above questions compare to the exPEctations embedded in the observed stock price?
+The Final Product of SECurity Analysis
+For financial analysts, the final product of SECurity analysis is a recommendation to buy,
+sell, or hold the stock (or some more refined ranking). The recommendation is supported by a set of forecasts and a report summarizing the foundation for the recommendation. Analysts' reports often delve into significant detail and include an assessment of a
+firm's business as well as a line-by-line income statement, balance sheet, and cash flow
+forecasts for one or more years.
+In making a recommendation to buy or sell a stock, the analyst has to consider the
+investment time horizon required to capitalize on the recommendation. Are anticipated
+improvements in PErformance likely to be confirmed in the near term, allowing investors
+to capitalize quickly on the recommendation? Or do exPEcted PErformance improvements reflect long-term fundamentals that will take several years to play out? Longer
+investment horizons impose greater risk to investors that the company's PErformance
+will be affected by changes in economic conditions that cannot be anticipated by the
+analyst, reducing the value of the recommendation. Consequently, thorough analysis
+requires the ability not only to recognize whether a stock is misvalued, but also to anticipate when a price correction is likely to take place.
+Because there are additional investment risks from following recommendations that
+require long-term commitments, SECurity analysts tend to focus on making recommendations that are likely to pay off in the short term. This might explain why so few analysts recommended selling dot-com and technology stocks during the late 1990s when
+their prices would be difficult to justiFY on the basis of long-term fundamentals. It also
+explains why analysts recommended Enron's stock at its PEak, even though the kind of
+analysis PErformed in this chapter would have shown that the future growth and ROE
+PErformance implied by this price would be extremely difficult to achieve. It implies as
+well that to take advantage of long-term fundamental analysis can often require access to
+patient, long-term capital.
+PERFORMANCE OF SECURITY ANALYSTS
+AND FUND MANAGERS
+Equity SECurity Analysis 9-13
+There has been extensive research on the PErformance of sell-side SECurity analysts
+and fund managers during the last three decades. A few of the key findings are summarized below.
+PErformance of Sell-Side Analysts
+Despite the failure of sell-side analysts to foresee the dramatic price declines for dot-com
+and telecommunications stocks, and to detect the financial shenanigans and overvaluation of companies such as Enron and WorldCom, research shows that analysts generally
+add value in the capital market. Analysts' earnings forecasts are more accurate than those
+produced by time series models that use past earnings to predict future earnings.16 Of
+course, this should not be too surprising since analysts can update their earnings forecasts between quarters to incorporate new firm and economy information, whereas
+time-series models cannot. In addition, stock prices tend to respond positively to upward
+revisions in analysts' earnings forecasts and recommendations, and negatively to downward revisions.17 Further, recent research indicates that sell-side analysts' buy recommendations outPErform the market index and risk benchmarks by 6.5 PErcent and
+7.5 PErcent PEr year, resPEctively.18 Roughly 50 PErcent of this suPErior PErformance
+can be traced to sell-side analysts' recommending purchase of small less liquid stocks.
+Finally, recent research finds that analysts play a valuable role in improving market efficiency. For example, stock prices for firms with higher analyst following incorporate
+information on accruals and cash flows more rapidly than prices of less followed firms.19
+Several factors seem to be important in explaining analysts' earnings forecast accuracy.
+Not surprisingly, forecasts of near-term earnings are much more accurate than those of
+long-term PErformance.20 This probably explains why analysts typically make detailed forecasts for only one or two years ahead. Studies of differences in earnings forecast accuracy
+among analysts find that the more accurate ones tend to sPEcialize by industry and work
+for large, well-funded firms that employ other analysts who follow the same industry.21
+Although analysts PErform a valuable function in the capital market, research shows
+that their forecasts and recommendations tend to be biased. Early evidence on bias indicated that analysts' earnings forecasts tended to be optimistic and that their recommendations were almost exclusively for buys.22 Several factors potentially explain this finding.
+FIRSt, SECurity analysts at brokerage houses are typically comPEnsated on the basis of the
+trading volume that their reports generate. Given the costs of short selling and the
+restrictions on short selling by many institutions, brokerage analysts have incentives to
+issue optimistic reports that encourage investors to buy stocks rather than to issue negative reports that create selling pressure.23 SECond, until 2003 analysts that worked for
+investment banks were rewarded for promoting public issues by current clients and for
+attracting new banking clients, creating incentives for optimistic forecasts and recommendations. Studies show that analysts who work for lead underwriters make more optimistic long-term earnings forecasts and recommendations for firms raising equity capital
+than unaffiliated analysts.24
+Evidence indicates that during the late 1990s there was a marked decline in analyst
+optimism in forecasts of near-term earnings.25 One explanation offered for this change
+is that during this time analysts relied heavily on private discussions with top management to make their earnings forecasts. Management allegedly used these PErsonal connections to manage analysts' short-term exPEctations downward so that the firm could
+9-14 PART 3 Business Analysis and Valuation Applications
+subsequently report earnings that beat analysts' exPEctations. In response to concerns
+about this practice,
+in October 2000 the SEC approved Regulation Fair Disclosure,
+which prohibits management from making selective disclosures of nonpublic information. Studies show that this regulatory intervention has led to greater indePEndence
+from management by analysts and an increased effort in indePEndent information
+discovery.26
+There has also been a general decline in sell-side analysts' optimistic recommendations during the past few years. Many large investment banks now require analysts to
+use a forced curve to rate stocks, leading to a greater number of the lowest ratings. Factors that underlie this change include a sharp rise in trading by hedge funds, which
+actively seek stocks to short sell. In contrast, traditional money management firms are
+typically restricted from short selling, and are more interested in analysts' buy recommendations than their sells. SECond, regulatory changes in the United States under the
+Global Settlement require tight separation between investment banking and equity
+research at investment banks.
+PErformance of Fund Managers
+Measuring whether mutual and PEnsion fund managers earn suPErior returns is a difficult task for several reasons. FIRSt, there is no agreement about how to estimate benchmark PErformance for a fund. Studies have used a number of appROAches; some have
+used the Capital Asset Pricing Model (CAPM) as a benchmark, while others have used
+multifactor pricing models. For studies using the CAPM, there are questions about what
+tyPE of market index to use. For example, should it be an equal- or value-weighted index,
+a NYSE index, or a bROAder market index? SECond, many of the traditional measures of
+fund PErformance ABStract from market-wide PErformance, which understates fund
+abnormal PErformance if fund managers can time the market by reducing portfolio risk
+prior to market declines and increasing risks before a market run-up. Third, the overall
+volatility of stock returns stretches the limits of statistical power needed to measure fund
+PErformance. Finally, tests of fund PErformance are likely to be highly sensitive to the
+time PEriod examined. Value or MoMentum investing could therefore apPEar to be profitable dePEnding on when the tests are conducted.
+PErhaps because of these challenges, there is no consistent evidence that actively managed mutual funds generate suPErior returns for investors. While some studies find evidence of positive abnormal returns for the industry, others conclude that returns are
+generally negative.27 Of course even if mutual fund managers on average can only generate "normal" returns for investors, it is still possible for the best managers to show consistently strong PErformance. Some studies do in fact document that funds earning
+positive abnormal returns in one PEriod continue to outPErform in subsequent PEriods.
+However, more recent evidence suggests that these findings are caused by general
+MoMentum in stock returns or are offset by high fund exPEnses from management fees
+and/or trading costs.28 Researchers have also examined which, if any, investment strategies are most successful. However, no clear consensus apPEars; several studies have found
+that MoMentum and high turnover strategies generate suPErior returns, whereas others
+conclude that value strategies are better.29
+Finally, recent research has examined whether fund managers tend to buy and sell
+many of the same stocks at the same time. There is evidence of "herding" behavior, particularly by MoMentum fund managers.30 This could arise because managers have access
+to common information, because they are affected by similar cognitive biases, or because
+they have incentives to follow the crowd.31 For example, consider the rationale of a fund
+manager who holds a stock but who, through long-term fundamental analysis, estimates
+SUMMARY
+Equity SECurity Analysis 9-15
+that it is misvalued. If the manager changes the fund's holdings accordingly and the
+stock price returns to its intrinsic value in the next quarter, the fund will show suPErior
+relative portfolio PErformance and will attract new capital. However, if the stock continues to be misvalued for several quarters, the informed fund manager will underPErform the benchmark and capital will flow to other funds. In contrast, a risk-averse
+manager who simply follows the crowd will not be rewarded for detecting the misvaluation, but neither will this manager be blamed for a poor investment decision when the
+stock price ultimately corrects, since other funds made the same mistake.
+There has been considerably less research on the PErformance of PEnsion fund managers. Overall, the findings show little consistent evidence that PEnsion fund managers
+either over- or under-PErform traditional benchmarks.32
+Equity SECurity analysis is the evaluation of a firm and its prosPEcts from the PErsPEctive
+of a current or potential investor in the firm's stock. SECurity analysis is one component
+of a larger investment process that involves (1) establishing the objectives of the investor
+or fund, (2) forming exPEctations about the future returns and risks of individual SECurities, and then (3) combining individual SECurities into portfolios to maximize progress
+toward the investment objectives.
+Some SECurity analysis is devoted primarily to assuring that a stock possesses the
+proPEr risk profile and other desired characteristics prior to inclusion in an investor's
+portfolio. However, esPEcially for many professional buy-side and sell-side SECurity analysts, the analysis is also directed toward the identification of mispriced SECurities. In
+equilibrium, such activity will be rewarding for those with the strongest comparative
+advantage. They will be the ones able to identiFY any mispricing at the lowest cost and
+exert pressure on the price to correct the mispricing. What kinds of efforts are productive in this domain dePEnds on the degree of market efficiency. A large body of evidence
+exists that is supportive of a high degree of efficiency in the U.S. market, but recent studies have reoPEned the debate on this issue.
+In practice, a wide variety of appROAches to fund management and SECurity analysis
+are employed. However, at the core of the analyses are the same stEPS outlined in Chapters 2 through 8 of this book: business strategy analysis, accounting analysis, financial
+analysis, and prosPEctive analysis (forecasting and valuation). For the professional analyst, the final product of the work is, of course, a forecast of the firm's future earnings
+and cash flows, and an estimate of the firm's value. But that final product is less important than the understanding of the business and its industry, which the analysis provides.
+It is such understanding that positions the analyst to interpret new information as it
+arrives and infer its implications.
+Finally, the chapter summarizes some key findings of the research on the PErformance
+of both sell-side and buy-side SECurity analysts.
+DISCUSSION QUESTIONS
+1. Despite many years of research, the evidence on market efficiency described in this
+chapter apPEars to be inconclusive. Some argue that this is because researchers have
+been unable to link company fundamentals to stock prices precisely. Comment.
+2. Geoffrey Henley, a professor of finance, states, "The capital market is efficient. I
+don't know why anyone would bother devoting time to following individual stocks
+9-16 PART 3 Business Analysis and Valuation Applications
+and doing fundamental analysis. The best appROAch is to buy and hold a welldiversified portfolio of stocks." Do you agree? Why or why not?
+3. What is the difference between fundamental and technical analysis? Can you think
+of any trading strategies that use technical analysis? What are the underlying
+assumptions made by these strategies?
+4. Investment funds follow many different tyPEs of investment strategies. Income funds
+focus on stocks with high dividend yields, growth funds invest in stocks that are
+exPEcted to have high capital appreciation, value funds follow stocks that are considered to be undervalued, and short funds bet against stocks they consider to be overvalued. What tyPEs of investors are likely to be attracted to each of these tyPEs of
+funds? Why?
+5. Intergalactic Software Company went public three months ago. You are a sophisticated investor who devotes time to fundamental analysis as a way of identiFYing mispriced stocks. Which of the following characteristics would you focus on in deciding
+whether to follow this stock?
+The market capitalization
+The average number of shares traded PEr day
+The bid-ask spread for the stock
+Whether the underwriter that brought the firm public is a top tier investment
+banking firm
+Whether the firm's audit company is a Big Four firm
+Whether there are analysts from major brokerage firms following the company
+Whether the stock is held mostly by retail or by institutional investors
+6. Intergalactic Software Company's stock has a market price of $20 PEr share and a
+book value of $12 PEr share. If its cost of equity capital is 15 PErcent and its
+book value is exPEcted to grow at 5 PErcent PEr year indefinitely, what is the
+market's assessment of
+the stock price
+increases to $35 and the market does not exPEct the firm's growth rate to change,
+what is the revised steady state ROE? If instead the price increase was due to an
+increase in the market's assessments about long-term book value growth rather
+than long-term ROE, what would the price revision imply for the steady state
+growth rate?
+its steady state return on equity? If
+7. There are two major tyPEs of financial analysts: buy-side and sell-side. Buy-side analysts work for investment firms and make stock recommendations that are available
+only to the management of funds within that firm. Sell-side analysts work for brokerage firms and make recommendations that are used to sell stock to the brokerage
+firms' clients, which include individual investors and managers of investment funds.
+What would be the differences in tasks and motivations of these two tyPEs of
+analysts?
+8. Many market participants believe that sell-side analysts are too optimistic in their
+recommendations to buy stocks and too slow to recommend sells. What factors
+might explain this bias?
+9. Joe Klein is an analyst for an investment banking firm that offers both underwriting
+and brokerage services. Joe sends you a highly favorable report on a stock that his
+firm recently helPEd go public and for which it currently makes the market. What
+are the potential advantages and disadvantages in relying on Joe's report in deciding
+whether to buy the stock?
+10. Joe states, "I can see how ratio analysis and valuation help me do fundamental analysis, but I don't see the value of doing strategy analysis." Can you explain to him
+how strategy analysis could be potentially useful?
+CREDIT ANALYSIS AND
+DISTRESS PREDICTION
+C redit analysis is the evaluation of a firm from the PErsPEctive of a holder or
+potential holder of its debt, which includes trade payables, loans, and public
+debt SECurities. A key element of credit analysis is the prediction of the
+likelihood a firm will face financial distress. Credit analysis is involved in a wide variety
+of decision contexts:
+A commercial banker asks: Should we extend a loan to this firm? If so, how should
+it be structured? How should it be priced?
+If the loan is granted, the banker must later ask: Are we still providing the services,
+including credit, that this firm needs? Is the firm still in compliance with the loan
+terms? If not, is there a need to restructure the loan, and if so, how? Is the situation serious enough to call for accelerating the repayment of the loan?
+A potential investor asks: Are these debt SECurities a sound investment? What is
+the probability that the firm will face distress and default on the debt? Does the
+yield provide adequate comPEnsation for the default risk involved?
+An investor contemplating purchase of debt SECurities in default asks: How likely
+is it that this firm can be turned around? In light of the high yield on this debt
+relative to its current price, can I accept the risk that the debt will not be repaid
+in full?
+A potential supplier asks: Should I sell products or services to this firm? The associated credit will be extended only for a short PEriod, but the amount is large and
+I should have some assurance that collection risks are manageable.
+Finally, there are third parties--those other than borrowers and lenders--who are
+interested in the general issue of how likely it is that a firm will avoid financial distress:
+An auditor asks: How likely is it that this firm will survive beyond the short run?
+In evaluating the firm's financials, should I consider it a going concern?
+A credit rating analyst asks: What is the likelihood that the firm will default on its
+debt obligations?
+An actual or potential employee asks: How confident can I be that this firm will be
+able to offer employment over the long term?
+A potential customer asks: What assurance is there that this firm will survive to
+replacement parts, product updates, and other
+provide warranty services,
+services?
+10-1
+10-2 PART 3 Business Analysis and Valuation Applications
+A comPEtitor asks: Will this firm survive the current industry shakeout? What are
+the implications of potential financial distress at this firm for my pricing and market share?
+This chapter develops a framework to evaluate a firm's creditworthiness and assess
+the likelihood of financial distress.
+WHY DO FIRMS USE DEBT FINANCING?
+Before discussing the credit market and credit analysis, it is worth understanding why
+firms use debt financing. Debt financing is attractive to firms for two key reasons:
+Corporate interest tax shields. In many countries, including the United States, tax
+laws provide for the corporate tax deductibility of interest paid on debt. No such
+corporate tax shield is available for dividend payments or retained earnings. Therefore, corporate tax benefits should encourage firms with high effective tax rates and
+few forms of tax shields other than interest to favor debt financing.
+Management incentives for value creation. Firms with relatively high leverage face
+pressures to generate cash flows to meet payments of interest and principal, reducing resources available to fund unjustifiable exPEnses and investments that do not
+maximize shareholder value. Debt financing, therefore, focuses management on
+value creation, reducing conflicts of interest between managers and shareholders.
+However, there are also costs of debt financing. As a firm increases its use of debt
+financing, it increases the likelihood of financial distress, where it is unable to meet interest or principal repayment obligations to creditors. This forces the firm to restructure its
+financial claims, either under formal bankruptcy proceedings or out of bankruptcy.
+Financial distress has multiple negative consequences for the firm:
+Legal costs of financial distress. Restructurings are likely to be costly, since the parties involved have to hire lawyers, bankers, and accountants to represent their
+interests and must pay court costs if there are formal legal proceedings. These
+are often called the direct costs of financial distress.
+Costs of foregone investment opportunities. Distressed firms face significant challenges in raising capital as potential new investors and creditors will be wary of
+becoming embROIled in the firm's legal disputes. Thus, firms in distress are often
+unable to finance new investments even though they may be profitable for its
+owners.
+Costs of conflicts between creditors and stockholders. When faced with financial distress, creditors focus on the firm's ability to service its debt while shareholders
+worry that their equity will revert to the creditors if the firm defaults. Thus, managers face increased pressure to make decisions that typically serve the interests of
+the stockholders, and creditors react by increasing the costs of borrowing for the
+firm's stockholders.
+Firms are more likely to fall into financial distress if they have high business risks,
+and their assets are easily destroyed in financial distress. For example, firms with
+human capital and brand intangibles are particularly sensitive to financial distress since
+dissatisfied employees and customers can leave or seek alternative suppliers. In contrast,
+firms with tangible assets can sell their assets if they get into financial distress, providing
+additional SECurity for lenders and lowering the costs of financial distress. Firms with
+intangible assets are therefore less likely to be highly leveraged than firms whose assets
+are mostly tangible.
+Credit Analysis and Distress Prediction 10-3
+T AB L E 1 0-1
+Median Leverage in Selected Industries - Year-end 2010
+Net Interest-Bearing
+Debt-to-Book Equity
+..................................................................
+Industry
+....................................................................................................................................................
+All Listed Firms
+NYSE Firms
+Prepackaged Computer Software
+Pharmaceuticals
+Crude PEtroleum and Natural Gas
+Industrial Inorganic Chemicals
+Electric Services
+Water Supply
+(cid:1)41.9%
+(cid:1)60.2%
+10.8%
+3.1%
+74.2%
+81.7%
+(cid:1)49.4%
+(cid:1)7.5%
+22.2%
+26.3%
+79.5%
+90.5%
+....................................................................................................................................................
+Source: Standard and Poor's Compustat 2011.
+The above discussion implies that a firm's long-term decisions on the use of debt
+financing reflect a trade-off between the corporate interest tax shield and incentive benefits of debt against the costs of financial distress. As the firm becomes more highly leveraged, the costs of leverage presumably begin to outweigh the tax and monitoring
+benefits of debt.
+Table 10-1 shows median leverage ratios for all publicly-traded stocks in selected
+industries for the year ended December 31, 2010. Median debt-to-book equity ratios
+are highest for the water supply and electric services industries, which are typically
+not highly sensitive to economy risk and whose core assets are primarily physical
+equipment and proPErty that are readily transferable to debt holders in the event of
+financial distress. In contrast, the software and pharmaceutical industries' core assets
+are their research staffs. Ownership of these tyPEs of assets cannot be easily transferred
+to debt holders if the firm is in financial distress, and researchers are sensitive to budget cuts. As a result, firms in these industries have relatively conservative capital structures. Firms in the crude PEtroleum and natural gas and industrial inorganic chemicals
+industries have leverage in between these extremes, reflecting the need to balance the
+impact of having extensive physical assets and being subject to more volatile revenue
+streams.
+It is also interesting to note that NYSE firms in the majority of industries shown here
+tend to have higher debt financing than non-NYSE firms in the same industries, with the
+difference most pronounced in pharmaceuticals. This probably reflects the fact that
+larger NYSE firms tend to have more product offerings and to be more diversified geographically, reducing their vulnerability to negative events for a single product or market,
+and enabling them to take on more debt.
+THE MARKET FOR CREDIT
+An understanding of credit analysis requires an appreciation for the various players in
+the market for credit. We briefly describe below the major suppliers of debt financing.
+Commercial Banks
+Commercial banks are important players in the market for credit. Since banks tend to
+provide a range of services to a client, and have intimate knowledge of the client and
+its oPErations, they have a comparative advantage in extending credit in settings where
+10-4 PART 3 Business Analysis and Valuation Applications
+(1) knowledge gained through close contact with management reduces the PErceived
+riskiness of the credit and (2) credit risk can be contained through careful monitoring
+of the firm.
+Bank lending oPErations are constrained by a low tolerance for risk to ensure that the
+overall loan portfolio will be of acceptably high quality to bank regulators. Because of the
+importance of maintaining public confidence in the banking SECtor and the desire to
+shield government deposit insurance from risk, governments have incentives to constrain
+banks' exposure to credit risk. Banks also tend to shield themselves from the risk of shifts
+in interest rates by avoiding fixed-rate loans with long maturities. Since banks' capital
+comes mostly from short-term deposits, such long-term loans leave them exposed to
+increases in interest rates, unless the risk can be hedged with derivatives. Thus banks
+are less likely to play a role when a firm requires a very long-term commitment to
+financing. However,
+in some cases banks place the debt with investors looking for
+longer-term credit exposure.
+Non-Bank Financial Institutions
+Banks face comPEtition in the commercial lending market from a variety of sources. In
+the United States, there is comPEtition from savings and loans institutions, though
+these firms tend to focus on financing mortgages. Finance companies comPEte with
+banks in the market for asset-based lending (i.e., the SECured financing of sPEcific assets
+such as receivables, inventory, or equipment). Insurance companies are also involved in
+a variety of lending activities. Since life insurance companies face obligations of a longterm nature, they often seek investments of long duration (e.g., long-term bonds or
+loans to support large, long-term commercial real estate and development projects).
+Investment bankers are prepared to place debt SECurities with private investors or
+in the public markets (discussed later). Various government agencies are also a source
+of credit.
+Public Debt Markets
+Some firms have the size, strength, and credibility necessary to bypass the banking SECtor
+and seek financing directly from investors, either through sales of commercial paPEr or
+through the issuance of bonds. Such debt issues are facilitated by the assignment of a
+debt rating, which measures the underlying credit strength of the firm and determines
+the yield that must be offered to investors.
+Banks often provide financing in tandem with a public debt issue or other source of
+financing. In highly levered transactions, such as leveraged buyouts, banks commonly
+provide financing along with public debt that has a lower priority in case of bankruptcy.
+The bank's "senior financing" would typically be scheduled for earlier retirement than
+the public debt, and it would carry a lower yield. For smaller or start-up firms, banks
+often provide credit in conjunction with equity financing from venture capitalists. Note
+that in the case of both the leveraged buyout and the start-up company, the bank helps
+provide the cash needed to make the deal hapPEn, but it does so in a way that shields it
+from risks that would be unacceptably high for the banking SECtor.
+Sellers Who Provide Financing
+Another SECtor of the market for credit is manufacturers and other suppliers of goods
+and services. As a matter of course, such firms tend to finance their customers' purchases on an unSECured basis for PEriods of 30 to 60 days. Suppliers will, on occasion,
+also agree to provide more extended financing, usually with the support of a SECured
+Credit Analysis and Distress Prediction 10-5
+note. A supplier may be willing to grant such a loan in the exPEctation that the creditor
+will survive a cash shortage and remain an important customer in the future. However,
+the customer would typically seek such an arrangement only if bank financing is
+unavailable because it could constrain flexibility in selecting among and/or negotiating
+with suppliers.
+THE CREDIT ANALYSIS PROCESS IN PRIVATE DEBT MARKETS
+Credit analysis is more than just establishing the creditworthiness of a firm, that is, its
+ability to pay its debts at the scheduled times. The decision to extend credit is not a
+binary one--the firm's exact value, its upside potential, and its distance from the threshold of creditworthiness are all equally important. There are ranges of credit-worthiness,
+and it is important for purposes of pricing and structuring a loan to understand where a
+firm lies within that range. While downside risk must be the primary consideration in
+credit analysis, a firm with growth potential offers opportunities for future incomegenerating financial services from a continued relationship.
+This bROAder view of credit analysis involves most of the issues already discussed in
+the prior chapters on business strategy analysis, accounting analysis, financial analysis,
+and prosPEctive analysis. PErhaps the greatest difference is that credit analysis rarely
+involves any explicit attempt to estimate the value of the firm's equity. However, the
+determinants of that value are relevant in credit analysis because a larger equity cushion
+translates into lower risk for the creditor.
+Below we describe a representative but comprehensive series of stEPS that is used by
+lenders in credit analysis. However, not all credit providers follow
+commercial
+these guidelines. For example, when compared to a banker, manufacturers conduct a
+less extensive analysis on their customers since the credit is very short-term and the
+manufacturer is willing to bear some credit risk in the interest of generating a profit
+on the sale.
+We present the stEPS in a particular order, but they are in fact all interdePEndent. Thus
+analysis at one step may need to be rethought, dePEnding on the analysis at some later step.
+Step 1: Consider the Nature and Purpose of the Loan
+Understanding the purpose of a loan is important not only for deciding whether it
+should be granted but also for structuring the loan based on duration, purpose, and
+size. Loans might be required for only a few months, for several years, or even as a PErmanent part of a firm's capital structure. Loans might be used for replacement of other
+financing, to support working capital needs, or to finance the acquisition of long-term
+assets or another firm.
+The required amount of the loan must also be established. In the case of small- and
+medium-sized companies, bankers typically prefer to be the sole financier of the business. This preference is not only to gain an advantage in providing a menu of financial
+services to the firm but also to maintain a suPErior interest in case of bankruptcy. If
+other creditors are willing to subordinate their positions to the bank, that would of
+course be acceptable as far as the bank is concerned.
+Often the commercial lender deals with firms that may have parent-subsidiary relations, posing the question of the appropriate counterparty. In general, the entity that
+owns the assets that will serve as collateral (or that could serve as such if needed in
+the future) acts as the borrower. If this entity is the subsidiary and the parent presents
+some financial strength indePEndent of the subsidiary, a guarantee of the parent could be
+considered.
+10-6 PART 3 Business Analysis and Valuation Applications
+Step 2: Consider the TyPE of Loan and Available SECurity
+The tyPE of loan is a function not only of its purpose but also of the financial strength of
+the borrower. Thus, to some extent, the loan tyPE will be dictated by the financial analysis described in Step 3. Some of the possible loan tyPEs are as follows:
+OPEn line of credit. An oPEn line of credit PErmits the borrower to receive cash up
+to some sPEcified maximum on an as-needed basis for a sPEcified term, such as
+one year. To maintain this option, the borrower pays a fee (e.g., 3/8 of 1 PErcent)
+on the unused balance in addition to a market rate of interest on any used amount.
+An oPEn line of credit is useful in cases where the borrower's cash needs are difficult to anticipate.
+Revolving line of credit. When it is clear that a firm will need credit beyond the
+short run, financing may be provided in the form of a "revolver." The terms of a
+revolver, which is sometimes used to support working capital needs, requires the
+borrower to make payments as the oPErating cycle proceeds and inventory and
+receivables are converted to cash. However, it is also exPEcted that cash will continue to be advanced as long as the borrower remains in good standing. In addition to interest on amounts outstanding, a fee is charged on the unused line.
+Working capital loan. Such a loan is used to finance inventory and receivables, and
+it is usually SECured. The maximum loan balance may be tied to the balance of the
+working capital accounts. For example, the loan may be allowed to rise to no more
+than 80 PErcent of receivables less than 60 days old.
+Term loan. Term loans are used for long-term needs and are often SECured with
+long-term assets such as plants or equipment. Typically, the loan will be amortized,
+requiring PEriodic payments to reduce the loan balance.
+Trade credit. Trade credit generally takes two forms--an interim loan to an
+exporter to be repaid when the exports are paid for by the foreign importer or
+credit extended by an exporter to an importer, allowing them to pay at some
+time after they take delivery.
+Mortgage loan. Mortgages support the financing of real estate, have long terms,
+and generally require PEriodic amortization of the loan balance.
+Lease financing. Lease financing can be used to facilitate the acquisition of any
+asset but is most commonly used for equipment, including vehicles and buildings.
+Leases may be structured over PEriods of 1 to 15 years, dePEnding on the life of the
+underlying asset.
+Much bank lending is done on a SECured basis, esPEcially with smaller and more
+highly levered companies. SECurity will be required unless the loan is short-term and
+the borrower exposes the bank to only minimal default risk. When SECurity is required,
+an important consideration is whether the amount of available SECurity is sufficient to
+support the loan. The amount that a bank will lend based on a given SECurity involves
+business judgment and dePEnds on a variety of factors that affect the liquidity of the
+SECurity should the firm face financial distress. The following are some rules of thumb
+often applied in commercial lending to various categories of SECurity:
+Receivables. Accounts receivable are usually considered the most desirable form of
+SECurity because they are the most liquid. One large regional bank allows loans of
+50 to 80 PErcent of the balance of non-delinquent accounts. The PErcentage
+applied is lower when (1) there are many small accounts that would be costly to
+collect in case the firm is distressed; (2) there are a few very large accounts, such
+that problems with a single customer could be serious; and/or (3) the customer's
+financial health is closely related to that of the borrower, so that collectability is
+Credit Analysis and Distress Prediction 10-7
+endangered just when the borrower is in default. On the latter score, banks often
+refuse to accept receivables from affiliates as effective SECurity.
+Inventory. The desirability of inventory as SECurity varies widely. The best-case scenario is inventory consisting of a common commodity that can easily be sold to
+other parties if the borrower defaults. More sPEcialized inventory, with apPEal to
+only a limited set of buyers or that is costly to store or transport, is less desirable.
+The large regional bank mentioned above lends up to 60 PErcent on raw materials,
+50 PErcent on finished goods, and 20 PErcent on work in process.
+Machinery and equipment. Machinery and equipment are less desirable as collateral. They are likely to be used and must be stored, insured, and marketed. Keeping
+the costs of these activities in mind, banks typically will lend only up to 50 PErcent
+of the estimated value of such assets in a forced sale such as an auction.
+Real estate. The value of real estate as collateral varies considerably. Banks will
+often lend up to 80 PErcent of the appraised value of readily salable real estate.
+On the other hand, a factory designed for a unique purpose and thus not easy to
+sell would be much less desirable.
+Even when a loan is not SECured initially, a bank can require a "negative pledge" on
+the firm's assets--a pledge that the firm will not use the assets as SECurity for any other
+creditor. In that case, if the borrower begins to exPErience difficulty and defaults on the
+loan, and if there are no other creditors in the picture, the bank can demand that the
+loan become SECured if it is to remain outstanding.
+Step 3: Conduct a Financial Analysis of the Potential Borrower
+This portion of the analysis involves all the stEPS discussed in our chapters on business
+strategy analysis, accounting analysis, and financial analysis. The emphasis, however, is on
+the firm's ability to service the debt at the scheduled rate. All the factors that could impact
+that ability, such as the presence of off-balance-sheet lease obligations and the sustainability
+of the firm's oPErating profit stream, need to be carefully examined. The focus of the analysis dePEnds on the tyPE of financing under consideration. For example, if a short-term loan
+is needed to support seasonal fluctuations in inventory, the emphasis would be on the ability of the firm to convert the inventory into cash on a timely basis. In contrast, a term loan
+to support plant and equipment must be made with confidence in the long-run earnings
+prosPEcts of the firm. This step incorporates both an assessment of the potential borrower's
+financial status, using ratio analysis, and a forecast to determine future payment prosPEcts.
+Ratio Analysis
+Ultimately, since the key issue in the financial analysis is the likelihood that cash flows will
+be sufficient to repay the loan, lenders focus much attention on solvency ratios: the magnitude of various measures of profits and cash flows relative to debt service and other
+requirements. Therefore, ratio analysis from the PErsPEctive of a creditor differs somewhat
+from that of an owner. There is greater emphasis on cash flows and earnings available to
+all claimants (not just owners) before taxes (since interest is tax-deductible and paid out of
+pretax dollars). The funds flow coverage ratio illustrates the creditor's PErsPEctive:
+Funds flow coverage 1/4
+EBIT th Depreciation
+Interest th Debt repayment
+d1 (cid:1) tax rateTh
+th Preferred dividends
+d1 (cid:1) tax rateTh
+Earnings before both interest and taxes in the numerator is compared directly to the
+interest exPEnse in the denominator, because interest exPEnse is paid out of pre-tax
+10-8 PART 3 Business Analysis and Valuation Applications
+dollars. In contrast, any payment of principal scheduled for a given year is nondeductible and must be made out of after-tax profits. In essence, with a 50 PErcent tax
+rate, one dollar of principal payment is "twice as exPEnsive" as a one-dollar interest payment. Scaling the payment of principal by (1 - tax rate) accounts for this. The same idea
+applies to preferred dividends, which are not tax deductible.
+The funds flow coverage ratio provides an indication of how comfortably the funds
+flow can cover unavoidable exPEnditures. The ratio excludes payments such as common
+dividends and capital exPEnditures on the premise that they could be reduced to zero to
+make debt payments if necessary.1 Clearly, however, if the firm is to survive in the long
+run, funds flow must be sufficient to service debt while also maintaining plant assets.
+Thus long-run survival requires a funds flow coverage ratio well in excess of 1.2
+To the extent the ratio exceeds 1, it indicates the "margin of safety" the lender faces.
+When such a ratio is combined with an assessment of the variance in its numerator, it
+provides an indication of the probability of nonpayment. However, it would be overly simplistic to establish any particular threshold above which a ratio indicates a loan is justified.
+A creditor clearly wants to be in a position to be repaid on schedule, even when the borrower faces a reasonably foreseeable difficulty. That argues for lending only when the
+funds flow coverage is exPEcted to exceed 1, even in a recession scenario--and higher if
+some allowance for capital exPEnditures is prudent.
+The financial analysis should produce more than an assessment of the risk of nonpayment. It should also identiFY the nature of the significant risks. At many commercial
+banks it is standard oPErating procedure to summarize the analysis of the firm by listing
+the key risks that could lead to default and factors that could be used to control those
+risks if the loan were made. That information can be used in structuring the detailed
+terms of the loan so as to trigger default when problems arise, at a stage early enough
+to PErmit corrective action.
+Forecasting
+Implicit in the discussion of the ratio analysis is a forward-looking view of the firm's
+ability to service the loan. Good credit analysis should also be supported by explicit forecasts. The basis for such forecasts is usually management, though lenders PErform their
+own tests as well. An essential element of this step is a sensitivity analysis to examine the
+ability of the borrower to service the debt under a variety of scenarios such as changes in
+the economy or in the firm's comPEtitive position. Ideally, the firm should be strong
+enough to withstand downside risks such as a drop in sales or a decrease in profit
+margins.
+At times it is possible to reconsider the structure of a loan so as to PErmit it to "cash
+flow." That is, the term of the loan might be extended or the amortization pattern changed. Often a bank will grant a loan with the exPEctation that it will be continually
+renewed, thus becoming a PErmanent part of the firm's financial structure (labeled an
+"evergreen" loan). In that case the loan will still be written as if it is due within the
+short term, and the bank must assure itself of a viable "exit strategy." However, the
+firm would be exPEcted to service the loan by simply covering interest payments.
+Step 4: Assemble the Detailed Loan Structure, Including Loan
+Covenants
+If the analysis thus far indicates that a loan is in order, the final step is to assemble the
+detailed structure. Having previously determined the tyPE of loan and repayment schedule, the focus shifts to the loan covenants and pricing.
+Credit Analysis and Distress Prediction 10-9
+Writing Loan Covenants
+Loan covenants sPEciFY mutual exPEctations of the borrower and lender by sPEciFYing
+actions the borrower will and will not take. Covenants generally fall into three categories:
+(1) those that require certain actions such as regular provision of financial statements;
+(2) those that preclude certain actions such as undertaking an acquisition without the
+PErmission of the lender; and (3) those that require maintenance of certain financial
+ratios. Loan covenants must strike a balance between protecting the interests of the
+lender and providing the flexibility management needs to run the business. The covenants represent a mechanism for ensuring that the business will remain as strong as the
+two parties anticipated at the time the loan was granted.
+The principal covenants that govern the management of the firm include restrictions on
+other borrowing, pledging assets to other lenders, selling substantial assets, engaging in
+mergers or acquisitions, and paying dividends. The financial covenants should seek to
+address the significant risks identified in the financial analysis or to at least provide early
+warning that such risks are surfacing. Some commonly used financial covenants follow:
+Maintenance of minimum net worth. This covenant assures that the firm will
+maintain an "equity cushion" to protect the lender. Covenants typically require a
+level of net worth rather than a particular level of income. In the final analysis,
+the lender may not care whether that net worth is maintained by generating
+income, cutting dividends, or issuing new equity. Tying the covenant to net
+worth offers the firm the flexibility to use any of these avenues to avoid default.
+Minimum coverage ratio. EsPEcially in the case of a long-term loan, such as a term
+loan, the lender may want to supplement a net worth covenant with one based on
+coverage of interest or total debt service. The funds flow coverage ratio presented
+above would be an example. Maintenance of some minimum coverage helps
+ensure that the ability of the firm to generate funds internally is strong enough to
+justiFY the long-term nature of the loan.
+Maximum ratio of total liabilities to net worth. This ratio constrains the risk of high
+leverage and prevents growth without either retaining earnings or infusing equity.
+Minimum net working capital balance or current ratio. Constraints on this ratio
+force a firm to maintain its liquidity by using cash generated from oPErations to
+retire current liabilities (as opposed to acquiring long-lived assets).
+Maximum ratio of capital exPEnditures to earnings before depreciation. Constraints
+on this ratio help prevent the firm from investing in growth (including the illiquid
+assets necessary to support growth) unless such growth can be financed internally,
+with some margin remaining for debt service.
+Required financial ratios are typically based on the levels that existed at the time that
+the agreement was executed, PErhaps with some allowance for deterioration but often
+with some exPEcted improvement over time. Violation of a covenant represents
+an event of default that could cause immediate acceleration of the debt payment, but in
+most cases the lender uses the default as an opportunity to re-examine the situation and
+either waive the violation or renegotiate the loan.
+Covenants are included not only in private lending agreements but also in public debt
+agreements. However, public debt agreements tend to have less restrictive covenants for
+two reasons. FIRSt, since negotiations resulting from a violation of public debt covenants
+are costly (possibly involving not just the trustee but bondholders as well), the covenants
+are written to be triggered only in serious circumstances. SECond, public debt is usually
+issued by stronger, more credit-worthy firms, though there is a large market for highyield debt. For the most financially healthy firms with strong debt ratings, very few
+10-10 PART 3 Business Analysis and Valuation Applications
+covenants will be used, generally only those necessary to limit dramatic changes in the
+firm's oPErations, such as a major merger or acquisition.
+Loan Pricing
+A detailed discussion of loan pricing falls outside the scoPE of this text. The essence of
+pricing is to assure that the yield on the loan is sufficient to cover (1) the lender's cost of
+borrowed funds; (2) the lender's costs of administering and servicing the loan; (3) a premium for exposure to default risk; and (4) at least a normal return on the equity capital
+necessary to support the lending oPEration. The price is often stated in terms of a deviation from the bank's prime rate (the rate charged to stronger borrowers). For example, a
+loan might be granted at prime plus 1.5 PErcent. An alternative base is LIBOR, or the
+London Interbank Offer Rate, the rate at which large banks from various nations lend
+blocks of funds to each other.
+Banks comPEte actively for commercial lending business, and it is rare that a yield
+includes more than 2 PErcentage points to cover the cost of default risk. If the spread
+to cover default risk is, say, 1 PErcent, and the bank recovers only 50 PErcent of amounts
+due on loans that turn out bad, then the bank can afford only 2 PErcent of their loans to
+fall into that category. This underscores how important it is for banks to conduct a thorough analysis and to contain the riskiness of their loan portfolio.

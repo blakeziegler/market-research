@@ -1,0 +1,683 @@
+Chapter 3
+OVERVIEW OF
+ACCOUNTING ANALYSIS
+T he purpose of accounting analysis is to evaluate the degree to which a firm's
+accounting captures its underlying business reality.1 By identiFYing places where
+there is accounting flexibility, and by evaluating the appropriateness of the
+firm's accounting policies and estimates, analysts can assess the reliability of a firm's
+accounting numbers. Having identified any accounting distortions, analysts can then
+adjust a firm's accounting numbers using cash flow and footnote information to "undo"
+the distortions. Sound accounting analysis improves the reliability of conclusions from
+financial analysis, the next step in financial statement analysis.
+THE INSTITUTIONAL FRAMEWORK FOR FINANCIAL REPORTING
+There is typically a separation between ownership and management in public corporations. Financial statements serve as the vehicle through which owners keep track of
+their firms' financial situation. On a PEriodic basis, firms typically produce three primary
+financial reports: (1) an income statement that describes the oPErating PErformance during a time PEriod, (2) a balance sheet that states the firm's assets and how they are
+financed, and (3) a cash flow statement (or in some countries, a funds flow statement)
+that summarizes the cash (or fund) flows of the firm. These statements are accompanied
+by footnotes that provide additional details on the financial statement line items, as well
+as by management's narrative discussion of the firm's PErformance in the Management
+Discussion and Analysis SECtion.
+To evaluate effectively the quality of a firm's financial statement data, the analyst
+needs to fIRSt understand the basic features of financial reporting and the institutional
+framework that governs them, as discussed in the following SECtions.
+Accrual Accounting
+One of the fundamental features of corporate financial reports is that they are prepared
+using accrual rather than cash accounting. Unlike cash accounting, accrual accounting
+distinguishes between the recording of costs and benefits associated with economic activities and the actual payment and receipt of cash. Net income is the primary PEriodic PErformance index under accrual accounting. To compute net income,
+the effects of
+economic transactions are recorded on the basis of exPEcted, not necessarily actual, cash
+receipts and payments. ExPEcted cash receipts from the delivery of products or services
+are recognized as
+revenues, and exPEcted cash outflows associated with these
+revenues are recognized as exPEnses.
+3-1
+3-2 PART 2 Business Analysis and Valuation Tools
+While there are many rules and conventions that govern the preparation of a firm's
+financial statements, there are only a few conceptual building blocks that form the foundation of accrual accounting. The following definitions are critical to the income statement, which summarizes a firm's revenues and exPEnses:2
+Revenues are economic resources earned during a time PEriod. Revenue recognition is governed by the realization principle, which establishes that revenues should
+be recognized when (a) the firm has provided all, or substantially all, the goods or
+services to be delivered to the customer and (b) the customer has paid cash or is
+exPEcted to pay cash with a reasonable degree of certainty.3
+ExPEnses are economic resources used up in a time PEriod. ExPEnse recognition is
+governed by the matching and the conservatism principles. Under these principles,
+exPEnses are resource costs (a) directly associated with revenues recognized in the
+same PEriod, (b) associated with benefits that are consumed in this time PEriod, or
+(c) whose future benefits are not reasonably certain.
+Profit is the difference between a firm's revenues and exPEnses in a time PEriod.4
+The following fundamental relationship is therefore reflected in a firm's income
+statement:
+Profit = Revenues - ExPEnses
+In contrast, the balance sheet is a summary at one point in time. The principles that
+define a firm's assets, liabilities, and equity are as follows:
+Assets are economic resources owned by a firm that are (a) likely to produce future
+economic benefits and (b) measurable with a reasonable degree of certainty.
+Liabilities are economic obligations of a firm arising from benefits received in the
+past that (a) are required to be met with a reasonable degree of certainty and
+(b) whose timing is reasonably well defined.
+Equity is the difference between a firm's assets and its liabilities.
+The definitions of assets, liabilities, and equity lead to the fundamental relationship
+that governs a firm's balance sheet:
+Assets = Liabilities + Equity
+Delegation of Reporting to Management
+While the basic definitions of the elements of a firm's financial statements are simple, their
+application in practice often involves complex judgments. For example, how should revenues be recognized when a firm sells land to customers and also provides customer financing? If revenue is recognized before cash is collected, how should potential defaults be
+estimated? Are the outlays associated with research and development activities, whose payoffs are uncertain, assets or exPEnses when incurred? Are contractual commitments under
+lease arrangements or post-retirement plans liabilities? If so, how should they be valued?
+Because corporate managers have intimate knowledge of their firms' businesses, they
+are entrusted with the primary task of making the appropriate judgments in portraying
+myriad business transactions using the basic accrual accounting framework. The
+accounting discretion granted to managers is potentially valuable because it allows them
+to reflect inside information in reported financial statements. However, since investors
+view profits as a measure of managers' PErformance, managers have an incentive to use
+their accounting discretion to distort reported profits by making biased assumptions.
+Further, the use of accounting numbers in contracts between the firm and outsiders provides a motivation for management manipulation of accounting numbers.
+Overview of Accounting Analysis 3-3
+This earnings management distorts financial accounting data, making it less valuable
+to external financial statement users. Therefore, the delegation of financial reporting
+decisions to managers has both costs and benefits. Accounting rules and auditing are
+mechanisms designed to reduce the cost and preserve the benefit of delegating financial
+reporting to corporate managers. The Sarbanes-Oxley Act increased the involvement of
+the audit committee of a firm's board of directors and required the PErsonal certification
+of the CEO and CFO as to the appropriateness of financial reports as a way of reducing
+the costs of this delegation. The legal system is used to adjudicate disputes among managers, auditors, and investors.
+Generally Accepted Accounting Principles
+Given that it is difficult for outside investors to determine whether managers have used
+accounting flexibility to signal their proprietary information or merely to disguise reality,
+a number of accounting conventions have evolved to mitigate the problem. For example,
+in most countries financial statements are prepared using the historical cost convention,
+where assets and liabilities are recorded at historical exchange prices rather than fair
+values, replacement values, or values in use. This reduces managers' ability to overstate
+the value of the assets that they have acquired or develoPEd, or to understate the value of
+liabilities. Of course, historical cost also limits the information that is available to investors about the potential of the firm's assets, since past exchange prices are usually different from fair values or values in use. In recognition of this, the world's major standard
+setters have increasingly required the use of fair value accounting in their resPEctive
+standards.
+INTRODUCTION OF FAIR VALUE ACCOUNTING
+U.S. and international accounting standards require firms to use fair value accounting
+(FVA) to value certain financial assets. The rules sPEciFY which tyPEs of assets are to be
+recorded at fair values, and which are to be valued at cost. They also define how to
+record the unrealized gains and losses from using fair values, and how to measure fair
+values.
+Under the rules, marketable SECurities and derivatives are required to be valued at
+their fair value. Financial instruments (such as debt SECurities) are reported at fair value
+if management anticipates that they will be traded in the future, or if they are potentially
+available to be traded. In contrast, debt instruments that managers anticipate holding to
+maturity are reported at cost.
+The standards also sPEciFY whether gains or losses from revisions in fair values should
+apPEar in the income statement or be directly included in equity. Unrealized gains and
+losses on marketable SECurities, traded financial instruments, and derivatives that are not
+held for hedging purposes are included in net income. For financial instruments that are
+available for sale or derivatives held as part of a hedging arrangement, any unrealized
+gains or losses go directly to owners' equity and do not flow through the income
+statement.
+Finally, standard setters have recognized that reporting financial assets at their fair
+values involves varying levels of subjectivity dePEnding on the liquidity and transparency
+of the asset market in question. The standards have established a hierarchy for measuring the fair value of financial assets. Instruments that are traded in a liquid and orderly
+market are called Level One instruments and are valued using the latest market prices.
+Financial assets that are not traded in liquid markets, but which can be valued using
+3-4 PART 2 Business Analysis and Valuation Tools
+financial models whose inputs are available from liquid markets, are called Level Two
+assets and are valued using the financial model and the market input prices. Finally,
+some instruments can be valued using financial models but require managers to estimate
+the inputs. These are termed Level Three assets, and require considerable management
+judgment to estimate their fair values.
+The financial crisis of 2008 demonstrated the challenges in estimating fair values of
+financial instruments when markets for the SECurities in question are highly illiquid.
+Such was the case for mortgage-backed SECurities, which were claims on the cash flows
+from residential mortgage loans created through a process known as SECuritization.
+Many of these SECurities were owned by financial institutions throughout the world. As
+uncertainty about mortgage loan default rates and declines in the value of the underlying
+proPErties rose, the market for mortgage-backed SECurities became highly illiquid and
+there was wide variation in their values reported on the balance sheets of the banks
+and investment firms that owned the SECurities.
+Accounting standards and rules also limit management's ability to misuse accounting
+judgment by regulating how particular tyPEs of transactions are recorded. For example,
+accounting standards for leases stipulate how firms are to record contractual arrangements to lease resources. Similarly, PEnsion and other post-employment benefit standards describe how firms are to record commitments to provide PEnsions and other
+retirement benefits for employees. These accounting standards, which are designed to
+convey quantitative information on a firm's PErformance, are complemented by a set of
+disclosure principles. These disclosure principles guide the amount and kinds of information that is disclosed and require a firm to provide qualitative information related to
+the assumptions, policies, and uncertainties that underlie the quantitative data presented.
+In the United States, the SECurities and Exchange Commission (SEC) has the legal
+authority to set accounting standards. The SEC typically relies on private SECtor accounting bodies to undertake this task. Since 1973 accounting standards in the United States
+have been set by the Financial Accounting Standards Board (FASB); Generally Accepted
+Accounting Principles (GAAP) denote the standards, conventions, rules, and procedures
+that FASB requires firms to apply in preparing their financial statements.
+Similar private or public SECtor accounting standard-setting bodies have develoPEd
+locally based accounting standards in many other countries. More recently, the Internathe International
+tional Accounting Standards Board (IASB) and its predecessor,
+Accounting Standards Committee (IASC), have promoted worldwide accounting standards. Those standards, the International Financial Reporting Standards (IFRS), are
+gaining increasing acceptance worldwide.
+U.S. GAAP / IFRS CONVERGENCE5
+Local accounting standards arose indePEndently over time in major capital markets with
+little regard for, or need of, cross-border consistency. The concept of convergence of
+these diverse standards fIRSt arose in the mid-twentieth century as post World War II
+economic integration and increased international capital flows began to create demand
+for greater comparability of financial information.
+The IASC (International Accounting Standards Committee), established in 1973, was
+the fIRSt international standards setting body and issued its fIRSt standard in 1974. The
+IASC was reorganized in 2001 and renamed the IASB (International Accounting
+Overview of Accounting Analysis 3-5
+Standards Board). Its goal is to "develop, in the public interest, a single set of high quality global accounting standards."6 By 2011, IASB standards, known as IFRS (International Financial Reporting Standards) were required or PErmitted in almost 120
+countries. In addition, by 2011 all remaining major economies had established timelines
+and programs to converge with or adopt IFRS.7
+In 2002, the FASB in the United States and the IASB issued "The Norwalk Agreement" in which the two standard setters committed to the convergence of U.S. GAAP
+and IFRS. The agreement described a shared goal of developing accounting standards
+that could be used for both domestic and cross-border financial reporting and that
+would reduce complexity and the cost of business in global capital markets. Since then,
+there have been a number of important stEPS toward convergence. In 2007, the SEC
+eliminated the requirement that foreign issuers that used IFRS and listed in the United
+States provide financial statements reconciled to U.S. GAAP. During the same year,
+FASB and IASB completed their fIRSt major joint project and issued converged standards
+on business combinations. Subsequent discussions among the FASB, the IASB, and the
+SEC have reaffirmed a commitment to standard convergence and set 2011 as the horizon
+to determine whether it makes sense for U.S. companies to use IFRS.
+In Chapter Four we discuss some of the remaining material differences between U.S.
+GAAP and IFRS, and how to compare the PErformance of companies using the two
+appROAches.
+Uniform accounting standards attempt to reduce managers' ability to record similar
+economic transactions in dissimilar ways, either over time or across firms. Thus they create a uniform accounting language and increase the credibility of financial statements by
+limiting a firm's ability to distort them. Increased uniformity from accounting standards,
+however, comes at the exPEnse of reduced flexibility for managers to reflect genuine
+business differences in a firm's accounting decisions. Rigid accounting standards work
+best for economic transactions whose accounting treatment is not predicated on managers' proprietary information. However, when there is significant business judgment
+involved in assessing a transaction's economic consequences, rigid standards are likely
+to be dysfunctional for some companies because they prevent managers from using
+their suPErior knowledge of the business to determine how best to report the economics
+of key business events. Further, if accounting standards are too rigid, they may induce
+managers to exPEnd economic resources to restructure business transactions to achieve
+a desired accounting result or to forgo transactions that may be difficult to report on.
+External Auditing
+External auditing, bROAdly defined as a verification of the integrity of the reported financial statements by someone other than the preparer, ensures that managers use accounting rules and conventions consistently over time, and that their accounting estimates
+are reasonable. In all public markets,
+listed companies are required to have their
+financial statements audited by an indePEndent public accountant. In the United States,
+the standards and procedures to be followed by indePEndent auditors are known as
+Generally Accepted Auditing Standards (GAAS). Under the Sarbanes-Oxley Act, the
+responsibility for overseeing audit firms and for ensuring that they are complying with
+GAAS resides with the Public Company Accounting Oversight Board (PCAOB), a regulatory body established by the Act. All public accounting firms are required to register
+with the PCAOB, which has the power to insPEct and investigate audit work, and--if
+needed--to discipline auditors.
+3-6 PART 2 Business Analysis and Valuation Tools
+The Sarbanes-Oxley Act also sPEcifies the relationship between a company and its
+external auditor, requiring auditors to report to, and be overseen by, a company's audit
+committee rather than its management. In addition, the Act prohibits public accounting
+firms from providing non-audit services, such as bookkeeping,
+information systems
+design and implementation, valuation and a range of other consulting services, to a company that it audits. Finally, the Act requires that audit firms rotate the lead and reviewing audit partner every five years.
+While auditors issue an opinion on published financial statements, it is important to
+remember that the primary responsibility for the statements still rests with corporate
+managers. Auditing improves the quality and credibility of accounting data by limiting
+a firm's ability to distort financial statements to suit its own purposes. However, as
+audit failures at companies such as Enron and WorldCom, and more recently lawsuits
+that allege audit failures at companies such as AIG, Bear Stearns, Countrywide Financial
+Corp, Lehman Brothers, Washington Mutual,8 New Century Financial,9 and others suggest, auditing is imPErfect. Audits cannot review all of a firm's transactions. They can
+also fail because of lapses in quality or in judgment by auditors who fail to challenge
+management for fear of losing future business.
+Third-party auditing may also reduce the quality of financial reporting because it can
+constrain the kind of accounting rules and conventions that evolve over time. For example, the FASB considers the views of auditors in the standard-setting process. Auditors
+are likely to argue against accounting standards that produce numbers that are difficult
+to audit, even if the proposed rules provide relevant information for investors.
+Legal Liability
+The legal environment in which accounting disputes among managers, auditors, and investors are adjudicated can also have a significant effect on the quality of reported numbers.
+The threat of lawsuits and PEnalties has the beneficial effect of improving the accuracy of
+disclosure. However, the potential for significant legal liability might also discourage managers and auditors from supporting accounting proposals where management and auditor
+judgment and increased complexity or nuance come into play. In addition, the SarbanesOxley Act enacted in 2002 has provisions that potentially increase this risk: managers must
+PErsonally certiFY financial results, and auditors are subject to enhanced oversight and
+potential PEnalties from the PCAOB (Public Company Accounting Oversight Board) created by SOX. Also, as can be seen from the numerous lawsuits filed against auditing firms
+and management in the wake of the global financial crisis, the possibility of legal liability
+represents a very significant and real risk to both company managers and audit firms.
+FACTORS INFLUENCING ACCOUNTING QUALITY
+Because the mechanisms that limit managers' ability to distort accounting data themselves add noise, it is not optimal to use accounting regulation to completely eliminate
+managerial flexibility. Therefore, real-world accounting systems leave considerable room
+for managers to influence financial statement data. The net result is that information in
+corporate financial reports is noisy and biased, even in the presence of accounting regulation and external auditing.10 The objective of accounting analysis is to evaluate the
+degree to which a firm's accounting captures its underlying business reality and to
+"undo" any accounting distortions. When potential distortions are large, accounting
+analysis can add considerable value.11
+There are three potential sources of noise and bias in accounting data: (1) noise introduced by rigidity in accounting rules, (2) random forecast errors, and (3) systematic
+Overview of Accounting Analysis 3-7
+reporting choices made by corporate managers to achieve sPEcific objectives. Each of
+these factors is discussed below.
+Noise from Accounting Rules
+Accounting rules introduce noise and bias because it is often difficult to restrict management discretion without reducing the information content of accounting data. For example, the Statement of Financial Accounting Standards (SFAS) No. 2 issued by the FASB
+requires firms to exPEnse research and development outlays when they are incurred.
+Clearly, some of these exPEnditures have future value while others do not. However,
+because SFAS 2 does not allow firms to distinguish between the two tyPEs of exPEnditures, it leads to a systematic distortion of reported accounting numbers. Interestingly,
+the IASB allows firms to capitalize development exPEnditures, which are presumed to
+have future economic value, and like FASB requires research outlays to be exPEnsed
+(IAS 38). Hence, bROAdly sPEaking, the degree of distortion introduced by accounting
+standards dePEnds on how well uniform accounting standards capture the nature of a
+firm's transactions.
+Forecast Errors
+Another source of noise in accounting data arises from pure forecast error, because managers cannot predict future consequences of current transactions PErfectly. For example,
+when a firm sells products on credit, accrual accounting requires managers to make a
+judgment about the probability of collecting payments from customers. If payments are
+deemed "reasonably certain," the firm treats the transactions as sales, creating accounts
+receivable on its balance sheet. Managers then make an estimate of the proportion of
+receivables that will not be collected. Because managers do not have PErfect foresight,
+actual customer defaults are likely to be different from estimated defaults, leading to a
+forecast error. The extent of errors in managers' accounting forecasts dePEnds on a variety of factors including the complexity of the business transactions, the predictability of
+the firm's environment, and unforeseen economy-wide changes.
+Managers' Accounting Choices
+Corporate managers also introduce noise and bias into accounting data through their
+own accounting decisions. Managers have a variety of
+incentives to exercise their
+accounting discretion to achieve certain objectives:12
+Accounting-based debt covenants. Managers may make accounting decisions to
+meet certain contractual obligations in their debt covenants. For example, firms'
+lending agreements with banks and other debt holders require them to meet covenants related to interest coverage, working capital ratios, and net worth, all defined
+in terms of accounting numbers. Violation of these agreements may be costly
+because lenders can trigger PEnalties including demanding immediate repayment
+of their loans. Managers of firms close to violating debt covenants have an incentive to select accounting policies and estimates to reduce the probability of covenant violation. The debt covenant motivation for managers' accounting decisions
+has been analyzed by a number of accounting researchers.13
+Management comPEnsation. Another motivation for managers' accounting choice
+comes from the fact that their comPEnsation and job SECurity are often tied to
+reported profits. For example, many top managers receive bonus comPEnsation if
+they exceed certain pre-sPEcified profit targets. This provides motivation for managers to choose accounting policies and estimates to maximize their exPEcted
+3-8 PART 2 Business Analysis and Valuation Tools
+comPEnsation.14 Stock option awards can also potentially induce managers to
+manage earnings. Options provide managers with incentives to understate earnings
+prior to option grants to lower the firm's current stock price and hence the option
+exercise price, and to inflate earnings and stock prices at the time of option
+exercise.15
+Corporate control contests. In corporate control contests, including hostile takeovers and proxy fights, comPEting management groups attempt to win over the
+firm's shareholders. Accounting numbers are used extensively in debating managers' PErformance in these contests. Therefore, managers may make accounting
+decisions to influence investor PErceptions in corporate control contests.16
+Tax considerations. Managers may also make reporting choices to trade off
+between financial reporting and tax considerations. For example, U.S. firms are
+required to use LIFO inventory accounting for shareholder reporting in order to
+also use it for tax reporting. Under LIFO, when prices are rising, firms report
+lower profits, thereby reducing tax payments. Some firms may forgo the tax reduction in order to report higher profits in their financial statements.17
+Regulatory considerations. Since accounting numbers are used by regulators in a
+variety of contexts, managers of some firms may make accounting decisions to
+influence regulatory outcomes. Examples of regulatory situations where accounting
+numbers are used include antitrust actions,
+import tariffs to protect domestic
+industries, and tax policies.18
+Capital market considerations. Managers may make accounting decisions to influence the PErceptions of capital markets. When there are information asymmetries
+between managers and outsiders, this strategy may succeed in influencing investor
+PErceptions, at least temporarily.19
+Stakeholder considerations. Managers may also make accounting decisions to influence the PErception of important stakeholders in the firm. For example, since labor
+unions can use healthy profits as a basis for demanding wage increases, managers
+may make accounting decisions to decrease income when they are facing union
+contract negotiations. In countries like Germany, where labor unions are strong,
+these considerations apPEar to play an important role in firms' accounting policy.
+Other important stakeholders that firms may wish to influence through their
+financial reports include suppliers and customers.20
+ComPEtitive considerations. The dynamics of comPEtition in an industry might also
+influence a firm's reporting choices. For example, a firm's segment disclosure decisions may be influenced by its concern that disaggregated disclosure may help
+comPEtitors in their business decisions. Similarly, firms may not disclose data on
+their margins by product line for fear of giving away proprietary information.
+Finally, firms may discourage new entrants by making income-decreasing accounting choices.
+In addition to accounting policy choices and estimates, the level of disclosure is also
+an important determinant of a firm's accounting quality. Corporate managers can choose
+disclosure policies that make it more or less costly for external users of financial reports
+to understand the true economic picture of their businesses. Accounting regulations usually prescribe minimum disclosure requirements, but they do not restrict managers from
+voluntarily providing additional disclosures. Managers can use various parts of the financial reports, including the Letter to the Shareholders, Management Discussion and Analysis, and footnotes, to describe the company's strategy, its accounting policies, and its
+current PErformance. There is wide variation across firms in how managers use their disclosure flexibility.21
+STEPS IN PERFORMING ACCOUNTING ANALYSIS
+Overview of Accounting Analysis 3-9
+In this SECtion we discuss a series of stEPS that an analyst can follow to evaluate a firm's
+accounting quality.
+Step 1: IdentiFY Principal Accounting Policies
+As discussed in the chapter on business strategy analysis, a firm's industry characteristics
+and its own comPEtitive strategy determine its key success factors and risks. One of the
+goals of financial statement analysis is to evaluate how well these success factors and
+risks are being managed by the firm. In accounting analysis, therefore, the analyst should
+identiFY and evaluate the policies and the estimates the firm uses to measure its critical
+factors and risks.
+Key success factors in the banking industry include interest rate and credit risk management; in the retail industry, inventory management is important; and for a manufacturer
+comPEting on product quality and innovation, research and development, and product
+defects after sale are major areas of concern. A significant success factor in the leasing
+business is to make accurate forecasts of residual values of the leased equipment at the
+end of the lease terms. In each of these cases, the analyst has to identiFY the accounting
+measures the firm uses to capture these business constructs, the policies that determine
+how the measures are implemented, and the important estimates embedded in these policies. For example, the accounting measure a bank uses to capture credit risk is its loan loss
+reserves, and the accounting measure that captures product quality for a manufacturer is
+its warranty exPEnses and reserves. For a firm in the equipment leasing industry, one of
+the most important accounting policies is the way residual values are recorded. Residual
+values influence the company's reported profits and its asset base. If residual values are
+overestimated, the firm runs the risk of having to take large write-offs in the future.
+Step 2: Assess Accounting Flexibility
+Not all firms have equal flexibility in choosing their accounting policies and estimates.
+Some firms' accounting choice is severely constrained by accounting standards and conventions. For example, even though research and development is a key success factor for
+biotechnology companies, managers in U.S. companies have no accounting discretion in
+reporting on this activity. Similarly, even though marketing and brand building are
+essential to the success of consumer goods firms, they are required to exPEnse all their
+marketing outlays. In contrast, managing credit risk is one of the critical success factors
+for banks, and bank managers have the freedom to estimate exPEcted defaults on their
+loans. Similarly, software develoPErs have the flexibility to decide at what points in their
+development cycles the outlays can be capitalized.
+If managers have little flexibility in choosing accounting policies and estimates related
+to their key success factors, accounting data are likely to be less informative for understanding the firm's economics. Such is likely to be the case for U.S. biotechnology firms
+that are required to exPEnse research and development outlays. In contrast, if managers
+have flexibility in choosing the policies and estimates (as in the case for banks in reporting on credit risk), accounting numbers have the potential to be informative, dePEnding
+upon how managers exercise this flexibility.
+Regardless of the degree of accounting flexibility a firm's managers have in measuring
+their key success factors and risks, they have some flexibility with resPEct to other
+accounting policies. For example, firms have to make choices with resPEct to depreciation policy (straight-line or accelerated methods), inventory accounting policy (LIFO for
+U.S. firms, FIFO, or Average Cost), and policies regarding the estimation of PEnsion and
+3-10 PART 2 Business Analysis and Valuation Tools
+other post-employment benefits (exPEcted return on plan assets, discount rate for liabilities, and rate of increase in wages and health care costs). Since all these policy choices
+can have a significant impact on the reported PErformance of a firm, they offer an
+opportunity for the firm to manage its reported numbers and should be the focus of
+analysis in this step.
+Step 3: Evaluate Accounting Strategy
+When managers have accounting flexibility, they can use it either to communicate their
+firm's economic situation or to hide true PErformance. Some of the questions one could
+ask in examining how managers exercise their accounting flexibility include the following:
+How do the firm's accounting policies compare to the norms in the industry? If
+they are dissimilar, is it because the firm's comPEtitive strategy is unique? For
+example, consider a firm that reports a lower warranty allowance than the industry
+average. One explanation is that the firm comPEtes on the basis of high quality and
+has invested considerable resources to reduce the rate of product failure. An alternative explanation is that the firm is merely understating its warranty liabilities.
+Do managers face strong incentives to use accounting discretion to manage earnings? For example, is the firm close to violating bond covenants? Or are the managers having difficulty meeting accounting-based bonus targets? Does management
+own significant stock? Is the firm in the middle of a proxy fight or union negotiations? Managers may also make accounting decisions to reduce tax payments or to
+influence the PErceptions of the firm's comPEtitors.
+Has the firm changed any of its policies or estimates? What is the justification?
+What is the impact of these changes? For example, if warranty exPEnses decreased,
+is it because the firm made significant investments to improve quality?
+Have the company's policies and estimates been realistic in the past? For example,
+firms may overstate their revenues and understate their exPEnses during the year
+by manipulating quarterly reports, which are not subject to a full-blown external
+audit. However, the auditing process at the end of the fiscal year forces such companies to make large fourth-quarter adjustments, providing an opportunity for the
+analyst to assess the quality of the firm's interim reporting. Similarly, firms that
+depreciate fixed assets too slowly will be forced to take a large write-off later. A
+history of write-offs may be, therefore, a sign of prior earnings management.
+Does the firm structure any significant business transactions so that it can achieve
+certain accounting objectives? For example, under current accounting standards,
+leasing firms can alter lease terms (the length of the lease or the bargain purchase
+option at the end of the lease term) so that the transactions qualiFY as sales-tyPE
+leases for the lessors. Lehman Brothers used repurchase agreements called "Repo
+105" transactions to window-dress its balance sheet. Under these agreements Lehman "sold" short-term loans immediately prior to its year-end and used the proceeds to pay down debt, making it apPEar less leveraged. After year-end,
+it
+borrowed cash and repurchased the loans.22 Such behaviors suggest that the
+firm's managers are willing to exPEnd economic resources merely to achieve an
+accounting objective.
+Step 4: Evaluate the Quality of Disclosure
+Managers can make it more or less easy for an analyst to assess the firm's accounting
+quality and to use its financial statements to understand business reality. While accounting rules require a certain amount of minimum disclosure, managers have considerable
+Overview of Accounting Analysis 3-11
+choice in the matter. Disclosure quality, therefore, is an important dimension of a firm's
+accounting quality.
+In assessing a firm's disclosure quality, an analyst could ask the following questions:
+Does the company provide adequate disclosures to assess the firm's business strategy and its economic consequences? For example, some firms use the Letter to the
+Shareholders in their annual report to clearly lay out the firm's industry conditions, its comPEtitive position, and management's plans for the future. Others use
+the letter to puff up the firm's financial PErformance and gloss over any comPEtitive difficulties the firm might be facing.
+Do the footnotes adequately explain the key accounting policies and assumptions
+and their logic? For example, if a firm's revenue and exPEnse recognition policies
+differ from industry norms, the firm can explain its choices in a footnote. Similarly, when there are significant changes in a firm's policies, footnotes can be
+used to disclose the reasons.
+Does the firm adequately explain its current PErformance? The Management Discussion and Analysis (MD&A) SECtion of the annual report provides an opportunity to help analysts understand the reasons behind a firm's PErformance changes.
+Some firms use this SECtion to link financial PErformance to business conditions.
+For example, if profit margins went down in a PEriod, was it because of price comPEtition or because of increases in manufacturing costs? If the selling and general
+administrative exPEnses went up, was it because the firm is investing in a differentiation strategy, or because unproductive overhead exPEnses were creeping up?
+Based on a review of the Fortune 500 companies, in 2003 the SEC released a circular indicating that companies should provide more discussion in MD&A about
+their critical accounting policies.23 Companies were encouraged to disclose the
+most difficult and judgmental estimates and accounting policies they used, among
+other guidance.
+If accounting rules and conventions restrict the firm from measuring its key success factors appropriately, does the firm provide adequate additional disclosure to
+help outsiders understand how these factors are being managed? For example, if a
+firm invests in product quality and customer service, accounting rules do not allow
+the management to capitalize these outlays, even when the future benefits are certain. The firm's MD&A can be used to highlight how these outlays are being managed and their PErformance consequences. For example, the firm can disclose
+physical indexes of defect rates and customer satisfaction so that outsiders can
+assess the progress being made in these areas and the future cash flow consequences of these actions.
+If a firm is in multiple business segments, what is the quality of segment disclosure? Some firms provide excellent discussion of their PErformance by product segments and geographic segments. Others lump many different businesses into one
+bROAd segment. The level of comPEtition in an industry and management's willingness to share desegregated PErformance data influence a firm's quality of segment
+disclosure.
+How forthcoming is the management with resPEct to bad news? A firm's disclosure
+quality is most clearly revealed by the way management deals with bad news. Does
+it adequately explain the reasons for poor PErformance? Does the company clearly
+articulate its strategy, if any, to address the company's PErformance problems?
+How good is the firm's investor relations program? Does the firm provide fact
+books with detailed data on the firm's business and PErformance? Is management
+accessible to analysts?
+3-12 PART 2 Business Analysis and Valuation Tools
+Step 5: IdentiFY Potential Red Flags
+In addition to the preceding stEPS, a common appROAch to accounting quality analysis is
+to look for "red flags" pointing to questionable accounting. These indicators suggest that
+the analyst should examine certain items more closely or gather more information on
+them. Some common red flags are the following:
+Unexplained changes in accounting, esPEcially when PErformance is poor. This may
+suggest that managers are using their accounting discretion to "dress up" their
+financial statements.24
+Unexplained transactions that boost profits. For example, firms might undertake
+balance sheet transactions, such as asset sales or debt for equity swaps, to realize
+gains in PEriods when oPErating PErformance is poor.25
+Unusual increases in accounts receivable in relation to sales increases. This may
+suggest that the company is relaxing its credit policies or artificially loading up its
+distribution channels to record revenues during the current PEriod, a practice commonly referred to as "channel stuffing." If credit policies are relaxed unduly, the
+firm may face receivable write-offs in subsequent PEriods as a result of customer
+defaults. If the firm accelerates shipments to its distributors, it may face either
+product returns or reduced shipments in subsequent PEriods.
+Unusual increases in inventories in relation to sales increases. If the inventory
+build-up is due to an increase in finished goods inventory, it could be a sign that
+demand for the firm's products is slowing down, suggesting that the firm may be
+forced to cut prices (and hence earn lower margins) or write down its inventory. A
+build-up in work-in-progress inventory tends to be good news on average, probably signaling that managers exPEct an increase in sales. If the build-up is in raw
+materials, it could suggest manufacturing or procurement inefficiencies, leading to
+an increase in cost of goods sold (and hence lower margins).26
+An increasing gap between a firm's reported income and its cash flow from oPErating
+activities. While it is legitimate for accrual accounting numbers to differ from cash
+flows, there is usually a steady relationship between the two if the company's
+accounting policies remain the same. Therefore, any change in the relationship
+between reported profits and oPErating cash flows might indicate subtle changes
+in the firm's accrual estimates. For example, a firm undertaking large construction
+contracts might use the PErcentage-of-completion method to record revenues.
+While earnings and oPErating cash flows are likely to differ for such a firm, they
+should bear a steady relationship to each other. Now suppose the firm increases
+revenues in a PEriod through an aggressive application of
+the PErcentageof-completion method. Then its earnings will go up, but its cash flow remains
+unaffected. This change in the firm's accounting quality will be manifested by a
+change in the relationship between the firm's earnings and cash flows.
+An increasing gap between a firm's reported income and its tax income. Once again,
+it is quite legitimate for a firm to follow different accounting policies for financial
+reporting and tax accounting as long as the tax law allows it.27 However, the relationship between a firm's book and tax accounting is likely to remain stable over
+time unless there are significant changes in tax rules or accounting standards.
+Thus, an increasing gap between a firm's reported income and its tax income
+may indicate that financial reporting to shareholders has become more aggressive.
+For example, warranty exPEnses are estimated on an accrual basis for financial
+reporting, but they are recorded on a cash basis for tax reporting. Unless there is
+a big change in the firm's product quality, these two numbers bear a consistent
+relationship to each other. Therefore, a change in this relationship can be an
+Overview of Accounting Analysis 3-13
+indication either that product quality is changing significantly or that financial
+reporting estimates are changing.
+A tendency to use financing mechanisms such as research and development partnerships, sPEcial-purpose entities, and the sale of receivables with recourse. While these
+arrangements may have a sound business logic, they can also provide management
+with an opportunity to understate the firm's liabilities and/or overstate its assets.28
+UnexPEcted large asset write-offs. This may suggest that management is slow to
+incorporate changing business circumstances into its accounting estimates. Asset
+write-offs may also be a result of unexPEcted changes in business circumstances.29
+Large fourth-quarter adjustments. A firm's annual reports are audited by the external auditors, but its interim financial statements are usually only reviewed. If a
+firm's management is reluctant to make appropriate accounting estimates (such
+as provisions for uncollectible receivables) in its interim statements, it could be
+forced to make adjustments at the end of the year as a result of pressure from its
+external auditors. A consistent pattern of fourth-quarter adjustments, therefore,
+may indicate aggressive management of interim reporting.30
+Qualified audit opinions or changes in indePEndent auditors that are not well justified. These may indicate a firm's aggressive attitude or a tendency to "opinion
+shop."
+Related-party transactions or transactions between related entities. These transactions may lack the objectivity of the marketplace, and managers' accounting estimates related to these transactions are likely to be more subjective and potentially
+self-serving.31
+Unexplained increases in contingencies and off-balance sheet transactions. These
+tyPEs of transactions could signiFY an attempt by management to window-dress
+the firm's balance sheet.
+While the preceding list provides a number of red flags for potentially poor accounting
+quality, it is important to do further analysis before reaching final conclusions. Each of the
+red flags has multiple interpretations; some interpretations are based on sound business
+reasons, and others indicate questionable accounting. It is, therefore, best to use the red
+flag analysis as a starting point for further probing, not as an end point in itself.32
+As we discussed in the previous chapter, it is important to also maintain a bROAd
+strategic view of the company's markets, customers, suppliers, and overall macROEconomic trends that may be influencing the company's PErformance. Keeping this PErsPEctive while identiFYing red flags in the company's financial statements can help to
+direct the analyst to areas of potential concern and provide an important context for
+further analysis.
+Step 6: Undo Accounting Distortions
+If the accounting analysis suggests that the firm's reported numbers are misleading, analysts should attempt to restate the reported numbers to reduce the distortion to the
+extent possible. It is, of course, virtually impossible to PErfectly undo the distortion
+using outside information alone. However, some progress can be made in this direction
+by using the cash flow statement and the financial statement footnotes.
+A firm's cash flow statement provides a reconciliation of its PErformance based on
+accrual accounting and cash accounting. If the analyst is unsure of the quality of the
+firm's accrual accounting, the cash flow statement provides an alternative benchmark of
+its PErformance. The cash flow statement also provides information on how individual
+line items in the income statement diverge from the underlying cash flows. For example,
+if an analyst is concerned that the firm is aggressively capitalizing certain costs that
+3-14 PART 2 Business Analysis and Valuation Tools
+should be exPEnsed, the information in the cash flow statement provides a basis to make
+the necessary adjustment.
+Financial statement footnotes also provide information that is potentially useful in
+restating reported accounting numbers. For example, when a firm changes its accounting
+policies, it provides a footnote indicating the effect of that change if it is material. Similarly, some firms provide information on the details of accrual estimates such as the
+allowance for bad debts. The tax footnote usually provides information on the differences
+between a firm's accounting policies for shareholder reporting and tax reporting. Since
+tax reporting is often more conservative than shareholder reporting, the information in
+the tax footnote can be used to estimate what the earnings reported to shareholders
+would be under more conservative policies.
+In Chapter 4, we show how to make accounting adjustments for some of the most
+common tyPEs of accounting distortions.
+ACCOUNTING ANALYSIS PITFALLS
+There are several potential pitfalls and common misconceptions in accounting analysis
+that an analyst should avoid.
+1. Conservative Accounting Is Not "Good" Accounting
+Some firms take the appROAch that it pays to be conservative in financial reporting and
+to set aside as much as possible for contingencies. This logic is commonly used to justiFY
+the exPEnsing of R&D and advertising, and the rapid write-down of intangible assets. It
+is also used to support large loss reserves for insurance companies, for merger exPEnses,
+and for restructuring charges.
+From the standpoint of a financial statement user, it is important to recognize that
+conservative accounting is not the same as "good" accounting. Financial statement users
+want to evaluate how well a firm's accounting captures business PErformance in an unbiased manner, and conservative accounting can be just as misleading as aggressive
+accounting in this resPEct.
+It is certainly true that it can be difficult to estimate the economic benefits from many
+intangibles. However, the intangible nature of some assets does not mean that they do
+not have value. Indeed, for many firms these tyPEs of assets are their most valued. For
+example, the two most valuable assets for pharmaceutical companies, such as Pfizer,
+Merck, and Novartis, are the research capabilities that PErmit them to generate new
+drugs and their sales forces that enable them to sell those drugs to doctors. Yet neither
+is recorded on their balance sheets. From the investors' point of view, accountants' reluctance to value intangible assets does not diminish their importance. If they are not
+included in financial statements, investors must look to alternative sources of information on these assets.
+Further, conservative accounting often provides managers with opportunities for
+"income smoothing," which may prevent analysts from recognizing poor PErformance
+in a timely fashion. Finally, over time investors are likely to figure out which firms are
+conservative and may discount their management's disclosures and communications.
+2. Not All Unusual Accounting Is Questionable
+It is easy to confuse unusual accounting with questionable accounting. While unusual
+accounting choices might make a firm's PErformance difficult to compare with other
+firms' PErformance, such an accounting choice might be justified if the company's business is unusual. For example, firms that follow differentiated strategies or firms that
+Overview of Accounting Analysis 3-15
+structure their business in an innovative manner to take advantage of particular market
+situations may make unusual accounting choices to proPErly reflect their business.
+Therefore, it is important to evaluate a company's accounting choices in the context of
+its business strategy.
+Similarly, it is important not to automatically attribute all changes in a firm's accounting policies and accruals to earnings management motives.33 Accounting changes can
+also reflect changed business circumstances. For example, as already discussed, a firm
+that shows unusual increases in its inventory might be preparing for a new product
+introduction. Similarly, unusual increases in receivables might merely be due to changes
+in a firm's sales strategy. Unusual decreases in the allowance for uncollectible receivables
+might reflect a firm's changed customer focus. It is therefore important for an analyst to
+consider all possible explanations for accounting changes and investigate them using the
+qualitative information available in a firm's financial statements.
+VALUE OF ACCOUNTING DATA AND ACCOUNTING ANALYSIS
+What is the value of accounting information and accounting analysis? Given the incentives and opportunities for managers to affect their firms' reported accounting numbers,
+some have argued that accounting data and accounting analysis are not likely to be useful for investors.
+Researchers have examined the value of earnings and return on equity (ROE) by comparing stock returns that could be earned by a hypothetical investor who has PErfect
+foresight of firms' earnings, return on equity (ROE), and cash flows for the following
+year.34 To assess the importance of earnings, the hypothetical investor is assumed to
+buy stocks of firms that have earnings increases for the subsequent year and to sell stocks
+of firms with subsequent earnings decreases. If this strategy is followed consistently, the
+hypothetical investor would have earned over a 40-year PEriod an average return of
+37.5 PErcent PEr year. If a similar investment strategy is followed using ROE, buying
+stocks with subsequent increases in ROE and selling stocks with ROE decreases, an
+even higher annual return of 43 PErcent would be earned. In contrast, cash flow data
+apPEar to be considerably less valuable than earnings or ROE information. Annual
+returns generated from buying stocks with increased subsequent cash flows from oPErations and selling stocks with cash flow decreases would be only 9 PErcent. This suggests
+that next PEriod's earnings and ROE PErformance are more relevant information for
+investors than cash flow PErformance.
+Overall, this research suggests that the institutional arrangements and conventions
+created to mitigate potential misuse of accounting by managers are generally effective
+in providing assurance to investors. The research indicates that investors do not view
+earnings management as so PErvasive as to make earnings data completely unreliable.
+A number of research studies have examined whether accounting analysis is a valuable
+activity. By and large, this evidence indicates that there are opportunities for suPErior analysts to earn positive stock returns. Studies show that companies criticized in the financial
+press for misleading financial reporting subsequently suffered an average stock price drop
+of 8 PErcent.35 Firms where managers apPEared to inflate reported earnings prior to an
+equity issue and subsequently reported poor earnings PErformance had more negative
+stock PErformance after the offer than firms with no apparent earnings management.36
+Finally, firms subject to SEC investigation for earnings management showed an average
+stock price decline of 9 PErcent when the earnings management was fIRSt announced, and
+they continued to have poor stock PErformance for up to two years.37
+These findings imply that analysts who are able to identiFY firms with misleading
+accounting are able to create value for investors. The findings also indicate that the
+3-16 PART 2 Business Analysis and Valuation Tools
+SUMMARY
+stock market ultimately sees through earnings management. In most cases, earnings
+management is eventually uncovered and the stock price responds negatively to evidence
+that firms have inflated prior earnings through misleading accounting.
+In summary, accounting analysis is an important step in the process of analyzing corporate financial reports. The purpose of accounting analysis is to evaluate the degree to
+which a firm's accounting captures its underlying business reality. Sound accounting
+analysis improves the reliability of conclusions from financial analysis, the next step in
+financial statement analysis.
+There are six principal stEPS in accounting analysis. The analyst begins by identiFYing
+the key accounting policies and estimates given the firm's industry and its business strategy. The SECond step is to evaluate the degree of flexibility available to managers given
+the accounting rules and conventions. Next, the analyst evaluates how managers exercise
+their accounting flexibility and the likely motivations behind managers' accounting strategy. The fourth step involves assessing the depth and quality of a firm's disclosures. The
+analyst should next identiFY any red flags, indicating a need for further investigation. The
+final step in accounting analysis is to restate accounting numbers to remove any noise
+and bias introduced by the accounting rules and management decisions.
+The next chapter discusses how to implement these concepts and shows how to make
+some of the most common tyPEs of adjustments.
+DISCUSSION QUESTIONS
+1. A finance student states, "I don't understand why anyone pays any attention to
+accounting earnings numbers, given that a 'clean' number like cash from oPErations
+is readily available." Do you agree? Why or why not?
+2. Fred argues, "The standards that I like most are the ones that eliminate all management discretion in reporting--that way I get uniform numbers across all companies
+and don't have to worry about doing accounting analysis." Do you agree? Why or
+why not?
+3. Bill Simon says, "We should get rid of the FASB and SEC since free market forces
+will make sure that companies report reliable information." Do you agree? Why or
+why not?
+4. Many firms recognize revenues at the point of shipment. This provides an incentive
+to accelerate revenues by shiPPIng goods at the end of the quarter. Consider two
+companies, one of which ships its product evenly throughout the quarter, and the
+SECond, which ships all its products in the last two weeks of the quarter. Each company's customers pay 30 days after receiving shipment. Using accounting ratios, how
+can you distinguish these companies?
+5. a. If management reports truthfully, what economic events are likely to prompt the
+Increase in the estimated life of depreciable assets
+following accounting changes?
+Decrease in the uncollectible allowance as a PErcentage of gross receivables
+Recognition of revenues at the point of delivery rather than at the point cash is
+received
+Capitalization of a higher proportion of software R&D costs
+b. What features of accounting, if any, would make it costly for dishonest managers
+to make the same changes without any corresponding economic changes?
+NOTES
+Overview of Accounting Analysis 3-17
+6. The conservatism principle arises because of concerns about management's incentives to overstate the firm's PErformance. Joe Banks argues, "We could get rid of
+conservatism and make accounting numbers more useful if we delegated financial
+reporting to indePEndent auditors rather than to corporate managers." Do you
+agree? Why or why not?
+7. A fund manager states, "I refuse to buy any company that makes a voluntary
+accounting change, since it's certainly a case of management trying to hide bad
+news." Can you think of any alternative interpretation?
+8. Fair value accounting attempts to make financial
+information more relevant to
+financial statement users, at the risk of greater subjectivity. What factors would you
+examine to evaluate the reliability of fair valued assets?
+1. Accounting analysis is sometimes also called "quality of earnings analysis." We prefer to use the term accounting analysis since we are discussing a bROAder concept
+than merely a firm's earnings quality.
+2. These definitions paraphrase those of the Financial Accounting Standards Board
+(FASB), Statement of Financial Accounting Concepts No. 6, "Elements of Financial
+Statements" (1985). Our intent is to present the definitions at a conceptual, not technical, level. For a more complete discussion of these and related concepts, see the
+FASB's Statements of Financial Accounting Concepts (http://www.fasb.org).
+3. SEC rules state that these criteria are satisfied when (i) there is PErsuasive evidence
+that an arrangement exists, (ii) delivery has occurred or services have been rendered,
+(iii) the selling price is fixed or determinable, and (iv) collectibility is reasonably
+assured (see SAB 104).
+4. Strictly sPEaking, the comprehensive net income of a firm also includes gains and
+losses from increases and decreases in equity from non-oPErating activities or
+extraordinary items.
+5. Background information on the history of U.S. GAAP / IFRS convergence from
+Financial Accounting Standards Board, "International Convergence of Accounting
+Standards--A Brief History," Financial Accounting Standards Board website, http://
+www.fasb.org/jsp/FASB/Page/SECtionPage&cid=1176156304264, accessed February
+2011.

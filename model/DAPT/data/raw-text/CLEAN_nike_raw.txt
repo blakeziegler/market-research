@@ -1,0 +1,337 @@
+Highlights in Business, Economics and Management
+Volume 34 (2024)
+EAIS 2024
+A Financial Analysis and Valuation on Nike, Inc.
+Yangleyan Dong
+International Business School Suzhou, Xi'an Jiaotong-Liverpool University, Suzhou, 215123, China
+Yangleyan.Dong22@student.xjtlu.edu.cn
+ABStract. As there are a great number of companies in the market, evaluation of a sPEcific company
+is vital of importance nowadays. Therefore, this report will give a comprehensive financial analysis
+of Nike from four asPEcts: liquidity PErformance, solvency PErformance, profitability PErformance and
+investment PErformance. Initially, this analysis will give a brief introduction about Nike's strategy,
+oPErations and some basic information. After that, liquidity PErformance indicates that Nike did a
+great job esPEcially in the use of inventory and the discount capacity. Meanwhile, Nike also low
+financial risks and strong profitability compared with other four companies in the same industry in
+the solvency PErformance. Furthermore, Nike has an excellent cost control ability but still some
+improPErly allocated of resources in some areas in the profitability PErformance. Not only this, Nike
+has the highest investment value among the four comPEtitors in the same industry in the investment
+PErformance. As a whole, it could be seen from the financial analysis that Nike has quite strong
+comPEtitiveness in this industry.
+Keywords: Liquidity, Solvency, Profitability, Investment.
+1. Introduction
+Nike is a well-known sports brand from America. Among these plenty of sports brand, an intensely
+comPEtitive market result in the tremendous pressure. However, to deal with this issue, Nike have
+created different strategy in different segmented market. As for Nike, there are four main market
+which are North America, EuroPE, Asian-pacific and Latin Amecia. As for the North America market,
+Nike's biggest market, it has shown a trend of increasing in market sales esPEcially in the recent years
+due to the economic situation in develoPEd countries has been better than that through COVID-19 in
+2020. Not only this, as some newly-rising enterprises grow up recently, the demand has been weaker
+than before which indicated that Nike still faced with a severely threat in their market position in
+North America. The SECond biggest market is EuroPE. As an area consisted of a crowd of countries,
+it provides more currency options for Nike so that it could have more profitable space. Meanwhile,
+even though there a great number of brands in EuroPE, the brand influence makes it still take up a
+certain market share and bROAden the overseas market for the company [1]. In the Asian-Pacific
+market, with the lower labor price in this market, plenty of factories have distributed here and
+producing product for the surrounding market. Although the economic development there is less than
+develoPEd countries, the recent statistic has shown that it has a gradual expansion of the market on
+account of the biggest developing country's gradually development and growth [2]. In the smallest
+Latin America market, owing to its low GDP PEr capita, sales of product are much lower than other
+markets. However, through using some sPEcial pricing strategy like differential pricing, which means
+using different price in different markets, the sales demonstrate a rapid growth in this market.
+Furthermore, the statistic in the annual report has also indicate that the revenue PErformance shows a
+slightly increasing tendency by looking through the recent years. Nevertheless, with the continued
+economic impact after COVID-19, the total revenue still less than previous quarters for about one
+PErcent. These may be caused by the decrease of assets, liability and equity of Nike. Nowadays, all
+industries are meeting with bad times, esPEcially for those sellers. As more newly-rising enterprises
+springing up, customers have a great many of choices in the asPEct of purchase channel and brand.
+These could impact the offline store of Nike's sales and finally result in decreasing in total revenue.
+This report will focus on Nike's financial asPEct and give a comprehensive analysis for this company.
+All information and data will be based on the annual report [3-5].
+64
+Highlights in Business, Economics and Management
+Volume 34 (2024)
+EAIS 2024
+2. Liquidity PErformance
+Table 1. Liquidity ratios of Nike and its comPEtitors
+Company Name
+Nike
+Adidas
+Puma
+Under Armour
+Current ratio
+272.3%
+117.1%
+151.6%
+218.1%
+Quick ratio
+180.9%
+53.6%
+75.1%
+130.4%
+Cash ratio
+80.4%
+5.3%
+11.0%
+52.5%
+The liquidity PErformance is an asPEct of evaluating a company whether it will have a risk of
+indebtedness or not, and it will be interpreted by these three indexes: current ratio, quick ratio and
+cash ratio, as shown in Table 1. Initially, current ratio is an index which measures whether if the
+current assets could completely cover the current liability in the company. From the above data, it is
+obviously that Nike's ratio is much higher than the other three companies. This indicates that Nike
+will not face with the financial problems and could affordable for the current liability easily.
+Nevertheless, Adidas's ratio is slightly higher than 1 which means it is likely that the company will
+face with financial problems in the future as current assets is almost the same as the current liability.
+Meanwhile, quick ratio is an index which based on the current ratio which ruling out influence of
+inventory in the company. It also apparent that Nike has the highest ratio among these four companies.
+This shows that Nike could still realize the current assets quickly without inventory and this also
+contributes to that Nike will not face financial problems in a short time. However, Adidas and Puma's
+ratios are less than 1 which demonstrate that if the inventory cannot be sold timely, they are likely to
+face with financial problems as they could not pay for the current liability. Furthermore, the cash ratio
+indicates that whether the company's current assets could cover the current liability without inventory
+and trade receivables. It shows that Nike has the highest ratio which means even though the company
+cannot sale the inventory or collect the receivables in time, it still has the capability to pay for the
+largest for the current liability with other current assets among these companies. Nevertheless, the
+data shows all the ratios are smaller than 1, that is because their primary business is selling so that
+most of their current assets are consist of inventory and receivables about products.
+Not only these, from the annual report, it also demonstrates that inventory and receivables of 2023
+are slightly less than compared with 2022, cash and cash equivalents of 2023 are higher than that in
+2022. Though it could impact the current assets of Nike, the statistic has shown that both total current
+assets and total current liability are decreasing through one year. Meanwhile, current liability declines
+more in PErcentage than current assets which means Nike still works well except the influence of
+economic situation. Compared with other three comPEtitors, Nike does much better esPEcially in
+terms of resource using which makes it has a strong ability in realization of assets. Moreover,
+receivables and inventory almost take up more than a half of Nike's current assets due to Nike is a
+company whose main business is sales. This could also interpret Table 1 which indicates a decreasing
+tendency from current ratio to quick ratio and then cash ratio. However, it still shows that the decrease
+in the Nike is less than the other companies which demonstrates that Nike has strong comPEtitiveness
+in the liquidity PErformance.
+3. Solvency PErformance
+Table 2. Solvency ratios of Nike and its comPEtitors
+Company Name Total Debt ratio Long-term Debt ratio Times-interest-earned ratio
+Nike
+Adidas
+Puma
+Under Armour
+The solvency PErformance is one of the asPEcts to evaluate whether the company has the capability
+to pay for its debts and it will be interpreted by the following three indexes: total debt ratio, long-term
+4350.0%
+720.7%
+297.9%
+289.7%
+23.8%
+15.2%
+22.2%
+30.9%
+62.7%
+73.3%
+62.9%
+58.9%
+65
+Highlights in Business, Economics and Management
+Volume 34 (2024)
+EAIS 2024
+debt ratio, times-interest-earned ratio, as shown in Table 2. FIRSt of all, the total debt ratio shows the
+total debts as a PErcentage of total assets. It is obviously that four company has a little pressure to
+repay the debt as their ratios are less than 1. Meanwhile, this also indicate that all of them has a stable
+and sound financial structure which means their also less likely to meet with financial risks.
+Nevertheless, the data has also show that Under Armour did a great job esPEcially in the control of
+company's administration of funds due to it has the lowest total debt ratio. This ratio could also impact
+by the total assets of the company and some other investment activities so that the other two indexes
+also play an important role in the evaluation. The SECond ratio that need to be took into consideration
+is long-term debt ratio which is vital of importance esPEcially for the creditors. This index is used
+mostly in the bankruptcy liquidation in order to measure an asset guarantee that can be used to pay
+off long-term liabilities. It is clear from data that Under Armour has the highest ratio which indicates
+that its creditor may have low SECurity. Furthermore, Nike also has a high ratio but the liquidity shows
+that there is a remote probability of bankrupt, so that creditors have little impact in this ratio. Then,
+considered about time-interest-earned ratio, which measures how many times that profit before
+interest and tax could cover the interest exPEnse. From the data above, it indicates that Nike has the
+highest ratio which means it has a strong capability to pay for its interest exPEnse with its profit before
+interest and tax. Meanwhile, the four companies' ratios are all above 1 which also means that none
+of them will meet with the debt as paying interest exPEnse.
+Not only this, these three indexes have demonstrated that Nike has a stable and complete financial
+structure which makes it has the ability to allocate the resources more reasonably. Furthermore, Nike
+also has a high profitability which makes it could have no trouble paying interest exPEnse. However,
+from the annual report of Nike, it demonstrates that Nike repay some of its debts in 2023 which result
+in a decrease of liability and also a decrease in the interest exPEnse so that the times-interest-earned
+ratio of Nike is much higher than the other three companies. Meanwhile, from the liquidity
+PErformance, it is likely that Nike will meet with bankrupt. This indicates that creditors' assets are
+well protected even though the long-term ratio is quite high. Therefore, among the four companies
+Nike has a relatively high long-time debt ratio, there still a remote probability that creditors will face
+with risks. What's more, as a large-scale sales company, Nike's saleroom is quite huge and the
+allocation of every department in the company is clear. These might contribute to Nike's excellent
+manifestation in the solvency PErformance.
+4. Profitability PErformance
+Table 3. Profitability ratios of Nike and its comPEtitors
+Company Name
+Nike
+Adidas
+Puma
+Under Armour
+Net Profit Margin
+8.0%
+0.4%
+2.6%
+12.2%
+OPErating Margin
+9.5%
+2.2%
+5.4%
+2.5%
+Assets Turnover
+31.8%
+49.8%
+32.1%
+31.4%
+The profitability PErformance is the most important asPEct in evaluating a certain company. This
+PErformance is mainly focus on the profit which have deducted exPEnse from trading activities and it
+will be interpreted by the following three indexes: net profit margin, oPErating margin and assets
+turnover, as shown in Table 3. Initially, net profit margin measures the net profit as a PErcentage of
+net sales. It is obviously from the data above that Under Armour has the highest ratio among these
+four companies which indicates that each unit of sales can bring the highest profit for the company.
+Meanwhile, it also shows that Under Armour has a high profit level. Furthermore, Nike has a
+relatively high ratio which means it still can obtain higher profit than the industry average level.
+However, Adidas shows the lowest ratio which might due to other relative exPEnses increase as the
+sales increase and then result in still low profit level as saleroom rises. Then the oPErating margin
+measures the profitability and oPErating efficiency of a company. The data above demonstrates that
+Nike has the highest ratio which means it has a high profit level and could oPErate more efficiently at
+66
+Highlights in Business, Economics and Management
+Volume 34 (2024)
+EAIS 2024
+the lowest cost. This could provide more profitable space for Nike. Nevertheless, Adidas still shows
+the lowest in the oPErating margin which indicates that it has a low profit level. Not only this, it
+indicates that Adidas has some problems in controlling the cost and some one-time exPEnses such as
+research and development exPEnses are higher than other companies. The last but also the essential
+index is assets turnover which shows the ratio of total turnover to total assets. Unlike the other two
+indexes, Adidas has the highest assets turnover ratio which demonstrates that the resources in the
+company are well-distributed and well-allocated. However, the data also shows that all the ratios are
+smaller than 0.5 while the assets turnover in the world usually is between 0.8 and 1.0, even in China
+usually is between 0.5 and 1.2. These reflect that their use of assets is inefficient which might due to
+overproduction, tight capital chain or resources are improPErly allocated.
+On the whole, compared with other three comPEtitors, Nike did an excellent job in controlling the
+cost as producing products and also has relatively high production efficiency. Furthermore, compare
+the net profit margin with oPErating margin, all the companies show an increasing trend except Under
+Armour which means it has some difficulty in monitoring cost and some one-time exPEnses such as
+research and development exPEnses. Nevertheless, even though Nike has a slightly increase from net
+profit margin to oPErating margin, the smallest increasing demonstrates that it still needs to improve
+the management in monitoring cost [6]. Meanwhile, in the asPEct of assets turnover, even the highest
+ratio of Adidas is much smaller than the average level in both Chinese and international market. These
+statistics reflect that even though these companies with large scale production still have some issues
+of insufficient utilization of resources or some limitations like tight capital chain. These indexes might
+also indicate some key point of Nike's preponderance in the asPEct of profitability PErformance
+compared to other companies.
+5. Investment PErformance
+Table 4. Investment ratios of Nike and its comPEtitors
+Company Name ROE (Return on Equity) ROA (Return on Assets) Market-to-book Ratio
+2.7%
+0.2%
+7.6%
+3.5%
+0.118
+0.065
+0.037
+0.019
+7.4%
+0.9%
+20.2%
+8.5%
+Nike
+Adidas
+Puma
+Under Armour
+The investment PErformance is last but also the essential part esPEcially for the investors. This
+PErformance measures the relationship between the results achieved in an investment activity and the
+investment occupied which could be interpreted by the following three indexes: return on equity,
+return on assets, market-to-book ratio, as shown in Table 4. Initially, the return on equity shows the
+profitability of the company's net assets. From the data above, it is obviously that Puma has the
+highest ratio among the four companies which indicates that the assets that investors invested have
+been used in a proPEr way to create as much profit as they could. This also give ordinary shareholders
+more probability to obtain more dividends. However, it is likely that Nike has a relatively low ratio
+which means it has some problems in managing the net assets and result in low profitability. Not only
+this, the amounts of dividends that investors received will also be influenced [7]. Then, the return on
+assets shows the profitability of the company's total assets. Table 4 demonstrates that Puma still has
+the highest ratio in the return on assets which means that it not only did great job in allocating net
+assets but also the total assets. Nevertheless, this index has not taken financial gearing into
+consideration so that the company might still has relatively low profit growth rate in the future.
+Comparatively sPEaking, even though Nike still has a quite low PErcentage in return on assets, this
+might also due to the ignorance of financial gearing. Last but also the important index is market-tobook ratio which measures market value as an evaluation of the book value of a company. The data
+indicates that Nike has the highest ratio which demonstrates that it has the highest investment value
+among these four companies. However, it also shows that both of them has a ratio lower than 1 which
+means that the evaluation on the company's book value in the market below their market value.
+67
+Highlights in Business, Economics and Management
+Volume 34 (2024)
+EAIS 2024
+Meanwhile, these might also contribute to the stock investment value of the company is low and the
+investors are unlikely to invest on these companies.
+As a whole, even though Nike has a weak capacity in profitability and also the dividends paid to
+the ordinary shareholders, it still has the highest investment value in the same industry. Nevertheless,
+this influenced by the scale of the company and also the brand recognition among the same industry
+[8]. Meanwhile, compared with other three companies, it seems that Nike has more subsidiary brand
+in order to bROAd its market popularities. Furthermore, Nike also has some jointly-designed with some
+fashion brands and attract more young generations customers [9, 10]. However, as the major
+comPEtitors to Nike, the data also demonstrate that Adidas has extreme-inferior low PErcentage in
+return on equity and return on assets. This might be impacted by unreasonably distribute on the
+resource and the amount invested. All of these factors could finally contribute to the high market-tobook value and high investment value of Nike. Nevertheless, this ratio indicates a good market
+exPEctation which might give the investors a sense of good market prosPEct of Nike, and finally result
+in overvalue of the company.
+6. Conclusion
+From the liquidity PErformance, solvency PErformance, profitability PErformance and investment
+PErformance, it seems that Nike has been interpreted in these four different asPEcts. Initially, due to
+Nike's stable financial structure, it could easily manage its capital and resources reasonably.
+Meanwhile, this also give reasons why Nike could have high cashability and repay their debt in time
+which contribute to that Nike could pay more attention to the research and development department.
+Furthermore, in the case of low financial risks, Nike have protected their creditors proPErly and also
+has remote probability meeting with bankrupt. Nevertheless, even though Nike did a great job in
+controlling cost during the production among the four companies in the same industry, it still need to
+improve its efficiency in the usage of assets esPEcially the use of the investments. Not only this,
+although the data of the recent year have demonstrated that Nike has a relatively low profitability in
+this industry, it still has the highest investment value among the four companies. This might be
+interpreted by the advertisement and the brand recognition of Nike. However, as Nike is going to
+expand the Asian-Pacific market, not only the sales revenue but also the customer group will be
+stronger. Meanwhile, as the promotion of some joint-designed with some fashion brands, the
+popularity of Nike is growing around the world. As a whole, Nike shows a relatively excellent
+PErformance in the financial analysis in the same industry among these four companies.
+References
+[1] Data analysis of footwear sales market (men's shoes--October 2020). Footwear Technology and Design,
+2021 (1): 31-32.
+[2] Zhao, J. NIKE's Brand Expansion and the Development of China's Sporting Goods Brands. Journal of
+Shandong University of Physical Education, 2003 (3), 18-20.
+[3] Nike,
+Inc.
+Financial
+Statements
+Q1
+FY24.
+(2024).
+https://s1.Q4cdn.com/806093406/files/doc_financials/2024/Q1/FY24-Q1-Combined-SchedulesFINAL.pdf.
+[4] Nike,
+Inc.
+Financial
+Statements
+Q2
+FY24.
+(2024).
+[5] Nike,
+https://s23.Q4cdn.com/574569502/files/doc_financials/2024/Q2/CRM-Q2-FY24-EarningsPresentation.pdf.
+Inc.
+Notice
+https://s1.Q4cdn.com/806093406/files/doc_downloads/2023/414759-1-_8_Nike-NPSCombo_Proxy_WR.pdf.
+Meeting.
+Annual
+2023
+of
+(2023).
+[6] Urethanes Technology Group. (2021). Nike earnings leapt in 2021. Urethanes Technology, 38 (4), 6.
+[7] Michael J.Weil. (2020). Nike and Puma Battle in a 'Footware' Fight. Intellectual ProPErty, 60 (1), 10-11.
+68
+Highlights in Business, Economics and Management
+Volume 34 (2024)
+EAIS 2024
+[8] Wang S., Liu R. (2023). A Case Study of Nike's Profit Model Based on Asset-light OPEration. Modern
+Business, (3), 92-96.
+[9] Cai, X. (2021). The era of co-branding is coming, and everyone can get a piece of the pie? Chinese Journal
+of Optical Science and Technology, (12), 56-59.
+[10] Saini, M., Saravanan, D., Kutty, N. M., & Agrawal, R. (2022). Brand influencing customers buying
+behaviors: A case study on Nike. ECS Transactions, 107 (1), 5597-5604.
+69

@@ -1,0 +1,402 @@
+Chapter 5
+FINANCIAL ANALYSIS
+T he goal of financial analysis is to assess the PErformance of a firm in the context
+of its stated goals and strategy. There are two principal tools of financial analysis:
+ratio analysis and cash flow analysis. Ratio analysis involves an assessment of how
+various line items in a firm's financial statements relate to one another. Cash flow analysis
+allows the analyst to examine the firm's liquidity and to assess the management of
+oPErating, investment, and financing cash flows.
+Financial analysis is used in a variety of contexts. Ratio analysis that compares a
+company's present PErformance to its past PErformance and/or to the PErformance of
+its PEers provides the foundation for making forecasts of future PErformance. As we
+will discuss in later chapters, financial forecasting is useful in company valuation, credit
+evaluation, financial distress prediction, SECurity analysis, and mergers and acquisitions
+analysis.
+RATIO ANALYSIS
+The value of a firm is determined by its profitability and growth. As shown in Figure 5-1,
+the firm's growth and profitability are influenced by its product market and financial
+market strategies. The product market strategy is implemented through the firm's comPEtitive strategy, oPErating policies, and investment decisions. Financial market strategies
+are implemented through financing and dividend policies.
+Thus, the four levers managers can use to achieve their growth and profit targets are
+(1) oPErating management, (2) investment management, (3) financing strategy, and
+(4) dividend policy. The objective of ratio analysis is to evaluate the effectiveness of the
+firm's policies in each of these areas. Effective ratio analysis involves relating the financial numbers to the underlying business factors in as much detail as possible. While ratio
+analysis may not give an analyst all the answers regarding the firm's PErformance, it will
+help the analyst frame questions for further probing.
+In ratio analysis, the analyst can (1) compare ratios for a firm over several years
+(a time-series comparison), (2) compare ratios for the firm and other firms in the industry (cross-SECtional comparison), and/or (3) compare ratios to some ABSolute benchmark.
+In a time-series comparison, the analyst can hold firm-sPEcific factors constant and
+examine the effectiveness of a firm's strategy over time. Cross-SECtional comparison facilitates examining the relative PErformance of a firm within its industry, holding industrylevel factors constant. For most ratios there are no ABSolute benchmarks. The exceptions
+5-1
+5-2 PART 2 Business Analysis and Valuation Tools
+FIG UR E 5-1
+Drivers of a Firm's Profitability and Growth
+Growth and
+Profitability
+Product Market
+Strategies
+Financial Market
+Policies
+OPErating
+Management
+Investment
+Management
+Financing
+Decisions
+Dividend
+Policy
+Managing
+Revenue and
+ExPEnses
+Managing
+Working
+Capital and
+Fixed Assets
+Managing
+Liabilities and
+Equity
+Managing
+Payout
+Source: (c) Cengage Learning
+are measures of rates of return, which can be compared to the cost of the capital associated with the investment. For example, subject to distortions caused by accounting, the
+rate of return on equity (ROE) can be compared to the cost of equity capital. In the
+discussion below, we will illustrate two of these appROAches using the examples of TJX
+and Nordstrom, the retailers introduced in Chapter 2. As we discussed in Chapter 2,
+TJX is an off-price comPEtitor that pursues a cost-leadership strategy. Nordstrom has
+established itself as a high-end comPEtitor that pursues a differentiation strategy by providing suPErior customer service and bROAd, differentiated merchandise selection. Our
+comparison will allow us to examine the impact of these two strategies on the financial
+ratios of the companies.
+In addition to pursuing different comPEtitive strategies, TJX and Nordstrom also
+follow very different strategies when it comes to financing their stores. TJX leases virtually all of its stores using off-balance sheet oPErating leases. In contrast, while Nordstrom also utilizes oPErating leases to some extent, the company owns at least a portion
+of more than two-thirds of its store square footage (land, buildings, or both), and
+finances the owned portion with long term debt. These financing strategies impact
+many of the ratios that we will calculate in this chapter.
+In order to fully explore the above choices made by the two companies, we will focus in
+on two tyPEs of cross-SECtional comparison--comparing TJX and Nordstrom's ratios for the
+fiscal year ending January 29, 2011, both on an "As Reported" and "As Adjusted" basis, with
+the adjustments in the SECond comparison taking into account the differing use of
+off-balance sheet oPErating leases mentioned above. Comparison of TJX with Nordstrom
+on an "As Reported" basis allows us to see the impact of the different strategic, financial,
+and oPErational decisions on the financial ratios of the two companies. Comparison on an
+"As Adjusted" basis removes the distortion caused by the differing magnitude of their oPErating lease usage so that we can more clearly compare their true oPErating PErformance.
+Financial Analysis 5-3
+While in certain cases companies being compared will make differing strategic
+choices that strongly impact their financial PErformance and ratios, the analyst will
+not always choose to make adjustments to their financials in order to compare them.
+In the comparison of TJX and Nordstrom, a major difference between the comPEtitors
+relates to how each executes its branded credit card offering. TJX has chosen to outsource its credit card oPErations, giving up oPErational control and potential earnings
+but also insulating itself from potential losses due to bad debt. Nordstrom, on the other
+hand, views its in-house credit card oPErations as a strategic advantage and part of its
+bROAder strategy of providing suPErior customer service. The result of these business
+decisions is seen primarily in Nordstrom's much higher accounts receivables balance
+as compared to TJX, and impacts many of the ratio calculations that we will discuss
+later in this chapter. Given that Nordstrom views this segment as an integral part of
+its oPErations, we choose not to remove it when comparing Nordstrom to TJX. However, it pays to be aware of the choices being made here and to understand the resultant impact on any comparative analysis, and as such we highlight this impact in the
+ratio analysis where appropriate.
+As a final consideration, it is important to ensure that the financial statements of
+the company being analyzed do not include any additional data that will distort the
+analysis. Since the purpose of financial statement analysis is to better understand the
+PErformance of the firm as it relates to its strategy, care needs to be taken that any
+oPErations and events that are extraneous to that strategy do not change the picture
+that the analyst forms of the firm. The major categories of such distortions include
+one-time write-offs of assets and results from discontinued oPErations, including the
+gain or loss on the disposal of such oPErations. In such instances, it is useful to look
+at financial results of the core oPErations of the firm by adjusting the presented financial statements to exclude the impact of one-time effects. For example, TJX sold its
+interest in Bob's Stores in 2008. As a result, its 2008 income statement contains a
+$34 million loss on the discontinued oPErations. Without adjusting for this effect it
+would have been difficult to meaningfully use TJX's 2008 results as a benchmark for
+PErformance in 2009 and beyond, or to compare it to a comPEtitor such as Nordstrom.
+For the same reason, we have excluded a $3.6 million gain due to discontinued
+oPErations for TJX in 2010, with this adjustment being included in the "As Adjusted"
+financial statements for TJX.
+In order to facilitate replication of the ratio calculations presented below, we present
+in the apPEndix to this chapter two versions of the 2010 financial statements of TJX and
+Nordstrom.1 The fIRSt set of financial statements is presented in the standardized format
+described in Chapter 4. These "Standardized" financial statements put both companies'
+reported financials in one standard format to facilitate direct comparison.2 The SECond,
+"Condensed" financial statements recast the standardized financial statements to facilitate the calculation of several ratios discussed in the chapter. We will discuss later in
+the chapter how this recasting process works. These two statement formats are presented
+on both an "As Reported" and "As Adjusted" basis as described above.
+Measuring Overall Profitability
+The starting point for a systematic analysis of a firm's PErformance is its return on
+equity (ROE), defined as
+ROE 1/4
+Net income
+shareholders' equity
+ROE is a comprehensive indicator of a firm's PErformance because it provides an
+indication of how well managers are employing the funds invested by the firm's
+5-4 PART 2 Business Analysis and Valuation Tools
+TAB L E 5- 1
+Return of Equity for TJX and Nordstrom
+Year ended January 29, 2011
+As Reported
+.....................................................................................................................................................
+As Adjusted
+Return on Equity
+TJX
+46.5%
+Nordstrom
+39.0%
+TJX
+55.4%
+Nordstrom
+40.0%
+.....................................................................................................................................................
+Source: (c) Cengage Learning 2013
+shareholders to generate returns. On average over the twenty-year PEriod 1991-2010,
+publicly traded firms in the United States generated ROEs of a little over 10 PErcent.3
+In the long run, the value of the firm's equity is determined by the relationship
+between its ROE and its cost of equity capital.4 That is, those firms that are exPEcted
+over the long run to generate ROEs in excess of the cost of equity capital should have
+market values in excess of book value, and vice versa. (We will return to this point in
+more detail in Chapters 7 and 8.)
+A comparison of ROE with the cost of capital is useful not only for analyzing the
+value of the firm but also in considering the path of future profitability. The generation
+of consistent suPErnormal profitability will, ABSent significant barriers to entry, attract
+comPEtition. For that reason ROEs tend over time to be driven by comPEtitive forces
+toward a "normal" level--the cost of equity capital. Thus, one can think of the cost of
+equity capital as establishing a benchmark for the ROE that would be observed in a
+long-run comPEtitive equilibrium. Deviations from this level arise for two general reasons. One is the industry conditions and comPEtitive strategy that cause a firm to generate suPErnormal (or subnormal) economic profits, at least over the short run. The SECond
+is distortions due to accounting.
+Table 5-1 shows the ROE based on reported and adjusted earnings for TJX and
+Nordstrom.
+TJX outPErformed Nordstrom in 2010, which on the surface is PErhaps not surprising
+given that the difficult financial climate at the time tended to favor discount retailers.
+While Nordstrom's unadjusted ROE of 39.0 PErcent trails the 46.5 PErcent earned by
+TJX in 2010, the PErformance of both companies exceeded both historical trends of
+ROE in the economy and reasonable estimates of the cost of equity capital for the
+firms.5 When ROE is calculated using adjusted financials the differential grows significantly, reflecting the greater impact of the adjustment to TJX due to its much larger
+use of oPErating leases. We will examine the drivers behind these adjustments as we
+deconstruct ROE below.
+TJX's suPErior profitability PErformance relative to Nordstrom is reflected in the
+difference between the market value of equity to book value ratios for the two firms.
+As we will discuss in Chapter 7, ROE is a key determinant of a company's market to
+book ratio. As of January 29, 2011, which represented the end of both companies' fiscal
+year 2010, TJX's market to book ratio was 6.0 and Nordstrom's ratio was 4.4. This
+differential in market valuation could be an indication that investors exPEcted TJX to
+continue to outPErform Nordstrom in the coming years and to earn a suPErior return
+for its shareholders.
+Decomposing Profitability: Traditional AppROAch
+A company's ROE is affected by two factors: how profitably it employs its assets and
+how big the firm's asset base is relative to shareholders' investment. To understand the
+Financial Analysis 5-5
+effect of these two factors, ROE can be decomposed into return on assets (ROA) and a
+measure of financial leverage, as follows:
+ROE 1/4 ROA (cid:2) Financial leverage
+Assets
+Shareholders' equity
+1/4 Net income
+Assets
+(cid:2)
+ROA tells us how much profit a company is able to generate for each dollar of assets
+invested. Financial leverage indicates how many dollars of assets the firm is able to
+deploy for each dollar invested by its shareholders.
+The return on assets itself can be decomposed into a product of two factors:
+ROA 1/4 Net income
+(cid:2) Sales
+Assets
+Sales
+The ratio of net income to sales is called net profit margin or return on sales (ROS); the
+ratio of sales to assets is known as asset turnover. The profit margin ratio indicates how
+much the company is able to keep as profits for each dollar of sales it makes. Asset turnover
+indicates how many sales dollars the firm is able to generate for each dollar of its assets.
+Table 5-2 displays the three drivers of ROE for our retail firms: net profit margins,
+leverage. In comparing TJX to Nordstrom on an As
+asset turnover, and financial
+Reported basis, a significantly higher asset turnover is key to explaining how TJX, even
+with a slightly lower net profit margin and a much lower financial
+leverage than
+Nordstrom, was able to post an overall higher return on equity of 46.5 PErcent against
+39.0 PErcent for Nordstrom in FY 2010.
+This preliminary decomposition of ROE begins to show us how an examination of the
+building blocks of these ratios can yield a deePEr understanding of how strategic, investment, and financing decisions made by the firm affect its ratios. For instance, in noting
+that higher asset turnover is a key driver of TJX's higher ROE when compared to Nordstrom, an analyst would recall TJX's decision to outsource its credit card oPErations
+(resulting in a much lower Accounts Receivable balance when compared to Nordstrom,
+who maintains its credit card oPErations in house), and TJX's more extensive use of
+off-balance sheet oPErating leases to finance its stores (which reduces both overall reported
+asset and debt level). While adjusting for the oPErating lease impact for both firms brings
+the asset turnover of TJX closer to that of Nordstrom, the difference in credit card strategies continues to drive a higher ROA for TJX. The greatly increased ROE for TJX of 55.4
+PErcent on an As Adjusted basis is the result primarily of increased financial leverage
+resulting from the addition of long-term debt to TJX's balance sheet as part of the oPErating lease adjustment. Finally, the higher adjusted ROS for TJX is the result of lower current
+exPEnse incurred as a result of the oPErating lease adjustment.
+TAB L E 5- 2
+Traditional Decomposition of ROE
+Year ended January 29, 2011
+As Reported
+As Adjusted
+...................................................................................................................................................
+TJX
+Nordstrom
+TJX
+Nordstrom
+Net profit margin (ROS)
+(cid:2) Asset turnover
+1/4 Return on assets (ROA)
+(cid:2) Financial leverage
+1/4 Return on equity (ROE)
+6.1%
+2.94
+18.0%
+2.58
+46.5%
+6.3%
+1.47
+9.3%
+4.19
+39.0%
+7.3%
+1.84
+13.4%
+4.12
+55.4%
+6.5%
+1.36
+8.8%
+4.55
+40.0%
+...................................................................................................................................................
+Source: (c) Cengage Learning 2013
+5-6 PART 2 Business Analysis and Valuation Tools
+Decomposing Profitability: Alternative AppROAch
+Even though the above appROAch is popularly used to decompose a firm's ROE, it has
+several limitations. In the computation of ROA, the denominator includes the assets
+claimed by all providers of capital to the firm, but the numerator includes only the earnings available to equity holders. The assets themselves include both oPErating assets and
+financial assets such as cash and short-term investments. Further, net income includes
+income from oPErating activities as well as interest income and exPEnse, which are consequences of financing decisions. Often it is useful to distinguish between these two drivers of PErformance. Finally, the financial leverage ratio used above does not recognize
+the fact that a firm's cash and short-term investments are in essence "negative debt"
+because they can be used to pay down the debt on the company's balance sheet.6 These
+issues are addressed by an alternative appROAch to decomposing ROE.7
+Before discussing this alternative ROE decomposition appROAch, we define in Table 5-3
+some terminology used in this SECtion as well as in the rest of this chapter.
+We use the terms defined above to recast the financial statements of TJX and Nordstrom. These recast financial statements, which are shown in the apPEndix as condensed
+statements, are used to decompose ROE in the following manner:
+ROE 1/4 NOPAT
+Equity
+(cid:3)
+dNet interest exPEnse after taxTh
+Equity
+1/4 NOPAT
+Net assets
+1/4 NOPAT
+Net assets
+(cid:2) Net assets
+Equity
+(cid:3) Net interest exPEnse after tax
+Net debt
+(cid:2) Net debt
+Equity
+(cid:1)
+(cid:3)
+(cid:2) 1 th Net debt
+Equity
+(cid:3) Net interest exPEnse after tax
+Net debt
+(cid:2) Net debt
+Equity
+1/4 OPErating ROA th dOPErating ROA (cid:3) Effective interest rate after taxTh
+(cid:2) Net financial leverage
+1/4 OPErating ROA th Spread (cid:2) Net financial leverage
+OPErating ROA is a measure of how profitably a company is able to deploy its oPErating
+assets to generate oPErating profits. This would be a company's ROE if it were financed
+TAB L E 5- 3
+Definitions of Accounting Items Used in Ratio Analysis
+Item
+Definition
+....................................................................................................................................................
+Net interest exPEnse after tax
+Net oPErating profit after
+(Interest exPEnse (cid:3) Interest income) (cid:2) (1 (cid:3) Tax rate)a
+Net income th Net interest exPEnse after tax
+taxes (NOPAT)
+OPErating working capital
+(Current assets (cid:3) Cash and marketable SECurities) (cid:3)
+(Current liabilities (cid:3) Short-term debt and current
+portion of long-term debt)
+Net long-term assets
+Net debt
+Net assets
+Net capital
+Total long-term assets (cid:3) Non-interest-bearing long-term liabilities
+Total interest-bearing liabilities (cid:3) Cash and marketable SECurities
+OPErating working capital th Net long-term assets
+Net debt th Shareholders' equity
+....................................................................................................................................................
+aThe calculation of net interest exPEnse treats interest exPEnse and interest income as ABSolute values,
+indePEndent of how these figures are reported in the income statement.
+Source: (c) Cengage Learning 2013
+Financial Analysis 5-7
+entirely with equity. Spread is the incremental economic effect from introducing debt
+into the capital structure. This economic effect of borrowing is positive as long as the
+return on oPErating assets is greater than the cost of borrowing. Firms that do not earn
+adequate oPErating returns to pay for interest cost reduce their ROE by borrowing. Both
+the positive and negative effect is magnified by the extent to which a firm borrows relative to its equity base. The ratio of net debt to equity provides a measure of this net
+financial leverage. A firm's spread times its net financial leverage, therefore, provides a
+measure of the financial leverage gain to the shareholders.
+OPErating ROA can be further decomposed into NOPAT margin and oPErating asset
+turnover as follows:
+OPErating ROA 1/4 NOPAT
+Sales
+(cid:2) Sales
+Net assets
+NOPAT margin is a measure of how profitable a company's sales are from an oPErating
+PErsPEctive. OPErating asset turnover measures the extent to which a company is able to
+use its oPErating assets to generate sales.
+Table 5-4 presents the alternative decomposition of ROE for TJX and Nordstrom. The
+ratios in this table show that on an As Reported basis TJX's 2010 oPErating ROA was almost
+four times higher than its traditional ROA, with 2010 oPErating ROA of 70.6 PErcent
+compared to traditional ROA of 18.0 PErcent. The difference between TJX's oPErating
+ROA and traditional ROA is driven by a much higher net oPErating asset turnover (11.33
+in 2010) when compared to its traditionally defined asset turnover (2.94 in 2010) shown in
+Table 5-2--a result of TJX's large cash balance and use of non interest-bearing liabilities
+(such as accounts payable) to finance a significant portion of its net oPErating assets.
+Nordstrom also had a higher As Reported oPErating ROA than traditional ROA (20.4
+PErcent compared to 9.3 PErcent). While a higher net oPErating asset turnover as compared to traditional asset turnover (2.86 as compared to 1.47) was the primary driver of
+Nordstrom's higher oPErating ROA, a higher net oPErating profit margin as compared to
+traditional net profit margin (7.1 PErcent as compared to 6.3 PErcent) also was a factor.
+Comparing the two firms on an As Reported basis, TJX's dramatically higher oPErating asset turnover as compared to Nordstrom's is driven (as was asset turnover discussed previously) by its relatively low net assets that result from its strategy of
+outsourcing its branded credit card (and thus not carrying a high accounts receivable
+balance) and leasing virtually all of its stores (thus carrying low net long-term assets
+relative to Nordstrom).
+TA B LE 5- 4
+Distinguishing OPErating and Financing Components
+in ROE Decomposition
+Year ended January 29, 2011
+As Reported
+As Adjusted
+....................................................................................................................................................
+Net oPErating profit margin
+
+Financial leverage gain
+TJX
+Nordstrom
+TJX
+Nordstrom
+6.2%
+11.33
+70.6%
+73.1%
+(cid:3)0.33
+(cid:3)24.1%
+7.1%
+2.86
+20.4%
+16.1%
+1.16
+18.6%
+8.1%
+3.44
+27.8%
+22.8%
+1.21
+27.6%
+7.5%
+2.44
+18.4%
+14.2%
+1.52
+21.6%
+...................................................................................................................................................
+46.5%
+39.0%
+55.4%
+40.0%

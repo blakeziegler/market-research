@@ -1,0 +1,2597 @@
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic Moat TM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+Price vs. Fair Value
+120
+90
+60
+30
+0
+Last Close: 145.89
+Fair Value: 130.00
+21 Nov 2024 03:43, UTC
+Overvalued
+Undervalued
+2019
+1.62
+76.73
+2020
+1.54
+122.20
+2021
+1.52
+125.41
+2022
+0.73
+-50.26
+2023
+1.03
+238.98
+YTD
+1.12
+Analysis
+Price/Fair Value
+194.64
+Total Return %
+Morningstar Rating
+Total Return % as of 20 Nov 2024. Last Close as of 20 Nov 2024. Fair Value as of 21 Nov 2024 03:43, UTC.
+Contents
+Analyst Note (21 Nov 2024)
+Business Description
+Business Strategy & Outlook (21 Nov 2024)
+Bulls Say / Bears Say (21 Nov 2024)
+Economic Moat (20 Nov 2024)
+Fair Value and Profit Drivers (20 Nov 2024)
+Risk and Uncertainty (20 Nov 2024)
+Capital Allocation (20 Nov 2024)
+Analyst Notes Archive
+Financials
+ESG Risk
+ApPEndix
+Nvidia Earnings: Raising Our Fair Value to $130 From $105 as
+AI Product Supply Is Expanding
+Analyst Note Brian Colello, CPA, Strategist, 21 Nov 2024
+Nvidia once again reported outstanding results for its fiscal third quarter and provided investors with a
+fiscal fourth-quarter forecast that exceeded our exPEctations. We raise our fair value estimate to $130
+PEr share from $105, as we ' re more optimistic about Nvidia ' s growth over the next two calendar years,
+as the supply of the firm ' s products is improving faster than we exPEcted. We ' re also pleased with
+management ' s commentary around its Blackwell graphics processor's gross margins once the products
+are fully ramPEd, which boosts our confidence that gross margins can remain in the mid-70% range in
+Research Methodology for Valuing Companies
+the long run. Shares apPEar modestly overvalued to us, as growth will inevitably slow in the long run,
+Important Disclosure
+The conduct of Morningstar ' s analysts is governed by Code of Ethics/Code of
+Conduct Policy, PErsonal SECurity Trading Policy (or an equivalent of), and
+Investment Research Policy. For information regarding conflicts of interest, please
+visit: http://global.morningstar.com/equitydisclosures.
+The primary analyst covering this company does not own its stock.
+1 The ESG Risk Rating Assessment is a representation of Sustainalytics ' ESG Risk
+Rating.
+and we still think Nvidia ' s largest customers have plenty of incentive to reduce their reliance on Nvidia
+over time -- whether it be with in-house chips or more efficient capital exPEnditure. We maintain our
+Very High Morningstar Uncertainty Rating for wide-moat Nvidia, as the artificial intelligence landscaPE
+is both SECretive and rapidly evolving, while Nvidia ' s revenue carries high oPErating margins so that any
+upside (or downside) in revenue has an outsize impact on cash flow.
+Revenue in the October quarter was $35.1 billion, up 17% sequentially, up 94% year over year, and well
+above guidance of $32.5 billion and FactSet's consensus estimate of $33.2 billion. This represents the
+sixth straight quarter of Nvidia ' s revenue exceeding its quarterly guidance by $2 billion or more,
+although the negative stock market reaction after hours suggests that some investors were seeking an
+even greater beat. Revenue in the January 2025 quarter is forecast to be $37.5 billion, which would
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+SECtor
+Industry
+a Technology
+Semiconductors
+Business Description
+Nvidia is a leading develoPEr of graphics processing
+units. Traditionally, GPUs were used to enhance the
+exPErience on computing platforms, most notably in
+gaming applications on PCs. GPU use cases have since
+emerged as important semiconductors used in artificial
+represent only 7% sequential growth. We ' re unconcerned about this relatively lackluster forecast and
+instead exPEct to see Nvidia sell all the AI products it can build, whether they be current-generation
+HopPEr or next-generation Blackwell.
+Business Strategy & Outlook Brian Colello, CPA, Strategist, 21 Nov 2024
+intelligence. Nvidia not only offers AI GPUs, but also a
+Nvidia has a wide economic moat, thanks to its market leadership in graphics processing units, or GPUs,
+software platform, Cuda, used for AI model development
+and training. Nvidia is also expanding its data center
+networking solutions, helping to tie GPUs together to
+handle complex workloads.
+hardware and software tools needed to enable the exponentially growing market around artificial
+intelligence. In the long run, we exPEct tech titans to strive to find SECond-sources or in-house solutions
+to diversiFY away from Nvidia in AI, but most likely, these efforts will chip away at, but not supplant,
+Nvidia ' s AI dominance.
+Nvidia ' s GPUs handle parallel processing workloads, using many cores to efficiently process data at the
+same time. In contrast, central processing units, or CPUs, such as Intel's processors for PCs and servers,
+or Apple ' s processors for its Macs and iPhones, process the data of "0's and 1's" in a serial fashion. The
+wheelhouse of GPUs has been the gaming market, and Nvidia ' s GPU graphics cards have long been
+considered best of breed.
+More recently, parallel processing has emerged as a near-requirement to accelerate AI workloads.
+Nvidia took an early lead in AI GPU hardware, but more important, develoPEd a proprietary software
+platform, Cuda, and these tools allow AI develoPErs to build their models with Nvidia. We believe Nvidia
+not only has a hardware lead, but benefits from high customer switching costs around Cuda, making it
+unlikely for another chip designer to emerge as a leader in AI training.
+We think Nvidia ' s prosPEcts will be tied to the AI market, for better or worse, for quite some time. We
+exPEct leading cloud vendors to continue to invest in in-house, while AMD is also working on GPUs and
+AI accelerators for the data center. However, we view Nvidia ' s GPUs and Cuda as the industry leaders,
+and the firm ' s massive valuation will hinge on whether, and for how long, the company can stay ahead
+of the rest of the pack.
+Bulls Say Brian Colello, CPA, Strategist, 21 Nov 2024
+u Nvidia ' s GPUs offer industry-leading parallel processing, which was historically needed in PC gaming
+applications, but has expanded into crypto mining, AI, and PErhaps future applications too.
+u Nvidia ' s data center GPUs and Cuda software platform have established the company as the dominant
+vendor for AI model training, which is a use case that should rise exponentially in the years ahead.
+u Nvidia is expanding nicely within AI, not just supplying industry-leading GPUs but also moving into
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+ComPEtitors
+NVIDIA Corp NVDA
+Advanced Micro Devices Inc AMD
+Intel Corp INTC
+Qualcomm Inc QCOM
+Last Close
+145.89
+Fair Value
+130.00
+Uncertainty : Very High
+Fair Value
+160.00
+Uncertainty : High
+Last Close
+137.60
+Last Close
+24.01
+Fair Value
+21.00
+Uncertainty : Very High
+Fair Value
+180.00
+Uncertainty : High
+Last Close
+154.27
+Currency
+Fair Value
+1-Star Price
+5-Star Price
+Assessment
+Analysis
+Economic Moat
+SECurity 1
+Wide
+USD
+SECurity 2
+Narrow
+USD
+SECurity 3
+None
+USD
+SECurity 4
+Narrow
+USD
+130.00 21 Nov 2024 03:43, UTC
+160.00 30 Oct 2024 13:21, UTC
+21.00 2 Aug 2024 03:48, UTC
+180.00 28 May 2024 20:13, UTC
+227.50
+65.00
+248.00
+96.00
+36.75
+10.50
+279.00
+108.00
+Overvalued 20 Nov 2024
+Fairly Valued 20 Nov 2024
+Fairly Valued 20 Nov 2024
+Fairly Valued 20 Nov 2024
+Morningstar Rating
+QQQ 21 Nov 2024 03:46, UTC
+QQQ 20 Nov 2024 22:41, UTC
+QQQ 20 Nov 2024 22:41, UTC
+QQQ 20 Nov 2024 22:43, UTC
+Analyst
+Brian Colello, Strategist
+Brian Colello, Strategist
+Brian Colello, Strategist
+Brian Colello, Strategist
+Capital Allocation
+Exemplary
+Exemplary
+Standard
+Price/Fair Value
+Price/Sales
+Price/Book
+Price/Earning
+Dividend Yield
+Market Cap
+52-Week Range
+Investment Style
+1.12
+32.02
+54.26
+57.60
+--
+3,578.68 Bil
+45.01 -- 149.77
+Large Growth
+0.86
+9.26
+3.92
+121.77
+0.00%
+222.70 Bil
+116.37 -- 227.30
+Large Growth
+1.14
+1.89
+1.04
+--
+2.08%
+102.67 Bil
+18.51 -- 51.28
+Large Value
+Standard
+0.86
+4.47
+6.54
+17.41
+2.14%
+171.86 Bil
+125.67 -- 230.63
+Large Value
+Bears Say Brian Colello, CPA, Strategist, 21 Nov 2024
+u Nvidia is a leading AI chip vendor today, but other powerful chipmakers and tech titans are focused on
+in-house chip development.
+u Although Cuda is a leader in AI training software and tools today, leading cloud vendors would likely
+prefer to see greater comPEtition in this space and may shift to alternative oPEn-source tools if they
+were to arise.
+u Nvidia ' s gaming GPU business has often seen boom-or-bust cycles based on PC demand and, more
+recently, cryptocurrency mining.
+Economic Moat Brian Colello, CPA, Strategist, 20 Nov 2024
+We assign Nvidia a wide economic moat rating, thanks to intangible assets around its graphics
+processing units and, increasingly, switching costs around its proprietary software, such as its Cuda
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+platform for AI tools, which enables develoPErs to use Nvidia's GPUs to build AI models.
+Nvidia was an early leader and designer of GPUs, which were originally develoPEd to offload graphic
+processing tasks on PCs and gaming consoles. Nvidia has emerged as the clear market share leader in
+discrete GPUs (over 80% share, PEr Mercury Research). We attribute Nvidia's leadership to intangible
+assets associated with GPU design, as well as the associated software, frameworks, and tools required
+by develoPErs to work with these GPUs. Recent introductions, such as ray-tracing technology and the
+use of AI tensor cores in gaming applications, are signs, in our view, that Nvidia has not lost its GPU
+leadership in any way. A quick scan of GPU pricing in both gaming and data center shows that Nvidia's
+average selling prices can often be twice as high as those from its closest comPEtitor, AMD.
+Meanwhile, we don't foresee any emerging companies as becoming a third relevant player in the GPU
+market outside of Nvidia or AMD. Even Intel, the chip industry behemoth, has struggled for many years
+in trying to build a high-end GPU that would be adopted by gaming enthusiasts, and its next effort for a
+discrete GPU is slated to launch in 2025. We do see integrated GPU functionality within many of Intel's
+PC processors, as well as portions of Apple's and Qualcomm's system-on-chip solutions in smartphones,
+but we PErceive these integrated solutions as " good enough " for nongamers, but not on par with high
+end GPU needs.
+GPUs PErform parallel processing, in contrast to the serial processing PErformed by central processing
+units used to run the software and applications on PCs, smartphones, and many other tyPEs of devices.
+CPU examples include Intel's and AMD's PC and server processors, as well as Apple's and Qualcomm's
+smartphone processors. These CPUs conduct serial processing of 0's and 1's in a particular order in
+order to run an instruction set to run software and PErform functions. In contrast, parallel processing
+does not need to run in a linear order. This is particularly useful, for example, when capturing an image.
+A GPU often has more cores than a CPU and PErforms simpler processing (such as capturing the data
+within a single image pixel) but throws many more cores at the image to catch all of the data quickly. If
+CPUs were to conduct this task, they would have to capture the pixels in order -- one can envision the
+CPU starting at the top and working its way down the image, while the GPU takes a snapshot in full.
+In our view, the nature of parallel processing in GPUs is at the heart of Nvidia's dominance in its various
+end markets. PC graphics were the initial key application, allowing for more robust and immersive
+gaming over the past couple of decades. Cryptocurrency mining also involves many mathematical
+calculations that can run in parallel (in other words, each calculation is indePEndent of the others),
+again effectively " mining " crypto faster than a CPU.
+In the past decade, however, the parallel processing of GPUs was also found to more efficiently run the
+matrix multiplication algorithms needed to power AI models. AI development has two key phases. The
+fIRSt is AI training. Using an image recognition example, develoPErs might feed 50,000 images into a
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+model, labeling them as either a picture of a cat, or not a cat. The model will look for the various asPEcts
+of each image and determine the scores and weights that are most common within a " cat " image. This
+may be an image with whiskers (although mice have whiskers too) or one with pointy ears (although the
+ears of a fox are also pointy), but a combination of all these factors may lead the model to effectively
+recognize cats in future images.
+The SECond AI phase is inference, where the AI model makes a decision on an image, based on its prior
+training. In the cat example, the user would feed an unlabeled image into the model, and the model
+provides an output of whether it recognizes a cat or not.
+Similar techniques are used in large language models associated with generative AI. In these cases,
+LLMs are fed with massive amounts of data, which may come from the internet, research paPErs,
+databases, and so on Based on this data, the LLM determines scores and weights associated with
+language, and which words are associated with one another.
+As an overly simple example, a model might be asked to predict the word to come after " PEanut butter
+and ..." " Jelly " might be the next word when thinking about food categories, although " PEanuts, "
+" honey, " or other foods could be matches. But if the model were to think of categories outside of food,
+words like " diet, " " allergies, " or others could be fit. This leads to scores (that is, how often is " jelly " the
+next food word, versus " honey, " and so on), but also the weighting of such dimensions (that is, how
+often is the next word a food word, versus a health word, versus a geographic location, versus many
+other tyPEs of categories).
+GPUs are best suited to make these many billions of calculations needed for LLMs to predict the next
+word in a query (GPT-3 was trained on 175 billion parameters, for example). More important, Nvidia
+made shrewd moves to build and expand the Cuda software platform, creating and hosting a variety of
+libraries, compilers, frameworks, and development tools that allowed AI professionals to build their
+models. Cuda is proprietary to Nvidia and only runs on Nvidia GPUs, and we believe this hardware plus
+software integration has created high customer switching costs in AI that contribute to Nvidia's wide
+moat.
+Even if a chip comPEtitor were to build a GPU on par with Nvidia, we surmise that the code and models
+built on Cuda to date would not be ported over to another GPU, giving Nvidia an incumbency
+advantage. It is conceivable that alternatives may emerge that might never touch Cuda or an Nvidia
+GPU, but Nvidia had virtually no comPEtition in this arena when everyone was focused on AI in 2022
+and 2023, so any enterprise building an LLM but waiting for alternatives would have been left in the
+dust.
+In AI inference, we believe that a variety of chip solutions will be used over time to detect the patterns
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+and provide the output associated with AI models. CPUs handle many inference workloads today, but
+GPUs will likely be part of the inference equation too. Meta Platforms even indicated that it is moving its
+inference workloads to GPUs rather than CPUs. In a bullish scenario for GPU vendors, it's possible that
+GPUs might not only dominate AI training, but the vast majority of AI inference too.
+Beyond Nvidia's AI prowess today, which we believe is exceptionally strong, we think the company is
+making the proPEr moves to widen its moat even further. Nvidia's software efforts with Cuda remain
+impressive, while Nvidia is also expanding into networking solutions, most notably with its acquisition of
+Mellanox. We don't want to discount Nvidia's know-how here either. Many AI models don't run on solo
+GPUs, but rather a connected system of many GPUs running in tandem. Nvidia's proprietary NVLink
+products do a good job of connecting Nvidia GPUs together to run these larger models.
+Nvidia is eLBOwing out even further with its DGX solutions, priced at well over six figures, which tie in up
+to 8 GPUs into integrated solutions. Nvidia is even offering DGX Cloud and has hyPErscaler partners
+where Nvidia will run a portion of the customer's data center to optimize AI workloads. In a best-case
+scenario, Nvidia might not only have the best GPUs on the market, but the best cloud infrastructure in
+AI, potentially becoming a cloud computing leader that enterprises might cherish even more than the
+world's leading hyPErscalers today, such as Amazon's AWS or Microsoft's Azure.
+Looking at the comPEtitive landscaPE, AMD is a well-capitalized chipmaker with GPU exPErtise,
+although we view the company as being in a position of weakness on the software front. Here, we think
+switching costs around Cuda will keep Nvidia ahead of AMD for the foreseeable future, although the
+key valuation question for both companies centers around how much business AMD can chip away
+from Nvidia in the years ahead.
+PErhaps the biggest threat might be from in-house chip solutions from hyPErscalers, such as Google's
+tensor processing units, or TPUs, Amazon's Trainium and Inferentia chips, or Microsoft's and Meta
+Platform's chips in development. There's no guarantee that any of these chips will be suPErior to
+Nvidia's GPUs across a wide range of applications, but it's likely that each of these in-house chips might
+PErform sPEcific workloads better than a general AI GPU from Nvidia or others.
+However, we believe that cloud computing companies will have to offer their enterprise customers a full
+menu of GPUs and accelerators so that they can run AI workloads. Amazon and Google may use
+Trainium and TPUs to train their own AI models, resPEctively, but we think they may struggle to
+encourage a host of enterprise customers to optimize their AI models for these in-house semis. Doing so
+would prevent these enterprise customers from switching among cloud providers, and enterprises
+typically loathe to be locked into a single vendor. Thus, neutral merchant GPU vendors will likely be
+demanded by enterprise customers, and again, we foresee Nvidia remaining at the head of the pack for
+quite some time.
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+Fair Value and Profit Drivers Brian Colello, CPA, Strategist, 20 Nov 2024
+Our fair value estimate is $130 PEr share. This fair value estimate implies an equity value of roughly $3.2
+trillion. Our fair value estimate implies a fiscal 2025 (ending January 2025, or effectively calendar 2024)
+price/adjusted earnings multiple of 44 times and a fiscal 2026 forward price/adjusted earnings multiple
+of 30 times.
+Our fair value estimate, and Nvidia ' s stock price, will be driven by its prosPEcts in the data center, or DC,
+and AI GPUs, for better or worse. Nvidia ' s DC business has achieved exponential growth already, rising
+from $3 billion in fiscal 2020 to $15 billion in fiscal 2023 and more than tripling thereafter to $47.5 billion
+in fiscal 2024. DC revenue remains supply-constrained and near-term revenue will rise as more supply
+comes online. Based on Nvidia ' s strong results in fiscal 2025 to date, we model DC revenue rising 141%
+to $114 billion in fiscal 2025. We model 55% growth in fiscal 2026 to $177 billion, 20% growth to $213
+billion in fiscal 2027, and 13% growth to $240 billion in fiscal 2028, resulting in a 23% CAGR for the
+three years thereafter. The main driver of this growth is an ongoing increase in capital exPEnditures in
+data centers at leading enterprise and cloud computing customers. We think it is reasonable that Nvidia
+may face an inventory correction or a pause in AI demand at some point in the medium term thereafter,
+so we model only 5% growth in fiscal 2029. Excluding this one-year blip that we model, we anticipate
+average annual DC growth of 10% thereafter and consider this to be a reasonable long-term growth rate
+as AI matures. Essentially, we think that cloud computing revenue at the hyPErscalers can grow at a
+low-teens rate, caPEx as a PErcentage of revenue remains at consistent levels at these hyPErscalers,
+and thus we model Nvidia ' s revenue growth to be on par with these cloud computing growth rates.
+In gaming, which was formerly Nvidia ' s largest business, we model $12.0 billion of revenue in fiscal
+2025. We susPEct that Nvidia may introduce a PC CPU in the next couple of years, but once this chip
+comes to market, we model 10% average annual revenue growth in gaming thereafter, bringing the
+total business to $21 billion in fiscal 2029.
+We have high hoPEs for Nvidia ' s automotive business as greater processing power will be required in
+active safety systems and autonomous driving. We model $1.6 billion of revenue in fiscal 2025 and
+revenue growing at a 20% CAGR over the next decade.
+In summation, Nvidia achieved 126% revenue growth in fiscal 2024, and we anticipate another massive
+year with 114% growth to $130 billion in fiscal 2025. We model average annual growth of 12% PEr year
+for the nine years thereafter, resulting in a 31% CAGR over the next decade.
+Nvidia ' s massive DC growth has been gross margin-accretive, as GAAP gross margin expanded from
+57% in fiscal 2023 to 73% in fiscal 2024. We model near-term GAAP gross margin rising to 75% in fiscal
+2025 and compressing modestly to the low-70% range in the long-run.
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+We anticipate that revenue will grow faster than oPErating exPEnses, leading to oPErating leverage.
+Nvidia earned a 54% GAAP oPErating margin in fiscal 2024 and we model expansion to 62% in fiscal
+2025 and 63% each year from fiscal 2026 to fiscal 2028. We model modest compression thereafter to
+the low-60% range thereafter. We exPEct increased comPEtition that may strive to chip away at Nvidia ' s
+significant pricing power, but we ultimately exPEct Nvidia to be able to fend off these comPEtitive
+pressures, thanks to the high switching costs associated with the Cuda platform.
+Risk and Uncertainty Brian Colello, CPA, Strategist, 20 Nov 2024
+We assign Nvidia with a Morningstar Uncertainty Rating of Very High. In our view, Nvidia ' s valuation
+will be tied to its ability to grow within the data center and AI SECtors, for better or worse. Nvidia is an
+industry leader in GPUs used in AI model training, while carving out a good portion of demand for chips
+used in AI inference workloads (which involves running a model to make a prediction or output).
+We see a host of tech leaders vying for Nvidia ' s leading AI position. We think it is inevitable that leading
+hyPErscale vendors, such as Amazon ' s AWS, Microsoft, Google, and Meta Platforms will seek to reduce
+their reliance on Nvidia and diversiFY their semiconductor and software supplier base, including the
+development of in-house solutions. Google ' s TPUs and Amazon ' s Trainium and Inferentia chips were
+designed with AI workloads in mind, while Microsoft and Meta have announced semiconductor design
+plans. Among existing semis vendors, AMD is quickly expanding its GPU lineup to serve these cloud
+leaders. Intel also has AI accelerator products today and will likely remain focused on this opportunity.
+Our uncertainty rating is based on the uncertainty around this market. Nvidia dominates AI today and
+the sky is the limit for the company ' s profitability if it can maintain this lead over the next decade.
+However, any semblance of the successful development of alternatives could meaningfully limit Nvidia ' s
+upside.
+Outside of the data center, Nvidia ' s gaming business often faces boom-or-bust cycles along with PC
+demand and, more recently, the sharp rise and fall of cryptocurrency mining. Nvidia also has invested
+heavily in autonomous driving but again squares off against many other chipmakers (and automakers)
+for a piece of this pie with little guarantee of success.
+Capital Allocation Brian Colello, CPA, Strategist, 20 Nov 2024
+We assign Nvidia an Exemplary Capital Allocation Rating, which reflects our assessment of a sound
+balance sheet, exceptional investments associated with the firm ' s strategy and execution, and attractive
+and appropriate shareholder distribution policies.
+Nvidia is in outstanding financial health. As of October 2024, the company held $38.5 billion in cash and
+investments, as compared with $8.5 billion in short-term and long-term debt. We think the firm
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+requirements, potential acquisitions, and shareholder returns.
+We remain impressed with Nvidia ' s prescient investments in GPUs, networking semis, and software, as
+the company sPEnt the past decade (if not longer) laying the groundwork to emerge as the clear leader
+in AI training GPUs and associated software and tools. Like many chipmakers, Nvidia ' s hefty R&D
+budget enabled the company to remain on the cutting edge of GPU design. Partnerships with Samsung
+and, increasingly, Taiwan Semi have enabled the company to release best-of-breed GPUs used in PC
+gaming. Yet the more impressive investments, in our view, was the less heralded work to develop the
+Cuda software platform, which includes the libraries, compilers, and development tools needed for
+engineers to deploy Nvidia ' s GPUs in the data center for AI workloads. We now believe that Nvidia
+benefits from hefty switching costs in the data center. Even if AMD or another comPEtitor could build a
+semiconductor that is comparable with Nvidia ' s data center GPUs (such as the HopPEr H100), we
+surmise that AI develoPErs will stick with Nvidia because such AI models were built with Cuda.
+On the M&A front, the deal that stands out is Nvidia ' s acquisition Mellanox Technologies for $6.9 billion
+in early 2020. Mellanox sells networking products that focus on efficient data transfer in data centers
+via its InfiniBand and Ethernet technologies for interconnects. Nvidia is reliant on these technologies inhouse as well, using InfiniBand to build powerful DGX integrated systems used for the heftiest of AI
+workloads.
+In September 2020, Nvidia attempted to acquire ARM Holdings from the SoftBank Group in a
+transaction valued at $40 billion. Nvidia ' s hoPE was to steer ARM toward the development of data
+center products while incorporating Nvidia ' s AI exPErtise. The deal immediately faced pushback from
+ARM ' s licensee customers and regulatory challenges and was terminated in February 2022. We don ' t
+think the failed merger was a dealbreaker for Nvidia, as the company continues to license IP from ARM
+and has recently launched its " Grace " line of ARM-based CPUs for the data center.
+Management initiated a quarterly dividend in the fourth quarter of fiscal 2013 to return excess cash to
+shareholders, but the payout is rather immaterial today. Most of Nvidia ' s distributions to shareholders
+come in the form of share repurchases.
+Analyst Notes Archive
+Nvidia Earnings: Maintaining $105 Fair Value as We See No Signs of an AI Slowdown Brian Colello,
+CPA, Strategist, 29 Aug 2024
+Wide-moat Nvidia continues to fire on all cylinders as the firm reported fiscal SECond-quarter results and
+a third-quarter forecast that were ahead of our prior exPEctations and FactSet consensus estimates. Our
+confidence in Nvidia remains, as the company is still prosPEring from insatiable demand for graphics
+processors, or GPU, and related products used in data centers to run artificial intelligence. However,
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+Nvidia ' s earnings beat wasn ' t as eye-poPPIng as in quarters past, which may explain why shares fell
+after hours.
+We maintain our $105 PEr share fair value estimate. In the near term, we still assume that Nvidia will
+increase its data center, or DC, revenue by a few billion PEr quarter as additional GPU production
+capacity comes online. Yet our fair value estimate is mostly driven by our longer-term assumptions for AI
+adoption and robust DC sPEnding by Nvidia ' s key AI customers. We maintain our Very High Morningstar
+Uncertainty Rating as both assumptions will be opaque and may shift in the years ahead.
+Revenue in the July quarter was $30 billion, up 15% sequentially, up 122% year over year, and ahead of
+guidance of $28 billion. DC revenue was $26.3 billion, up 154% year over year. Even with Nvidia ' s nextgeneration Blackwell products arriving later this year, the firm saw no slowdown in demand for its
+existing HopPEr family of products. Nvidia exPEcts to earn " several billions " of Blackwell revenue in its
+fiscal fourth quarter ending January 2025. In the meantime, management anticipates that HopPEr
+shipments and revenue will still see growth in the SECond half of fiscal 2025, as customers won ' t pause
+their purchases of HopPEr while waiting for Blackwell.
+Nvidia exPEcts October-quarter revenue to be $32.5 billion, which would be up 8% sequentially and 79%
+year over year. Nvidia ' s key AI customers still intend to invest heavily in AI capital exPEnditure, and we
+still exPEct Nvidia to reap most of the rewards of such sPEnding.
+Nvidia Earnings: Raising Fair Value to $1,050 From $910 as AI Demand Still Exceeds ExPEctations
+Brian Colello, CPA, Strategist, 23 May 2024
+Wide-moat Nvidia once again reported stellar quarterly results and provided investors with even rosier
+exPEctations for the upcoming quarter, as the company remains the clear winner in the race to build out
+generative artificial intelligence capabilities. We ' re encouraged by management ' s commentary that
+demand for its upcoming Blackwell products should exceed supply into calendar 2025, and we see no
+signs of AI demand slowing either.
+We raise our fair value estimate to $1,050 from $910 as we model stronger data center revenue growth
+over the next several quarters while maintaining our longer-term growth rates from a higher installed
+base of AI equipment. Shares were up about 6% on the earnings report, and we think the reaction is
+justified and view shares as fairly valued.
+Revenue in the April quarter was $26.0 billion, up 18% sequentially as more supply for Nvidia ' s graphics
+processing units came online. Revenue was up 262% year over year and ahead of guidance of $24.0
+billion. Data center revenue remains the focus, coming in at $22.6 billion (87% of total revenue), up 23%
+sequentially and 427% year over year. Demand continues from cloud computing leaders as they support
+their customers in building AI models, as well as from enterprises, consumer internet leaders like Meta
+Platforms, and sovereign governments building AI into telecom and other services. Nvidia still wields
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+exceptional pricing power, with an adjusted gross margin of up 220 basis points sequentially to 78.9%,
+ahead of guidance of 77%.
+Nvidia exPEcts July-quarter revenue to be $28.0 billion, up 8% sequentially and 107% year over year,
+and ahead of FactSet consensus estimates of $26.6 billion. We anticipate Nvidia will once again beat
+these estimates, and we model $29.7 billion of revenue. The firm has earned at least $3 billion of
+incremental data center revenue in each of the past three quarters, driven by AI demand, and we
+anticipate that a fourth similar quarter is on the near-term horizon.
+Nvidia: Blackwell Platform, Higher CaPEx Should Drive Growth; Raising Fair Value by 25% to $910
+Brian Colello, CPA, Strategist, 19 Mar 2024
+Nvidia ' s GTC conference keynote address introduced the company ' s latest artificial intelligence graphics
+processor, or AI GPU, Blackwell, along with its associated platform and GPU clusters to enable AI
+workloads. Just as important, GTC showcased the efforts of the company ' s wide range of partners in
+areas such as robotics and automotive, among many others. We don ' t foresee these partners slowing
+their investments anytime soon, which supports our healthy growth estimates for Nvidia in the years
+ahead.
+We raise our fair value estimate for wide-moat Nvidia to $910 PEr share from $730, as we ' ve taken a
+fresh look at our model assumptions and we ' re more optimistic about future industrywide capital
+exPEnditure, or caPEx, on AI GPUs in the decade ahead, both from large cloud computing vendors (that
+is, hyPErscalers) and enterprises. HyPErscaler caPEx should be meaningfully higher in 2024, with Nvidia
+receiving a windfall from such sPEnding, and we now anticipate even higher industrywide data center
+caPEx as more and more businesses invest in AI. We reiterate our Very High Morningstar Uncertainty
+Rating as we concede that these caPEx plans, AI workloads, and comPEtitive dynamics are changing
+rapidly. We now view Nvidia ' s shares as fairly valued.
+Nvidia launched a barrage of news and partnerships at GTC -- we count 42 press releases and/or blog
+posts on its website -- but we think the larger trend is that a wide variety of businesses are reliant on
+Nvidia ' s AI GPU computing power, with Blackwell extending the company ' s lead. In turn, we think
+hyPErscalers will continue to increase their total caPEx levels and disproportionately tilt their caPEx
+sPEnding toward Nvidia ' s AI GPUs. These hyPErscalers have the fortress balance sheets to support
+these investments in the years ahead and should reap the rewards of higher cloud computing revenue
+and earnings as these GPUs are deployed. We anticipate that enterprises will mIRRor higher caPEx as
+well.
+Nvidia Earnings: Raising our Fair Value to $730 From $480 With No Signs of AI Slowing Down Brian
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+Wide-moat Nvidia reported another quarter of outstanding revenue and earnings while providing
+investors with a forecast for the April quarter that was well ahead of our exPEctations. Leading cloud
+computing companies plan to boost their capital exPEnditures to satisFY demand for artificial intelligence
+training and inference, and it apPEars that virtually all this sPEnding will fall into Nvidia ' s pockets. More
+importantly, we anticipate healthy growth for Nvidia ' s data center revenue beyond 2024, as Nvidia ' s
+Cuda software should contribute to strong customer stickiness for existing AI models and workloads.
+We raise our fair value estimate for Nvidia to $730 from $480 as we boost our near-term and long-term
+revenue and profitability assumptions, thanks to the tremendous rise in AI computing demand. We
+reiterate our Very High Uncertainty Rating, as the comPEtitive landscaPE in AI seems to be changing
+almost weekly.
+Nvidia ' s total revenue in the January quarter was $22.1 billion, up 22% sequentially, up 265% year over
+year, and ahead of guidance of $20 billion. Data center remains the only segment that should matter to
+investors. DC revenue of $18.4 billion was up 27% sequentially as more graphics processor packaging
+supply came online and was up 409% year over year and exceeded the $15.0 billion Nvidia earned in
+the DC segment all of last year.
+We think fiscal 2025 will be a banner year for Nvidia as demand continues to exceed supply. In the April
+quarter, Nvidia forecasts total revenue of $24 billion, which implies over $21 billion of DC revenue,
+which would again be five times greater than the year-ago quarter. This revenue should again be
+virtually all profit for Nvidia, as the company forecasts a 76% GAAP gross margin, and we model a 63%
+GAAP oPErating margin. We anticipate revenue will rise by a couple of billion each quarter throughout
+fiscal 2025 for Nvidia as more chip supply comes online.
+Nvidia: We' re Pleased With the Innovation Discussed by Nvidia at CES 2024; Shares Fairly Valued
+Brian Colello, CPA, Strategist, 12 Jan 2024
+We met with Nvidia's management team at CES 2024 in Las Vegas and came away from the investoronly event with modestly more confidence in our existing assumptions that the company will deliver
+another year of exceptional data center revenue growth in fiscal 2025, which is effectively calendar
+2024. We maintain our $480 fair value estimate for wide-moat Nvidia, and shares apPEar modestly
+overvalued after a recent runup in share price. We also maintain our Very High fair value uncertainty
+rating as Nvidia's valuation will remain closely tied to the rapidly evolving artificial intelligence market in
+the years to come.
+On the data center front, Nvidia foresees high ongoing demand for artificial intelligence accelerators
+such as graphics processing units, or GPUs, in data centers, particularly at leading cloud vendors.
+Management believes it has good visibility into the capital exPEnditure plans of these cloud vendors and
+that Nvidia's GPUs will continue to receive a high proportion of such sPEnding in the near term. GPU
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+supply is also still improving at key foundry and packaging partners, and we still doubt that such
+investments would be made if there was any indication that Nvidia's recent GPU revenue was leading to
+excess capacity in the market.
+Management was also optimistic about the evolution of the PC and how artificial intelligence will
+change how PCs are built, used, and purchased. The company toned down the hyPE by suggesting that
+a lot of noise around AI will be in the PC market in 2024, but in the medium term, new apps and
+improved PC applications will come to market. Improved gaming and interactive entertainment will be
+fIRSt, but enterprise applications like content creation and video conferencing will be infused with AI too.
+AI might be an important selling point when the big rush in PC upgrades in 2020 are up for a refresh
+(say, in 2025), and Nvidia is well positioned with CPU and GPU exPErtise to potentially participate.
+Nvidia Earnings: Maintaining our $480 Fair Value Estimate as It Remains the King of AI Processors
+Brian Colello, CPA, Strategist, 22 Nov 2023
+Wide-moat Nvidia reported predictably outstanding results for the October quarter that were ahead of
+guidance, while the company ' s fiscal fourth quarter outlook was also ahead of our prior exPEctations.
+Nvidia is clearly the dominant provider of graphics processing units deployed in data centers, and we
+don ' t foresee the company losing its supremacy any time soon. We maintain our $480 fair value
+estimate and view shares as fairly valued. We also maintain our Very High Uncertainty Rating, as the
+timing and magnitude of future artificial intelligence GPU growth remains unclear to us, esPEcially given
+recent U.S. restrictions on chip sales into China. That said, Nvidia ' s earnings report gives us a small
+confidence boost that the firm can reach our projection of $100 billion of data center revenue in fiscal
+2028, as compared with just $15 billion last fiscal year and our estimate of $46 billion this year.
+Revenue in the October quarter was $18.1 billion, up 34% sequentially, up 206% year over year, and
+above guidance and our estimate of $16.0 billion. Data center revenue, driven by insatiable AI GPU
+demand, remains the only story that matters, in our view, with revenue of $14.5 billion up 41%
+sequentially and 279% year over year. AI GPU demand is coming from all customer tyPEs -- cloud,
+consumer internet firms, and enterprises. Nvidia ' s hefty pricing power on its GPUs remains intact, as
+adjusted gross margin rose to 75% and adjusted oPErating margin came in at 64%, above guidance of
+72.5% and 53%, resPEctively.
+Nvidia exPEcts revenue in the January quarter of $20 billion, which would be up 10% sequentially and
+230% year over year. Within revenue, we estimate that data center revenue will be $16.8 billion, up a
+whoPPIng 366% year over year. A significant decline in revenue from China will be offset by robust
+growth elsewhere in the world. Adjusted gross margin is forecast to be 75.5%, and we model an
+exceptional 65% adjusted oPErating margin next quarter. K
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+ComPEtitors Price vs. Fair Value
+Advanced Micro Devices Inc AMD
+167
+127
+87
+47
+7
+Fair Value: 160.00
+30 Oct 2024 13:21, UTC
+Last Close: 137.60
+Overvalued
+Undervalued
+2019
+2.41
+148.43
+2020
+1.37
+99.98
+2021
+1.32
+56.91
+2022
+0.56
+-54.99
+2023
+1.18
+127.59
+YTD
+0.86 Price/Fair Value
+-6.65 Total Return %
+Morningstar Rating
+Total Return % as of 20 Nov 2024. Last Close as of 20 Nov 2024. Fair Value as of 30 Oct 2024 13:21, UTC.
+Intel Corp INTC
+74
+59
+44
+29
+14
+Last Close: 24.01
+Fair Value: 21.00
+2 Aug 2024 03:48, UTC
+Overvalued
+Undervalued
+2019
+0.92
+30.22
+2020
+0.71
+-14.55
+2021
+0.79
+6.16
+2022
+0.59
+-45.84
+2023
+1.26
+92.92
+YTD
+1.14 Price/Fair Value
+-51.47 Total Return %
+Morningstar Rating
+Total Return % as of 20 Nov 2024. Last Close as of 20 Nov 2024. Fair Value as of 2 Aug 2024 03:48, UTC.
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+ComPEtitors Price vs. Fair Value
+Qualcomm Inc QCOM
+186
+151
+116
+81
+46
+Fair Value: 180.00
+28 May 2024 20:13, UTC
+Last Close: 154.27
+Overvalued
+Undervalued
+2019
+1.10
+59.39
+2020
+1.23
+75.58
+2021
+1.12
+21.81
+2022
+0.79
+-38.28
+2023
+1.03
+34.42
+YTD
+0.86 Price/Fair Value
+8.39 Total Return %
+Morningstar Rating
+Total Return % as of 20 Nov 2024. Last Close as of 20 Nov 2024. Fair Value as of 28 May 2024 20:13, UTC.
+
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+Morningstar Historical Summary
+Financials as of 31 Oct 2024
+Fiscal Year, ends 31 Jan
+Revenue (USD Bil)
+Revenue Growth %
+EBITDA (USD Bil)
+EBITDA Margin %
+OPErating Income (USD Bil)
+OPErating Margin %
+Net Income (USD Mil)
+Net Margin %
+Diluted Shares Outstanding (Bil)
+Diluted Earnings PEr Share (USD)
+Dividends PEr Share (USD)
+Valuation as of 31 Oct 2024
+Price/Sales
+Price/Earnings
+Price/Cash Flow
+Dividend Yield %
+Price/Book
+EV/EBITDA
+OPErating PErformance / Profitability as of 31 Oct 2024
+Fiscal Year, ends 31 Jan
+ROA %
+ROE %
+ROIC %
+Asset Turnover
+Financial Leverage
+Fiscal Year, ends 31 Jan
+Debt/Capital %
+Equity/Assets %
+Total Debt/EBITDA
+EBITDA/Interest ExPEnse
+2014
+6.4
+9.5
+8.1
+0.6
+2014
+23.6
+61.5
+1.8
+75.9
+2014
+2015
+4.13
+-3.5
+0.76
+18.4
+0.50
+12.0
+440
+10.7
+24
+0.02
+0.01
+2014
+2.5
+19.6
+13.2
+1.7
+2.6
+0.0
+2016
+5.01
+7.0
+0.99
+19.7
+0.88
+17.5
+614
+12.3
+23
+0.03
+0.01
+2016
+10.8
+54.6
+45.5
+0.45
+10.8
+0.0
+2016
+8.4
+13.8
+9.3
+0.7
+2016
+0.2
+60.6
+1.5
+21.0
+2017
+6.91
+37.9
+2.15
+31.1
+1.94
+28.0
+1,666
+24.1
+26
+0.06
+0.01
+2017
+13.9
+48.1
+43.7
+0.29
+18.5
+0.0
+2017
+19.4
+32.6
+23.0
+0.8
+2017
+25.6
+58.6
+1.3
+37.1
+4.68
+13.4
+1.02
+21.8
+0.76
+16.2
+631
+13.5
+23
+0.03
+0.01
+2015
+3.8
+30.8
+16.7
+1.2
+4.0
+0.0
+2015
+8.7
+14.2
+11.1
+0.6
+2015
+24.0
+61.4
+1.4
+22.2
+Morningstar Analyst Historical/Forecast Summary as of 20 Nov 2024
+Financials
+Estimates
+Fiscal Year, ends 31 Jan 2024
+Revenue (USD Mil)
+Revenue Growth %
+EBITDA (USD Mil)
+EBITDA Margin %
+OPErating Income (USD Mil)
+OPErating Margin %
+Net Income (USD Mil)
+Net Margin %
+Diluted Shares Outstanding (Bil)
+Diluted Earnings PEr Share(USD)
+Dividends PEr Share(USD)
+2023
+26,974
+0.2
+5,768
+21.4
+5,577
+20.7
+8,365
+31.0
+25
+0.33
+0.02
+2024
+2025
+2026
+2027
+60,922
+125.9
+34,480
+56.6
+32,972
+54.1
+32,313
+53.0
+25
+1.30
+0.02
+130,232
+113.8
+84,799
+65.1
+81,168
+62.3
+73,210
+56.2
+25
+2.96
+0.03
+195,506
+50.1
+128,567
+65.8
+123,680
+63.3
+107,855
+55.2
+25
+4.35
+0.04
+235,623
+20.5
+155,070
+65.8
+149,280
+63.4
+128,412
+54.5
+25
+5.18
+0.04
+2018
+9.71
+40.6
+3.46
+35.6
+3.21
+33.1
+3,047
+31.4
+25
+0.12
+0.01
+2018
+6.7
+17.9
+19.9
+0.46
+8.6
+0.0
+2018
+28.9
+46.1
+33.7
+0.9
+2018
+21.0
+66.5
+0.6
+56.7
+2019
+11.72
+20.6
+4.22
+36.0
+3.80
+32.5
+4,141
+35.3
+25
+0.17
+0.02
+2019
+14.5
+60.2
+34.7
+0.27
+12.8
+0.0
+2019
+33.8
+49.3
+39.3
+1.0
+2019
+17.5
+70.3
+0.5
+72.7
+2020
+10.92
+-6.8
+3.40
+31.2
+2.85
+26.1
+2,796
+25.6
+25
+0.11
+0.02
+2020
+22.1
+85.5
+62.5
+0.12
+21.1
+0.0
+2020
+18.3
+26.0
+20.4
+0.7
+2020
+17.3
+70.5
+0.8
+65.4
+Forward Valuation
+Price/Sales
+Price/Earnings
+Price/Cash Flow
+Dividend Yield %
+Price/Book
+EV/EBITDA
+2021
+16.68
+52.7
+5.69
+34.1
+4.53
+27.2
+4,332
+26.0
+25
+0.17
+0.02
+2021
+30.7
+90.9
+91.7
+0.05
+30.9
+0.0
+2021
+18.8
+29.8
+22.7
+0.7
+2021
+28.1
+58.7
+1.3
+30.9
+2023
+17.9
+59.2
+--
+0.1
+22.2
+83.3
+2022
+26.91
+61.4
+11.35
+42.2
+10.04
+37.3
+9,752
+36.2
+25
+0.39
+0.02
+2022
+12.9
+62.1
+57.5
+0.11
+16.8
+0.0
+2022
+26.7
+44.8
+31.6
+0.7
+2022
+30.5
+60.2
+1.0
+48.1
+2024
+24.9
+47.3
+--
+0.0
+35.8
+43.8
+2023
+26.97
+0.2
+5.99
+22.2
+5.58
+20.7
+4,368
+16.2
+25
+0.17
+0.02
+YTD
+91.17
+134.8
+60.32
+66.2
+57.42
+63.0
+50,789
+55.7
+25
+2.04
+0.02
+2023 Recent Qtr
+31.4
+27.5
+56.8
+65.4
+62.1
+65.4
+0.02
+0.03
+51.3
+36.8
+0.0
+0.0
+2023
+10.2
+17.9
+12.0
+0.6
+YTD
+--
+--
+--
+--
+2023 Recent Qtr
+13.1
+32.4
+68.6
+53.7
+0.2
+2.0
+324.3
+22.9
+Estimates
+2025
+27.5
+49.3
+--
+0.0
+32.0
+41.9
+2026
+18.3
+33.5
+--
+0.0
+16.6
+27.6
+TTM
+113.27
+152.4
+74.87
+66.1
+71.03
+62.7
+63,074
+55.7
+25
+2.53
+0.03
+TTM
+34.4
+62.1
+68.0
+0.02
+55.9
+0.0
+TTM
+84.0
+127.2
+102.9
+1.5
+TTM
+--
+--
+--
+300.7
+2027
+15.2
+28.2
+--
+0.0
+10.6
+22.9
+NVIDIA Corp NVDA QQQ 21 Nov 2024 03:46, UTC
+Last Price
+145.89 USD
+20 Nov 2024
+Fair Value Estimate
+130.00 USD
+21 Nov 2024 03:43, UTC
+Price/FVE
+1.12
+Market Cap
+3.58 USD Tril
+20 Nov 2024
+Economic MoaTTM
+Wide
+Equity Style Box
+3 Large Growth
+Uncertainty
+Very High
+Capital Allocation
+Exemplary
+ESG Risk Rating Assessment1
+;;;;;
+6 Nov 2024 06:00, UTC
+ESG Risk Rating Breakdown
+Exposure
+Company Exposure1
+- Manageable Risk
+Unmanageable Risk2
+Management
+Manageable Risk
+- Managed Risk3
+Management Gap4
+Overall Unmanaged Risk
+ESG Risk Rating
+32.0
+29.8
+2.1
+29.8
+19.0
+10.8
+12.9
+12.90
+Low
+Subject
+Subindustry (33.0)
+32.0
+Low
+0
+Low
+Medium
+High
+63.9%
+Strong
+100
+u Exposure represents a company ' s vulnerability to ESG
+risks driven by their business model
+u Exposure is assessed at the Subindustry level and then
+55+
+sPEcified at the company level
+u Scoring ranges from 0-55+ with categories of low, medium, and high-risk exposure
+u Management measures a company ' s ability to manage
+ESG risks through its commitments and actions
+u Management assesses a company's efficiency on ESG
+0
+programs, practices, and policies
+Strong
+Average
+Weak
+u Management score ranges from 0-100% showing how
+much manageable risk a company is managing
+ESG Risk Rating Assessment5
+Negligible
+Low
+Medium
+High
+Severe
+ESG Risk Ratings measure the degree to which a company ' s value is impacted by environmental, social, and governance
+risks, by evaluating the company ' s ability to manage the ESG risks it faces.
+1. A company's Exposure to material ESG issues 2. Unmanageable Risk refers to risks that are inherent to a particular business model that cannot be managed by
+programs or initiatives 3. Managed Risk = Manageable Risk multiplied by a Management score of 63.9% 4. Management Gap assesses risks that are not
+managed, but are considered manageable 5. ESG Risk Rating Assessment = Overall Unmanaged Risk = Management Gap plus Unmanageable Risk
+ESG Risk Rating is of Nov 06, 2024. Highest Controversy Level is as of Nov
+08, 2024. Sustainalytics Subindustry: Semiconductor Design and
+Manufacturing. Sustainalytics provides Morningstar with company ESG
+ratings and metrics on a monthly basis and as such, the ratings in
+Morningstar may not necessarily reflect current Sustainalytics ' scores for the
+company. For the most up to date rating and more information, please visit:
+sustainalytics.com/esg-ratings/.
+PEer Analysis 06 Nov 2024
+PEers are selected from the company's Sustainalytics-defined Subindustry and are displayed based on the closest market cap values
+Company Name
+NVIDIA Corp
+Qualcomm Inc
+Exposure
+32.0 | Low
+39.6 | Medium
+Advanced Micro Devices Inc
+32.0 | Low
+Intel Corp
+48.4 | Medium
+Montage Technology Co Ltd
+31.1 | Low
+0
+0
+0
+0
+0
+Management
+63.9 | Strong
+74.9 | Strong
+60.8 | Strong
+73.7 | Strong
+35.3 | Average
+55+
+55+
+55+
+55+
+55+
+100
+100
+100
+100
+100
+ESG Risk Rating
+12.9 | Low
+12.2 | Low
+13.8 | Low
+15.3 | Low
+20.8 | Medium
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+40+
+40+
+40+
+40+
+40+
+
+Historical Morningstar Rating
+December November
+NVIDIA Corp NVDA 20 Nov 2024 22:41, UTC
+October
+September August
+July
+May
+May
+April
+March
+February
+January
+Dec 2024
+-
+Dec 2023
+QQQ
+Dec 2022
+QQQQ
+Dec 2021
+QQ
+Dec 2020
+QQ
+Dec 2019
+QQ
+Nov 2024
+QQ
+Nov 2023
+QQQ
+Nov 2022
+QQQQ
+Nov 2021
+QQ
+Nov 2020
+QQ
+Nov 2019
+QQ
+Oct 2024
+QQ
+Oct 2023
+QQQ
+Oct 2022
+QQQQ
+Oct 2021
+Q
+Oct 2020
+QQ
+Oct 2019
+QQ
+Sep 2024
+QQQ
+Sep 2023
+QQQ
+Sep 2022
+QQQQ
+Sep 2021
+QQ
+Sep 2020
+Q
+Sep 2019
+QQ
+Aug 2024
+QQQ
+Aug 2023
+QQQ
+Aug 2022
+QQQQ
+Aug 2021
+QQ
+Aug 2020
+Q
+Aug 2019
+QQ
+Jul 2024
+QQQ
+Jul 2023
+QQ
+Jul 2022
+QQQ
+Jul 2021
+QQ
+Jul 2020
+Q
+Jul 2019
+QQ
+Jun 2024
+QQQ
+Jun 2023
+QQ
+Jun 2022
+QQQQ
+Jun 2021
+QQ
+Jun 2020
+Q
+Jun 2019
+QQ
+May 2024
+QQQ
+May 2023
+QQ
+May 2022
+QQQ
+May 2021
+QQQ
+May 2020
+QQ
+May 2019
+QQQ
+Apr 2024
+QQQ
+Apr 2023
+QQ
+Apr 2022
+QQQ
+Apr 2021
+QQ
+Apr 2020
+Q
+Apr 2019
+QQ
+Mar 2024
+QQQ
+Mar 2023
+QQ
+Mar 2022
+QQ
+Mar 2021
+QQ
+Mar 2020
+QQ
+Mar 2019
+QQ
+Feb 2024
+QQQ
+Feb 2023
+QQ
+Feb 2022
+QQQ
+Feb 2021
+QQ
+Feb 2020
+QQ
+Feb 2019
+QQ
+Jan 2024
+QQ
+Jan 2023
+QQQ
+Jan 2022
+QQQ
+Jan 2021
+QQ
+Jan 2020
+QQ
+Jan 2019
+QQQ
+November October
+December
+Advanced Micro Devices Inc AMD 20 Nov 2024 22:41, UTC
+September
+August
+July
+May
+May
+April
+March
+February
+January
+Dec 2024
+-
+Dec 2023
+QQ
+Nov 2024
+QQQ
+Nov 2023
+QQQ
+Oct 2024
+QQQ
+Oct 2023
+QQQQ
+Sep 2024
+QQQ
+Sep 2023
+QQQQ
+Aug 2024
+QQQ
+Aug 2023
+QQQQ
+Jul 2024
+QQQ
+Jul 2023
+QQQ
+Dec 2022
+QQQQQ
+Nov 2022
+QQQQ
+Oct 2022
+QQQQQ
+Sep 2022
+QQQQQ
+Aug 2022
+QQQQ
+Jul 2022
+QQQQ
+Dec 2021
+QQ
+Dec 2020
+QQ
+Dec 2019
+Q
+Nov 2021
+QQ
+Nov 2020
+QQ
+Nov 2019
+Q
+Oct 2021
+QQQ
+Oct 2020
+QQQ
+Oct 2019
+Q
+Sep 2021
+QQQ
+Sep 2020
+Q
+Sep 2019
+QQ
+Aug 2021
+QQQ
+Aug 2020
+Q
+Aug 2019
+QQ
+Jul 2021
+QQQ
+Jul 2020
+Q
+Jul 2019
+QQ
+Jun 2024
+QQQ
+Jun 2023
+QQQ
+Jun 2022
+QQQQ
+Jun 2021
+QQQ
+Jun 2020
+Q
+Jun 2019
+QQ
+May 2024
+QQ
+May 2023
+QQQ
+May 2022
+QQQQ
+May 2021
+QQQQ
+May 2020
+Q
+May 2019
+QQ
+Apr 2024
+QQQ
+Apr 2023
+QQQQ
+Apr 2022
+QQQQ
+Apr 2021
+QQQQ
+Apr 2020
+Q
+Apr 2019
+Q
+Mar 2024
+QQ
+Mar 2023
+QQQQ
+Mar 2022
+QQQ
+Mar 2021
+QQQ
+Mar 2020
+Q
+Mar 2019
+Q
+Feb 2024
+QQ
+Feb 2023
+QQQQ
+Feb 2022
+QQQ
+Feb 2021
+QQQ
+Feb 2020
+Q
+Feb 2019
+Q
+Jan 2024
+QQ
+Jan 2023
+QQQQ
+Jan 2022
+QQQ
+Jan 2021
+QQQ
+Jan 2020
+Q
+Jan 2019
+Q
+December
+Intel Corp INTC 20 Nov 2024 22:41, UTC
+November October
+September August
+July
+May
+May
+April
+March
+February
+January
+Dec 2024
+-
+Dec 2023
+QQ
+Nov 2024
+QQQ
+Nov 2023
+QQQ
+Dec 2022
+QQQQQ
+Nov 2022
+QQQQ
+Dec 2021
+QQQQ
+Nov 2021
+QQQQ
+Oct 2024
+QQQ
+Oct 2023
+QQQ
+Oct 2022
+QQQQ
+Oct 2021
+QQQQ
+Sep 2024
+QQQ
+Sep 2023
+QQQ
+Aug 2024
+QQQ
+Aug 2023
+QQQ
+Sep 2022
+QQQQQ
+Aug 2022
+QQQQ
+Sep 2021
+QQQQ
+Dec 2020
+QQQQQ
+Nov 2020
+QQQQQ
+Oct 2020
+QQQQQ
+Sep 2020
+QQQQ
+Dec 2019
+QQQQ
+Nov 2019
+QQQQ
+Oct 2019
+QQQQ
+Sep 2019
+QQQQ
+Aug 2021
+QQQQ
+Aug 2020
+QQQQ
+Aug 2019
+QQQQ
+Jul 2024
+QQQ
+Jul 2023
+QQQ
+Jul 2022
+QQQQ
+Jul 2021
+QQQQ
+Jul 2020
+QQQQ
+Jul 2019
+QQQQ
+Jun 2024
+QQQ
+Jun 2023
+QQQ
+May 2024
+QQQ
+May 2023
+QQQ
+Jun 2022
+QQQQQ
+May 2022
+QQQQ
+Jun 2021
+QQQ
+Jun 2020
+QQQQ
+Jun 2019
+QQQQ
+May 2021
+QQQ
+May 2020
+QQQQ
+May 2019
+QQQQ
+Apr 2024
+QQQ
+Apr 2023
+QQQ
+Apr 2022
+QQQQ
+Apr 2021
+QQQ
+Apr 2020
+QQQQ
+Apr 2019
+QQQQ
+Mar 2024
+QQQ
+Mar 2023
+QQQ
+Mar 2022
+QQQQ
+Mar 2021
+QQQ
+Mar 2020
+QQQQ
+Mar 2019
+QQQQ
+Feb 2024
+QQQ
+Feb 2023
+QQQQ
+Feb 2022
+QQQQ
+Feb 2021
+QQQ
+Feb 2020
+QQQQ
+Feb 2019
+QQQQ
+Jan 2024
+QQQ
+Jan 2023
+QQQQ
+Jan 2022
+QQQQ
+Jan 2021
+QQQ
+Jan 2020
+QQQ
+Jan 2019
+QQQQ
+
+December
+Qualcomm Inc QCOM 20 Nov 2024 22:43, UTC
+November October
+September August
+July
+May
+May
+April
+March
+February
+January
+Dec 2024
+-
+Dec 2023
+QQQ
+Dec 2022
+QQQQ
+Dec 2021
+QQQ
+Dec 2020
+QQ
+Dec 2019
+QQQ
+Nov 2024
+QQQ
+Nov 2023
+QQQ
+Nov 2022
+QQQ
+Nov 2021
+QQQ
+Nov 2020
+QQ
+Nov 2019
+QQQ
+Oct 2024
+QQQ
+Oct 2023
+QQQQ
+Oct 2022
+QQQQ
+Oct 2021
+QQQ
+Oct 2020
+QQ
+Oct 2019
+QQQ
+Sep 2024
+QQQ
+Sep 2023
+QQQQ
+Sep 2022
+QQQQ
+Sep 2021
+QQQ
+Sep 2020
+QQ
+Sep 2019
+QQQ
+Aug 2024
+QQQ
+Aug 2023
+QQQQ
+Aug 2022
+QQQQ
+Aug 2021
+QQQ
+Aug 2020
+QQ
+Aug 2019
+QQQ
+Jul 2024
+QQQ
+Jul 2023
+QQQ
+Jul 2022
+QQQ
+Jul 2021
+QQQ
+Jul 2020
+QQQ
+Jul 2019
+QQQ
+Jun 2024
+QQQ
+Jun 2023
+QQQQ
+Jun 2022
+QQQQ
+Jun 2021
+QQQ
+Jun 2020
+QQQ
+Jun 2019
+QQQ
+May 2024
+QQ
+May 2023
+QQQQ
+May 2022
+QQQQ
+May 2021
+QQQ
+May 2020
+QQQ
+May 2019
+QQQ
+Apr 2024
+QQ
+Apr 2023
+QQQQ
+Apr 2022
+QQQ
+Apr 2021
+QQQ
+Apr 2020
+QQQ
+Apr 2019
+QQ
+Mar 2024
+QQ
+Mar 2023
+QQQ
+Mar 2022
+QQQ
+Mar 2021
+QQQ
+Mar 2020
+QQQ
+Mar 2019
+QQQQ
+Feb 2024
+QQQ
+Feb 2023
+QQQ
+Feb 2022
+QQQ
+Feb 2021
+QQQ
+Feb 2020
+QQQ
+Jan 2024
+QQQ
+Jan 2023
+QQQ
+Jan 2022
+QQQ
+Jan 2021
+QQ
+Jan 2020
+QQQ
+Feb 2019
+QQQQ
+Jan 2019
+QQQQ
+
+Research Methodology for Valuing Companies
+Overview
+At the heart of our valuation system is a detailed projection of a company's future cash flows, resulting from our
+analysts' research. Analysts create custom industry and
+company assumptions to feed income statement, balance
+sheet, and capital investment assumptions into our globally standardized, proprietary discounted cash flow, or
+DCF, modeling templates. We use scenario analysis, indepth comPEtitive advantage analysis, and a variety of other
+analytical tools to augment this process. Moreover, we
+think analyzing valuation through discounted cash flows
+presents a better lens for viewing cyclical companies,
+high-growth firms, businesses with finite lives (e.g.,
+mines), or companies exPEcted to generate negative
+earnings over the next few years. That said, we don't dismiss multiples altogether but rather use them as supporting cross-checks for our DCF-based fair value estimates.
+We also acknowledge that DCF models offer their own
+challenges (including a potential proliferation of estimated inputs and the possibility that the method may miss
+shortterm market-price movements), but we believe these
+negatives are mitigated by deep analysis and our
+longterm appROAch.
+Morningstar's equity research group ("we," "our") believes that a company's intrinsic worth results from the
+future cash flows it can generate. The Morningstar Rating
+for stocks identifies stocks trading at a discount or premium to their intrinsic worth--or fair value estimate, in
+Morningstar terminology. Five-star stocks sell for the
+biggest risk adjusted discount to their fair values, whereas 1-star stocks trade at premiums to their intrinsic worth.
+Four key components drive the Morningstar rating: (1) our
+assessment of the firm's economic moat, (2) our estimate
+of the stock's fair value, (3) our uncertainty around that
+fair value estimate and (4) the current market price. This
+process ultimately culminates in our singlepoint star rating.
+turns on invested capital (or ROIC) over and above our estimate of a firm's cost of capital, or weighted average
+cost of capital (or WACC). Without a moat, profits are
+more susceptible to comPEtition. We have identified five
+sources of economic moats: intangible assets, switching
+costs, network effect, cost advantage, and efficient scale.
+Companies with a narrow moat are those we believe are
+more likely than not to achieve normalized excess returns
+for at least the next 10 years. Wide-moat companies are
+those in which we have very high confidence that excess
+returns will remain for 10 years, with excess returns more
+likely than not to remain for at least 20 years. The longer
+a firm generates economic profits, the higher its intrinsic
+value. We believe low-quality, no-moat companies will
+see their normalized returns gravitate toward the firm ' s
+cost of capital more quickly than companies with moats.
+When considering a company's moat, we also assess
+whether there is a substantial threat of value destruction,
+stemming from risks related to ESG, industry disruption,
+financial health, or other idiosyncratic issues. In this context, a risk is considered potentially value destructive if its
+occurrence would eliminate a firm ' s economic profit on a
+cumulative or midcycle basis. If we deem the probability
+of occurrence sufficiently high, we would not characterize
+the company as possessing an economic moat.
+2. Estimated Fair Value
+Combining our analysts ' financial forecasts with the
+firm ' s economic moat helps us assess how long returns
+on invested capital are likely to exceed the firm ' s cost of
+capital. Returns of firms with a wide economic moat rating are assumed to fade to the PErPEtuity PEriod over a
+longer PEriod of time than the returns of narrow-moat
+firms, and both will fade slower than no-moat firms, increasing our estimate of their intrinsic value.
+Our model is divided into three distinct stages:
+1. Economic Moat
+Stage I: Explicit Forecast
+The concept of an economic moat plays a vital role not
+only in our qualitative assessment of a firm's long-term
+investment potential, but also in the actual calculation of
+our fair value estimates. An economic moat is a structural
+feature that allows a firm to sustain excess profits over a
+long PEriod of time. We define economic profits as reIn this stage, which can last five to 10 years, analysts
+make full financial statement forecasts, including items
+such as revenue, profit margins, tax rates, changes in
+workingcapital accounts, and capital sPEnding. Based on
+these projections, we calculate earnings before interest,
+after taxes (EBI) and the net new investment (NNI) to deMorningstar Equity Research Star Rating Methodology
+rive our annual free cash flow forecast.
+Stage II: Fade
+The SECond stage of our model is the PEriod it will take
+the company ' s return on new invested capital -- the return on capital of the next dollar invested ( " RONIC " ) -- to
+decline (or rise) to its cost of capital. During the Stage II
+PEriod, we use a formula to approximate cash flows in
+lieu of explicitly modeling the income statement, balance
+sheet, and cash flow statement as we do in Stage I. The
+length of the SECond stage dePEnds on the strength of
+the company ' s economic moat. We forecast this PEriod to
+last anywhere from one year (for companies with no economic moat) to 10 - 15 years or more (for wide-moat companies). During this PEriod, cash flows are forecast using
+four assumptions: an average growth rate for EBI over the
+PEriod, a normalized investment rate, average return on
+new invested capital (RONIC), and the number of years
+until PErPEtuity, when excess returns cease. The investment rate and return on new invested capital decline until a PErPEtuity value is calculated. In the case of firms
+that do not earn their cost of capital, we assume marginal
+ROICs rise to the firm ' s cost of capital (usually attributable to less reinvestment), and we may truncate the
+SECond stage.
+Stage III: PErPEtuity
+Once a company ' s marginal ROIC hits its cost of capital,
+we calculate a continuing value, using a standard PErPEtuity formula. At PErPEtuity, we assume that any
+growth or decline or investment in the business neither
+creates nor destroys value and that any new investment
+provides a return in line with estimated WACC.
+Because a dollar earned today is worth more than a dollar
+earned tomorrow, we discount our projections of cash
+flows in stages I, II, and III to arrive at a total present
+value of exPEcted future cash flows. Because we are
+modeling free cash flow to the firm -- representing cash
+available to provide a return to all capital providers -- we
+discount future cash flows using the WACC, which is a
+weighted average of the costs of equity, debt, and preferred stock (and any other funding sources), using exPEcted future proportionate long-term, market-value
+weights.
+3. Uncertainty Around That Fair Value Estimate
+Morningstar ' s Uncertainty Rating is designed to capture
+the range of potential outcomes for a company ' s intrinsic
+value. This rating is used to assign the margin of safety
+required before investing, which in turn explicitly drives
+our stock star rating system. The Uncertainty Rating is
+aimed at identiFYing the confidence we should have in assigning a fair value estimate for a given stock.
+Our Uncertainty Rating is meant to take into account anything that can increase the potential disPErsion of future
+outcomes for the intrinsic value of a company, and any-
+
+Research Methodology for Valuing Companies
+thing that can affect our ability to accurately predict
+these outcomes. The rating begins with a suggested rating produced by a quantitative process based on the trailing 12-month standard deviation of daily stock returns.
+An analyst overlay is then applied, with analysts using
+the suggested rating, historical rating data, and their own
+knowledge of the company to inform them as they make
+the final Uncertainty Rating decision. Ultimately, the rating decision rests with the analyst. Analysts take into account many characteristics when making their final decision, including cyclical factors, oPErational and financial
+factors such as leverage, company-sPEcific events, ESG
+risks, and anything else that might increase the potential
+disPErsion of future outcomes and our ability to estimate
+those outcomes.
+Our recommended margin of safety--the discount to fair
+value demanded before we'd recommend buying or
+selling the stock--widens as our uncertainty of the estimated value of the equity increases. The more uncertain
+we are about the potential disPErsion of outcomes, the
+greater the discount we require relative to our estimate of
+the value of the firm before we would recommend the
+purchase of the shares. In addition, the Uncertainty Rating provides guidance in portfolio construction based on
+risk tolerance.
+Our Uncertainty Ratings are: Low, Medium, High, Very
+High, and Extreme.
+Margin of Safety
+Qualitative Analysis
+Uncertainty Ratings QQQQQRating
+QRating
+Low
+Medium
+High
+Very High
+Extreme
+20% Discount
+30% Discount
+40% Discount
+50% Discount
+75% Discount
+25% Premium
+35% Premium
+55% Premium
+75% Premium
+300% Premium
+Our uncertainty rating is based on the interquartile range,
+or the middle 50% of potential outcomes, covering the
+25th PErcentile-75th PErcentile. This means that when a
+stock hits 5 stars, we exPEct there is a 75% chance that
+the intrinsic value of that stock lies above the current
+market price. Similarly, when a stock hits 1 star, we exPEct there is a 75% chance that the intrinsic value of that
+stock lies below the current market price.
+4. Market Price
+The market prices used in this analysis and noted in the
+report come from exchange on which the stock is listed
+which we believe is a reliable source.
+For more details about our methodology, please go to
+https://shareholders.morningstar.com
+Morningstar Star Rating for Stocks
+Morningstar Equity Research Star Rating Methodology
+Once we determine the fair value estimate of a stock, we
+compare it with the stock ' s current market price on a
+daily basis, and the star rating is automatically re-calculated at the market close on every day the market on
+which the stock is listed is oPEn. Our analysts keep close
+tABS on the companies they follow, and, based on thorough and ongoing analysis, raise or lower their fair value
+estimates as warranted.
+justed return is highly likely over a multiyear time frame.
+Scenario analysis develoPEd by our analysts indicates
+that the current market price represents an excessively
+PEssimistic outlook, limiting downside risk and maximizing upside potential.
+QQQQ We believe appreciation beyond a fair risk-adjusted return is likely.
+Please note, there is no predefined distribution of stars.
+That is, the PErcentage of stocks that earn 5 stars can
+fluctuate daily, so the star ratings, in the aggregate, can
+serve as a gauge of the bROAder market ' s valuation. When
+there are many 5-star stocks, the stock market as a whole
+is more undervalued, in our opinion, than when very few
+companies garner our highest rating.
+We exPEct that if our base-case assumptions are true the
+market price will converge on our fair value estimate over
+time generally within three years (although it is impossible to predict the exact time frame in which market
+prices may adjust).
+Our star ratings are guideposts to a bROAd audience and
+individuals must consider their own sPEcific investment
+goals, risk tolerance, tax situation, time horizon, income
+needs, and complete investment portfolio, among other
+factors.
+The Morningstar Star Ratings for stocks are defined below:
+QQQQQ We believe appreciation beyond a fair risk adQQQ Indicates our belief that investors are likely to receive a fair risk-adjusted return (approximately cost of
+equity).
+QQ We believe investors are likely to receive a less than
+fair risk-adjusted return.
+Q Indicates a high probability of undesirable risk-adjusted returns from the current market price over a multiyear
+time frame, based on our analysis. Scenario analysis by
+our analysts indicates that the market is pricing in an excessively optimistic outlook, limiting upside potential and
+leaving the investor exposed to Capital loss.
+Other Definitions
+Last Price: Price of the stock as of the close of the market of the last trading day before date of the report.
+Capital Allocation Rating: Our Capital Allocation (or
+Stewardship) Rating represents our assessment of the
+quality of management ' s capital allocation, with particular emphasis on the firm ' s balance sheet, investments,
+and shareholder distributions. Analysts consider compan-
+
+Research Methodology for Valuing Companies
+ies' investment strategy and valuation, balance sheet
+management, and dividend and share buyback policies.
+Corporate governance factors are only considered if they
+are likely to materially impact shareholder value, though
+either the balance sheet, investment, or shareholder distributions. Analysts assign one of three ratings: "Exemplary", "Standard", or "Poor". Analysts judge Capital Allocation from an equity holder's PErsPEctive. Ratings are determined on a forward looking and ABSolute basis. The
+Standard rating is most common as most managers will
+exhibit neither exceptionally strong nor poor capital allocation.
+Capital Allocation (or Stewardship) analysis published prior to Dec. 9, 2020, was determined using a different process. Beyond investment strategy, financial leverage, and
+dividend and share buyback policies, analysts also considered execution, comPEnsation, related party transactions, and accounting practices in the rating.
+Capital Allocation Rating: Our Capital Allocation (or
+Stewardship) Rating represents our assessment of the
+quality of management's capital allocation, with particular emphasis on the firm's balance sheet, investments,
+and shareholder distributions. Analysts consider companies' investment strategy and valuation, balance sheet
+management, and dividend and share buyback policies.
+Corporate governance factors are only considered if they
+are likely to materially impact shareholder value, though
+either the balance sheet, investment, or shareholder distributions. Analysts assign one of three ratings: "Exemplary", "Standard", or "Poor". Analysts judge Capital Allocation from an equity holder's PErsPEctive. Ratings are determined on a forward looking and ABSolute basis. The
+Standard rating is most common as most managers will
+exhibit neither exceptionally strong nor poor capital allocation.
+Capital Allocation (or Stewardship) analysis published prior to Dec. 9, 2020, was determined using a different process. Beyond investment strategy, financial leverage, and
+dividend and share buyback policies, analysts also considered execution, comPEnsation, related party transactions, and accounting practices in the rating.
+Sustainalytics ESG Risk Rating Assessment:The ESG
+Risk Rating Assessment is provided by Sustainalytics; a
+Morningstar company.
+Sustainalytics' ESG Risk Ratings measure the degree to
+which company's economic value at risk is driven by environment, social and governance (ESG) factors.
+starting at zero (no risk) with lower scores representing
+less unmanaged risk and, for 95% of cases, the unmanaged ESG Risk score is below 50.
+Based on their quantitative scores, companies are
+grouPEd into one of five Risk Categories (negligible, low,
+medium, high, severe). These risk categories are ABSolute,
+meaning that a ' high risk ' assessment reflects a comparable degree of unmanaged ESG risk across all subindustries covered.
+The ESG Risk Rating Assessment is a visual representation of Sustainalytics ESG Risk Categories on a 1 to 5
+scale. Companies with Negligible Risk = 5 Globes, Low
+Risk = 4, Medium Risk = 3 Globes, High Risk = 2 Globes,
+Severe Risk = 1 Globe. For more information, please visit
+sustainalytics.com/esg-ratings/
+Ratings should not be used as the sole basis in evaluating
+a company or SECurity. Ratings involve unknown risks and
+uncertainties which may cause our exPEctations not to
+occur or to differ significantly from what was exPEcted
+and should not be considered an offer or solicitation to
+buy or sell a SECurity.
+Risk Warning
+Please note that investments in SECurities are subject to
+market and other risks and there is no assurance or guarantee that the intended investment objectives will be
+achieved. Past PErformance of a SECurity may or may not
+be sustained in future and is no indication of future PErformance. A SECurity investment return and an investor ' s
+principal value will fluctuate so that, when redeemed, an
+investor ' s shares may be worth more or less than their
+original cost. A SECurity ' s current investment PErformance
+may be lower or higher than the investment PErformance
+noted within the report. Morningstar ' s Uncertainty Rating
+serves as a useful data point with resPEct to sensitivity
+analysis of the assumptions used in our determining a fair
+value price.
+General Disclosure
+Unless otherwise provided in a separate agreement, recipients accessing this report may only use it in the country in which the Morningstar distributor is based. Unless
+stated otherwise, the original distributor of the report is
+Morningstar Research Services LLC, a U.S.A. domiciled
+financial institution.
+vice to any sPEcific investor. Therefore, investments discussed herein may not be suitable for all investors; investors must exercise their own indePEndent judgment as
+to the suitability of such investments and recommendations in the light of their own investment objectives, exPErience, taxation status and financial position. Morningstar encourages Report recipients to read all relevant issue documents (e.g., prosPEctus) PErtaining to the SECurity concerned, including without limitation, information
+relevant to its investment objectives, risks, and costs before making an investment decision and when deemed
+necessary, to seek the advice of a financial, legal, tax,
+and/or accounting professional. The information, data,
+analyses and opinions presented herein are not warranted to be accurate, correct, complete or timely. Unless
+otherwise provided in a separate agreement, neither
+Morningstar, Inc. or the Equity Research Group represents that the report contents meet all of the presentation
+and/or disclosure standards applicable in the jurisdiction
+the recipient is located.
+Except as otherwise required by law or provided for in a
+separate agreement, the analyst, Morningstar, Inc. and
+the Equity Research Group and their officers, directors
+and employees shall not be responsible or liable for any
+trading decisions, damages or other losses resulting from,
+or related to, the information, data, analyses or opinions
+within the report.
+The Report and its contents are not directed to, or intended for distribution to or use by, any PErson or entity who
+is a citizen or resident of or located in any locality, state,
+country or other jurisdiction where such distribution, publication, availability or use would be contrary to law or
+regulation or which would subject Morningstar, Inc. or its
+affiliates to any registration or licensing requirements in
+such jurisdiction.
+Where this report is made available in a language other
+than English and in the case of inconsistencies between
+the English and translated versions of the report, the English version will control and suPErsede any ambiguities
+associated with any part or SECtion of a report that has
+been issued in a foreign language. Neither the analyst,
+Morningstar, Inc., or the Equity Research Group guarantees the accuracy of the translations.
+This report may be distributed in certain localities, countries and/or jurisdictions ( " Territories " ) by indePEndent
+third parties or indePEndent intermediaries and/or distributors ( " Distributors " ). Such Distributors are not acting as
+agents or representatives of the analyst, Morningstar,
+Inc. or the Equity Research Group. In Territories where a
+Distributor distributes our report, the Distributor is solely
+responsible for complying with all applicable regulations,
+laws, rules, circulars, codes and guidelines established by
+local and/or regional regulatory bodies, including laws in
+ss(r)
+This Report is for informational purposes, should not be
+the sole piece of information used in making an investment decision, and has no regard to the sPEcific investment objectives, financial situation or particular needs of
+any sPEcific recipient. This publication is intended to
+provide information to assist investors in making their
+own investment decisions, not to provide investment adSustainalytics analyzes over 1,300 data points to assess a
+company's exposure to and management of ESG risks. In
+other words, ESG Risk Ratings measures a company's unmanaged ESG Risks represented as a quantitative score.
+Unmanaged Risk is measured on an oPEn-ended scale

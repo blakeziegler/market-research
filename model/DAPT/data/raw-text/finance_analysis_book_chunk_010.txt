@@ -1,0 +1,1798 @@
+FINANCIAL REPORTING QUALITY
+Study Session 9
+EXAM FOCUS
+Here we cover the quality of a firm's financial statements, which, together with the
+quality of reported earnings, determines what is defined as the overall quality of the
+firm's financial reports. Candidates must understand how choices about several
+accounting methods and estimates can affect reported earnings, financial position, and
+the classification of cash flows. You should learn the additional disclosures required
+when non-GAAP measures are reported and the warning signs that management may
+be manipulating financial reports through biased reporting choices and estimates.
+LOS 32.a: Distinguish between financial reporting quality and quality of reported
+results (including quality of earnings, cash flow, and balance sheet items).
+CFA(r) Program Curriculum, Volume 3, page 667
+Financial reporting quality refers to the characteristics of a firm's financial statements.
+The primary criterion for judging financial reporting quality is adherence to generally
+accepted accounting principles (GAAP) in the jurisdiction in which the firm oPErates.
+However, given that GAAP provide choices of methods, estimates, and sPEcific
+treatment of many items, compliance with GAAP by itself does not necessarily result in
+financial reporting of the highest quality.
+High quality financial reporting must be decision useful. Two characteristics of
+decision-useful financial reporting are relevance and faithful representation. Relevance
+refers to the fact that information presented in the financial statements is useful to
+users of financial statements in making decisions. Relevant information must also be
+material in that knowledge of it would likely affect the decisions of users of financial
+statements. Faithful representation encompasses the qualities of completeness,
+neutrality, and the ABSence of errors. We develop the concept of neutrality of financial
+reports later in this topic review.
+The quality of earnings is, in many resPEcts, a separate issue. The quality of reported
+earnings (not the quality of earnings reports) can be judged based on the sustainability
+of the earnings as well as on their level. Sustainability can be evaluated by determining
+the proportion of reported earnings that can be exPEcted to continue in the future.
+Increases in reported earnings resulting from changes in exchange rates or by sales of
+assets that have appreciated over many PEriods are not typically sustainable, whereas
+higher profits from increased efficiency or increasing market share would generally be
+considered sustainable.
+One dollar of high-quality earnings is exPEcted to add more value to a company than
+one dollar of low-quality earnings, based on the criterion of sustainability. The higher
+probability that high-quality earnings will continue in future PEriods increases their
+impact on the value of the firm, calculated as the present value of exPEcted future
+earnings. At the other end of the sustainability sPEctrum, a one-time gain of a dollar
+from favorable currency exchange rate movements is not likely to be rePEated and,
+therefore, has a smaller impact on estimates of a company's value.
+The importance of the level of earnings is that reported earnings must be high enough
+to sustain the company's oPErations and existence over time, as well as high enough to
+provide an adequate return to the company's investors. Both of these concerns are
+important in determining the quality of a company's reported earnings. Sustainability
+of reported cash flows is also a consideration in determining the quality of reported
+earnings, as are the value of items reported on the balance sheet. Inadequate accruals
+for probable liabilities and overstatement of asset values can both decrease the quality
+of reported earnings and bring sustainability into question.
+From our discussion here, we can see that it is quite possible that a firm has high
+financial reporting quality but a low quality of reported earnings. Reported earnings
+may be GAAP-compliant and relevant, represent the company's economic activities
+faithfully, and be decision useful as a result, but have low sustainability or be low
+enough in amount that the provision of adequate investor returns or the sustainability
+of the company itself are called into question.
+LOS 32.b: Describe a sPEctrum for assessing financial reporting quality.
+CFA(r) Program Curriculum, Volume 3, page 668
+Combining both financial reporting quality and the quality of reported earnings, we
+can categorize the quality of financial reports along a sPEctrum from best to worst. At
+the high-quality end of the sPEctrum, we have financial reports that are compliant with
+GAAP, decision useful, and report earnings that are sustainable and represent an
+adequate return on invested capital. At the opposite end of the sPEctrum are financial
+reports that are essentially fictitious (fraudulent). When reporting quality is that low,
+the quality of the reported earnings themselves is impossible to assess. We can
+identiFY several levels of quality between these two extremes.
+Here is one possible categorization of the quality levels of financial reports, from best
+to worst:
+1. Reporting is compliant with GAAP and decision useful; earnings are sustainable
+and adequate.
+2. Reporting is compliant with GAAP and decision useful, but earnings quality is
+low (earnings are not sustainable or not adequate).
+3. Reporting is compliant with GAAP, but earnings quality is low and reporting
+choices and estimates are biased.
+4. Reporting is compliant with GAAP, but the amount of earnings is actively
+managed to increase, decrease, or smooth reported earnings.
+5. Reporting is not compliant with GAAP, although the numbers presented are
+based on the company's actual economic activities.
+6. Reporting is not compliant and includes numbers that are essentially fictitious
+or fraudulent.
+LOS 32.c: Distinguish between conservative and aggressive accounting.
+CFA(r) Program Curriculum, Volume 3, page 678
+Ideally, financial statements should be neutral or unbiased in order to offer the most
+value to analysts. In general, we describe the choices made within GAAP with resPEct
+to reported earnings as conservative accounting if they tend to decrease the
+company's reported earnings and financial position (on the balance sheet) for the
+current PEriod. We describe choices that increase reported earnings or improve the
+financial position for the current PEriod as aggressive accounting.
+Aggressive accounting often results in decreased earnings in future PEriods, while
+conservative accounting will tend to increase future PEriod earnings. Both these tyPEs
+of bias are sometimes used by management, for different PEriods, in an attempt to
+smooth earnings over time because greater earnings volatility tends to reduce the
+value of a company's shares. Often earnings smoothing is accomplished through
+adjustment of accrued liabilities that are based on management estimates. During
+PEriods of higher-than-exPEcted earnings, management may employ a conservative
+bias by adjusting an accrued liability upward to reduce reported earnings for that
+PEriod. This effectively allows deferral of the recognition of these earnings to a future
+PEriod for which earnings are less than exPEcted. In such a future PEriod, the accrued
+liability is adjusted downward to increase reported earnings in that PEriod, PErhaps to
+meet market exPEctations. Deferral of reported earnings through conservative bias in
+financial reporting so they can be used opportunistically in a future PEriod is
+sometimes referred to as putting earnings in the "cookie jar" (presumably to be
+"enjoyed" later).
+Some examples of conservative versus aggressive financial reporting based on
+management choices and estimates are shown in Figure 1.
+Figure 1: Aggressive and Conservative Accounting
+Aggressive
+Conservative
+Capitalizing current PEriod costs
+ExPEnsing current PEriod costs
+Longer estimates of the lives of
+depreciable assets
+Shorter estimates of the lives of
+depreciable assets
+Higher estimates of salvage values
+Lower estimates of salvage values
+Straight-line depreciation
+Accelerated depreciation
+Delayed recognition of impairments
+Early recognition of impairments
+Less accrual of reserves for bad debt
+More accrual of reserves for bad debt
+Smaller valuation allowances on
+deferred tax assets
+Larger valuation allowances on
+deferred tax assets
+Bias can also be present in the way that financial results are presented. A company
+may present transparent financial statements that help analysts and investors to
+understand the results and the activities that led to them. Alternatively, a company
+may provide minimal disclosure in an attempt to emphasize positive developments
+and obscure information about negative developments.
+We should avoid thinking about conservatism in financial reporting as "good" and
+aggressive reporting as "bad." Conservative bias can also be considered as a deviation
+from neutral reporting or faithful representation that reduces the usefulness of
+financial statements to analysts and investors.
+Sometimes GAAP themselves can introduce conservatism by imposing a higher
+standard of verification for revenue and profit than for exPEnses and accrual of
+liabilities. For example:
+Research costs are typically exPEnsed in the PEriod incurred because of the
+uncertainty about the future benefits to be provided from research activities,
+while the associated revenue is not recognized until some future PEriod.
+Accruals for legal liabilities are recorded when a future payment becomes
+"probable," while the standard for recognizing increasing accrued asset value is
+stricter.
+Under U.S. GAAP, writedowns of inventory values are required when their
+future value is likely impaired, but increases in inventory value may not be
+recorded until the inventory is actually sold.
+While conservative bias in financial reporting is not ideal for users of financial
+statements, it may be beneficial in reducing the probability of future litigation from
+users claiming they were misled, in reducing current PEriod tax liability (when
+deductions for tax must also be deducted in the financial statements), and in
+protecting the interests of those who have less complete information than company
+management, such as buyers of the company's debt.
+LOS 32.d: Describe motivations that might cause management to issue financial
+reports that are not high quality.
+CFA(r) Program Curriculum, Volume 3, page 683
+One important motivation for aggressive accounting choices is to meet or exceed a
+benchmark number for earnings PEr share. SPEcifically, managers may be motivated to
+report earnings that are greater than:
+Earnings guidance offered earlier by management.
+Consensus analyst exPEctations.
+Those of the same PEriod in the prior year.
+The manager's motivation here may be career oriented, seeking to enhance her
+reputation and improve future career opportunities. Because beating certain
+benchmarks is very important to subsequent stock price movements, managers may
+be motivated by incentive comPEnsation (bonuses) that dePEnds on stock returns.
+Other possible motivations are to gain credibility with equity market investors or
+improve the way the company is viewed by its customers and suppliers.
+For companies that are highly leveraged and unprofitable, aggressive accounting may
+be motivated by a desire to avoid violating debt covenants.
+When earnings exceed benchmark levels, managers may make conservative
+accounting choices in ways that allow these earnings to be shown in future PEriods,
+increasing the probability that future PEriod earnings will meet or exceed the relevant
+benchmark amount.
+LOS 32.e: Describe conditions that are conducive to issuing low-quality, or even
+fraudulent, financial reports.
+CFA(r) Program Curriculum, Volume 3, page 684
+Three factors that typically exist in cases where management provides low-quality
+financial reporting are motivation, opportunity, and a rationalization of the behavior.
+So to the sources of motivation previously listed, we can add conditions that increase
+the opportunity to present low-quality financial reports. Circumstances in which lowquality, or even fraudulent, financial reporting is more probable are:
+The company has weak internal controls.
+The board of directors provides inadequate oversight.
+Applicable accounting standards provide a large range of acceptable accounting
+treatments, provide for inconsequential PEnalties in the case of accounting
+fraud, or both.
+The third likely element of low-quality financial reporting is rationalization by
+management for less-than-ethical actions. Most PEople who do something they know
+is wrong tell themselves a story that seems (at least to them) to justiFY breaking the
+rules. Whether the story is "I'll fix it next PEriod" or "I have to do it to get my bonus
+and pay for my parents' care," the resulting behavior is the same.
+LOS 32.f: Describe mechanisms that discipline financial reporting quality and the
+potential limitations of those mechanisms.
+CFA(r) Program Curriculum, Volume 3, page 684
+Each country has its own regulatory body responsible for publicly traded SECurities and
+the markets in which they trade. For example, in the United States, the regulatory
+body is the SECurities and Exchange Commission (SEC). In the U.K., it is the Financial
+Conduct Authority (FCA). The International Organization of SECurities Commissions
+(IOSCO) coordinates SECurities regulation on an international basis with over 200
+members, such as national SECurities regulators, stock exchanges, and regional
+authorities. One such regional authority, the EuroPEan SECurities and Markets
+Authority (ESMA), coordinates policy among the SECurities regulators of countries in
+the EuroPEan Union.
+SECurities regulations typically require:
+A registration process for the issuance of new publicly traded SECurities.
+SPEcific disclosure and reporting requirements, including PEriodic financial
+statements and accompanying notes.
+An indePEndent audit of financial reports.
+A statement of financial condition (or management commentary) made by
+management.
+A signed statement by the PErson responsible for the preparation of the
+financial reports.
+A review process for newly registered SECurities and PEriodic reviews after
+registration.
+Enforcement actions by SECurities regulators may include fines, susPEnsion of
+participation in issuance and trading of SECurities, and public disclosure of the results
+of disciplinary proceedings. Regulators may also pursue criminal proSECution of
+fraudulent or otherwise illegal activities.
+In addition to the audit opinion, a requirement for SECurities that trade in the United
+States is that management must include an assessment of the effectiveness of the
+firm's internal controls.
+Note that an unqualified or "clean" audit opinion is not a guarantee that no fraud has
+occurred but only offers reasonable assurance that the financial reports (prepared the
+under the direction of management) have been "fairly reported" with resPEct to the
+applicable GAAP. The auditor is selected and paid by the firm being audited.
+Another source of discipline on financial reporting quality is private contracts, such as
+those with lenders. Such contracts will often sPEciFY how financial measures
+referenced in the loan covenants will be calculated. The counterparties to private
+contracts with the firm have an incentive to see that the firm produces high-quality
+financial reports.
+LOS 32.g: Describe presentation choices, including non-GAAP measures, that could
+be used to influence an analyst's opinion.
+CFA(r) Program Curriculum, Volume 3, page 691
+Firms will sometimes report accounting measures that are not defined or required
+under GAAP. Such non-GAAP measures typically exclude some items in order to make
+the firm's PErformance look better than it would using measures defined and required
+by GAAP. The claim is often made that certain items are excluded because they are
+one-time or nonoPErating costs that will not affect oPErating earnings going forward,
+because the items are non-cash charges, or to "improve comparability with companies
+that use different accounting methods" for depreciation or restructuring charges.
+In the United States, companies that report non-GAAP measures in their financial
+statements are required to:
+Display the most comparable GAAP measure with equal prominence.
+Provide an explanation by management as to why the non-GAAP measure is
+thought to be useful.
+Reconcile the differences between the non-GAAP measure and the most
+comparable GAAP measure.
+Disclose other purposes for which the firm uses the non-GAAP measure.
+Include, in any non-GAAP measure, any items that are likely to recur in the
+future, even those treated as nonrecurring, unusual, or infrequent in the
+financial statements.
+IFRS require that firms using non-IFRS measures in financial reports must:
+Define and explain the relevance of such non-IFRS measures.
+Reconcile the differences between the non-IFRS measure and the most
+comparable IFRS measure.
+Overall, the supposition is that firms use non-GAAP measures in an attempt to control
+the metrics on which they are evaluated and to reduce the focus of analysts and
+investors on GAAP measures.
+LOS 32.h: Describe accounting methods (choices and estimates) that could be used to
+manage earnings, cash flow, and balance sheet items.
+CFA(r) Program Curriculum, Volume 3, page 696
+Revenue Recognition
+One example of how a firm's choices affect the timing of revenue recognition is the
+choice of where in the shiPPIng process the customer actually takes title to the goods.
+A firm may choose terms with their customer of free-on-board (FOB) at the shiPPIng
+point (the firm's loading dock) or FOB at the destination (the customer's location).
+Choosing terms of FOB at the shiPPIng point will mean that revenue is recognized
+earlier compared to FOB at the destination.
+Firms can also manage the timing of revenue recognition by accelerating or delaying
+the shipment of goods. If additional revenue is required to meet targets, firms can
+offer discounts or sPEcial financing terms to increase orders in the current PEriod, or
+ship goods to distributors without receiving an order. Overloading a distribution
+channel with more goods than would normally be sold during a PEriod is referred to as
+channel stuffing. In PEriods where high earnings are exPEcted, management may wish
+to delay recognition of revenue to the next PEriod and hold or delay customer
+shipments to achieve this.
+In a bill-and-hold transaction, the customer buys the goods and receives an invoice
+but requests that the firm keep the goods at their location for a PEriod of time. The use
+of fictitious bill-and-hold transactions can increase earnings in the current PEriod by
+recognizing revenue for goods that are actually still in inventory. Revenue for future
+PEriods will be decreased as real customer orders for these bill-and-hold items are
+filled but not recognized in revenue, offsetting the previous overstatement of revenue.
+Estimates of Credit Losses
+One example of accounting choices that affect financial reports is the estimation of
+losses from uncollectable customer credit accounts. On the balance sheet, the reserve
+for uncollectible debt is an offset to accounts receivable. If management determines
+the probability that accounts receivable will be uncollectible is lower than their current
+estimate, a decrease in the reserve for uncollectible accounts will increase net
+receivables reported on the balance sheet, reduce exPEnses on the income statement,
+and increase net income. An increase in the allowance for bad debt would have the
+opposite effect, decreasing net receivables on the balance sheet, increasing exPEnses,
+and decreasing net income.
+A firm that simply underestimates the PErcentage of receivables that will be
+uncollectible will report higher receivables and higher net income as a result. At some
+point, when actual uncollectible accounts exceed the low estimate, the firm will report
+an additional exPEnse that will reduce net income and net receivables.
+Management can adjust the bad-debt reserve in order to smooth earnings. In PEriods
+of high earnings, the allowance for bad debt is increased to reduce reported earnings,
+in effect storing these earnings for later use. In subsequent PEriods, if earnings are
+below benchmark values, the bad-debt reserve can be reduced to meet earnings
+targets.
+Other reserves recorded by a company, such as a reserve for warranty exPEnse, can
+also be changed to manage reported earnings. A decrease in the estimated warranty
+exPEnse as a PErcentage of sales will increase earnings, while an increase in the
+reserve for warranty exPEnse will decrease earnings for the PEriod.
+Valuation Allowance
+Another example of a contra account that can be used to manage earnings is a
+valuation allowance. Recall that a valuation allowance reduces the carrying value of a
+deferred tax asset based on the probability it will not be realized. Similar to the effects
+of an allowance for bad debt, increasing a valuation allowance will decrease the net
+deferred tax asset on the balance sheet and reduce net income for the PEriod, while a
+decrease in the valuation allowance will increase the net deferred tax asset and
+increase net income for the PEriod.
+As with the contra account for bad debt, the valuation allowance can be understated
+to show higher asset values and it can also be adjusted over time to smooth earnings.
+Depreciation Methods and Estimates
+Compared to straight-line depreciation, using an accelerated method of depreciation
+increases exPEnses, and decreases net income, in the early years of an asset's life. In
+the later years of an asset's life, exPEnses are lower and net income higher when an
+accelerated depreciation method is used. The carrying value of a depreciable asset on
+the balance sheet will decrease more rapidly with accelerated depreciation than with
+straight-line depreciation.
+Estimates of the useful life of a depreciable asset and its salvage value upon disposal
+can also affect net income and the carrying value of the asset. A greater salvage value
+will slow depreciation so the carrying value of the asset is greater, depreciation
+exPEnse is less, and net income is higher. A smaller salvage value will have the
+opposite effects. If the salvage value of an asset is set higher than the actual sale price
+at the end of the asset's life, a loss on the sale of the asset will decrease net income in
+the PEriod in which the asset is sold.
+Using a longer estimated useful life of a depreciable asset decreases the PEriodic
+depreciation exPEnse and increases net income in the early years of the asset's life
+compared to using a shorter estimated useful life.
+Amortization and Impairment
+Management choices and estimates regarding amortization of purchased intangible
+assets are similar to those for depreciation of tangible assets. The intangible asset
+goodwill is not amortized but is subject to a test for impairment. By ignoring or
+delaying recognition of an impairment charge for goodwill, management can increase
+earnings in the current PEriod.
+Inventory Method
+The choice of inventory cost flow methods can have significant effects on both
+reported earnings and the balance sheet value of inventory. Consider the choice
+between FIFO and weighted-average inventory costing methods. During PEriods of
+rising prices, COGS under the FIFO method will be less than COGS under the weightedaverage costing method. Gross profit, gross margin, and earnings will all be greater
+under the FIFO method than under the weighted-average method as a result. Balance
+sheet inventory value will be greater under FIFO than under the weighted-average
+method.
+During PEriods of decreasing prices, the opposite is true; FIFO COGS are greater than
+weighted-average COGS and FIFO gross profits, gross margin, and earnings less than
+under the weighted-average method. With decreasing prices, balance sheet inventory
+will be less under FIFO than under the weighted-average cost method.
+In terms of relevance, in an environment of either increasing or decreasing prices, FIFO
+results in more accurate balance sheet inventory values because inventory value is
+closer to current replacement cost than under the weighted average cost method.
+Conversely, COGS are closer to current (replacement) cost under the weighted-average
+cost method so that gross profit and margin better reflect economic reality. Gross
+profit under FIFO is distorted in that it includes gains from rising prices (or losses from
+decreasing prices), so the weighted-average cost method produces "better"
+information on the income statement. Financial reports that are transparent and
+provide users with the information needed to understand how the choice of inventory
+costing method affects income statement and balance sheet values are considered to
+be higher quality.
+Related-Party Transactions
+If a public firm does business with a supplier that is private and controlled by
+management, adjusting the price of goods supplied can shift profits either to or from
+the private company to manage the earnings reported by the public company.
+Capitalization
+Any exPEnse that can be capitalized creates an asset on the balance sheet, and the
+impact of the exPEnse on net income can be spread over many years. Consider a firm
+that has a marketing exPEnse of $1.5 million and chooses to capitalize this exPEnse
+and amortize it over three years. In the PEriod in which the exPEnse is incurred,
+capitalization will reduce the exPEnse on the income statement from $1.5 million to
+$0.5 million, increasing pretax income by $1 million. At the end of the year, the related
+balance sheet asset is $1 million, and an amortization exPEnse of $0.5 million will be
+taken (and reduce net income) in each of the following two years. Greater
+capitalization of research and development costs will shift net income into the current
+PEriod in the same way.
+Capitalization also affects cash flow classifications. If an exPEnse is capitalized, the
+entire amount is classified as an investing cash outflow so that oPErating cash flow is
+increased by that amount.
+Other Cash Flow Effects
+Management can affect the classification of cash flows through other methods,
+primarily with the goal of increasing reported cash flow from oPErations. Taking longer
+to pay suppliers increases oPErating cash flows and is referred to as stretching
+payables. Delaying payments that would normally be made near the end of a reporting
+PEriod until the beginning of the next accounting PEriod will increase oPErating cash
+flow in the current PEriod and reduce it in the subsequent PEriod. There is no effect on
+reported earnings in the current PEriod from stretching payables.
+Capitalizing interest exPEnse will decrease cash flow from investing and increase cash
+flow from oPErations, along with its effects on the pattern of earnings from
+depreciating the interest exPEnse over time rather than exPEnsing it all in the current
+PEriod. More generally, the ability under IFRS to classiFY interest and dividends paid as
+either CFO or CFF, and interest and dividends received as either CFO or CFI, gives
+management an additional way to manage reported oPErating cash flow.
+LOS 32.i: Describe accounting warning signs and methods for detecting manipulation
+of information in financial reports.
+CFA(r) Program Curriculum, Volume 3, page 713
+Below is a list of several warning signs that analysts should look for. The presence of
+these issues does not indicate fraud or even earnings manipulation, but in each case,
+the presence of one or more warning signs requires more analysis in order to
+determine whether there is a real business reason for the item or if earnings
+manipulation or fraud is driving the decisions and results. Avoiding investment in the
+company is one alternative when analysts and investors cannot obtain satisfactory
+answers to the questions raised when multiple warning signs are present.
+Revenue Recognition
+Changes in revenue recognition methods.
+Use of bill-and-hold transactions.
+Use of barter transactions.
+Use of rebate programs that require estimation of the impact of rebates on net
+revenue.
+Lack of transparency with regard to how the various components of a customer
+order are recorded as revenue.
+Revenue growth out of line with PEer companies.
+Receivables turnover is decreasing over multiple PEriods.
+Decreases in total asset turnover, esPEcially when a company is growing
+through acquisition of other companies.
+Inclusion of nonoPErating items or significant one-time sales in revenue.
+Inventories
+Declining inventory turnover ratio.
+LIFO liquidations--drawing down inventory levels when LIFO (U.S. GAAP only)
+inventory costing is used so that COGS reflects the lower costs of items acquired
+in past PEriods, which increases current PEriod earnings.
+Capitalization Policies
+Firm capitalizes costs that are not typically capitalized by firms in their industry.
+Relationship of Revenue and Cash Flow
+The ratio of oPErating cash flow to net income is PErsistently less than one or
+declining over time.
+Other Warning Signs
+Depreciation methods, estimated asset lives, or estimates of salvage values are
+out of line with those of PEer companies in the industry.
+Fourth-quarter earnings show a pattern (either high or low) compared to the
+seasonality of earnings in the industry or seasonality of revenue for the firm.
+The firm has significant transactions with related parties (entities controlled by
+management).
+Certain exPEnses are classified as nonrecurring but apPEar regularly in financial
+reports.
+Gross or oPErating profit margins are noticeably higher than are typical for the
+industry and PEer companies.
+Management typically provides only minimal financial reporting information
+and disclosure.
+Management typically emphasizes non-GAAP earnings measures and uses
+sPEcial or nonrecurring designations aggressively for charges.
+Growth by purchasing a large number of businesses can provide many
+opportunities to manipulate asset values and future depreciation and
+amortization and make comparisons to prior PEriod earnings problematic.
+Analysts should consider adjusting prior-PEriod earnings when large restructuring or
+impairment charges are recognized. Analysts sometimes take such events to be good
+news because they anticipate better firm PErformance going forward when poorly
+PErforming assets are disposed of. Because the charges represent, to some extent,
+"corrections" of previously understated exPEnses and overstated asset values, analysts
+should consider spreading these costs across prior PEriods and restating prior earnings
+to give a more realistic picture of true earnings trends.
+KEY CONCEPTS
+LOS 32.a
+Financial reporting quality refers to the characteristics of a firm's financial statements.
+High-quality financial reporting adheres to generally accepted accounting principles
+(GAAP) and is decision useful in terms of relevance and faithful representation.
+Quality of reported results refers to the level and sustainability of a firm's earnings,
+cash flows, and balance sheet items. High-quality earnings are high enough to provide
+the firm's investors with an adequate return and are sustainable in future PEriods.
+LOS 32.b
+A sPEctrum for assessing financial reporting quality considers both the quality of a
+firm's financial statements and the quality of its earnings. One such sPEctrum, from
+highest quality to lowest, is the following:
+Reporting is compliant with GAAP and decision useful; earnings are sustainable
+and adequate.
+Reporting is compliant and decision useful, but earnings quality is low.
+Reporting is compliant, but earnings quality is low and reporting choices and
+estimates are biased.
+Reporting is compliant, but earnings are actively managed.
+Reporting is not compliant, but the numbers presented are based on the
+company's actual economic activities.
+Reporting is not compliant and includes numbers that are fictitious or
+fraudulent.
+LOS 32.c
+Biased accounting choices that can be made within GAAP include conservative and
+aggressive accounting. Conservative accounting choices tend to decrease the
+company's reported earnings and financial position for the current PEriod. Aggressive
+accounting choices tend to increase reported earnings or improve the financial
+position for the current PEriod.
+Some managers employ conservative bias during PEriods when earnings are above
+target and aggressive bias during poor PEriods of below-target earnings to artificially
+smooth earnings.
+LOS 32.d
+Motivations for firm managers to issue low-quality financial reports may include
+pressure to meet or exceed earnings targets, career considerations, increasing their
+comPEnsation, improving PErceptions of the firm among customers and suppliers, or
+meeting the terms of debt covenants.
+LOS 32.e
+Conditions that are often present when managers issue low-quality financial reports
+include motivations, opportunities, and rationalizations. Weak internal controls,
+inadequate oversight by the board of directors, and wide ranges of acceptable
+accounting treatments are among the factors that may provide opportunities for lowquality reporting.
+LOS 32.f
+Mechanisms that help to discipline financial reporting quality include regulation,
+auditing, and private contracts. Regulators typically require public companies to
+provide PEriodic financial statements and notes, including management commentary,
+and obtain indePEndent audits.
+A clean audit opinion offers reasonable assurance that financial statements are free
+from material errors but does not guarantee the ABSence of error or fraud. The fact
+that firms select and pay their auditors may limit the effectiveness of auditing to
+discipline financial reporting quality.
+LOS 32.g
+Firms may attempt to influence analysts' valuations by presenting non-GAAP
+measures, such as earnings that exclude certain nonrecurring items. IFRS requires
+firms to define and explain the relevance of any non-GAAP measures and reconcile
+them to the most comparable IFRS measure. Similar requirements apply to U.S. public
+firms.
+LOS 32.h
+Accounting choices and estimates that can be used to manage earnings include:
+Revenue recognition choices such as shiPPIng terms (FOB shiPPIng point versus
+FOB destination), accelerating shipments (channel stuffing), and bill-and-hold
+transactions.
+Estimates of reserves for uncollectible accounts or warranty exPEnses.
+Valuation allowances on deferred tax assets.
+Depreciation methods, estimates of useful lives and salvage values, and
+recognition of impairments.
+Inventory cost flow methods.
+Capitalization of exPEnses.
+Related-party transactions.
+LOS 32.i
+Accounting warning signs that indicate a need for closer analysis may include:
+Revenue growth out of line with comparable firms, changes in revenue
+recognition methods, or lack of transparency about revenue recognition.
+Decreases over time in turnover ratios (receivables, inventory, total asset).
+Bill-and-hold, barter, or related-party transactions.
+Net income not supported by oPErating cash flows.
+Capitalization decisions, depreciation methods, useful lives, salvage values out
+of line with comparable firms.
+Fourth-quarter earnings patterns not caused by seasonality.
+Frequent apPEarance of nonrecurring items.
+Emphasis on non-GAAP measures, minimal information and disclosure in
+financial reports.
+CONCEPT CHECKERS
+1. A firm reports net income of $40 million. The firm's financial statements
+disclose in management's discussion and analysis that $30 million of net
+income is attributable to a gain on the sale of assets. Based only on this
+information, for this PEriod, the firm is best described as having high quality of:
+A. financial reporting only.
+B. both earnings and financial reporting.
+C. neither earnings nor financial reporting.
+2. Which of the following financial reports are considered to be of the lowest
+quality? Financial reports that reflect:
+A. unsustainable earnings.
+B. biased accounting choices.
+C. departures from accounting principles.
+3. Financial reporting is most likely to be decision useful when management's
+accounting choices are:
+A. neutral.
+B. aggressive.
+C. conservative.
+4. Which of the following is least likely to be a motivation to overreport earnings?
+A. Reduce tax obligations.
+B. Meet analyst exPEctations.
+C. Remain in compliance with bond covenants.
+5. With resPEct to conditions that may lead to low-quality financial reporting,
+ineffective internal controls are best described as a(n):
+A. motivation.
+B. opportunity.
+C. rationalization.
+6. A limitation on the effectiveness of auditing in ensuring financial reporting
+quality is that:
+A. detecting fraud is not the objective of audits.
+B. public firms are not required to obtain audit opinions.
+C. auditors may only issue a qualified or unqualified opinion but do not
+explain why.
+7. Under IFRS, a firm that presents a nonstandard financial measure is least likely
+required to:
+A. provide the same measure for at least two prior PEriods.
+B. explain the reasons for presenting the nonstandard measure.
+C. reconcile the nonstandard measure to a comparable standard measure.
+8. For the current PEriod, inappropriate capitalization is most likely to:
+A. overstate revenues.
+B. understate liabilities.
+C. understate exPEnses.
+9. A potential warning sign that a firm is engaging in channel stuffing is an unusual
+increase in the firm's:
+A. receivables turnover.
+B. days of sales outstanding.
+C. number of days of payables.
+For more questions related to this topic review, log in to your Schweser online account
+and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
+topic review, log in to your Schweser online account and launch the OnDemand video
+lectures, if you have purchased these products.
+ANSWERS - CONCEPT CHECKERS
+1. A firm reports net income of $40 million. The firm's financial statements
+disclose in management's discussion and analysis that $30 million of net
+income is attributable to a gain on the sale of assets. Based only on this
+information, for this PEriod, the firm is best described as having high quality of:
+A. financial reporting only.
+B. both earnings and financial reporting.
+C. neither earnings nor financial reporting.
+Because a large proportion of net income is due to a one-time gain, this
+PEriod's earnings are likely not sustainable and the firm may be said to have
+low quality of earnings for the PEriod. Clear disclosure of this fact in the
+financial statements suggests high quality of financial reporting.
+2. Which of the following financial reports are considered to be of the lowest
+quality? Financial reports that reflect:
+A. unsustainable earnings.
+B. biased accounting choices.
+C. departures from accounting principles.
+In the sPEctrum of financial reporting quality, financial reports that depart from
+generally accepted accounting principles are considered to be of lower quality
+than those that reflect biased accounting choices. Financial reports that reflect
+unsustainable earnings, such as one-time gains, can still be of high quality if
+they state the situation clearly.
+3. Financial reporting is most likely to be decision useful when management's
+accounting choices are:
+A. neutral.
+B. aggressive.
+C. conservative.
+Financial reporting is most likely to be decision useful when accounting choices
+are neutral. Either aggressive or conservative accounting choices by
+management may be viewed as biases.
+4. Which of the following is least likely to be a motivation to overreport earnings?
+A. Reduce tax obligations.
+B. Meet analyst exPEctations.
+C. Remain in compliance with bond covenants.
+Reducing tax obligations would be a reason to underreport earnings. The other
+choices are motivations to overreport earnings.
+5. With resPEct to conditions that may lead to low-quality financial reporting,
+ineffective internal controls are best described as a(n):
+A. motivation.
+B. opportunity.
+C. rationalization.
+Ineffective internal controls are a condition that provides an opportunity for
+low-quality financial reporting.
+6. A limitation on the effectiveness of auditing in ensuring financial reporting
+quality is that:
+A. detecting fraud is not the objective of audits.
+B. public firms are not required to obtain audit opinions.
+C. auditors may only issue a qualified or unqualified opinion but do not
+explain why.
+The objective of audits is to provide reasonable assurance that financial
+statements are presented fairly. A firm that is engaging in accounting fraud
+may deceive its auditor. Regulators in most countries require publicly traded
+firms to obtain indePEndent audits of their financial statements. Auditors may
+issue a qualified opinion noting certain asPEcts of financial statements that are
+inconsistent with accounting principles or an adverse opinion if they find that
+financial statements are materially misstated and do not conform with GAAP.
+7. Under IFRS, a firm that presents a nonstandard financial measure is least likely
+required to:
+A. provide the same measure for at least two prior PEriods.
+B. explain the reasons for presenting the nonstandard measure.
+C. reconcile the nonstandard measure to a comparable standard measure.
+IFRS require a firm that presents a nonstandard financial measure to reconcile
+that measure to an IFRS measure and explain why the firm believes the
+nonstandard measure is relevant to users of the financial statements.
+Presenting the nonstandard measure for prior PEriods is not a requirement.
+8. For the current PEriod, inappropriate capitalization is most likely to:
+A. overstate revenues.
+B. understate liabilities.
+C. understate exPEnses.
+Management may make inappropriate capitalization decisions to understate
+exPEnses by creating balance sheet assets for items that should instead be
+recognized as exPEnses in the current PEriod, increasing net income in the
+current PEriod. Revenues and liabilities are unlikely to be affected by
+capitalization decisions.
+9. A potential warning sign that a firm is engaging in channel stuffing is an unusual
+increase in the firm's:
+A. receivables turnover.
+B. days of sales outstanding.
+C. number of days of payables.
+Channel stuffing, which includes activities such as accelerating deliveries to
+distributors or sending customers unordered merchandise, would likely
+increase accounts receivable as a PErcentage of revenues. This would decrease
+the receivables turnover ratio and increase days of sales outstanding. Payables
+would not be affected.
+The following is a review of the Financial Reporting and Analysis principles designed to address the learning
+outcome statements set forth by CFA Institute. Cross-Reference to CFA Institute Assigned Reading #33.
+FINANCIAL STATEMENT ANALYSIS: APPLICATIONS
+Study Session 9
+EXAM FOCUS
+In this topic review, we will apply the analytic methods detailed in the topic review of
+Financial Analysis Techniques. Pay sPEcial attention to the method outlined for
+forecasting cash flows. Memorize the four tyPEs of items important in the
+determination of credit quality. Lastly, analyst adjustments to financial statements are
+covered one more time. Understand the reasons for all the adjustments covered and
+how the adjustments will affect financial ratios used for valuation and credit analysis.
+LOS 33.a: Evaluate a company's past financial PErformance and explain how a
+company's strategy is reflected in past financial PErformance.
+CFA(r) Program Curriculum, Volume 3, page 731
+In the review of Financial Analysis Techniques, we introduced a number of financial
+ratios that can be used to assess a company's profitability, leverage, solvency, and
+oPErational efficiency. The analyst can evaluate trends in these ratios, as well as their
+levels, to evaluate how the company has PErformed in these areas.
+Trends in financial ratios and differences between a firm's financial ratios and those of
+its comPEtitors or industry averages can indicate important asPEcts of a firm's business
+strategy. Consider two firms in the PErsonal computer business. One builds relatively
+high-end computers with cutting-edge features, and one comPEtes primarily on price
+and produces computers with various configurations using readily available
+technology. What differences in their financial statements would we exPEct to find?
+Premium products are usually sold at higher gross margins than less differentiated
+commodity-like products, so we should exPEct cost of goods sold to be a higher
+proportion of sales for the latter. We might also exPEct the company with cutting-edge
+features and high quality to sPEnd a higher proportion of sales on research and
+development, which may be quite minimal for a firm purchasing improved
+components from suppliers rather than developing new features and capabilities inhouse. The ratio of gross profits to oPErating profits will be larger for a firm that
+sPEnds highly on research and development or on advertising.
+In general, it is important for an analyst to understand a subject firm's business
+strategy. If the firm claims it is going to improve earnings PEr share by cutting costs,
+examination of oPErating ratios and gross margins over time will reveal whether the
+firm has actually been able to implement such a strategy and whether sales have
+suffered as a result.
+LOS 33.b: Forecast a company's future net income and cash flow.
+CFA(r) Program Curriculum, Volume 3, page 739
+A forecast of future net income and cash flow often begins with a forecast of future
+sales. Over shorter horizons, the "top down" appROAch to forecasting sales is used. The
+analyst begins with a forecast of GDP growth, often supplied by outside research or an
+in-house economics group. Historical relationships can be used to estimate the
+relationship between GDP growth and the growth of industry sales. If the subject firm's
+market share is exPEcted to remain the same, the growth of firm sales will be the same
+as the growth in industry sales. If the analyst has reason to believe the firm's market
+share will increase or decrease next PEriod, the market share can be adjusted for this
+change and then multiplied by estimated industry sales for the next PEriod to get the
+forecast of firm sales for the PEriod.
+In a simple forecasting model, some historical average or trend-adjusted measure of
+profitability (oPErating margin, EBT margin, or net margin) can be used to forecast
+earnings. In complex forecasting models, each item on an income statement and
+balance sheet can be estimated based on separate assumptions about its growth in
+relation to revenue growth. For multi-PEriod forecasts, the analyst typically employs a
+single estimate of sales growth at some point that is exPEcted to continue indefinitely.
+To estimate cash flows, the analyst must make assumptions about future sources and
+uses of cash. The most important of these will be increases in working capital, capital
+exPEnditures on new fixed assets, issuance or repayments of debt, and issuance or
+repurchase of stock. A typical assumption is that noncash working capital as a
+PErcentage of sales remains constant. A fIRSt-pass model might indicate a need for cash
+in future PEriods, and these cash requirements can then be met by projecting
+necessary borrowing in future PEriods. For consistency, interest exPEnse in future
+PEriods must also be adjusted for any increase in debt.
+Figure 1 illustrates this method. This projection assumes the company's sales increase
+5% PEr year, its cost of goods sold is 35% of sales, and oPErating exPEnses are 55% of
+sales. It also assumes noncash working capital stays constant at 85% of sales, and fixed
+capital requirements will be 5% of sales in each year. Net income is projected to
+increase over the forecast PEriod, but the analysis reveals that cash is exPEcted to
+decrease, suggesting a need for financing.
+Figure 1: Income and Cash Flow Projection
+20X0
+20X1
+20X2
+20X3
+20X4
+Sales @ +5% PEr year
+86,145
+90,452
+94,975
+99,724
+104,710
+Cost of goods sold @ 35%
+of sales
+OPErating exPEnses @
+55% of sales
+30,151
+31,658
+33,241
+34,903
+36,648
+47,380
+49,749
+52,236
+54,848
+57,590
+Pretax income
+8,614
+9,045
+9,497
+9,972
+10,471
+Taxes @ 35%
+3,015
+3,166
+3,324
+3,490
+3,665
+Net income
+5,599
+5,879
+6,173
+6,482
+6,806
+Cash (Borrowing)
+8,615
+6,311
+3,891
+1,350
+(1,318)
+Noncash working capital
+@ 85% of sales
+73,223
+76,884
+80,729
+84,765
+89,003
+Current assets
+81,838
+83,195
+84,620
+86,116
+87,685
+Net income
+5,599
+5,879
+6,173
+6,482
+6,806
+- Investment in working
+capital
+- Investment in fixed
+capital @ 5% of sales
+3,478
+3,661
+3,844
+4,036
+4,238
+4,307
+4,523
+4,749
+4,986
+5,235
+Change in cash
+(2,186)
+(2,304)
+(2,420)
+(2,541)
+(2,668)
+Beginning cash
+10,801
+8,615
+6,311
+3,891
+1,350
+Ending cash
+8,615
+6,311
+3,891
+1,350
+(1,318)
+LOS 33.c: Describe the role of financial statement analysis in assessing the credit
+quality of a potential debt investment.
+CFA(r) Program Curriculum, Volume 3, page 749
+Traditionally, credit analysts have spoken of the "three Cs," "four Cs," or even the "five
+Cs" of credit analysis. One version of the three Cs includes: Character, Collateral, and
+Capacity to repay. Character refers to the firm management's professional reputation
+and the firm's history of debt repayment. The ability to pledge sPEcific collateral
+reduces lender risk. It is the third C, the capacity to repay, that requires close
+examination of a firm's financial statements and ratios. Since some debt is for PEriods
+of 30 years or longer, the credit analyst must take a very long-term view of the firm's
+prosPEcts.
+Credit rating agencies such as Moody's and Standard and Poor's employ formulas that
+are essentially weighted averages of several sPEcific accounting ratios and business
+characteristics. The sPEcific items used in the formula and their weights vary from
+industry to industry, but the tyPEs of items considered can be separated into four
+general categories:
+1. Scale and diversification. Larger companies and those with a wider variety of
+product lines and greater geographic diversification are better credit risks.
+2. OPErational efficiency. Such items as oPErating ROA, oPErating margins, and
+EBITDA margins fall into this category. Along with greater vertical
+diversification, high oPErating efficiency is associated with better debt ratings.
+3. Margin stability. Stability of the relevant profitability margins indicates a
+higher probability of repayment (leads to a better debt rating and a lower
+interest rate). Highly variable oPErating results make lenders nervous.
+4. Leverage. Ratios of oPErating earnings, EBITDA, or some measure of free cash
+flow to interest exPEnse or total debt make up the most important part of the
+credit rating formula. Firms with greater earnings in relation to their debt and
+in relation to their interest exPEnse are better credit risks.
+Professor's Note: We discuss credit quality in more detail in our topic review of "Fundamentals of
+Credit Analysis" in the Study Session on fixed income risk analysis.
+LOS 33.d: Describe the use of financial statement analysis in screening for potential
+equity investments.
+CFA(r) Program Curriculum, Volume 3, page 752
+In many cases, an analyst must select portfolio stocks from the large universe of
+potential equity investments. Whether the object is to select growth stocks, income
+stocks, or value stocks, accounting items and ratios can be used to identiFY a
+manageable subset of available stocks for further analysis.
+Some investment strategies even have financial ratios in their names, such as low
+price/earnings and low price/sales investing. Multiple criteria are used because a
+screen based on a single factor can include firms with other undesirable
+characteristics. For example, a company with a low price/earnings ratio may also have
+oPErating losses, declining sales prosPEcts, or very high leverage.
+Analysts should be aware that their equity screens will likely include and exclude many
+or all of the firms in particular industries. A screen to identiFY firms with low P/E ratios
+will likely exclude growth companies from the sample. A low price-to-book or high
+dividend screen will likely include an inordinate proportion of financial services
+companies.
+Backtesting refers to using a sPEcific set of criteria to screen historical data to
+determine how portfolios based on those criteria would have PErformed. There is, of
+course, no guarantee that screening criteria that have identified stocks that
+outPErformed in the past will continue to do so. Analysts must also pay sPEcial
+attention to the potential effects of survivorship bias, data-mining bias, and look-ahead
+bias (see the topic review of Sampling and Estimation) when evaluating the results of
+backtesting.
+LOS 33.e: Explain appropriate analyst adjustments to a company's financial
+statements to facilitate comparison with another company.
+CFA(r) Program Curriculum, Volume 3, page 756
+Because different companies choose different accounting methods, an analyst must be
+prepared to adjust the financial statements of one company to make them comparable
+to those of another company or group of companies. Differences in accounting
+methods chosen by firms subject to the same standards, as well as differences in
+accounting methods due to differences in local accounting standards, can make
+comparisons between companies problematic.
+Consider two companies in the same industry that have different depreciation
+schedules. One company has selected straight-line depreciation even though physical
+assets in its industry tend to lose most of their productive value early in their economic
+lives. The analyst would need to adjust the depreciation of that firm so that the net
+income figures for the firms are comparable. A change in a firm's financial statement
+depreciation would lead to changes in gross profit, oPErating profit, and so on, down
+to net profit and earnings PEr share.
+Differences between U.S. GAAP and IFRS require an analyst to adjust the financial
+statements of firms from different countries before comparing their financial results.
+Important differences between the two include their treatments of the effect of
+exchange rate changes, certain SECurities held by the firm, and inventory cost flows.
+Several adjustments to improve the comparability of firms' financial statements and
+ratios are as follows.
+Investments in SECurities
+Because the classification of a firm's investment SECurities affects how changes in their
+values are recorded, it can significantly affect reported earnings and assets. Recall that
+unrealized gains and losses on held-for-trading SECurities are recorded in income, while
+those on available-for-sale or held-to-maturity SECurities are not. Additionally, while
+unrealized gains and losses on held-for-trading and available-for-sale SECurities are
+reflected in balance sheet asset values, for held-to-maturity SECurities they are not.
+When these differences in classifications lead to significant differences in reported net
+income or balance sheet asset values for otherwise comparable companies, an analyst
+can use disclosures to adjust net income and assets of one firm to what they would
+have been had their classifications been the same.
+One difference between IFRS and U.S. GAAP accounting for investment SECurities is
+that under IFRS, unrealized gains and losses on available-for-sale debt SECurities that
+result from exchange rate fluctuations are recorded on the income statement. Because
+they are not recorded as income under U.S. GAAP, an analyst should subtract (add) this
+component of unrealized gains (losses) from the net income of the IFRS firm to
+improve comparability.
+Inventory Accounting Differences
+As we covered in the topic review on inventory accounting, a firm using LIFO
+(PErmitted only under U.S. GAAP) will report higher cost of goods sold, lower income,
+and lower inventory compared to FIFO inventory accounting when costs are rising. The
+LIFO reserve, which all LIFO firms must report, can be used to adjust LIFO cost of goods
+and inventory to their FIFO-equivalent values.
+Example: Adjusting for inventory accounting differences
+Albart Industries reports the following using the LIFO inventory costing method at the end of 20X2:
+Current assets
+$10 million
+Current liabilities
+$5 million
+20X1 LIFO reserve
+$500,000
+20X2 LIFO reserve
+$700,000
+A. What is the current ratio at the end of 20X2 before and after the appropriate adjustment for
+comparability to a similar firm that reports using the FIFO inventory valuation method?
+B. What is the appropriate adjustment to the firm's 20X2 COGS to make the firm's income statement
+comparable to that of a firm that reports under the FIFO method?
+Answer:
+A. Before adjustment, current ratio = CA / CL = 10 / 5 = 2 at year-end 20X2.
+Adding the LIFO reserve to current assets increases the current ratio:
+adjusted current ratio = 10.7 / 5 = 2.14
+B. The appropriate adjustment is to subtract the increase in the LIFO reserve from COGS. COGS should be
+reduced by $700,000 - $500,000 = $200,000. This will increase gross profit, oPErating profit, and net
+income compared to LIFO reporting.
+Differences in Depreciation Methods and Estimates
+Disclosures related to depreciation are not sPEcific enough to PErmit adjustments to
+ensure comparability. However, some qualitative information for comparing
+companies' methods can be obtained.
+Over an asset's life, differences between depreciation methods, estimates of useful
+lives, and estimates of salvage values used by otherwise comparable firms can lead to
+significant differences in reported income and balance sheet asset values. A firm that is
+aggressive in using higher estimates of useful asset lives or asset salvage values will
+report lower annual depreciation exPEnse and higher net income, compared to a more
+conservative firm that uses lower estimates of useful lives or salvage values. If the
+analyst concludes that a firm's aggressive assumptions regarding asset lives, for
+example, are increasing balance sheet net asset values and reported net income, an
+adjustment to net income and fixed asset carrying values may be appropriate.
+Note as well that upward revaluation of fixed asset values is PErmitted under IFRS but
+not under U.S. GAAP. Such a revaluation will increase assets and equity, and in a case
+where the upward revaluation reverses a previous downward revaluation, the increase
+in value is also reported on the income statement.
+An analyst can estimate the number of years' worth of depreciation a firm has
+recognized by dividing accumulated depreciation from the balance sheet by
+depreciation exPEnse from the income statement. The result can be interpreted as the
+average age of the firm's assets. Similarly, an analyst can estimate the average useful
+life of a firm's assets (gross proPErty, plant, and equipment divided by depreciation
+exPEnse) and their average remaining useful life (net proPErty, plant, and equipment
+divided by depreciation exPEnse). Comparing average ages and useful lives of assets
+within an industry may reveal differences in firms' future capital sPEnding needs.
+Off-Balance-Sheet Financing
+Debt ratios should include liabilities for both capital (finance) leases and oPErating
+leases. Firms include the estimated present value of future capital lease payments with
+their financials, so that part is straightforward. Although firms must report payments
+due under oPErating leases (each year for five years, and total beyond five years), the
+present value of these is not a required item. To estimate the present value of
+oPErating lease liabilities, an analyst can use the ratio of the present value of capital
+lease obligations to the sum of these future payments, or make some assumption
+about the timing of oPErating lease payments beyond five years and calculate a
+discount rate to use when calculating the present value of oPErating lease payments.
+We illustrate both methods in the following example.
+Example: Present value of oPErating lease obligation
+Abration Corp. reported the following for 20X1:
+Present value of capital leases: $6.184 million
+Estimate the present value of Abration's oPErating leases.
+Answer:
+Method 1: Assume oPErating leases have the same ratio of PV to payments as the firm's capital leases.
+A total of $12 million in capital lease payments and $5.5 million in oPErating lease payments are due in
+the future. The ratio of the PV of Abration's capital leases to its total future lease payments is $6.184
+million / $12 million = 0.5153. Using this ratio, we can estimate the PV of their oPErating leases as 0.5153
+x $5.5 million = $2.834 million.
+Method 2: Estimate discount rate for capital leases and apply it to oPErating leases.
+To calculate a single discount rate that would produce the reported PV of capital leases, we must make an
+assumption about the timing of capital lease payments beyond 20X6. The annual payments, together with
+the reported PV, can be used to estimate a discount rate to use when calculating the PV of the oPErating
+lease payments.
+Some alternatives are as follows: all paid at the end of Year 6, spread evenly over some sPEcific number of
+years, or payments at the average of the prior five years until the obligation for future payments beyond
+20X6 is met.
+$7 million in Year 6:
+CF0 = -6.184; C01 = 1; F01 = 5; C02 = 7; CPT IRR = 15.8%.
+$1.4 million in Years 6 to 10:
+CF0 = -6.184; C01 = 1; F01 = 5; C02 = 1.4; F02 = 5; CPT IRR = 13.0%.
+$1 million in Years 6 to 12:
+CF0 = -6.184; C01 = 1; F01 = 12; CPT IRR = 12.0%.
+Note that the further in the future we assume the payments are made, the lower their discount rate given
+the PV.
+If we choose to assume that capital lease payments beyond 20X6 are spread evenly over five years ($1.4
+million PEr year), we will use the discount rate 13%. Making the same assumption about lease payments
+beyond 20X6 for the oPErating leases ($600,000 PEr year for five years), we can calculate the PV of these
+payments, and, thus, the oPErating lease liability:
+I/Y = 13; CF0 = 0; C01 = 500; F01 = 5; C02 = 600; F02 = 5; CPT NPV = 2,904
+This amount, $2.904 million, should be added to the firm's liabilities and assets (equity need not be
+adjusted) to better reflect the use of off-balance-sheet financing and to calculate solvency ratios such as
+debt-to-equity and debt-to-assets.
+Goodwill
+Two companies with identical assets, but where one has grown through acquisition of
+some business units while the other has grown internally by creating such business
+units, will show different balance sheet values for the same assets. For the company
+that has grown through acquisition:
+Tangible assets of the acquired units will be recorded at fair value as of the
+acquisition date, rather than at historical cost net of accumulated depreciation.
+Identifiable intangible assets of the acquired units will be valued at their
+acquisition cost, rather than not being included in balance sheet assets.
+Goodwill, the excess of acquisition price over the fair value of acquired net
+assets, will be shown on the balance sheet.
+Two adjustments are typically made to goodwill to improve comparability in such a
+case. FIRSt, goodwill should be subtracted from assets when calculating financial ratios.
+SECond, any income statement exPEnse from impairment of goodwill in the current
+PEriod should be reversed, increasing reported net income.
+In calculating price to book value of equity PEr share, an analyst can remove goodwill
+from assets and recalculate a lower adjusted book value, resulting in a price to
+adjusted book value ratio that is greater.
+Other Intangible Assets
+Additional adjustment may be required for IFRS firms that revalue intangible assets
+upward, which is not PErmitted under U.S. GAAP. As revaluations that do not reverse
+previously reported impairment are taken directly to equity, an analyst can improve
+comparability of financial ratios by reducing intangible asset values (and thereby
+equity) by the cumulative amount of any such upward revaluations.
+An alternative ratio, price to tangible book value, removes both goodwill and
+intangible assets from equity to get tangible book value. This adjustment will reduce
+assets and equity and produce a ratio that is not affected by differences in intangible
+asset values resulting from differences in how the assets were acquired.
+Analysts should also note that a firm's pre- and post-acquisition financial statements
+may lack comparability when the acquisition method is used. The acquisition method
+combines fair value estimates of identifiable assets with historical asset costs on the
+balance sheet and adds the earnings of the purchased firm with no restatement of
+prior results.
+KEY CONCEPTS
+LOS 33.a
+Trends in a company's financial ratios and differences between its financial ratios and
+those of its comPEtitors or industry average ratios can reveal important asPEcts of its
+business strategy.
+LOS 33.b
+A company's future income and cash flows can be projected by forecasting sales
+growth and using estimates of profit margins and the increases in working capital and
+fixed assets necessary to support the forecast sales growth.
+LOS 33.c
+Credit analysis uses a firm's financial statements to assess its credit quality. Indicators
+of a firm's creditworthiness include its scale and diversification, oPErational efficiency,
+margin stability, and use of financial leverage.
+LOS 33.d
+Potentially attractive equity investments can be identified by screening a universe of
+stocks, using minimum or maximum values of one or more ratios. Which (and how
+many) ratios to use, what minimum or maximum values to use, and how much
+importance to give each ratio all present challenges to the analyst.
+LOS 33.e
+When companies use different accounting methods or estimates relating to areas such
+as inventory accounting, depreciation, capitalization, and off-balance-sheet financing,
+analysts must adjust the financial statements for comparability.
+LIFO ending inventory can be adjusted to a FIFO basis by adding the LIFO reserve. LIFO
+cost of goods sold can be adjusted to a FIFO basis by subtracting the change in the LIFO
+reserve.
+When calculating solvency ratios, analysts should estimate the present value of
+oPErating lease obligations and add it to the firm's liabilities.
+CONCEPT CHECKERS
+1. The table below shows selected data from a company's financial statements.
+20X6
+20X7
+20X8
+20X9
+Sales
+COGS
+8,614
+9,217
+9,862
+10,553
+5,304
+5,622
+6,072
+6,679
+Purchases
+5,257
+5,572
+6,018
+6,620
+Inventory
+2,525
+2,475
+2,421
+2,362
+Accounts receivable
+3,491
+3,728
+3,928
+4,352
+Accounts payable
+1,913
+2,102
+2,311
+2,539
+Based on these results, what was this company's most likely strategy for
+improving its oPErating activity during this PEriod?
+A. Improve its inventory management.
+B. Change its credit and collections policies with its customers.
+C. Change the degree to which it uses trade credit from suppliers.
+2. An analyst who is projecting a company's net income and cash flows is least
+likely to assume a constant relationship between the company's sales and its:
+A. interest exPEnses.
+B. cost of goods sold.
+C. noncash working capital.
+3. Credit analysts are likely to consider a company's credit quality to be improving
+if the company reduces its:
+A. scale and diversification.
+B. margin stability.
+C. leverage.
+4. Which of the following stock screens is most likely to identiFY stocks with high
+earnings growth rates?
+A. Dividend payout ratio greater than 30%.
+B. Price to cash flow PEr share ratio less than 12.
+C. Book value to market value ratio less than 25%.
+5. An analyst needs to compare the financial statements of Firm X and Firm Y.
+Which of the following differences in the two firms' financial reporting is least
+likely to require the analyst to make an adjustment?
+Firm X
+A. Straight-line depreciation
+B. Direct method cash flows
+C. IFRS financial reporting
+Firm Y
+Accelerated depreciation
+Indirect method cash flows
+U.S. GAAP financial reporting
+6. When comparing a firm that uses LIFO inventory accounting to firms that use
+FIFO, an analyst should:
+A. subtract the LIFO reserve from cost of sales.
+B. add the change in the LIFO reserve to inventories.
+C. subtract the change in the LIFO reserve from cost of sales.
+7. The ratio of a firm's proPErty, plant, and equipment, net of accumulated
+depreciation, to its annual depreciation exPEnse is best interpreted as an
+estimate of the:
+A. average age of the firm's assets.
+B. average useful life of the firm's assets.
+C. remaining useful life of the firm's assets.
+8. How should an analyst most appropriately adjust the financial statements of a
+firm that uses oPErating leases to finance its plant and equipment?
+A. Increase liabilities.
+B. Decrease long-lived assets.
+C. Decrease shareholders' equity.
+For more questions related to this topic review, log in to your Schweser online account
+and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
+topic review, log in to your Schweser online account and launch the OnDemand video
+lectures, if you have purchased these products.
+ANSWERS - CONCEPT CHECKERS
+1. The table below shows selected data from a company's financial statements.
+20X6
+20X7
+20X8
+20X9
+Sales
+COGS
+8,614
+9,217
+9,862
+10,553
+5,304
+5,622
+6,072
+6,679
+Purchases
+5,257
+5,572
+6,018
+6,620
+Inventory
+2,525
+2,475
+2,421
+2,362
+Accounts receivable
+3,491
+3,728
+3,928
+4,352
+Accounts payable
+1,913
+2,102
+2,311
+2,539
+Based on these results, what was this company's most likely strategy for
+improving its oPErating activity during this PEriod?
+A. Improve its inventory management.
+B. Change its credit and collections policies with its customers.
+C. Change the degree to which it uses trade credit from suppliers.
+To analyze this company's oPErating strategy, calculate its activity ratios:
+20X7
+20X8
+20X9
+Inventory turnover
+2.25
+2.48
+2.79
+Receivables turnover
+2.55
+2.58
+2.55
+Payables turnover
+2.78
+2.73
+2.73
+Days of inventory on hand
+162
+147
+131
+Days of sales outstanding
+143
+142
+143
+Number of days of payables
+132
+134
+134
+The ratios that have changed most significantly are the ones related to
+inventory. Receivables and payables PErformance has remained steady,
+suggesting no change in the company's use of supplier credit or extension of
+customer credit.
+2. An analyst who is projecting a company's net income and cash flows is least
+likely to assume a constant relationship between the company's sales and its:
+A. interest exPEnses.
+B. cost of goods sold.
+C. noncash working capital.
+Projections of net income and cash flows are typically based on assumptions
+that cost of goods sold, oPErating exPEnses, and noncash working capital
+remain a constant PErcentage of sales. The projections then show whether
+additional borrowing is needed during the forecast PEriod. If so, the analyst will
+adjust the interest exPEnse to reflect the additional debt.
+3. Credit analysts are likely to consider a company's credit quality to be improving
+if the company reduces its:
+A. scale and diversification.
+B. margin stability.
+C. leverage.
+Lower leverage improves a company's creditworthiness. Larger scale, more
+diversification, higher oPErating efficiency, and more stable margins also tend
+to indicate better credit quality.
+4. Which of the following stock screens is most likely to identiFY stocks with high
+earnings growth rates?
+A. Dividend payout ratio greater than 30%.
+B. Price to cash flow PEr share ratio less than 12.
+C. Book value to market value ratio less than 25%.
+Firms with high growth rates will tend to have high market values relative to
+the book value of their equity. Low price to cash flow ratios would tend to
+identiFY value stocks rather than growth stocks. Screening for high dividend
+payout ratios would tend to identiFY mature firms with relatively few growth
+opportunities.
+5. An analyst needs to compare the financial statements of Firm X and Firm Y.
+Which of the following differences in the two firms' financial reporting is least
+likely to require the analyst to make an adjustment?
+Firm X
+A. Straight-line depreciation
+B. Direct method cash flows
+C. IFRS financial reporting
+Firm Y
+Accelerated depreciation
+Indirect method cash flows
+U.S. GAAP financial reporting
+Cash flows are the same under either method. Differences in depreciation
+methods and IFRS versus U.S. GAAP reporting can require an analyst to adjust
+financial statements to make them comparable.
+6. When comparing a firm that uses LIFO inventory accounting to firms that use
+FIFO, an analyst should:
+A. subtract the LIFO reserve from cost of sales.
+B. add the change in the LIFO reserve to inventories.
+C. subtract the change in the LIFO reserve from cost of sales.
+To adjust LIFO financial statement data to a FIFO basis, add the LIFO reserve to
+inventories on the balance sheet and subtract the change in the LIFO reserve
+from cost of sales on the income statement. Remember that the balance sheet
+is cumulative (use the full LIFO reserve) while the income statement refers to
+the most recent PEriod (use the change for the PEriod in the LIFO reserve).
+7. The ratio of a firm's proPErty, plant, and equipment, net of accumulated
+depreciation, to its annual depreciation exPEnse is best interpreted as an
+estimate of the:
+A. average age of the firm's assets.
+B. average useful life of the firm's assets.
+C. remaining useful life of the firm's assets.
+Remaining useful life = net PP&E / depreciation exPEnse.
+Average age of assets = accumulated depreciation / depreciation exPEnse.
+Average useful life = gross PP&E / depreciation exPEnse.
+8. How should an analyst most appropriately adjust the financial statements of a
+firm that uses oPErating leases to finance its plant and equipment?
+A. Increase liabilities.
+B. Decrease long-lived assets.
+C. Decrease shareholders' equity.
+The appropriate adjustment for oPErating leases is to treat them as if they
+were capital leases by estimating the present value of the future lease
+obligations and adding that value to the firm's liabilities and long-lived assets.
+SELF-TEST ASSESSMENT: FINANCIAL REPORTING AND ANALYSIS
+You have now finished the Financial Reporting and Analysis topic SECtion. The following
+Self-Test Assessment provides immediate feedback on how effective your study has
+been for this material. The number of questions on this test is equal to the number of
+questions for the topic on one-half of the actual Level I CFA exam. Questions are more
+exam-like than typical Concept Checkers or QBank questions; a score of less than 70%
+indicates that your study likely needs improvement. These tests are best taken timed;
+allow 1.5 minutes PEr question.
+After you've completed this Self-Test, you may additionally log in to your Schweser.com
+online account and enter your answers in the Self-Test Assessments product. Select
+"PErformance Tracker" to view a breakdown of your score. Select "Compare with
+Others" to display how your score on the Self-Test compares to the scores of others
+who entered their answers.
+1. The fundamental qualitative characteristics of financial statements as
+described by the IASB conceptual framework least likely include:
+A. relevance.
+B. reliability.
+C. faithful representation.
+2. A decrease in a firm's inventory turnover ratio is most likely to result from:
+A. a write-down of inventory.
+B. goods in inventory becoming obsolete.
+C. decreasing purchases in a PEriod of stable sales.
+3. Two firms are identical except that the fIRSt pays higher interest charges and
+lower dividends, while the SECond pays higher dividends and lower interest
+charges. Both prepare their financial statements under U.S. GAAP. Compared
+to the fIRSt, the SECond will have cash flow from financing (CFF) and earnings
+PEr share (EPS) that are:
+CFF
+A. The same
+B. Lower
+C. Lower
+EPS
+Higher
+Higher
+The same
+4. Which of the following is an analyst least likely to be able to find on or calculate
+from either a common-size income statement or a common-size balance
+sheet?
+A. Inventory turnover.
+B. OPErating profit margin.
+C. Debt-to-equity ratio.
+5. If a firm's inventory turnover and number of days of payables both increase,
+the effect on a firm's cash conversion cycle is:
+A. to shorten it.
+B. to lengthen it.
+C. uncertain.
+6. The following information is summarized from Famous, Inc.'s financial
+statements for the year, which ended December 31, 20X0:
+Sales were $800,000.
+Net profit margin was 20%.
+Sales to assets was 50%.
+Equity multiplier wass 1.6.
+Interest exPEnse was $30,000.
+Dividends declared were $32,000.
+Famous, Inc.'s sustainable growth rate based on results from this PEriod is
+closest to:
+A. 3.2%.
+B. 8.0%.
+C. 12.8%.
+7. On January 1, Orange Computers issued employee stock options for 400,000
+shares. Options on 200,000 shares have an exercise price of $18, and options
+on the other 200,000 shares have an exercise price of $22. The year-end stock
+price was $24, and the average stock price over the year was $20. The change
+in the number of shares used to calculate diluted earnings PEr share for the
+year due to these options is closest to:
+A. 20,000 shares.
+B. 67,000 shares.
+C. 100,000 shares.
+8. A snowmobile manufacturer that uses LIFO begins the year with an inventory
+of 3,000 snowmobiles, at a carrying cost of $4,000 each. In January, the
+company sells 2,000 snowmobiles at a price of $10,000 each. In July, the
+company adds 4,000 snowmobiles to inventory at a cost of $5,000 each.
+Compared to using a PErPEtual inventory system, using a PEriodic system for
+the firm's annual financial statements would:
+A. increase COGS by $2,000,000.
+B. leave ending inventory unchanged.
+C. decrease gross profit by $4,000,000.
+9. Which of the following is least likely to result in low-quality financial
+statements?
+A. Unsustainable cash flows.
+B. Activities that manage earnings.
+C. Conservative accounting choices.
+10. Train Company paid $8,000,000 to acquire a franchise at the beginning of 20X5
+that was exPEnsed in 20X5. If Train had elected to capitalize the franchise as an
+intangible asset and amortize the cost of the franchise over eight years, what
+effect would this decision have on Train's 20X5 cash flow from oPErations
+(CFO) and 20X6 debt-to-assets ratio?
+A. Both would be higher with capitalization.
+B. Both would be lower with capitalization.
+C. One would be higher and one would be lower with capitalization.
+11. Graphics, Inc. has a deferred tax asset of $4,000,000 on its books. As of
+December 31, it is probable that $2,000,000 of the deferred tax asset's value
+will never be realized because of the uncertainty about future income. Under
+U.S. GAAP, Graphics, Inc. should:
+A. reduce the deferred tax asset account by $2,000,000.
+B. establish a valuation allowance of $2,000,000.
+C. establish an offsetting deferred tax liability of $2,000,000.
+12. Long-lived assets cease to be depreciated when the firm's management
+decides to dispose of the assets by:
+A. sale.
+B. abandonment.
+C. exchange for another asset.
+13. If Lizard Inc., a lessee, treats a 5-year lease as a finance lease with straight-line
+depreciation rather than as an oPErating lease:
+A. it will have greater equity at lease inception.
+B. its oPErating income will be less in the fIRSt year of the lease.
+C. its CFO will be greater and CFF will be less in the SECond year of the
+lease.
+14. In the notes to its financial statements, Gilbert Company discloses a EUR400,000
+reversal of an earlier write-down of inventory values, which increases this
+inventory's carrying value to EUR2,000,000. It is most likely that:
+A. the reasons for this reversal are also disclosed.
+B. a gain of EUR400,000 apPEars on the income statement.
+C. the net realizable value of this inventory is EUR2,000,000.
+15. Taking an impairment charge due to a decrease in the value of a long-lived
+depreciable asset is least likely, in the PEriod the impairment is recognized, to
+reduce a firm's:
+A. net income.
+B. oPErating income.
+C. taxes payable.
+16. Under U.S. GAAP, firms are required to capitalize:
+A. any asset with a useful economic life of more than 1 year.
+B. interest paid on loans to finance construction of a long-lived asset.
+C. research and development costs for a drug that will almost certainly
+provide a revenue stream of 5 years or more.
+17. If a firm's management wishes to use its discretion to increase oPErating cash
+flows, it is most likely to:
+A. capitalize an exPEnse.
+B. decrease the allowance for uncollectible accounts.
+C. change delivery terms from FOB destination to FOB shiPPIng point.
+18. A firm that purchases a building that it intends to rent out for income would
+report this asset as investment proPErty under:
+A. U.S. GAAP only.
+B. IFRS only.
+C. both U.S. GAAP and IFRS.
+19. When a company redeems bonds before they mature, the gain or loss on debt
+extinguishment is calculated as the bonds' carrying amount minus the:
+A. face or par value of the bonds.
+B. amount required to redeem the bonds.
+C. amortized historical cost of the bonds.
+20. Victory Corp. received interest income from tax-exempt bonds of $40,000 in
+the year 20X0. Its statutory tax rate is 40%. The effect of this difference
+between taxable and pre-tax income is most likely :
+A. a decrease in its effective tax rate to below 40%.
+B. an increase in its deferred tax asset of $16,000.
+C. an increase in its deferred tax liability of $16,000.
+21. Under a defined contribution PEnsion plan, which of the following is recognized
+as a PEnsion exPEnse?
+A. Actuarial gains and losses.
+B. PEriodic contributions to the plan.
+C. Service costs incurred during the PEriod.
+22. Which of the following terms from the extended DuPont equation would an
+analyst least likely be able to obtain, given only a company's common-size
+income statement and common-size balance sheet? The company's:
+A. EBIT margin.
+B. asset turnover.
+C. financial leverage.
+23. An analyst is comparing two firms, one that reports under IFRS and one that
+reports under U.S. GAAP. An analyst is least likely to do which of the following
+to facilitate a comparison of the companies?
+A. Add the LIFO reserve to inventory for a United States-based firm that
+uses LIFO.
+B. Add the present values of each firm's future minimum oPErating lease
+payments to both assets and liabilities.
+C. Adjust the income statement of one of the firms if both have significant
+unrealized gains or losses from changes in the fair values of trading
+SECurities.
+24. An analyst wants to compare the cash flows of two United States companies,
+one that reports cash flow using the direct method and one that reports it
+using the indirect method. The analyst is most likely to:
+A. convert the indirect statement to the direct method to compare the
+firms' cash exPEnditures.
+B. adjust the reported CFO of the firm that reports under the direct method
+for depreciation and amortization exPEnse.
+C. increase CFI for any dividends reported as investing cash flows by the
+firm reporting cash flow by the direct method.
+SELF-TEST ASSESSMENT ANSWERS: FINANCIAL REPORTING AND ANALYSIS
+1. The fundamental qualitative characteristics of financial statements as
+described by the IASB conceptual framework least likely include:
+A. relevance.
+B. reliability.
+C. faithful representation.
+The fundamental qualitative characteristics of financial statements according
+to the IASB are relevance and faithful representation.
+(Study Session 6, LOS 23.d)
+2. A decrease in a firm's inventory turnover ratio is most likely to result from:
+A. a write-down of inventory.
+B. goods in inventory becoming obsolete.
+C. decreasing purchases in a PEriod of stable sales.
+Obsolescence can cause goods in inventory to remain unsold, which tends to
+reduce the inventory turnover ratio (COGS / average inventory). Write-downs
+of inventory increase the inventory turnover ratio by decreasing the
+denominator. If purchases decrease while sales remain stable, inventory
+decreases, which increases the inventory turnover ratio.
+(Study Session 7, LOS 27.b)
+3. Two firms are identical except that the fIRSt pays higher interest charges and
+lower dividends, while the SECond pays higher dividends and lower interest
+charges. Both prepare their financial statements under U.S. GAAP. Compared
+to the fIRSt, the SECond will have cash flow from financing (CFF) and earnings
+PEr share (EPS) that are:
+CFF
+A. The same
+B. Lower
+C. Lower
+EPS
+Higher
+Higher
+The same
+Interest paid is an oPErating cash flow, and dividends paid are a financing cash
+flow, so the firm that pays higher dividends will have lower CFF. The firm with
+lower interest exPEnse will have higher EPS.
+(Study Session 7, LOS 26.e)
+4. Which of the following is an analyst least likely to be able to find on or
+calculate from either a common-size income statement or a common-size
+balance sheet?
+A. Inventory turnover.
+B. OPErating profit margin.
+C. Debt-to-equity ratio.
+Inventory turnover involves sales (from the income statement) and average
+inventory (from the balance sheet), so it cannot be calculated from commonsize statements. Debt to equity is debt/assets divided by equity/assets.
+OPErating profits/sales can be read directly from the common-size income
+statement.
+(Study Session 7, LOS 27.a)
+5. If a firm's inventory turnover and number of days of payables both increase,
+the effect on a firm's cash conversion cycle is:
+A. to shorten it.
+B. to lengthen it.
+C. uncertain.
+Cash conversion cycle = collection PEriod + inventory PEriod - payables
+PEriod.
+An increase in inventory turnover will decrease the inventory PEriod and
+shorten the cash conversion cycle. An increase in the payables PEriod will also
+shorten the cash conversion cycle.
+(Study Session 7, LOS 27.b)
+6. The following information is summarized from Famous, Inc.'s financial
+statements for the year, which ended December 31, 20X0:
+Sales were $800,000.
+Net profit margin was 20%.
+Sales to assets was 50%.
+Equity multiplier wass 1.6.
+Interest exPEnse was $30,000.
+Dividends declared were $32,000.
+Famous, Inc.'s sustainable growth rate based on results from this PEriod is
+closest to:
+A. 3.2%.
+B. 8.0%.
+C. 12.8%.
+Famous, Inc.'s sustainable growth rate = (retention rate)(ROE).
+ROE = 0.20(800,000) / [(800,000 / 0.5)(1 / 1.6)] = 160,000 / 1,000,000 = 16%.
+Alternatively:
+ROE = (0.20)(0.50)(1.6) = 0.16 = 16%
+Retention rate = (1 - dividend payout ratio) = 1 - {32,000 / [(0.20)(800,000)]} =
+0.80.
+Sustainable growth = 0.80 (16%) = 12.8%.
+(Study Session 6, LOS 27.e)
+7. On January 1, Orange Computers issued employee stock options for 400,000
+shares. Options on 200,000 shares have an exercise price of $18, and options
+on the other 200,000 shares have an exercise price of $22. The year-end stock
+price was $24, and the average stock price over the year was $20. The change
+in the number of shares used to calculate diluted earnings PEr share for the
+year due to these options is closest to:
+A. 20,000 shares.
+B. 67,000 shares.
+C. 100,000 shares.
+Based on the average stock price, only the options at 18 are in the money (and
+therefore dilutive). Using the treasury stock method, the average shares
+outstanding for calculating diluted EPS would increase by [(20 - 18) / 20]
+200,000 = 20,000 shares.
+(Study Session 7, LOS 24.h)
+8. A snowmobile manufacturer that uses LIFO begins the year with an inventory
+of 3,000 snowmobiles, at a carrying cost of $4,000 each. In January, the
+company sells 2,000 snowmobiles at a price of $10,000 each. In July, the
+company adds 4,000 snowmobiles to inventory at a cost of $5,000 each.
+Compared to using a PErPEtual inventory system, using a PEriodic system for
+the firm's annual financial statements would:
+A. increase COGS by $2,000,000.
+B. leave ending inventory unchanged.
+C. decrease gross profit by $4,000,000.
+Under a PErPEtual inventory system, the snowmobiles sold in January are
+associated with the $4,000 cost of the beginning inventory. Cost of sales is
+$8,000,000, gross profit is $12,000,000, and end-of-year inventory is
+$24,000,000. Under a PEriodic inventory system, the snowmobiles sold in
+January would be associated with the $5,000 cost of the snowmobiles
+manufactured in July. Cost of sales would be higher by $2,000,000, gross
+profit would be lower by $2,000,000, and ending inventory would be lower by
+$2,000,000.
+(Study Session 8, LOS 28.c)
+9. Which of the following is least likely to result in low-quality financial
+statements?
+A. Unsustainable cash flows.
+B. Activities that manage earnings.
+C. Conservative accounting choices.
+Even if earnings or cash flows are unsustainable (i.e., low quality), the firm's
+financial statements can still be high quality. Conservative accounting choices
+are considered to be biased compared to the ideal of neutral accounting
+choices. Earnings management is viewed as reducing the quality of a firm's
+financial statements.
+(Study Session 9, LOS 32.a)
+10. Train Company paid $8,000,000 to acquire a franchise at the beginning of
+20X5 that was exPEnsed in 20X5. If Train had elected to capitalize the
+franchise as an intangible asset and amortize the cost of the franchise over
+eight years, what effect would this decision have on Train's 20X5 cash flow
+from oPErations (CFO) and 20X6 debt-to-assets ratio?
+A. Both would be higher with capitalization.
+B. Both would be lower with capitalization.
+C. One would be higher and one would be lower with capitalization.
+If the cost were amortized rather than exPEnsed, the $8 million cost of the
+franchise would be classified as an investing cash flow rather than an
+oPErating cash flow, so CFO would increase (and CFI decrease). The asset
+created by capitalizing the cost would increase assets, so the debt-to-assets
+ratio would decrease.
+(Study Session 8, LOS 29.c)
+11. Graphics, Inc. has a deferred tax asset of $4,000,000 on its books. As of
+December 31, it is probable that $2,000,000 of the deferred tax asset's value
+will never be realized because of the uncertainty about future income. Under
+U.S. GAAP, Graphics, Inc. should:
+A. reduce the deferred tax asset account by $2,000,000.
+B. establish a valuation allowance of $2,000,000.
+C. establish an offsetting deferred tax liability of $2,000,000.
+If it becomes probable that a portion of a deferred tax asset will not be
+realized, a valuation allowance should be established. A valuation allowance
+serves to reduce the value of a deferred tax asset for the probability that it
+will not be realized (the difference between tax payable and income tax
+exPEnse will not reverse in future PEriods).
+(Study Session 8, LOS 30.g)
+12. Long-lived assets cease to be depreciated when the firm's management
+decides to dispose of the assets by:
+A. sale.
+B. abandonment.
+C. exchange for another asset.
+Under both IFRS and U.S. GAAP, long-lived assets that are reclassified as held
+for sale cease to be depreciated. Long-lived assets that are to be abandoned
+or exchanged are classified as held for use until disposal and continue to be
+depreciated.
+(Study Session 8, LOS 29.j)
+13. If Lizard Inc., a lessee, treats a 5-year lease as a finance lease with straight-line
+depreciation rather than as an oPErating lease:
+A. it will have greater equity at lease inception.
+B. its oPErating income will be less in the fIRSt year of the lease.
+C. its CFO will be greater and CFF will be less in the SECond year of the
+lease.
+With a finance lease, only the interest portion of the lease payment is
+classified as CFO, so CFO will be greater than it would be with an equivalent
+oPErating lease. CFF will be less for a finance lease because the principal
+portion of each lease payment is classified as a financing cash outflow.
+OPErating income (EBIT) will be reduced only by the (equal) annual
+depreciation exPEnse with a finance lease, so oPErating income will be greater
+for a finance lease than for an oPErating lease (for which the entire lease
+payment will be an oPErating exPEnse). At inception, a finance lease will
+increase assets and liabilities by the same amount so there is no effect on
+equity.
+(Study Session 8, LOS 31.g)
+14. In the notes to its financial statements, Gilbert Company discloses a EUR400,000
+reversal of an earlier write-down of inventory values, which increases this
+inventory's carrying value to EUR2,000,000. It is most likely that:
+A. the reasons for this reversal are also disclosed.
+B. a gain of EUR400,000 apPEars on the income statement.
+C. the net realizable value of this inventory is EUR2,000,000.
+Required disclosures related to inventories under IFRS include the amount of
+any reversal of previous write-downs and the circumstances that led to the
+reversal. Under IFRS, the reversal of an inventory write-down is not
+recognized as a gain, but instead as a reduction in the cost of sales for the
+PEriod. From only the information given, we cannot conclude that the net
+realizable value of the inventory is EUR2,000,000. This value may be the original
+cost of the inventory.
+(Study Session 8, LOS 28.i)
+15. Taking an impairment charge due to a decrease in the value of a long-lived
+depreciable asset is least likely, in the PEriod the impairment is recognized, to
+reduce a firm's:
+A. net income.
+B. oPErating income.
+C. taxes payable.
+Impairment charges reduce oPErating income and net income in the PEriod of
+the charge. Taxes are not affected because any loss in asset value will reduce
+taxes only when the asset is disposed of and the loss is actually realized. The
+debt-to-equity ratio increases in the PEriod of the charge because equity is
+reduced.
+(Study Session 8, LOS 29.i)
+16. Under U.S. GAAP, firms are required to capitalize:
+A. any asset with a useful economic life of more than 1 year.
+B. interest paid on loans to finance construction of a long-lived asset.
+C. research and development costs for a drug that will almost certainly
+provide a revenue stream of 5 years or more.
+Interest on loans that sPEcifically fund construction of long-lived assets must
+be capitalized under U.S. GAAP. Assets of insignificant value (e.g., metal waste
+basket) are typically exPEnsed even when their useful lives are many years.
+R&D costs are exPEnsed under U.S. GAAP.
+(Study Session 8, LOS 29.a)
+17. If a firm's management wishes to use its discretion to increase oPErating cash
+flows, it is most likely to:
+A. capitalize an exPEnse.
+B. decrease the allowance for uncollectible accounts.
+C. change delivery terms from FOB destination to FOB shiPPIng point.
+By capitalizing a purchase instead of recognizing it as an exPEnse in the
+current PEriod, a firm increases oPErating cash flow by classiFYing the cash
+outflow as CFI rather than CFO. Decreasing the allowance for uncollectible
+accounts or changing delivery terms for shipments from FOB destination to
+FOB shiPPIng point would increase earnings but would not affect oPErating
+cash flows.
+(Study Session 9, LOS 32.h)
+18. A firm that purchases a building that it intends to rent out for income would
+report this asset as investment proPErty under:
+A. U.S. GAAP only.
+B. IFRS only.
+C. both U.S. GAAP and IFRS.
+Under IFRS, the building is classified as investment proPErty. U.S. GAAP does
+not distinguish investment proPErty from other tyPEs of long-lived assets.
+(Study Session 8, LOS 29.n)
+19. When a company redeems bonds before they mature, the gain or loss on debt
+extinguishment is calculated as the bonds' carrying amount minus the:
+A. face or par value of the bonds.
+B. amount required to redeem the bonds.
+C. amortized historical cost of the bonds.
+Under IFRS, when a company redeems bonds before they mature, the
+company records a gain or loss equal to the bonds' carrying amount minus the
+cash amount required to redeem the bonds.
+(Study Session 8, LOS 31.c)
+20. Victory Corp. received interest income from tax-exempt bonds of $40,000 in
+the year 20X0. Its statutory tax rate is 40%. The effect of this difference
+between taxable and pre-tax income is most likely :
+A. a decrease in its effective tax rate to below 40%.
+B. an increase in its deferred tax asset of $16,000.
+C. an increase in its deferred tax liability of $16,000.
+The receipt of the tax-exempt interest income will create a PErmanent
+difference between pretax income and taxable income. Since the tax-free
+interest increases pre-tax income, but not income tax exPEnse, the effective
+tax rate will be less than 40%. No deferred tax liability is created because the
+difference between pretax and taxable income will never reverse.
+(Study Session 8, LOS 30.f)
+21. Under a defined contribution PEnsion plan, which of the following is
+recognized as a PEnsion exPEnse?
+A. Actuarial gains and losses.
+B. PEriodic contributions to the plan.
+C. Service costs incurred during the PEriod.
+Under a defined contribution PEnsion plan, a company's only PEnsion
+exPEnses are the predetermined contributions required to be made to the
+plan for the PEriod.
+(Study Session 8, LOS 31.j)
+22. Which of the following terms from the extended DuPont equation would an
+analyst least likely be able to obtain, given only a company's common-size
+income statement and common-size balance sheet? The company's:
+A. EBIT margin.
+B. asset turnover.
+C. financial leverage.
+Asset turnover--revenue/assets --requires an item from the income
+statement and an item from the balance sheet, so this ratio cannot be
+obtained from the common-size statements. The EBIT margin--EBIT/revenue
+(or sales)--would be on a common-size income statement. Financial leverage
+--assets/equity--is the reciprocal of equity/assets, which would be shown on
+a common-size balance sheet.
+(Study Session 7, LOS 24.j, 25.g, 27.d)
+23. An analyst is comparing two firms, one that reports under IFRS and one that
+reports under U.S. GAAP. An analyst is least likely to do which of the following
+to facilitate a comparison of the companies?
+A. Add the LIFO reserve to inventory for a United States-based firm that
+uses LIFO.
+B. Add the present values of each firm's future minimum oPErating lease
+payments to both assets and liabilities.
+C. Adjust the income statement of one of the firms if both have
+significant unrealized gains or losses from changes in the fair values of
+trading SECurities.
+Unrealized gains and losses on trading SECurities are reported in the income
+statement under both U.S. and IFRS standards. Since LIFO is not PErmitted
+under IFRS, adjusting the inventory amount for a LIFO firm is a likely
+adjustment. To account for differences in how companies report leases,
+adding the present value of future minimum oPErating lease payments to
+both the assets and liabilities of a firm will remove the effects of lease
+reporting methods from solvency and leverage ratios.
+(Study Session 9, LOS 33.e)
+24. An analyst wants to compare the cash flows of two United States companies,
+one that reports cash flow using the direct method and one that reports it
+using the indirect method. The analyst is most likely to:
+A. convert the indirect statement to the direct method to compare the
+firms' cash exPEnditures.
+B. adjust the reported CFO of the firm that reports under the direct
+method for depreciation and amortization exPEnse.
+C. increase CFI for any dividends reported as investing cash flows by the
+firm reporting cash flow by the direct method.
+By converting a cash flow statement to the direct method, an analyst can view
+cash exPEnses and receipts by category, which will facilitate a comparison of
+two firms' cash outlays and receipts. CFO is correct under either method and
+requires no adjustment. Neither dividends received nor dividends paid are
+classified as CFI under U.S. GAAP.

@@ -1,0 +1,477 @@
+UNDERSTANDING INCOME STATEMENTS
+Study Session 7
+EXAM FOCUS
+Now we're getting to the heart of the matter. Since forecasts of future earnings, and
+therefore estimates of firm value, dePEnd crucially on understanding a firm's income
+statement, everything in this topic review is important. Some of the items requiring
+calculation include depreciation, COGS, and inventory under different cost flow
+assumptions, as well as basic and diluted EPS. The separation of items into oPErating
+and non-oPErating categories is important when estimating recurring income as a fIRSt
+step in forecasting future firm earnings. Note that questions regarding the effect on
+financial ratios of the choice of accounting method and of accounting estimates are
+one common way to test your understanding of the material on those topics presented
+here.
+INCOME STATEMENT COMPONENTS AND FORMAT
+The income statement reports the revenues and exPEnses of the firm over a PEriod of
+time. The income statement is sometimes referred to as the "statement of
+oPErations," the "statement of earnings," or the "profit and loss statement." The
+income statement equation is:
+revenues - exPEnses = net income
+Under IFRS, the income statement can be combined with "other comprehensive
+income" and presented as a single statement of comprehensive income. Alternatively,
+the income statement and the statement of comprehensive income can be presented
+separately. Presentation is similar under U.S. GAAP.
+Investors examine a firm's income statement for valuation purposes while lenders
+examine the income statement for information about the firm's ability to make the
+promised interest and principal payments on its debt.
+LOS 24.a: Describe the components of the income statement and alternative
+presentation formats of that statement.
+Revenues are the amounts reported from the sale of goods and services in the normal
+course of business. Revenue less adjustments for estimated returns and allowances is
+known as net revenue.
+CFA(r) Program Curriculum, Volume 3, page 151
+Professor's Note: The terms "revenue" and "sales" are sometimes used synonymously. However,
+sales is just one component of revenue in many firms. In some countries, revenues are referred to
+as "turnover."
+ExPEnses are the amounts incurred to generate revenue and include cost of goods
+sold, oPErating exPEnses, interest, and taxes. ExPEnses are grouPEd together by their
+nature or function. Presenting all depreciation exPEnse from manufacturing and
+administration together in one line of the income statement is an example of grouping
+by nature of the exPEnse. Combining all costs associated with manufacturing (e.g., raw
+materials, depreciation, labor, etc.) as cost of goods sold is an example of grouping by
+function. Grouping exPEnses by function is sometimes referred to as the cost of sales
+method.
+Professor's Note: Firms can present columnar data in chronological order from left-to-right or
+vice versa. Also, some firms present exPEnses as negative numbers while other firms use
+parentheses to signiFY exPEnses. Still other firms present exPEnses as positive numbers with the
+assumption that users know that exPEnses are subtracted in the income statement. Watch for
+these different treatments on the exam.
+The income statement also includes gains and losses, which result in an increase
+(gains) or decrease (losses) of economic benefits. Gains and losses may or may not
+result from ordinary business activities. For example, a firm might sell surplus
+equipment used in its manufacturing oPEration that is no longer needed. The
+difference between the sales price and book value is reported as a gain or loss on the
+income statement. Summarizing, net income is equal to income (revenues + gains)
+minus exPEnses (including losses). Thus, the components can be rearranged as follows:
+net income = revenues - ordinary exPEnses + other income - other exPEnse +
+gains - losses
+If a firm has a controlling interest in a subsidiary, the pro rata share of the subsidiary's
+income not owned by the parent is reported in parent's income statement as the
+noncontrolling interest (also known as minority interest or minority owners'
+interest). The noncontrolling interest is subtracted in arriving at net income because
+the parent is reporting all of the subsidiary's revenue and exPEnse.
+Presentation Formats
+A firm can present its income statement using a single-step or multi-step format. In a
+single-step statement, all revenues are grouPEd together and all exPEnses are grouPEd
+together. A multi-step format includes gross profit, revenues minus cost of goods sold.
+Figure 1 is an example of a multi-step income statement format for the BHG Company.
+Figure 1: Multi-Step Income Statement
+BHG Company Income Statement
+For the year ended December 31, 20X7
+Revenue
+Cost of goods sold
+Gross profit
+Selling, general, and administrative exPEnse
+Depreciation exPEnse
+OPErating profit
+Interest exPEnse
+Income before tax
+Provision for income taxes
+Income from continuing oPErations
+Earnings (losses) from discontinued oPErations, net of tax
+Net income
+$579,312
+(362,520)
+216,792
+(109,560)
+(69,008)
+38,224
+(2,462)
+35,762
+(14,305)
+21,457
+1,106
+$22,563
+Gross profit is the amount that remains after the direct costs of producing a product or
+service are subtracted from revenue. Subtracting oPErating exPEnses, such as selling,
+general, and administrative exPEnses, from gross profit results in another subtotal
+known as oPErating profit or oPErating income. For nonfinancial firms, oPErating profit
+is profit before financing costs, income taxes, and non-oPErating items are considered.
+Subtracting interest exPEnse and income taxes from oPErating profit results in the
+firm's net income, sometimes referred to as "earnings" or the "bottom line."
+Professor's Note: Interest exPEnse is usually considered an oPErating exPEnse for financial firms.
+LOS 24.b: Describe general principles of revenue recognition and accrual accounting,
+sPEcific revenue recognition applications (including accounting for long-term
+contracts, installment sales, barter transactions, gross and net reporting of revenue),
+and implications of revenue recognition principles for financial analysis.
+LOS 24.c: Calculate revenue given information that might influence the choice of
+revenue recognition method.
+CFA(r) Program Curriculum, Volume 3, page 155
+Under the accrual method of accounting, revenue is recognized when earned and
+exPEnses are recognized when incurred. The important point to remember is that
+accrual accounting does not necessarily coincide with the receipt or payment of cash.
+Consequently, firms can manipulate net income by recognizing revenue earlier or later
+or by delaying or accelerating the recognition of exPEnses.
+According to the International Accounting Standards Board (IASB), revenue is
+recognized from the sale of goods when:1
+1. The risk and reward of ownership is transferred.
+2. There is no continuing control or management over the goods sold.
+3. Revenue can be reliably measured.
+4. There is a probable flow of economic benefits.
+5. The cost can be reliably measured.
+For services rendered, revenue is recognized when:2
+1. The amount of revenue can be reliably measured.
+2. There is a probable flow of economic benefits.
+3. The stage of completion can be measured.
+4. The cost incurred and cost of completion can be reliably measured.
+According to the Financial Accounting Standards Board (FASB), revenue is recognized in
+the income statement when (a) realized or realizable and (b) earned.3 The SECurities
+and Exchange Commission (SEC) provides additional guidance by listing four criteria to
+determine whether revenue should be recognized:4
+1. There is evidence of an arrangement between the buyer and seller.
+2. The product has been delivered or the service has been rendered.
+3. The price is determined or determinable.
+4. The seller is reasonably sure of collecting money.
+If a firm receives cash before revenue recognition is complete, the firm reports it as
+unearned revenue. Unearned revenue is reported on the balance sheet as a liability.
+The liability is reduced in the future as the revenue is earned. For example, a magazine
+publisher typically receives subscription payments in advance of delivery. When
+payments are received, both assets (cash) and liabilities (unearned revenue) increase.
+As the magazines are delivered, the publisher recognizes revenue on the income
+statement and the liability is reduced.
+SPEcific Revenue Recognition Applications
+Revenue is usually recognized at delivery using the revenue recognition criteria
+previously discussed. However, in some cases, revenue may be recognized before
+delivery occurs or even after delivery takes place.
+Long-Term Contracts
+The PErcentage-of-completion method and the completed-contract method are used
+for contracts that extend beyond one accounting PEriod, often contracts related to
+construction projects.
+In certain cases involving service contracts or licensing agreements, the firm may
+simply recognize revenue equally over the term of the contract or agreement.
+When the outcome of a long-term contract can be reliably estimated, the PErcentageof-completion method is used under both IFRS and U.S. GAAP. Accordingly, revenue,
+exPEnse, and therefore profit, are recognized as the work is PErformed. The
+PErcentage of completion is measured by the total cost incurred to date divided by the
+total exPEcted cost of the project.
+Under International Financial Reporting Standards (IFRS), if the firm cannot reliably
+measure the outcome of the project, revenue is recognized to the extent of contract
+costs, costs are exPEnsed when incurred, and profit is recognized only at completion.
+Under U.S. GAAP, the completed-contract method is used when the outcome of the
+project cannot be reliably estimated. Accordingly, revenue, exPEnse, and profit are
+recognized only when the contract is complete.
+If a loss is exPEcted, the loss must be recognized immediately under IFRS and
+U.S. GAAP.
+The effect of using these different revenue recognition methods for long-term
+contracts on the income statement is illustrated in the following examples.
+Example: Revenue recognition for long-term contracts
+Assume that AAA Construction Corp. has a contract to build a ship for $1,000 and a reliable estimate of
+the contract's total cost is $800. Project costs incurred by AAA are as follows:
+AAA Project Costs
+Determine AAA's net income from this project for each year using the PErcentage-of-completion and
+completed contract methods in accordance with U.S. GAAP.
+Answer:
+Since one-half of the total contract cost [$400 / $800] was incurred during 20X5, the project was 50%
+complete at year-end. Under the PErcentage-of-completion method, 20X5 revenue is $500 [$1,000 x 50%].
+ExPEnses (cost incurred) were $400; thus, net income for 20X5 was $100 [$500 revenue - $400 exPEnse].
+At the end of 20X6, the project is 87.5% complete [($400 + $300) / $800]. Revenue to date should total
+$875 [$1,000 x 87.5%]. Since AAA already recognized $500 of revenue in 20X5, 20X6 revenue is $375
+[$875 - $500]. 20X6 exPEnses were $300 so 20X6 net income was $75 [$375 revenue - $300 exPEnse].
+At the end of 20X7, the project is 100% complete [($400 + $300 +$100) / $800]. Revenue to date should
+total $1,000 [$1,000 x 100%]. Since AAA already recognized $875 of revenue in 20X5 and 20X6, 20X7
+revenue is $125 [$1,000 - $875]. 20X7 exPEnses were $100 so 20X7 net income was $25 [$125 revenue -
+$100 exPEnse].
+The table below summarizes the AAA's revenue, exPEnse, and net income over the term of project under
+the PErcentage-of-completion method.
+AAA Income Statements
+Under the completed contract method, revenue, exPEnses, and profit are not recognized until the contract
+is complete. Therefore, at the end of 20X7, AAA reports revenue of $1,000, exPEnse of $800, and net
+income of $200.
+Example: Long-term contracts under IFRS
+Using the data from the previous example, determine AAA's net income from this project each year in
+accordance with IFRS.
+Answer:
+If the outcome of the project can be reliably estimated, the results under the PErcentage-of-completion
+method would be identical to U.S. GAAP. If the outcome cannot be reliably estimated, revenues would be
+recognized only to the extent of costs incurred in 20X5 and 20X6. The remainder of the revenue, and all of
+the profit, is recognized in 20X7 as follows:
+AAA Income Statements
+As compared to the completed contract method, the PErcentage-of-completion
+method is more aggressive since revenue is reported sooner. Also, the PErcentage-ofcompletion method is more subjective because it involves cost estimates. However,
+the PErcentage-of-completion method provides smoother earnings and results in
+better matching of revenues and exPEnses over time. Cash flows are the same under
+both methods.
+Installment Sales
+An installment sale occurs when a firm finances a sale and payments are exPEcted to
+be received over an extended PEriod. Under U.S. GAAP, if collectibility is certain,
+revenue is recognized at the time of sale using the normal revenue recognition criteria.
+If collectibility cannot be reasonably estimated, the installment method is used. If
+collectibility is highly uncertain, the cost recovery method is used.
+Under the installment method, profit is recognized as cash is collected. Profit is equal
+to the cash collected during the PEriod multiplied by the total exPEcted profit as a
+PErcentage of sales. Under the cost recovery method, profit is recognized only when
+cash collected exceeds costs incurred. Both the installment and cost recovery methods
+are typically used only for sales of real estate.
+The effects of using the installment and the cost recovery methods are illustrated in
+the following example.
+Example: Revenue recognition under the installment method
+Assume that BBB ProPErty Corp. sells a piece of land for $1,000. The original cost of the land was $800.
+Collections received by BBB for the sale are as follows:
+BBB Installment Collections
+Determine BBB's profit under the installment and cost recovery methods.
+Answer:
+Total exPEcted profit as a PErcentage of sales is 20% [($1,000 - $800) / $1,000]. Under the installment
+method, BBB will report profit in 20X5 and 20X6 of $80 [$400 x 20%] each year. In 20X7, BBB will report
+profit of $40 [$200 x 20%].
+Under the cost recovery method, the collections received during 20X5 and 20X6 are applied to the
+recovery of costs. In 20X7, BBB will report $200 of profit.
+Under IFRS, the discounted present value of the installment payments is recognized at
+the time of sale. The difference between the installment payments and the discounted
+present value is recognized as interest over time. If the outcome of the project cannot
+be reliably estimated, revenue recognition under IFRS is similar to the cost recovery
+method.
+Barter Transactions
+In a barter transaction (or non-monetary exchange), two parties exchange goods or
+services without cash payment. A round-trip transaction involves the sale of goods to
+one party with the simultaneous purchase of almost identical goods from the same
+party. The underlying issue with these transactions is whether revenue should be
+recognized. In the late 1990s, several internet companies increased their revenue
+significantly by "buying" equal values of advertising space on each others' websites.
+According to U.S. GAAP, revenue from a barter transaction can be recognized at fair
+value only if the firm has historically received cash payments for such goods and
+services and can use this historical exPErience to determine fair value. Otherwise, the
+revenue is recorded at the carrying value of the asset surrendered.5
+Under IFRS, revenue from barter transactions must be based on the fair value of
+revenue from similar nonbarter transactions with unrelated parties.6
+Gross and Net Reporting of Revenue
+Under gross revenue reporting, the selling firm reports sales revenue and cost of
+goods sold separately. Under net revenue reporting, only the difference in sales and
+cost is reported. While profit is the same, sales are higher using gross revenue
+reporting.
+For example, consider a travel agent who arranges a fIRSt-class ticket for a customer
+flying to Singapore. The ticket price is $10,000, and the travel agent receives a $1,000
+commission. Using gross reporting, the travel agent would report $10,000 of revenue,
+$9,000 of exPEnse, and $1,000 of profit. Using net reporting, the travel agent would
+simply report $1,000 of revenue and no exPEnse.
+The following criteria must be met in order to use gross revenue reporting under
+U.S. GAAP.7 The firm must:
+Be the primary obligor under the contract.
+Bear the inventory risk and credit risk.
+Be able to choose its supplier.
+Have reasonable latitude to establish the price.
+Implications for Financial Analysis
+As noted previously, firms can recognize revenue before delivery, at the time of
+delivery, or after delivery takes place, as appropriate. Different revenue recognition
+methods can be used within the firm. Firms disclose their revenue recognition policies
+in the financial statement footnotes.
+Users of financial information must consider two points when analyzing a firm's
+revenue: (1) how conservative are the firm's revenue recognition policies (recognizing
+revenue sooner rather than later is more aggressive), and (2) the extent to which the
+firm's policies rely on judgment and estimates.
+LOS 24.d: Describe key asPEcts of the converged accounting standards for revenue
+recognition issued by the International Accounting Standards Board and Financial
+Accounting Standards Board in May 2014.
+CFA(r) Program Curriculum, Volume 3, page 168
+In May 2014, IASB and FASB issued converged standards for revenue recognition that
+are currently scheduled go into effect for PEriods beginning after December 15, 2017,
+for U.S. GAAP reporting firms and after January 1, 2018, for IFRS reporting firms. IFRS
+firms may adopt these new standards early. U.S. GAAP firms may adopt them for
+PEriods beginning after December 15, 2016.
+The new standards take a principles-based appROAch to revenue recognition issues.
+The central principle is that a firm should recognize revenue when it has transferred a
+good or service to a customer. This is consistent with the familiar accrual accounting
+principle that revenue should be recognized when earned.
+The converged standards identiFY a five-step process8 for recognizing revenue:
+1. IdentiFY the contract(s) with a customer.
+2. IdentiFY the PErformance obligations in the contract.
+3. Determine the transaction price.
+4. Allocate the transaction price to the PErformance obligations in the contract.
+5. Recognize revenue when (or as) the entity satisfies a PErformance obligation.
+The standard defines a contract as an agreement between two or more parties that
+sPEcifies their obligations and rights. Collectability must be probable for a contract to
+exist, but "probable" is defined differently under IFRS and U.S. GAAP so an identical
+activity could still be accounted for differently by IFRS and U.S. GAAP reporting firms.
+A PErformance obligation is a promise to deliver a distinct good or service. A "distinct"
+good or service is one that meets the following criteria:
+The customer can benefit from the good or service on its own or combined with
+other resources that are readily available.
+The promise to transfer the good or service can be identified separately from
+any other promises.
+A transaction price is the amount a firm exPEcts to receive from a customer in
+exchange for transferring a good or service to the customer. A transaction price is
+usually a fixed amount but can also be variable, for example, if it includes a bonus for
+early delivery. A firm can only include a variable part in a transaction price if the firm is
+almost certain they will not have to reverse it.
+For long-term contracts, revenue is recognized based on a firm's progress toward
+completing a PErformance obligation. This treatment is consistent with the
+PErcentage-of-completion method currently in use, although the new standards do not
+call it that.
+Required disclosures under the converged standards include:
+Contracts with customers by category.
+Assets and liabilities related to contracts, including balances and changes.
+Outstanding PErformance obligations and the transaction prices allocated to
+them.
+Management judgments used to determine the amount and timing of revenue
+recognition, including any changes to those judgments.
+For many transactions, revenue recognition under the converged standards will be
+little changed. Industries that are exPEcted to be affected most are those that often
+sell bundles of goods and services, such as the software and telecommunications
+industries.
+LOS 24.e: Describe general principles of exPEnse recognition, sPEcific exPEnse
+recognition applications, and implications of exPEnse recognition choices for
+financial analysis.
+CFA(r) Program Curriculum, Volume 3, page 172
+ExPEnses are subtracted from revenue to calculate net income. According to the IASB,
+exPEnses are decreases in economic benefits during the accounting PEriod in the form
+of outflows or depletions of assets or incurrence of liabilities that result in decreases in
+equity other than those relating to distributions to equity participants.9
+If the financial statements were prepared on a cash basis, neither revenue recognition
+nor exPEnse recognition would be an issue. The firm would simply recognize cash
+received as revenue and cash payments as exPEnse.
+Under the accrual method of accounting, exPEnse recognition is based on the
+matching principle whereby exPEnses to generate revenue are recognized in the same
+PEriod as the revenue. Inventory provides a good example. Assume inventory is
+purchased during the fourth quarter of one year and sold during the fIRSt quarter of the
+following year. Using the matching principle, both the revenue and the exPEnse (cost
+of goods sold) are recognized in the fIRSt quarter, when the inventory is sold, not the
+PEriod in which the inventory was purchased.
+Not all exPEnses can be directly tied to revenue generation. These costs are known as
+PEriod costs. PEriod costs, such as administrative costs, are exPEnsed in the PEriod
+incurred.
+Inventory ExPEnse Recognition
+If a firm can identiFY exactly which items were sold and which items remain in
+inventory, it can use the sPEcific identification method. For example, an auto dealer
+records each vehicle sold or in inventory by its identification number.
+Under the fIRSt-in, fIRSt-out (FIFO) method, the fIRSt item purchased is assumed to be
+the fIRSt item sold. The cost of inventory acquired fIRSt (beginning inventory and early
+purchases) is used to calculate the cost of goods sold for the PEriod. The cost of the
+most recent purchases is used to calculate ending inventory. FIFO is appropriate for
+inventory that has a limited shelf life. For example, a food products company will sell
+its oldest inventory fIRSt to keep the inventory on hand fresh.
+Under the last-in, fIRSt-out (LIFO) method, the last item purchased is assumed to be
+the fIRSt item sold. The cost of inventory most recently purchased is assigned to the
+cost of goods sold for the PEriod. The costs of beginning inventory and earlier
+purchases are assigned to ending inventory. LIFO is appropriate for inventory that does
+not deteriorate with age. For example, a coal distributor will sell coal off the top of the
+pile.
+In the United States, LIFO is popular because of its income tax benefits. In an
+inflationary environment, LIFO results in higher cost of goods sold. Higher cost of
+goods sold results in lower taxable income and, therefore, lower income taxes.
+The weighted average cost method makes no assumption about the physical flow of
+the inventory. It is popular because of its ease of use. The cost PEr unit is calculated by
+dividing cost of available goods by total units available, and this average cost is used to
+determine both cost of goods sold and ending inventory. Average cost results in cost of
+goods sold and ending inventory values between those of LIFO and FIFO.
+FIFO and average cost are PErmitted under both U.S. GAAP and IFRS. LIFO is allowed
+under U.S. GAAP but is prohibited under IFRS.
+Figure 2 summarizes the effects of the inventory methods.
+Figure 2: Inventory Method Comparison
+Method
+Assumption
+Cost of Goods
+Sold Consists
+of...
+Ending
+Inventory
+Consists of...
+FIFO
+(U.S. and
+IFRS)
+LIFO
+The items fIRSt purchased
+are the fIRSt to be sold.
+fIRSt purchased
+most recent
+purchases
+The items last purchased
+last purchased
+earliest
+The items last purchased
+are the fIRSt to be sold.
+last purchased
+earliest
+purchases
+Items sold are a mix of
+purchases.
+average cost of
+all items
+average cost
+of all items
+LIFO
+(U.S.
+only)
+Weighted
+average
+cost
+(U.S. and
+IFRS)
+Example: Inventory costing
+Use the inventory data in the table below to calculate the cost of goods sold and ending inventory under
+each of the three methods.
+Inventory Data
+Answer:
+FIFO cost of goods sold: Value the seven units sold using the unit cost of fIRSt units purchased. Start with
+the beginning inventory and the earliest units purchased and work down, as illustrated in the following
+table.
+LIFO cost of goods sold: Value the seven units sold at unit cost of last units purchased. Start with the most
+recently purchased units and work up, as illustrated in the following table.
+Average cost of goods sold:
+Value the seven units sold at the average unit cost of goods available.
+The following table summarizes the calculations of COGS and ending inventory for each method.
+Summary:
+Depreciation ExPEnse Recognition
+The cost of long-lived assets must also be matched with revenues. Long-lived assets
+are exPEcted to provide economic benefits beyond one accounting PEriod. The
+allocation of cost over an asset's life is known as depreciation (tangible assets),
+depletion (natural resources), or amortization (intangible assets). Most firms use the
+straight-line depreciation method for financial reporting purposes. The straight-line
+method recognizes an equal amount of depreciation exPEnse each PEriod. However,
+most assets generate more benefits in the early years of their economic life and fewer
+benefits in the later years. In this case, an accelerated depreciation method is more
+appropriate for matching the exPEnses to revenues.
+In the early years of an asset's life, the straight-line method will result in lower
+depreciation exPEnse as compared to an accelerated method. Lower exPEnse results in
+higher net income. In the later years of the asset's life, the effect is reversed, and
+straight-line depreciation results in higher exPEnse and lower net income compared to
+accelerated methods.
+Straight-line depreciation (SL) allocates an equal amount of depreciation each year
+over the asset's useful life as follows:
+Example: Calculating straight-line depreciation exPEnse
+Littlefield Company recently purchased a machine at a cost of $12,000. The machine is exPEcted to have a
+residual value of $2,000 at the end of its useful life in five years. Calculate depreciation exPEnse using the
+straight-line method.
+Answer:
+The annual depreciation exPEnse each year will be:
+Accelerated depreciation sPEeds up the recognition of depreciation exPEnse in a
+systematic way to recognize more depreciation exPEnse in the early years of the
+asset's life and less depreciation exPEnse in the later years of its life. Total depreciation
+exPEnse over the life of the asset will be the same as it would be if straight-line
+depreciation were used.
+The declining balance method (DB) applies a constant rate of depreciation to an
+asset's (declining) book value each year.
+Professor's Note: The declining balance method is also known as the diminishing balance
+method.
+The most common declining balance method is double-declining balance (DDB), which
+applies two times the straight-line rate to the declining balance. If an asset's life is ten
+years, the straight-line rate is 1/10 or 10%, and the DDB rate would be 2/10 or 20%.
+DB does not explicitly use the asset's residual value in the calculations, but
+depreciation ends once the estimated residual value has been reached. If the asset is
+exPEcted to have no residual value, the DB method will never fully depreciate it, so the
+DB method is typically changed to straight-line at some point in the asset's life.
+Example: Calculating double-declining balance depreciation exPEnse
+Littlefield Company recently purchased a machine at a cost of $12,000. The machine is exPEcted to have a
+residual value of $2,000 at the end of its useful life in five years. Calculate depreciation exPEnse for all five
+years using the double-declining balance method.
+Answer:
+The depreciation exPEnse using the double declining balance method is:
+Year 1: (2 / 5)($12,000) = $4,800
+Year 2: (2 / 5)($12,000 - $4,800) = $2,880
+Year 3: (2 / 5)($12,000 - $7,680) = $1,728
+In years 1 through 3, the company has recognized cumulative depreciation exPEnse of $9,408. Since the
+total depreciation exPEnse is limited to $10,000 ($12,000 - $2,000 salvage value), the depreciation in year
+4 is limited to $592, rather than the (2 / 5)($12,000 - $9,408) = $1,036.80 using the DDB formula.
+Year 5: Depreciation exPEnse is $0, since the asset is fully depreciated.
+Note that the rate of depreciation is doubled (2 / 5) from straight-line, and the only thing that changes
+from year to year is the base amount (book value) used to calculate annual depreciation.
+Professor's Note: We've been discussing the "double" declining balance method, which
+uses a factor of two times the straight-line rate. Firms can compute declining balance
+depreciation based on any factor (e.g., 1.5, double, triple).

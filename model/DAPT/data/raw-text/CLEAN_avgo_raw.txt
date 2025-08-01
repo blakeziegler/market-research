@@ -1,0 +1,305 @@
+
+Key Financial Data
+Bloomberg Ticker
+AVGO US
+SECtor
+Information Technology
+Share Price (USD)
+DBS Rating
+12-mth Target Price (USD)
+Market Cap (USDb)
+Volume (m shares)
+Free float (%)
+Dividend yield (%)
+Net Debt to Equity (%)
+Fwd. P/E (x)
+P/Book (x)
+ROE (%)
+842.90
+BUY
+919.0
+347.9
+2.0
+97.7
+2.1
+121.4
+20.0
+15.9
+69.1
+Closing price and data as of 10 Aug 2023
+Source: Bloomberg Finance L.P., DBS Bank
+Indexed Share Price vs Composite Index PErformance
+Source: Bloomberg Finance L.P.
+US EQUITY RESEARCH
+BROAdcom Inc
+Maximising growth through acquisitions
+Company Overview
+BROAdcom Inc. (AVGO) designs, develops, and supplies a range of semiconductor and infrastructure
+software solutions through two segments: semiconductor solutions and infrastructure software. Its
+semiconductor solutions segment includes Internet protocol (IP) licensing and provides solutions for
+managing the movement of data in data center, telecom, enterprise, and embedded networking
+applications. It also provides a variety of radio frequency (RF) semiconductor devices, wireless
+connectivity solutions and custom touch controllers for the wireless market. Major end markets
+include bROAdband, networking, wireless, storage and industrial. BROAdcom derived 66% of its
+revenues from Asia Pacific, 22% from the Americas, and 12% from EuroPE in FY21.
+Investment Overview
+Cementing market leadership through inorganic growth and differentiating technological capabilities.
+BROAdcom sPEcialises in the design/development of semiconductors in the communications and
+connectivity segments and oPErates as an infrastructure software provider. Its ability to sPEcialise
+and lead the market in a sPEctrum of offerings is enabled through a series of successful mergers,
+acquisitions, and integrations over the years such as the US$37bn merger between Avago and
+BROAdcom, and acquisitions of CA Technologies (US$19bn) and Symantec Enterprise SECurity
+(US$11bn). In May 2022, BROAdcom announced the acquisition of VMWare (US$69bn), its largest deal
+to date. BROAdcom differentiates itself through its high-PErformance design and integration
+capabilities and focuses on developing products for target markets, with above industry margins.
+Strong demand with long lead time. Current order backlog and extended lead time point to strong
+customer demand. The drive towards faster and better communications and/or connectivity, e.g., 5G,
+WiFi 7, 6GHz AFC sPEctrum, 51.2tbps switches, should proPEl BROAdcom to grow, innovate and deliver
+newer products and solutions. Its leadership position can be gleaned from its recent (i) multi-year,
+multibillion-dollar deal with Apple for 5G parts, and (ii) management's guidance for AI-related sales
+to double and contribute up to 25% of revenue by FY24F. Furthermore, BROAdcom's growth and
+leading position in the infrastructure software space will be bolstered on the successful acquisition
+of VMWare - pioneer and still leader of server-virtualisation - as more companies move towards cloud
+computing and cloud infrastructure.
+Improving financials underscore right strategic direction. BROAdcom's successful integration of its
+acquisitions are evidenced in its improving financials. The group registered a 10-year CAGR of 28%
+for revenue and 35% for EBITDA. The shift towards software - with stickier customers and low
+tendency to switch - has helPEd to improve margins. EBITDA margin improved to 53.6% in FY21 from
+31.5% in FY12. Moreover, BROAdcom's track record of generating consistent free cash flows, and
+paying stable dividends to its shareholders, are also strong differentiating factors vs PEers.
+We have a BUY recommendation on AVGO with a higher TP of US$919. Our revised TP is PEGged to
+16.3x forward P/BV on blended FY23F/24F book value, versus current forward P/BV at 14.5x. The
+valuation is justified by the robust demand for its products and services, bolstered by its market
+leadership, coupled with above-PEers projected ROE (averaging 71.6% in FY23F-25F). BROAdcom's
+ability and capacity to acquire/integrate VMWare as well as its subsequent acquisitions are re-rating
+catalysts.
+Risks
+Risk that future acquisitions may not bring the desired value or synergies. BROAdcom, as one of the
+most levered firms in the industry, may also be more susceptible to higher costs of financing as
+interest rates rise.
+BROAdcom's strategy may also be complicated by (i) added scrutiny placed by antitrust regulators on
+forthcoming mergers, and (ii) more exPEnsive costs of financing as interest rates rise. It is also
+susceptible to the heightened US-China tensions, with 36% and 19% of revenues derived from China
+and the US in FY21. With a net debt to equity ratio of 1.1x, BROAdcom is one of the most levered
+firms in the industry.
+
+DBS Group Research
+FINANCIAL SUMMARY (USD, M)
+FINANCIAL SUMMARY (USD, M)
+FY Oct
+FY Oct
+Sales
+% Sales y-o-y
+Gross Profit
+FY2020A FY2021A
+FY2020A
+FY2021A FY2022A
+FY2022A FY2023F
+FY2024F
+FY2023F FY2024F
+23,888
+27,450
+33,203
+35,769
+38,120
+5.7
+14.9
+21.0
+7.7
+6.6
+17,552
+20,443
+25,107
+26,796
+28,646
+% Gross Profit y-o-y
+9.3
+16.5
+22.8
+6.7
+6.9
+EBITDA
+% EBITDA y-o-y
+Net Profit
+13,643
+16,571
+21,029
+23,518
+24,623
+8.5
+21.5
+26.9
+8.8
+4.7
+9,993
+12,578
+16,526
+18,261
+19,537
+% Net Profit y-o-y
+5.7
+25.9
+31.4
+10.5
+7.0
+FCF
+CAPEX
+EBITDA Margin %
+Net Margin %
+ROA (%)
+ROE (%)
+Tax Rate %
+Source: Visible Alpha
+VALUATION METRICS (USD, M)
+VALUATION METRICS (USD, M)
+FY Oct
+FY Oct
+P/E
+P/B
+Dividend Yield
+EV/EBITDA (x)
+FCF Yield %
+Source: Visible Alpha
+CREDIT & CASHFLOW METRICS (USD, M)
+CREDIT & CASHFLOW METRICS (USD, M)
+FY Oct
+FY Oct
+Debt / Equity
+Net Debt / Equity
+Debt / Assets
+Net Debt / Assets
+EBITDA / Int Exp
+ST Debt / Total Debt
+Debt / EBITDA
+[Cash + CFO] / ST Debt
+Receivables Days
+Days Payable
+Inventory Days
+Source: Visible Alpha
+11,598
+13,321
+16,312
+17,844
+19,314
+463.0
+443.0
+424.0
+500.6
+586.1
+57.1
+41.8
+13.9
+40.9
+12.0
+60.4
+45.8
+16.6
+51.5
+12.0
+63.3
+49.8
+22.2
+69.3
+12.0
+65.8
+51.0
+25.2
+82.0
+12.5
+64.8
+51.2
+26.7
+84.3
+12.5
+FY2020A FY2021A
+FY2020A
+FY2021A FY2022A
+FY2022A FY2023F
+FY2024F
+FY2023F FY2024F
+15.8
+19.0
+12.6
+6.6
+0.0
+nm
+0.1
+9.6
+0.0
+nm
+0.1
+9.2
+0.0
+nm
+0.1
+21.0
+17.4
+0.0
+nm
+0.0
+19.6
+14.8
+0.0
+nm
+0.1
+FY2020A FY2021A
+FY2020A
+FY2021A FY2022A
+FY2022A FY2023F
+FY2024F
+FY2023F FY2024F
+171.8
+159.0
+174.0
+180.4
+155.5
+1.4
+54.1
+0.4
+nm
+0.0
+3.0
+nm
+35.1
+12.8
+15.3
+1.1
+52.6
+0.4
+nm
+0.0
+2.4
+nm
+27.5
+14.4
+17.2
+1.2
+53.9
+0.4
+nm
+0.0
+1.9
+nm
+32.5
+11.0
+21.2
+1.2
+54.5
+0.4
+nm
+0.0
+1.7
+nm
+32.6
+10.4
+19.2
+0.8
+51.3
+0.3
+nm
+0.0
+1.6
+nm
+35.1
+10.6
+18.6

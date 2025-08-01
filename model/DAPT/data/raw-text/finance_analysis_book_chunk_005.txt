@@ -1,0 +1,1554 @@
+UNDERSTANDING CASH FLOW STATEMENTS
+Study Session 7
+EXAM FOCUS
+This topic review covers the third important required financial statement: the
+statement of cash flows. Since the income statement is based on the accrual method,
+net income may not represent cash generated from oPErations. A company may be
+generating positive and growing net income but may be headed for insolvency because
+insufficient cash is being generated from oPErating activities. Constructing a statement
+of cash flows, by either the direct or indirect method, is therefore very important in an
+analysis of a firm's activities and prosPEcts. Make sure you understand the preparation
+of a statement of cash flows by either method, the classification of various cash flows
+as oPErating, financing, or investing cash flows, and the key differences in these
+classifications between U.S. GAAP and international accounting standards.
+THE CASH FLOW STATEMENT
+The cash flow statement provides information beyond that available from the income
+statement, which is based on accrual, rather than cash, accounting. The cash flow
+statement provides the following:
+Information about a company's cash receipts and cash payments during an
+accounting PEriod.
+Information about a company's oPErating, investing, and financing activities.
+An understanding of the impact of accrual accounting events on cash flows.
+The cash flow statement provides information to assess the firm's liquidity, solvency,
+and financial flexibility. An analyst can use the statement of cash flows to determine
+whether:
+Regular oPErations generate enough cash to sustain the business.
+Enough cash is generated to pay off existing debts as they mature.
+The firm is likely to need additional financing.
+UnexPEcted obligations can be met.
+The firm can take advantage of new business opportunities as they arise.
+LOS 26.a: Compare cash flows from oPErating, investing, and financing activities and
+LOS 26.a: Compare cash flows from oPErating, investing, and financing activities and
+classiFY cash flow items as relating to one of those three categories given a
+description of the items.
+CFA(r) Program Curriculum, Volume 3, page 275
+Items on the cash flow statement come from two sources: (1) income statement items
+and (2) changes in balance sheet accounts. A firm's cash receipts and payments are
+classified on the cash flow statement as either oPErating, investing, or financing
+activities.
+Cash flow from oPErating activities (CFO), sometimes referred to as "cash flow from
+oPErations" or "oPErating cash flow," consists of the inflows and outflows of cash
+resulting from transactions that affect a firm's net income.
+Cash flow from investing activities (CFI) consists of the inflows and outflows of cash
+resulting from the acquisition or disposal of long-term assets and certain investments.
+Cash flow from financing activities (CFF) consists of the inflows and outflows of cash
+resulting from transactions affecting a firm's capital structure.
+Examples of each cash flow classification, in accordance with U.S. GAAP, are presented
+in Figure 1 .
+Figure 1: U.S. GAAP Cash Flow Classifications
+OPErating Activities
+Inflows
+Outflows
+Cash collected from customers
+Cash paid to employees and
+suppliers
+Interest and dividends received
+Cash paid for other exPEnses
+Sale proceeds from trading SECurities
+Acquisition of trading SECurities
+Interest paid
+Taxes paid
+Investing Activities
+Inflows
+Outflows
+Sale proceeds from fixed assets
+Acquisition of fixed assets
+Sale proceeds from debt and equity
+investments
+Acquisition of debt and equity
+investments
+Principal received from loans made to
+others
+Loans made to others
+Financing Activities
+Inflows
+Outflows
+Principal amounts of debt issued
+Principal paid on debt
+Proceeds from issuing stock
+Payments to reacquire stock
+Dividends paid to shareholders
+Note that the acquisition of debt and equity investments (other than trading SECurities)
+and loans made to others are reported as investing activities; however, the income
+from these investments (interest and dividends received) is reported as an oPErating
+activity. Also, note that principal amounts borrowed from others are reported as
+financing activities; however, the interest paid is reported as an oPErating activity.
+Finally, note that dividends paid to the firm's shareholders are financing activities.
+Professor's Note: Don't confuse dividends received and dividends paid. Under U.S. GAAP,
+dividends received are oPErating cash flows and dividends paid are financing cash flows.
+LOS 26.b: Describe how non-cash investing and financing activities are reported.
+CFA(r) Program Curriculum, Volume 3, page 277
+Noncash investing and financing activities are not reported in the cash flow statement
+since they do not result in inflows or outflows of cash.
+For example, if a firm acquires real estate with financing provided by the seller, the
+firm has made an investing and financing decision. This transaction is the equivalent of
+borrowing the purchase price. However, since no cash is involved in the transaction, it
+is not reported as an investing and financing activity in the cash flow statement.
+Another example of a noncash transaction is an exchange of debt for equity. Such an
+exchange results in a reduction of debt and an increase in equity. However, since no
+cash is involved in the transaction, it is not reported as a financing activity in the cash
+flow statement.
+Noncash transactions must be disclosed in either a footnote or supplemental schedule
+to the cash flow statement. Analysts should be aware of the firm's noncash
+transactions, incorporate them into analysis of past and current PErformance, and
+include their effects in estimating future cash flows.
+LOS 26.c: Contrast cash flow statements prepared under International Financial
+Reporting Standards (IFRS) and US generally accepted accounting principles (US
+GAAP).
+CFA(r) Program Curriculum, Volume 3, page 277
+Recall from Figure 1 that under U.S. GAAP, dividends paid to the firm's shareholders
+are reported as financing activities while interest paid is reported in oPErating
+activities. Interest received and dividends received from investments are also reported
+as oPErating activities.
+International Financial Reporting Standards (IFRS) allow more flexibility in the
+classification of cash flows. Under IFRS, interest and dividends received may be
+classified as either oPErating or investing activities. Dividends paid to the company's
+shareholders and interest paid on the company's debt may be classified as either
+oPErating or financing activities.
+Another important difference relates to income taxes paid. Under U.S. GAAP, all taxes
+paid are reported as oPErating activities, even taxes related to investing and financing
+transactions. Under IFRS, income taxes are also reported as oPErating activities unless
+the exPEnse is associated with an investing or financing transaction.
+For example, consider a company that sells land that was held for investment for $1
+million. Income taxes on the sale total $160,000. Under U.S. GAAP, the firm reports an
+inflow of cash from investing activities of $1 million and an outflow of cash from
+oPErating activities of $160,000. Under IFRS, the firm can report a net inflow of
+$840,000 from investing activities.
+LOS 26.d: Distinguish between the direct and indirect methods of presenting cash
+from oPErating activities and describe arguments in favor of each method.
+CFA(r) Program Curriculum, Volume 3, page 278
+There are two methods of presenting the cash flow statement: the direct method and
+the indirect method. Both methods are PErmitted under U.S. GAAP and IFRS. The use
+of the direct method, however, is encouraged by both standard setters. Regrettably,
+most firms use the indirect method. The difference between the two methods relates
+to the presentation of cash flow from oPErating activities. The presentation of cash
+flows from investing activities and financing activities is exactly the same under both
+methods.
+Direct Method
+Under the direct method, each line item of the accrual-based income statement is
+converted into cash receipts or cash payments. Recall that under the accrual method
+of accounting, the timing of revenue and exPEnse recognition may differ from the
+timing of the related cash flows. Under cash-basis accounting, revenue and exPEnse
+recognition occur when cash is received or paid. Simply stated, the direct method
+converts an accrual-basis income statement into a cash-basis income statement.
+Figure 2 contains an example of a presentation of oPErating cash flow for Seagraves
+Supply Company using the direct method.
+Figure 2 Direct Method of Presenting OPErating Cash Flow
+Seagraves Supply Company
+OPErating Cash Flow - Direct Method
+For the year ended December 31, 20X7
+Cash collections from customers
+$429,980
+Cash paid to suppliers
+(265,866)
+Cash paid for oPErating exPEnses
+(124,784)
+Cash paid for interest
+Cash paid for taxes
+OPErating cash flow
+(4,326)
+(14,956)
+$20,048
+Notice the similarities of the direct method cash flow presentation and an income
+statement. The direct method begins with cash inflows from customers and then
+deducts cash outflows for purchases, oPErating exPEnses, interest, and taxes.
+Indirect Method
+Under the indirect method, net income is converted to oPErating cash flow by making
+adjustments for transactions that affect net income but are not cash transactions.
+These adjustments include eliminating noncash exPEnses (e.g., depreciation and
+amortization), nonoPErating items (e.g., gains and losses), and changes in balance
+sheet accounts resulting from accrual accounting events.
+Figure 3 contains an example of a presentation of oPErating cash flow for Seagraves
+Supply Company under the indirect method.
+Figure 3: Indirect Method of Presenting OPErating Cash Flow
+Seagraves Supply Company
+OPErating Cash Flow - Indirect Method
+For the year ended December 31, 20X7
+Net income
+Adjustments to reconcile net income to cash flow provided by
+oPErating activities:
+Depreciation and amortization
+Deferred income taxes
+Increase in accounts receivable
+Increase in inventory
+Decrease in prepaid exPEnses
+Increase in accounts payable
+Increase in accrued liabilities
+$18,788
+7,996
+416
+(1,220)
+(20,544)
+494
+13,406
+712
+OPErating cash flow
+$20,048
+Notice that under the indirect method, the starting point is net income, the "bottom
+line" of the income statement. Under the direct method, the starting point is the top
+of the income statement, revenues, adjusted to show cash received from customers.
+Total cash flow from oPErating activities is exactly the same under both methods, only
+the presentation methods differ.
+Arguments in Favor of Each Method
+The primary advantage of the direct method is that it presents the firm's oPErating
+cash receipts and payments, while the indirect method only presents the net result of
+these receipts and payments. Therefore, the direct method provides more information
+than the indirect method. This knowledge of past receipts and payments is useful in
+estimating future oPErating cash flows.
+The main advantage of the indirect method is that it focuses on the difference
+between net income and oPErating cash flow. This provides a useful link to the income
+statement when forecasting future oPErating cash flow. Analysts forecast net income
+and then derive oPErating cash flow by adjusting net income for the differences
+between accrual accounting and the cash basis of accounting.
+Disclosure Requirements
+Under U.S. GAAP, a direct method presentation must also disclose the adjustments
+necessary to reconcile net income to cash flow from oPErating activities. This
+disclosure is the same information that is presented in an indirect method cash flow
+statement. This reconciliation is not required under IFRS.
+Under IFRS, payments for interest and taxes must be disclosed separately in the cash
+flow statement under either method (direct or indirect). Under U.S. GAAP, payments
+for interest and taxes can be reported in the cash flow statement or disclosed in the
+footnotes.
+LOS 26.e: Describe how the cash flow statement is linked to the income statement
+and the balance sheet.
+CFA(r) Program Curriculum, Volume 3, page 288
+The cash flow statement reconciles the beginning and ending balances of cash over an
+accounting PEriod. The change in cash is a result of the firm's oPErating, investing, and
+financing activities as follows:
+OPErating cash flow
++
++
+Investing cash flow
+Financing cash flow
+=
++
+=
+Change in cash balance
+Beginning cash balance
+Ending cash balance
+With a few exceptions, oPErating activities relate to the firm's current assets and
+current liabilities. Investing activities typically relate to the firm's noncurrent assets,
+and financing activities typically relate to the firm's noncurrent liabilities and equity.
+Transactions for which the timing of revenue or exPEnse recognition differs from the
+receipt or payment of cash are reflected in changes in balance sheet accounts. For
+example, when revenues (sales) exceed cash collections, the firm has sold items on
+credit and accounts receivable (an asset) increase. The opposite occurs when
+customers repay more on their outstanding accounts than the firm extends in new
+credit: cash collections exceed revenues and accounts receivable decrease. When
+purchases from suppliers exceed cash payments, accounts payable (a liability) increase.
+When cash payments exceed purchases, payables decrease.
+It is helpful to understand how transactions affect each balance sheet account. For
+example, accounts receivable are increased by sales and decreased by cash collections.
+We can summarize this relationship as follows:
+Beginning accounts receivable
++
+-
+=
+Sales
+Cash collections
+Ending accounts receivable
+Knowing three of the four variables, we can solve for the fourth. For example, if
+beginning accounts receivable are EUR10,000, ending accounts receivable are EUR15,000,
+and sales are EUR68,000, then cash collections must equal EUR63,000.
+Understanding these interrelationships is not only useful in preparing the cash flow
+statement, but is also helpful in uncovering accounting shenanigans.
+LOS 26.f: Describe the stEPS in the preparation of direct and indirect cash flow
+statements, including how cash flows can be computed using income statement and
+balance sheet data.
+CFA(r) Program Curriculum, Volume 3, page 289
+Professor's Note: Throughout the discussion of the direct and
+indirect methods, remember the following points:
+CFO is calculated differently, but the result is the same under
+both methods.
+The calculation of CFI and CFF is identical under both
+methods.
+There is an inverse relationship between changes in assets
+and changes in cash flows. In other words, an increase in an
+asset account is a use of cash, and a decrease in an asset
+account is a source of cash.
+There is a direct relationship between changes in liabilities
+and changes in cash flow. In other words, an increase in a
+liability account is a source of cash, and a decrease in a
+liability is a use of cash.
+Sources of cash are positive numbers (cash inflows) and uses
+of cash are negative numbers (cash outflows).
+Direct Method
+The direct method of presenting a firm's statement of cash flows shows only cash
+payments and cash receipts over the PEriod. The sum of these inflows and outflows is
+the company's CFO. The direct method gives the analyst more information than the
+indirect method. The analyst can see the actual amounts that went to each use of cash
+and that were received from each source of cash. This information can help the analyst
+to better understand the firm's PErformance over time and to forecast future cash
+flows.
+The following are common components of cash flow that apPEar on a statement of
+cash flow presented under the direct method:
+Cash collected from customers, typically the main component of CFO.
+Cash used in the production of goods and services (cash inputs).
+Cash oPErating exPEnses.
+Cash paid for interest.
+Cash paid for taxes.
+Professor's Note: A common "trick" in direct method questions is to provide information on
+depreciation exPEnse along with other oPErating cash flow components. When using the direct
+method, ignore depreciation exPEnse--it's a noncash charge. We'll see later that we do consider
+depreciation exPEnse
+indirect method computations, but we do this solely because
+depreciation exPEnse and other noncash exPEnses have been subtracted in calculating net
+income (our starting point) and need to be added back to get cash flow.
+in
+Investing cash flows (CFI) are calculated by examining the change in the gross asset
+accounts that result from investing activities, such as proPErty, plant, and equipment,
+intangible assets, and investment SECurities. Related accumulated depreciation or
+amortization accounts are ignored since they do not represent cash exPEnses.
+Professor's Note: In this context, "gross" simply means an amount that is presented on the balance
+sheet before deducting any accumulated depreciation or amortization.
+When calculating cash paid for a new asset, it is necessary to determine whether old
+assets were sold. If assets were sold during the PEriod, you must use the following
+formula:
+cash paid for new asset = ending gross assets + gross cost of old assets sold -
+beginning gross assets
+Professor's Note: It may be easier to think in terms of the account reconciliation format discussed
+earlier. That is, beginning gross assets + cash paid for new assets - gross cost of assets sold =
+ending gross assets. Given three of the variables, simply solve for the fourth.
+When calculating the cash flow from an asset that has been sold, it is necessary to
+consider any gain or loss from the sale using the following formula:
+cash from asset sold = book value of the asset + gain (or - loss) on sale
+Financing cash flows ( CFF) are determined by measuring the cash flows occurring
+between the firm and its suppliers of capital. Cash flows between the firm and its
+creditors result from new borrowings (positive CFF) and debt principal repayments
+(negative CFF). Note that interest paid is technically a cash flow to creditors, but it is
+included in CFO under U.S. GAAP. Cash flows between the firm and its shareholders
+occur when equity is issued, shares are repurchased, or dividends are paid. CFF is the
+sum of these two measures:
+net cash flows from creditors = new borrowings - principal amounts repaid
+net cash flows from shareholders = new equity issued - share repurchases -
+cash dividends paid
+Cash dividends paid can be calculated from dividends declared and any changes in
+dividends payable.
+Finally, total cash flow is equal to the sum of CFO, CFI, and CFF. If calculated correctly,
+the total cash flow will equal the change in cash from one balance sheet to the next.
+Indirect Method
+Cash flow from oPErations is presented differently under the indirect method, but the
+amount of CFO is the same under either method. Cash flow from financing and cash
+flow from investing are presented in the same way on cash flow statements prepared
+under both the direct and indirect methods of presenting the statement of cash flows.
+Under the indirect method of presenting CFO, we begin with net income and adjust it
+for differences between accounting items and actual cash receipts and cash
+disbursements. Depreciation, for example, is deducted in calculating net income, but
+requires no cash outlay in the current PEriod. Therefore, we must add depreciation
+(and amortization) to net income for the PEriod in calculating CFO.
+Another adjustment to net income on an indirect statement of cash flows is to subtract
+gains on the disposal of assets. Proceeds from the sale of fixed assets are an investing
+cash flow. Since gains are a portion of such proceeds, we need to subtract them from
+net income in calculating CFO under the indirect method. Conversely, a loss would be
+added back to net income in calculating CFO under the indirect method.
+Under the indirect method, we also need to adjust net income for change in balance
+sheet accounts. If, for example, accounts receivable went up during the PEriod, we
+know that sales during the PEriod were greater than the cash collected from
+customers. Since sales were used to calculate net income under the accrual method,
+we need to reduce net income to reflect the fact that credit sales, rather than cash
+collected were used in calculating net income.
+A change in accounts payable indicates a difference between purchases and the
+amount paid to suppliers. An increase in accounts payable, for example, results when
+purchases are greater than cash paid to suppliers. Since purchases were subtracted in
+calculating net income, we need to add any increase in accounts payable to net income
+so that CFO reflects the actual cash disbursements for purchases (rather than total
+purchases).
+The stEPS in calculating CFO under the indirect method can be summarized as follows:
+Step 1: Begin with net income.
+Step 2: Subtract gains or add losses that resulted from financing or investing
+cash flows (such as gains from sale of land).
+Step 3: Add back all noncash charges to income (such as depreciation and
+amortization) and subtract all noncash components of revenue.
+Step 4: Add or subtract changes to balance sheet oPErating accounts as follows:
+Increases in the oPErating asset accounts (uses of cash) are
+subtracted, while decreases (sources of cash) are added.
+Increases in the oPErating liability accounts (sources of cash) are
+added, while decreases (uses of cash) are subtracted.
+Example: Statement of cash flows using the indirect method
+Use the following balance sheet and income statement to prepare a statement of cash flows under the
+indirect method.
+Income Statement for 20X7
+Sales
+ExPEnse
+Cost of goods sold
+Wages
+Depreciation
+Interest
+Total exPEnses
+Income from continuing oPErations
+Gain from sale of land
+Pretax income
+Provision for taxes
+Net income
+Common dividends declared
+Balance Sheets for 20X7 and 20X6
+$100,000
+40,000
+5,000
+7,000
+500
+$52,500
+$47,500
+10,000
+57,500
+20,000
+$37,500
+$8,500
+Assets
+Current assets
+Cash
+20X7
+20X6
+$33,000
+$9,000
+Accounts receivable
+10,000
+9,000
+Inventory
+5,000
+7,000
+Noncurrent assets
+Land
+$35,000
+$40,000
+Gross plant and equipment
+85,000
+60,000
+less: Accumulated depreciation
+(16,000)
+(9,000)
+Net plant and equipment
+$69,000
+$51,000
+Goodwill
+10,000
+10,000
+$162,000
+$126,000
+Total assets
+Liabilities
+Current liabilities
+Accounts payable
+$9,000
+$5,000
+Wages payable
+4,500
+8,000
+Interest payable
+3,500
+3,000
+Taxes payable
+5,000
+4,000
+Dividends payable
+6,000
+1,000
+Total current liabilities
+28,000
+21,000
+Noncurrent liabilities
+Bonds
+$15,000
+$10,000
+Deferred tax liability
+20,000
+15,000
+Total liabilities
+$63,000
+$46,000
+Stockholders' equity
+Common stock
+$40,000
+$50,000
+Retained earnings
+59,000
+30,000
+Total equity
+$99,000
+$80,000
+Total liabilities and stockholders' equity
+$162,000
+$126,000
+Any discrepancies between the changes in accounts reported on the balance sheet and those reported in
+the statement of cash flows are typically due to business combinations and changes in exchange rates.
+Answer:
+OPErating Cash Flow:
+Step 1: Start with net income of $37,500.
+Step 2: Subtract gain from sale of land of $10,000.
+Step 3: Add back noncash charges of depreciation of $7,000.
+Step 4: Subtract increases in receivables and inventories and add increases of payables and deferred taxes.
+Net income
+$37,500
+Gain from sale of land
+(10,000)
+Depreciation
+Subtotal
+7,000
+$34,500
+Changes in oPErating accounts
+Increase in receivables
+($1,000)
+Decrease in inventories
+Increase in accounts payable
+2,000
+4,000
+Decrease in wages payable
+(3,500)
+Increase in interest payable
+Increase in taxes payable
+Increase in deferred taxes
+500
+1,000
+5,000
+Cash flow from oPErations
+$42,500
+Investing cash flow:
+In this example, we have two components of investing cash flow: the sale of land and the change in gross
+plant and equipment (P&E).
+cash from sale of land = decrease in asset + gain on sale = $5,000 + $10,000 = $15,000 (source)
+beginning land + land purchased - gross cost of land sold = ending land = $40,000 + $0 - $5,000 = $35,000
+Note: If the land had been sold at a loss, we would have subtracted the loss amount from the decrease in
+land.
+P&E purchased = ending gross P&E + gross cost of P&E sold - beginning gross P&E
+= $85,000 + $0 - $60,000 = $25,000 (use)
+beginning gross P&E + P&E purchased - gross cost of P&E sold = ending P&E = $60,000 + $25,000 - $0 =
+$85,000
+Cash from sale of land
+$15,000
+Purchase of plant and equipment
+(25,000)
+Cash flow from investments
+($10,000)
+Financing cash flow:
+cash from bond issue = ending bonds payable + bonds repaid - beginning bonds payable = $15,000 + $0 -
+$10,000 = $5,000 (source)
+beginning bonds payable + bonds issued - bonds repaid = ending bonds payable = $10,000 +
+$5,000 - $0 = $15,000
+cash to reacquire stock = beginning common stock + stock issued - ending common stock = $50,000 + $0
+- $40,000 = $10,000 (use, or a net share repurchase of $10,000)
+beginning common stock + stock issued - stock reacquired = ending common stock = $50,000 +
+$0 - $10,000 = $40,000
+cash dividends = - dividend declared + increase in dividends payable = -$8,500* + $5,000 = -$3,500 (use)
+beginning dividends payable + dividends declared - dividends paid = ending dividends payable =
+$1,000 + $8,500 - $3,500 = $6,000
+*Note: If the dividend declared amount is not provided, you can calculate the amount as follows:
+dividends declared = beginning retained earnings + net income - ending retained earnings. Here, $30,000
++ $37,500 - $59,000 = $8,500.
+Sale of bonds
+$5,000
+Repurchase of stock
+(10,000)
+Cash dividends
+(3,500)
+Cash flow from financing
+($8,500)
+Total cash flow:
+Cash flow from oPErations
+$42,500
+Cash flow from investments
+(10,000)
+Cash flow from financing
+(8,500)
+Total cash flow
+$24,000
+The total cash flow of $24,000 is equal to the increase in the cash account. The difference between
+beginning cash and ending cash should be used as a check figure to ensure that the total cash flow
+calculation is correct.
+Both IFRS and U.S. GAAP encourage the use of a statement of cash flows in the direct
+format. Under U.S. GAAP, a statement of cash flows under the direct method must
+include footnote disclosure of the indirect method. Most companies however, report
+cash flows using the indirect method, which requires no additional disclosure. The next
+LOS illustrates the method an analyst will use to create a statement of cash flows in
+the direct method format when the company reports using the indirect method.
+LOS 26.g: Convert cash flows from the indirect to direct method.
+CFA(r) Program Curriculum, Volume 3, page 301
+The only difference between the indirect and direct methods of presentation is in the
+cash flow from oPErations (CFO) SECtion. CFO under the direct method can be
+computed using a combination of the income statement and a statement of cash flows
+prepared under the indirect method.
+There are two major SECtions in CFO under the direct method: cash inflows (receipts)
+and cash outflows (payments). We will illustrate the conversion process using some
+frequently used accounts. Please note that the list below is for illustrative purposes
+only and is far from all-inclusive of what may be encountered in practice. The general
+principle here is to adjust each income statement item for its corresponding balance
+sheet accounts and to eliminate noncash and nonoPErating transactions.
+Cash collections from customers:
+1. Begin with net sales from the income statement.
+2. Subtract (add) any increase (decrease) in the accounts receivable balance as
+reported in the indirect method. If the company has sold more on credit than
+has been collected from customers, accounts receivable will increase and cash
+collections will be less than net sales.
+3. Add (subtract) an increase (decrease) in unearned revenue. Unearned revenue
+includes cash advances from customers. Cash received from customers when
+the goods or services have yet to be delivered is not included in net sales, so
+the advances must be added to net sales in order to calculate cash collections.
+Cash payments to suppliers:
+1. Begin with cost of goods sold (COGS) as reported in the income statement.
+2. If depreciation and/or amortization have been included in COGS (they increase
+COGS), these noncash exPEnses must be added back when computing the cash
+paid to suppliers.
+3. Reduce (increase) COGS by any increase (decrease) in the accounts payable
+balance as reported in the indirect method. If payables have increased, then
+more was sPEnt on credit purchases during the PEriod than was paid on
+existing payables, so cash payments are reduced by the amount of the increase
+in payables.
+4. Add (subtract) any increase (decrease) in the inventory balance as disclosed in
+the indirect method. Increases in inventory are not included in COGS for the
+PEriod but still represent the purchase of inputs, so they increase cash paid to
+suppliers.
+5. Subtract an inventory write-off that occurred during the PEriod. An inventory
+write-off, as a result of applying the lower of cost or market rule, will reduce
+ending inventory and increase COGS for the PEriod. However, no cash flow is
+associated with the write-off.
+Other items in a direct method cash flow statement follow the same principles. Cash
+taxes paid, for example, can be derived by starting with income tax exPEnse on the
+income statement. Adjustment must be made for changes in related balance sheet
+accounts (deferred tax assets and liabilities, and income taxes payable).
+Cash oPErating exPEnse is equal to selling, general, and administrative exPEnse (SG&A)
+from the income statement, increased (decreased) for any increase (decrease) in
+prepaid exPEnses. Any increase in prepaid exPEnses is a cash outflow that is not
+included in SG&A for the current PEriod.
+Example: Direct method for computing CFO
+Prepare a cash flow statement using the direct method, based on the indirect statement of cash flows,
+balance sheet, and income statement from the previous example.
+Answer:
+Professor's Note: There are many ways to think about these calculations and lots of
+sources and uses and pluses and minuses to keep track of. It's easier if you use a "+" sign
+for net sales and a "-" sign for cost of goods sold and other cash exPEnses used as the
+starting points. Doing so will allow you to consistently follow the rule that an increase in
+assets or decrease in liabilities is a use of cash and a decrease in assets or an increase in
+liabilities is a source. We'll use this appROAch in the answer to the example. Remember,
+sources are always + and uses are always -.
+The calculations that follow include a reconciliation of each account, analyzing the transactions that
+increase and decrease the account for the PEriod. As previously discussed, this reconciliation is useful in
+understanding the interrelationships between the balance sheet, income statement, and cash flow
+statement.
+Cash from oPErations:
+Keep track of the balance sheet items used to calculate CFO by marking them off the balance sheet. They
+will not be needed again when determining CFI and CFF.
+cash collections = sales - increase in accounts receivable = $100,000 - $1,000 = $99,000
+beginning receivables + sales - cash collections = ending receivables = $9,000 + $100,000 -
+$99,000 = $10,000
+cash paid to suppliers = -COGS + decrease in inventory + increase in accounts payable = -$40,000 +
+$2,000 + $4,000 = -$34,000
+beginning inventory + purchases - COGS = ending inventory = $7,000 + $38,000 (not provided) -
+$40,000 = $5,000
+beginning accounts payable + purchases - cash paid to suppliers = ending accounts payable =
+$5,000 + $38,000 (not provided) - $34,000 = $9,000
+cash wages = -wages - decrease in wages payable = -$5,000 - $3,500 = -$8,500
+beginning wages payable + wages exPEnse - wages paid = ending wages payable = $8,000 +
+$5,000 - $8,500 = $4,500
+cash interest = -interest exPEnse + increase in interest payable = -$500 + $500 = 0
+beginning interest payable + interest exPEnse - interest paid = ending interest payable = $3,000
++ $500 - $0 = $3,500
+cash taxes = -tax exPEnse + increase in taxes payable + increase in deferred tax liability
+= -$20,000 + $1,000 + $5,000 = -$14,000
+beginning taxes payable + beginning deferred tax liability + tax exPEnse - taxes paid = ending
+taxes payable + ending deferred tax liability = $4,000 + $15,000 + $20,000 - $14,000 = $5,000 +
+$20,000
+Cash collections
+$99,000
+Cash to suppliers
+(34,000)
+Cash wages
+Cash interest
+Cash taxes
+(8,500)
+0
+(14,000)
+Cash flow from oPErations
+$42,500
+LOS 26.h: Analyze and interpret both reported and common-size cash flow
+statements.
+CFA(r) Program Curriculum, Volume 3, page 302
+Major Sources and Uses of Cash
+Cash flow analysis begins with an evaluation of the firm's sources and uses of cash
+from oPErating, investing, and financing activities. Sources and uses of cash change as
+the firm moves through its life cycle. For example, when a firm is in the early stages of
+growth, it may exPErience negative oPErating cash flow as it uses cash to finance
+increases in inventory and receivables. This negative oPErating cash flow is usually
+financed externally by issuing debt or equity SECurities. These sources of financing are
+not sustainable. Eventually, the firm must begin generating positive oPErating cash
+flow or the sources of external capital may no longer be available. Over the long term,
+successful firms must be able to generate oPErating cash flows that exceed capital
+exPEnditures and provide a return to debt and equity holders.
+OPErating Cash Flow
+An analyst should identiFY the major determinants of oPErating cash flow. Positive
+oPErating cash flow can be generated by the firm's earnings-related activities.
+However, positive oPErating cash flow can also be generated by decreasing noncash
+working capital, such as liquidating inventory and receivables or increasing payables.
+Decreasing noncash working capital is not sustainable, since inventories and
+receivables cannot fall below zero and creditors will not extend credit indefinitely
+unless payments are made when due.
+OPErating cash flow also provides a check of the quality of a firm's earnings. A stable
+relationship of oPErating cash flow and net income is an indication of quality earnings.
+(This relationship can also be affected by the business cycle and the firm's life cycle.)
+Earnings that significantly exceed oPErating cash flow may be an indication of
+aggressive (or even improPEr) accounting choices such as recognizing revenues too
+soon or delaying the recognition of exPEnses. The variability of net income and
+oPErating cash flow should also be considered.
+Investing Cash Flow
+The sources and uses of cash from investing activities should be examined. Increasing
+capital exPEnditures, a use of cash, is usually an indication of growth. Conversely, a
+firm may reduce capital exPEnditures or even sell capital assets in order to save or
+generate cash. This may result in higher cash outflows in the future as older assets are
+replaced or growth resumes. As mentioned above, generating oPErating cash flow that
+exceeds capital exPEnditures is a desirable trait.
+Financing Cash Flow
+The financing activities SECtion of the cash flow statement reveals information about
+whether the firm is generating cash flow by issuing debt or equity. It also provides
+information about whether the firm is using cash to repay debt, reacquire stock, or pay
+dividends. For example, an analyst would certainly want to know if a firm issued debt
+and used the proceeds to reacquire stock or pay dividends to shareholders.
+Common-Size Cash Flow Statement
+Like the income statement and balance sheet, common-size analysis can be used to
+analyze the cash flow statement.
+The cash flow statement can be converted to common-size format by expressing each
+line item as a PErcentage of revenue. Alternatively, each inflow of cash can be
+expressed as a PErcentage of total cash inflows, and each outflow of cash can be
+expressed as a PErcentage of total cash outflows.
+A revenue based common-size cash flow statement is useful in identiFYing trends and
+forecasting future cash flow. Since each line item of the cash flow statement is stated
+in terms of revenue, once future revenue is forecast, cash flows can be estimated for
+those items that are tied to revenue.
+Example: Common-size cash flow statement analysis
+Triple Y Corporation's common-size cash flow statement is shown in the table below. Explain the decrease
+in Triple Y's total cash flow as a PErcentage of revenues.
+Triple Y Corporation
+Answer:
+OPErating cash flow has decreased as a PErcentage of revenues. This apPEars to be due largely to
+accumulating inventories. Investing activities, sPEcifically purchases of plant and equipment, have also
+required an increasing PErcentage of the firm's cash flow.
+LOS 26.i: Calculate and interpret free cash flow to the firm, free cash flow to equity,
+and PErformance and coverage cash flow ratios.
+CFA(r) Program Curriculum, Volume 3, page 310
+Free cash flow is a measure of cash that is available for discretionary purposes. This is
+the cash flow that is available once the firm has covered its capital exPEnditures. This is
+a fundamental cash flow measure and is often used for valuation. There are several
+measures of free cash flow. Two of the more common measures are free cash flow to
+the firm and free cash flow to equity.
+Free Cash Flow to the Firm
+Free cash flow to the firm (FCFF) is the cash available to all investors, both equity
+owners and debt holders. FCFF can be calculated by starting with either net income or
+oPErating cash flow.
+FCFF is calculated from net income as:
+FCFF = NI + NCC + [Int x (1 - tax rate)] - FCInv - WCInv
+where:
+NI
+NCC
+= net income
+= noncash charges (depreciation and amortization)
+Int
+= interest exPEnse
+FCInv
+= fixed capital investment (net capital exPEnditures)
+WCInv
+= working capital investment
+Professor's Note: Fixed capital investment is cash sPEnt on fixed assets minus cash received from
+selling fixed assets. It is not the same as CFI, which includes cash flows from fixed investments,
+investments in SECurities, and repaid principal from loans made.
+Note that interest exPEnse, net of tax, is added back to net income. This is because
+FCFF is the cash flow available to stockholders and debt holders. Since interest is paid
+to (and therefore "available to") the debt holders, it must be included in FCFF.
+FCFF can also be calculated from oPErating cash flow as:
+FCFF = CFO + [Int x (1 - tax rate)] - FCInv
+where:
+CFO
+Int
+= cash flow from oPErations
+= interest exPEnse
+FCInv
+= fixed capital investment (net capital exPEnditures)
+It is not necessary to adjust for noncash charges and changes in working capital when
+starting with CFO, since they are already reflected in the calculation of CFO. For firms
+that follow IFRS, it is not necessary to adjust for interest exPEnse that is included as a
+part of financing activities. Additionally, firms that follow IFRS can report dividends
+paid as oPErating activities. In this case, the dividends paid would be added back to
+CFO. Again, the goal is to calculate the cash flow that is available to the shareholders
+and debt holders. It is not necessary to adjust dividends for taxes since dividends paid
+are not tax deductible.
+Free Cash Flow to Equity
+Free cash flow to equity (FCFE) is the cash flow that would be available for distribution
+to common shareholders. FCFE can be calculated as follows:
+FCFE = CFO - FCInv + net borrowing
+where:
+CFO
+FCInv
+= cash flow from oPErations
+= fixed capital investment (net capital exPEnditures)
+net borrowing
+= debt issued - debt repaid
+Professor's Note: If net borrowing is negative (debt repaid exceeds debt issued), we would
+subtract net borrowing in calculating FCFE.
+If firms that follow IFRS have subtracted dividends paid in calculating CFO, dividends
+must be added back when calculating FCFE.
+Other Cash Flow Ratios
+Just as with the income statement and balance sheet, the cash flow statement can be
+analyzed by comparing the cash flows either over time or to those of other firms. Cash
+flow ratios can be categorized as PErformance ratios and coverage ratios.
+PErformance Ratios
+The cash flow-to-revenue ratio measures the amount of oPErating cash flow
+generated for each dollar of revenue.
+The cash return-on-assets ratio measures the return of oPErating cash flow attributed
+to all providers of capital.
+The cash return-on-equity ratio measures the return of oPErating cash flow attributed
+to shareholders.
+The cash-to-income ratio measures the ability to generate cash from firm oPErations.
+Cash flow PEr share is a variation of basic earnings PEr share measured by using CFO
+instead of net income.
+Note: If common dividends were classified as oPErating activities under IFRS,
+they should be added back to CFO for purposes of calculating cash flow PEr
+share.
+Coverage Ratios
+The debt coverage ratio measures financial risk and leverage.
+The interest coverage ratio measures the firm's ability to meet its interest obligations.
+Note: If interest paid was classified as a financing activity under IFRS, no
+interest adjustment is necessary.
+The reinvestment ratio measures the firm's ability to acquire long-term assets with
+oPErating cash flow.
+The debt payment ratio measures the firm's ability to satisFY long-term debt with
+oPErating cash flow.
+The dividend payment ratio measures the firm's ability to make dividend payments
+from oPErating cash flow.
+The investing and financing ratio measures the firm's ability to purchase assets, satisFY
+debts, and pay dividends.
+KEY CONCEPTS
+LOS 26.a
+Cash flow from oPErating activities (CFO) consists of the inflows and outflows of cash
+resulting from transactions that affect a firm's net income.
+Cash flow from investing activities (CFI) consists of the inflows and outflows of cash
+resulting from the acquisition or disposal of long-term assets and certain investments.
+Cash flow from financing activities (CFF) consists of the inflows and outflows of cash
+resulting from transactions affecting a firm's capital structure, such as issuing or
+repaying debt and issuing or repurchasing stock.
+LOS 26.b
+Noncash investing and financing activities, such as taking on debt to the seller of a
+purchased asset, are not reported in the cash flow statement but must be disclosed in
+the footnotes or a supplemental schedule.
+LOS 26.c
+Under U.S. GAAP, dividends paid are financing cash flows. Interest paid, interest
+received, and dividends received are oPErating cash flows. All taxes paid are oPErating
+cash flows.
+Under IFRS, dividends paid and interest paid can be reported as either oPErating or
+financing cash flows. Interest received and dividends received can be reported as
+either oPErating or investing cash flows. Taxes paid are oPErating cash flows unless
+they arise from an investing or financing transaction.
+LOS 26.d
+Under the direct method of presenting CFO, each line item of the accrual-based
+income statement is adjusted to get cash receipts or cash payments. The main
+advantage of the direct method is that it presents clearly the firm's oPErating cash
+receipts and payments.
+Under the indirect method of presenting CFO, net income is adjusted for transactions
+that affect net income but do not affect oPErating cash flow, such as depreciation and
+gains or losses on asset sales, and for changes in balance sheet items. The main
+advantage of the indirect method is that it focuses on the differences between net
+income and oPErating cash flow. This provides a useful link to the income statement
+when forecasting future oPErating cash flow.
+LOS 26.e
+OPErating activities typically relate to the firm's current assets and current liabilities.
+Investing activities typically relate to noncurrent assets. Financing activities typically
+relate to noncurrent liabilities and equity.
+Timing of revenue or exPEnse recognition that differs from the receipt or payment of
+cash is reflected in changes in balance sheet accounts.
+LOS 26.f
+The direct method of calculating CFO is to sum cash inflows and cash outflows for
+oPErating activities.
+Cash collections from customers--sales adjusted for changes in receivables and
+unearned revenue.
+Cash paid for inputs--COGS adjusted for changes in inventory and accounts
+payable.
+Cash oPErating exPEnses--SG&A adjusted for changes in related accrued
+liabilities or prepaid exPEnses.
+Cash interest paid--interest exPEnse adjusted for the change in interest
+payable.
+Cash taxes paid--income tax exPEnse adjusted for changes in taxes payable and
+changes in deferred tax assets and liabilities.
+The indirect method of calculating CFO begins with net income and adjusts it for gains
+or losses related to investing or financing cash flows, noncash charges to income, and
+changes in balance sheet oPErating items.
+CFI is calculated by determining the changes in asset accounts that result from
+investing activities. The cash flow from selling an asset is its book value plus any gain
+on the sale (or minus any loss on the sale).
+CFF is the sum of net cash flows from creditors (new borrowings minus principal
+repaid) and net cash flows from shareholders (new equity issued minus share
+repurchases minus cash dividends paid).
+LOS 26.g
+An indirect cash flow statement can be converted to a direct cash flow statement by
+adjusting each income statement account for changes in associated balance sheet
+accounts and by eliminating noncash and non-oPErating items.
+LOS 26.h
+An analyst should determine whether a company is generating positive oPErating cash
+flow over time that is greater than its capital sPEnding needs and whether the
+company's accounting policies are causing reported earnings to diverge from oPErating
+cash flow.
+A common-size cash flow statement shows each item as a PErcentage of revenue or
+shows each cash inflow as a PErcentage of total inflows and each outflow as a
+PErcentage of total outflows.
+LOS 26.i
+Free cash flow to the firm (FCFF) is the cash available to all investors, both equity
+owners and debt holders.
+FCFF = net income + noncash charges + [interest exPEnse x (1 - tax rate)] - fixed
+capital investment - working capital investment.
+FCFF = CFO + [interest exPEnse x (1 - tax rate)] - fixed capital investment.
+Free cash flow to equity (FCFE) is the cash flow that is available for distribution to the
+common shareholders after all obligations have been paid.
+FCFE = CFO - fixed capital investment + net borrowing
+Cash flow PErformance ratios, such as cash return on equity or on assets, and cash
+coverage ratios, such as debt coverage or cash interest coverage, provide information
+about the firm's oPErating PErformance and financial strength.
+CONCEPT CHECKERS
+1. Using the following information, what is the firm's cash flow from oPErations?
+Net income
+$120
+Decrease in accounts receivable
+Depreciation
+Increase in inventory
+Increase in accounts payable
+Decrease in wages payable
+Increase in deferred tax liabilities
+Profit from the sale of land
+20
+25
+10
+7
+5
+15
+2
+A. $158.
+B. $170.
+C. $174.
+Assuming U.S. GAAP, use the following data to answer Questions 2 through 4.
+Net income
+Depreciation
+Taxes paid
+Interest paid
+$45
+75
+25
+5
+10
+40
+35
+30
+20
+50
+45
+15
+20
+Dividends paid
+Cash received from sale of company building
+Issuance of preferred stock
+Repurchase of common stock
+Purchase of machinery
+Issuance of bonds
+Debt retired through issuance of common stock
+Paid off long-term bank borrowings
+Profit on sale of building
+2. Cash flow from oPErations is:
+A. $70.
+B. $100.
+C. $120.
+3. Cash flow from investing activities is:
+A. -$30.
+B. $20.
+C. $50.
+4. Cash flow from financing activities is:
+A. $30.
+B. $55.
+C. $75.
+5. Given the following:
+Sales
+$1,500
+100
+150
+50
+70
+25%
+$30
+Increase in inventory
+Depreciation
+Increase in accounts receivable
+Decrease in accounts payable
+After-tax profit margin
+Gain on sale of machinery
+Cash flow from oPErations is:
+A. $115.
+B. $275.
+C. $375.
+6. Which of the following items is least likely considered a cash flow from
+financing activity under U.S. GAAP?
+A. Receipt of cash from the sale of bonds.
+B. Payment of cash for dividends.
+C. Payment of interest on debt.
+7. Which of the following would be least likely to cause a change in investing cash
+flow?
+A. The sale of a division of the company.
+B. The purchase of new machinery.
+C. An increase in depreciation exPEnse.
+8. Which of the following is least likely a change in cash flow from oPErations
+under U.S. GAAP?
+A. A decrease in notes payable.
+B. An increase in interest exPEnse.
+C. An increase in accounts payable.
+9. Where are dividends paid to shareholders reported in the cash flow statement
+under U.S. GAAP and IFRS?
+U.S. GAAP
+A. OPErating of financing activities
+B. Financing activities
+C. OPErating activities
+IFRS
+OPErating of financing activities
+OPErating of financing activities
+Financing activities
+10. Sales of inventory would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+11. Issuing bonds would be classified as:
+A. investing cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+12. Sale of land would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+13. Under U.S. GAAP, taxes paid would be classified as:
+A. oPErating cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+14. An increase in notes payable would be classified as:
+A. investing cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+15. Under U.S. GAAP, interest paid would be classified as:
+A. oPErating cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+16. Continental Corporation reported sales revenue of $150,000 for the current
+year. If accounts receivable decreased $10,000 during the year and accounts
+payable increased $4,000 during the year, cash collections were:
+A. $154,000.
+B. $160,000.
+C. $164,000.
+17. The write-off of obsolete equipment would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. no cash flow impact.
+18. Sale of obsolete equipment would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+19. Under IFRS, interest exPEnse would be classified as:
+A. either oPErating cash flow or financing cash flow.
+B. oPErating cash flow only.
+C. financing cash flow only.
+20. Depreciation exPEnse would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. no cash flow impact.
+21. Under U.S. GAAP, dividends received from investments would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+22. Torval, Inc. retires debt SECurities by issuing equity SECurities. This is considered
+a:
+A. cash flow from investing.
+B. cash flow from financing.
+C. noncash transaction.
+23. Net income for Monique, Inc. for the year ended December 31, 20X7 was
+$78,000. Its accounts receivable balance at December 31, 20X7 was $121,000,
+and this balance was $69,000 at December 31, 20X6. The accounts payable
+balance at December 31, 20X7 was $72,000 and was $43,000 at December 31,
+20X6. Depreciation for 20X7 was $12,000, and there was an unrealized gain of
+$15,000 included in 20X7 income from the change in value of trading SECurities.
+Which of the following amounts represents Monique's cash flow from
+oPErations for 20X7?
+A. $52,000.
+B. $67,000.
+C. $82,000.
+24. Martin, Inc. had the following transactions during 20X7:
+Purchased new fixed assets for $75,000.
+Converted $70,000 worth of preferred shares to common shares.
+Received cash dividends of $12,000. Paid cash dividends of $21,000.
+Repaid mortgage principal of $17,000.
+Assuming Martin follows U.S. GAAP, which of the following amounts represents
+Martin's cash flows from investing and cash flows from financing in 20X7,
+resPEctively?
+Cash flows from investing
+A. ($5,000)
+B. ($75,000)
+C. ($75,000)
+Cash flows from financing
+($21,000)
+($21,000)
+($38,000)
+25. In preparing a common-size cash flow statement, each cash flow is expressed
+as a PErcentage of:
+A. total assets.
+B. total revenues.
+C. the change in cash.
+For more questions related to this topic review, log in to your Schweser online account
+and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
+topic review, log in to your Schweser online account and launch the OnDemand video
+lectures, if you have purchased these products.
+ANSWERS - CONCEPT CHECKERS
+1. Using the following information, what is the firm's cash flow from oPErations?
+Net income
+$120
+Decrease in accounts receivable
+Depreciation
+Increase in inventory
+Increase in accounts payable
+Decrease in wages payable
+Increase in deferred tax liabilities
+20
+25
+10
+7
+5
+15
+Profit from the sale of land
+2
+A. $158.
+B. $170.
+C. $174.
+Net income - profits from sale of land + depreciation + decrease in receivables
+- increase in inventories + increase in accounts payable - decrease in wages
+payable + increase in deferred tax liabilities = 120 - 2 + 25 + 20 - 10 + 7 - 5 + 15
+= $170. Note that the profit on the sale of land should be subtracted from net
+income because this transaction is classified as investing, not oPErating.
+Assuming U.S. GAAP, use the following data to answer Questions 2 through 4.
+Net income
+Depreciation
+Taxes paid
+Interest paid
+Dividends paid
+Cash received from sale of company building
+Issuance of preferred stock
+Repurchase of common stock
+Purchase of machinery
+Issuance of bonds
+Debt retired through issuance of common stock
+$45
+75
+25
+5
+10
+40
+35
+30
+20
+50
+45
+Paid off long-term bank borrowings
+Profit on sale of building
+2. Cash flow from oPErations is:
+A. $70.
+B. $100.
+C. $120.
+15
+20
+Net income - profit on sale of building + depreciation = 45 - 20 + 75 = $100.
+Note that taxes and interest are already deducted in calculating net income,
+and that the profit on the sale of the building should be subtracted from net
+income.
+3. Cash flow from investing activities is:
+A. -$30.
+B. $20.
+C. $50.
+Cash from sale of building - purchase of machinery = 40 - 20 = $20.
+4. Cash flow from financing activities is:
+A. $30.
+B. $55.
+C. $75.
+Sale of preferred stock + issuance of bonds - principal payments on bank
+borrowings - repurchase of common stock - dividends paid = 35 + 50 - 15 - 30
+- 10 = $30. Note that we did not include $45 of debt retired through issuance
+of common stock since this was a noncash transaction. Knowing how to handle
+noncash transactions is important.
+5. Given the following:
+Sales
+$1,500
+Increase in inventory
+Depreciation
+Increase in accounts receivable
+100
+150
+50
+70
+25%
+$30
+Decrease in accounts payable
+After-tax profit margin
+Gain on sale of machinery
+Cash flow from oPErations is:
+A. $115.
+B. $275.
+C. $375.
+Net income = $1,500 x 0.25 = $375, and cash flow from oPErations = net
+income - gain on sale of machinery + depreciation - increase in accounts
+receivable - increase in inventory - decrease in accounts payable = 375 - 30 +
+150 - 50 - 100 - 70 = $275.
+6. Which of the following items is least likely considered a cash flow from
+financing activity under U.S. GAAP?
+A. Receipt of cash from the sale of bonds.
+B. Payment of cash for dividends.
+C. Payment of interest on debt.
+The payment of interest on debt is an oPErating cash flow under U.S. GAAP.
+7. Which of the following would be least likely to cause a change in investing cash
+flow?
+A. The sale of a division of the company.
+B. The purchase of new machinery.
+C. An increase in depreciation exPEnse.
+Depreciation does not represent a cash flow. To the extent that it affects the
+firm's taxes, an increase in depreciation changes oPErating cash flows, but not
+investing cash flows.
+8. Which of the following is least likely a change in cash flow from oPErations
+under U.S. GAAP?
+A. A decrease in notes payable.
+B. An increase in interest exPEnse.
+C. An increase in accounts payable.
+A change in notes payable is a financing cash flow.
+9. Where are dividends paid to shareholders reported in the cash flow statement
+under U.S. GAAP and IFRS?
+U.S. GAAP
+A. OPErating of financing activities
+B. Financing activities
+C. OPErating activities
+IFRS
+OPErating of financing activities
+OPErating of financing activities
+Financing activities
+Under U.S. GAAP, dividends paid are reported as financing activities. Under
+IFRS, dividends paid can be reported as either oPErating or financing activities.
+10. Sales of inventory would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+Sales of inventory would be classified as oPErating cash flow.
+11. Issuing bonds would be classified as:
+A. investing cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+Issuing bonds would be classified as financing cash flow.
+12. Sale of land would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+Sale of land would be classified as investing cash flow.
+13. Under U.S. GAAP, taxes paid would be classified as:
+A. oPErating cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+Taxes paid are an oPErating cash flow under U.S. GAAP.
+14. An increase in notes payable would be classified as:
+A. investing cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+Increase in notes payable would be classified as financing cash flow.
+15. Under U.S. GAAP, interest paid would be classified as:
+A. oPErating cash flow.
+B. financing cash flow.
+C. no cash flow impact.
+Interest paid is classified as oPErating cash flow under U.S. GAAP.
+16. Continental Corporation reported sales revenue of $150,000 for the current
+year. If accounts receivable decreased $10,000 during the year and accounts
+payable increased $4,000 during the year, cash collections were:
+A. $154,000.
+B. $160,000.
+C. $164,000.
+$150,000 sales + $10,000 decrease in accounts receivable = $160,000 cash
+collections. The change in accounts payable does not affect cash collections.
+Accounts payable result from a firm's purchases from its suppliers.
+17. The write-off of obsolete equipment would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. no cash flow impact.
+Write-off of obsolete equipment has no cash flow impact.
+18. Sale of obsolete equipment would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+Sale of obsolete equipment would be classified as investing cash flow.
+19. Under IFRS, interest exPEnse would be classified as:
+A. either oPErating cash flow or financing cash flow.
+B. oPErating cash flow only.
+C. financing cash flow only.
+Under IFRS, interest exPEnse can be classified as either an oPErating cash flow
+or financing cash flow.
+20. Depreciation exPEnse would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. no cash flow impact.
+Depreciation exPEnse would be classified as no cash flow impact.
+21. Under U.S. GAAP, dividends received from investments would be classified as:
+A. oPErating cash flow.
+B. investing cash flow.
+C. financing cash flow.
+Dividends received from investments would be classified as oPErating cash flow
+under U.S. GAAP.
+22. Torval, Inc. retires debt SECurities by issuing equity SECurities. This is considered
+a:
+A. cash flow from investing.
+B. cash flow from financing.
+C. noncash transaction.
+The exchange of debt SECurities for equity SECurities is a noncash transaction.
+23. Net income for Monique, Inc. for the year ended December 31, 20X7 was
+$78,000. Its accounts receivable balance at December 31, 20X7 was $121,000,
+and this balance was $69,000 at December 31, 20X6. The accounts payable
+balance at December 31, 20X7 was $72,000 and was $43,000 at December 31,
+20X6. Depreciation for 20X7 was $12,000, and there was an unrealized gain of
+$15,000 included in 20X7 income from the change in value of trading SECurities.
+Which of the following amounts represents Monique's cash flow from
+oPErations for 20X7?
+A. $52,000.
+B. $67,000.
+C. $82,000.
+Net income
+Depreciation
+Unrealized gain
+Increase in accounts receivable
+Increase in accounts payable
+Cash flow from oPErations
+$78,000
+12,000
+(15,000)
+(52,000)
+29,000
+$52,000
+24. Martin, Inc. had the following transactions during 20X7:
+Purchased new fixed assets for $75,000.
+Converted $70,000 worth of preferred shares to common shares.
+Received cash dividends of $12,000. Paid cash dividends of $21,000.
+Repaid mortgage principal of $17,000.
+Assuming Martin follows U.S. GAAP, which of the following amounts represents
+Martin's cash flows from investing and cash flows from financing in 20X7,
+resPEctively?
+Cash flows from investing
+A. ($5,000)
+B. ($75,000)
+C. ($75,000)
+Cash flows from financing
+($21,000)
+($21,000)
+($38,000)
+Purchased new fixed assets for $75,000 - cash outflow from investing
+Converted $70,000 of preferred shares to common shares - noncash
+transaction
+Received dividends of $12,000 - cash inflow from oPErations
+Paid dividends of $21,000 - cash outflow from financing
+Mortgage repayment of $17,000 - cash outflow from financing
+CFI = -75,000
+CFF = -21,000 - 17,000 = -$38,000
+25. In preparing a common-size cash flow statement, each cash flow is expressed
+as a PErcentage of:
+A. total assets.
+B. total revenues.
+C. the change in cash.
+The cash flow statement can be converted to common-size format by
+expressing each line item as a PErcentage of revenue.
+CHALLENGE PROBLEMS
+Assuming U.S. GAAP, use the following data to answer Questions A through F.
+Balance Sheet Data
+Assets
+Cash
+Accounts receivable
+Inventory
+ProPErty, plant, and equipment
+Accumulated depreciation
+Total assets
+Liabilities and Equity
+Accounts payable
+Interest payable
+Dividends payable
+Mortgage
+Bank note
+Common stock
+Retained earnings
+20X7
+20X6
+$290
+$100
+250
+740
+920
+200
+800
+900
+(290)
+(250)
+$1,910
+$1,750
+$470
+$450
+15
+10
+535
+100
+430
+350
+10
+5
+585
+0
+400
+300
+Total liabilities and equity
+$1,910
+$1,750
+Income Statement for the Year 20X7
+20X7
+Sales
+$1,425
+Cost of goods sold
+Depreciation
+Interest ExPEnse
+Gain on sale of old machine
+Taxes
+Net income
+Notes:
+1,200
+100
+30
+10
+45
+$60
+Dividends declared to shareholders were $10.
+New common shares were sold at par for $30.
+Fixed assets were sold for $30. Original cost of these assets was $80, and $60 of
+accumulated depreciation has been charged to their original cost.
+The firm borrowed $100 on a 10-year bank note--the proceeds of the loan
+were used to pay for new fixed assets.
+Depreciation for the year was $100 (accumulated depreciation up $40 and
+depreciation on sold assets $60).
+A. Calculate cash flow from oPErations using the indirect method.
+B. Calculate total cash collections, cash paid to suppliers, and other cash
+exPEnses.
+C. Calculate cash flow from oPErations using the direct method.
+D. Calculate cash flow from financing, cash flow from investing, and total cash
+flow.
+E. Calculate free cash flow to equity owners.
+F. What would the impact on investing cash flow and financing cash flow have
+been if the company leased the new fixed assets instead of borrowing the
+money and purchasing the equipment?
+ANSWERS - CHALLENGE PROBLEMS
+Assuming U.S. GAAP, use the following data to answer Questions A through F.
+Balance Sheet Data
+Assets
+20X7
+20X6
+Cash
+Accounts receivable
+Inventory
+ProPErty, plant, and equipment
+Accumulated depreciation
+Total assets
+Liabilities and Equity
+Accounts payable
+Interest payable
+Dividends payable
+Mortgage
+Bank note
+Common stock
+Retained earnings
+$290
+$100
+250
+740
+920
+200
+800
+900
+(290)
+(250)
+$1,910
+$1,750
+$470
+$450
+15
+10
+535
+100
+430
+350
+10
+5
+585
+0
+400
+300
+Total liabilities and equity
+$1,910
+$1,750
+Income Statement for the Year 20X7
+20X7
+Sales
+Cost of goods sold
+Depreciation
+Interest ExPEnse
+Gain on sale of old machine
+$1,425
+1,200
+100
+30
+10
+Taxes
+Net income
+Notes:
+45
+$60
+Dividends declared to shareholders were $10.
+New common shares were sold at par for $30.
+Fixed assets were sold for $30. Original cost of these assets was $80, and $60 of
+accumulated depreciation has been charged to their original cost.
+The firm borrowed $100 on a 10-year bank note--the proceeds of the loan
+were used to pay for new fixed assets.
+Depreciation for the year was $100 (accumulated depreciation up $40 and
+depreciation on sold assets $60).
+A. Calculate cash flow from oPErations using the indirect method.
+Net income - gain on sale of machinery + depreciation - increase in
+receivables + decrease in inventories + increase in accounts payable + increase
+in interest payable = 60 - 10 + 100 - 50 + 60 + 20 + 5 = $185.
+B. Calculate total cash collections, cash paid to suppliers, and other cash
+exPEnses.
+Cash collections = sales - increase in receivables = 1,425 - 50 = $1,375.
+Cash paid to suppliers = -cost of goods sold + decrease in inventory + increase
+in accounts payable = -1,200 + 60 + 20 = -$1,120. (Note that the question asks
+for cash paid to suppliers, so no negative sign is needed in the answer.)
+Other cash exPEnses = -interest exPEnse + increase in interest payable - tax
+exPEnse = -30 + 5 - 45 = -$70. (Note that the question asks for cash exPEnses
+so no negative sign is needed in the answer.)
+C. Calculate cash flow from oPErations using the direct method.
+CFO cash collections - cash to suppliers - other cash exPEnses = 1,375 - 1,120
+- 70 = $185. This must match the answer to Question A, because CFO using
+the direct method will be the same as CFO under the indirect method.
+D. Calculate cash flow from financing, cash flow from investing, and total cash
+flow.
+CFF = sale of stock + new bank note - payment of mortgage - dividends +
+increase in dividends payable = 30 + 100 - 50 - 10 + 5 = $75.
+CFI = sale of fixed assets - new fixed assets = 30 - 100 = -$70. Don't make this
+difficult. We sold assets for 30 and bought assets for 100. Assets sold had an
+original cost of 80, so (gross) PP&E only went up by 20.
+The easiest way to determine total cash flow is to simply take the change in
+cash from the balance sheet. However, adding the three components of cash
+flow will yield 185 - 70 + 75 = $190.
+E. Calculate free cash flow to equity owners.
+FCFE = cash flow from oPErations - capital sPEnding + sale of fixed assets +
+debt issued - debt repaid = $185 - 100 + 30 + 100 - 50 = $165. No adjustment
+is necessary for interest since FCFE includes debt service.
+F. What would the impact on investing cash flow and financing cash flow have
+been if the company leased the new fixed assets instead of borrowing the
+money and purchasing the equipment?
+Investing cash flow would be higher and financing cash flow would be lower.
+The company would sPEnd less on investments but would not have inflows
+from the borrowing.

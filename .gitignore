@@ -1,2 +1,6 @@
 .env
-/model/DAPT/data/
+/model/DAPT/data/10ks
+/model/DAPT/data/analyst-reports
+/model/DAPT/data/analyst-reports-2
+/model/DAPT/data/valuation
+/model/DAPT/data/research

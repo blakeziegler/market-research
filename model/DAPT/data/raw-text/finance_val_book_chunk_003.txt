@@ -1,0 +1,2863 @@
+Chapter 4
+IMPLEMENTING
+ACCOUNTING ANALYSIS
+W e learned in Chapter 3 that accounting analysis requires the analyst to
+adjust a firm's accounting numbers using cash flow and footnote
+information to "undo" any accounting distortions. This entails recasting a
+firm's financial statements using standard reporting nomenclature and formats. Firms
+frequently use somewhat different
+formats and terminology for presenting their
+financial results. Recasting the financial statements using a standard template, therefore,
+helps ensure that PErformance metrics used for financial analysis are calculated using
+comparable definitions across companies and over time.
+Once the financial statements have been standardized, the analyst is ready to identiFY
+any distortions in financial statements. The analyst's primary focus should be on those
+accounting estimates and methods that the firm uses to measure its key success factors
+and risks. If there are differences in estimates and methods between firms or for the
+same firm over time, the analyst's job is to assess whether they reflect legitimate
+business differences or differences in managerial judgment or bias. Differences arising
+from managerial bias will require adjustment. In addition, even if accounting rules are
+adhered to consistently, accounting distortions can arise because the rules themselves
+do a poor job of capturing firm economics, creating opportunities for the analyst to
+adjust a firm's financials in a way that presents a more realistic picture of
+its
+PErformance.
+In addition, in today's global business world, comPEtitors frequently come from a
+diverse set of countries and report using different accounting standards, making it
+challenging for analysts to compare their financial PErformance. The two most widely
+used standards are U.S. GAAP and International Financial Reporting Standards (IFRS).
+In situations when these reporting differences are significant, the analyst can adjust the
+financials of the firms to put them on a level playing field.
+This chapter begins by showing how to recast the firm's financial statements into a
+template that uses standard terminology and classifications. Next, we use discussion
+and examples to illustrate the most common tyPEs of accounting distortions that can
+arise and show how to make adjustments to the standardized financial statements to
+undo these distortions. We then identiFY some of the significant remaining differences
+between U.S. GAAP and IFRS and show how to adjust for these differences. Finally, we
+return to our TJX and Nordstrom comparison (fIRSt introduced in Chapter 2) in order to
+illustrate the adjustments we would make to more appropriately compare these two
+companies.
+4-1
+4-2 PART 2 Business Analysis and Valuation Tools
+to assets,
+An analysis of the balance sheet is used to identiFY whether there have been any
+liabilities, or owners' equity. Once an asset and liability
+distortions
+misstatement has been identified, the analyst can make adjustments to the balance sheet
+at the beginning and/or end of the current year, as well as any needed adjustments to
+revenues and exPEnses in the latest income statement. This appROAch ensures that the
+financial ratios used to evaluate a firm's most recent results and forecast its future
+PErformance are based on financial data that appropriately reflect its business economics.
+In some instances, information taken from a firm's footnotes and cash flow statement
+enables the analyst to make a precise adjustment for an accounting distortion. However,
+for many tyPEs of accounting adjustments, the company does not disclose all of the
+information needed to PErfectly undo the distortion, requiring the analyst to make an
+approximate adjustment to the financial statements.
+RECASTING FINANCIAL STATEMENTS
+Firms sometimes use different nomenclature and formats to present their financial
+results. For example, the asset goodwill can be reported separately using such titles as
+Goodwill, Excess of Cost Over Net Assets of Acquired Companies, and Cost in Excess
+of Fair Value, or it can be included in the line item Other Intangible Assets. Interest
+Income can be reported either as a subcategory of Revenues, shown lower down the
+income statement as part of Other Income and ExPEnses, or sometimes as Interest
+ExPEnse, Net of Interest Income.
+These differences in financial statement terminology, classifications, and formats can
+make it difficult to compare PErformance across firms, and sometimes to compare PErformance for the same firm over time. The fIRSt task for the analyst in accounting analysis is, therefore, to recast the financial statements into a common format. This involves
+designing a template for the income statement, balance sheet, and cash flow statement
+that can be used to standardize financial statements for any company. Tables 4-1, 4-2,
+and 4-3 present the format used throughout the book to standardize the income statement, balance sheet, and cash flow statement, resPEctively.
+To create standardized financials for a particular company, the analyst classifies each
+line item in that firm's financial statements using the appropriate account name from the
+above templates. This may require using information from the footnotes to ensure that
+accounts are classified appropriately. An example, applying the above template to
+standardize the financial statements for the year ending January 2011 for The TJX
+Companies, Inc., is shown in ApPEndix A at the end of this chapter.
+MAKING ACCOUNTING ADJUSTMENTS
+Once the financials have been standardized, the analyst can evaluate whether accounting
+adjustments are needed to correct any distortions in assets, liabilities, or equity, as discussed below.
+Asset Distortions
+Accountants define assets as resources that a firm owns or controls as a result of past
+business transactions, and which are exPEcted to produce future economic benefits that
+can be measured with a reasonable degree of certainty. Assets can take a variety of forms,
+including cash, marketable SECurities, receivables from customers, inventory, fixed assets,
+long-term investments in other companies, and intangibles.
+Distortions in asset values generally arise because there is ambiguity about whether
+The firm owns or controls the economic resources in question,
+The economic resources are likely to provide future economic benefits that can be
+measured with reasonable certainty, or
+The fair values of assets are lower or higher than their book values.
+Who Owns or Controls Resources?
+For most resources used by a firm, ownership or control is relatively straightforward--
+the firm using the resource owns the asset. However, some tyPEs of transactions make it
+4-8 PART 2 Business Analysis and Valuation Tools
+difficult to assess who owns a resource. For example, does the lessor or the lessee own or
+control a resource that has been leased? Or consider a firm that discounts a customer
+receivable with a bank. If the bank has recourse against the firm should the customer
+default, is the real owner of the receivable the bank or the company?
+Given the subjectivity of identiFYing when a company has control over an asset,
+accountants frequently use mechanical rules to define control. These rules make it
+easy for accountants to implement accounting standards, but they can result in differences in standards across countries. They also PErmit managers to "groom" transactions to satisFY their own financial reporting objectives. For example, both U.S. GAAP
+and IFRS currently PErmit lease transactions to be structured in such a way that the
+leased asset can be reported on the balance sheet of the lessee, the lessor, or on neither
+party's balance sheet.2 Accounting analysis, therefore,
+involves assessing whether a
+firm's reported assets adequately reflect the key resources that are under its control,
+and whether adjustments are required to compare its PErformance with that of
+comPEtitors.
+Asset ownership issues also arise indirectly from the application of rules for revenue
+recognition. Firms are PErmitted to recognize revenues only when their product has been
+shipPEd or their service has been provided to the customer. Revenues are then considered "earned," and the customer has a legal commitment to pay for the product or serfor the seller, recognition of revenue frequently coincides with
+vice. As a result,
+"ownership" of a receivable that is shown as an asset on its balance sheet. Therefore,
+accounting analysis that raises questions about whether or not revenues have been
+earned often affects the valuation of assets.
+Ambiguity over whether a company owns an asset creates a number of opportunities
+for accounting analysis:
+Despite management's best intentions, financial statements sometimes do a poor
+job of reflecting the firm's economic assets since it is difficult for accounting rules
+to capture all of the subtleties associated with ownership and control.
+Because accounting rules on ownership and control PErmit managers to groom
+transactions such that essentially similar transactions are reported in very different
+ways, important assets may be omitted from the balance sheet even though the
+firm bears many of the economic risks of ownership.
+There may be legitimate differences in opinion between managers and analysts
+leading to differences in
+over residual ownership risks borne by the company,
+opinion over reporting for these assets.
+Aggressive revenue recognition, which boosts reported earnings, is likely to affect
+asset values.
+Can Future Economic Benefits Be Measured
+with Reasonable Certainty?
+It is almost always difficult to accurately forecast the future benefits associated with capital outlays because the world is uncertain. A company does not know whether a comPEtitor will offer a new product or service that makes its own offering obsolete. It does
+not know whether the products manufactured at a new plant will be the tyPE that customers want to buy. A company does not know whether changes in oil prices will make
+the oil drilling equipment that it manufactures less valuable.
+Accounting rules deal with these challenges by stipulating the tyPEs of resources that
+can be recorded as assets and those that cannot. The judgment involved in creating these
+rules, however, can lead to reporting differences across firms and countries. For example,
+Implementing Accounting Analysis 4-9
+consider the treatment of the economic benefits from research and development (R&D),
+which is generally considered highly uncertain. Research projects may never deliver
+promised new products, the products they generate may not be economically viable, or
+products may be made obsolete by comPEtitors' research. Under U.S. GAAP, R&D outlays are exPEnsed, except for software development costs on products that satisFY technological feasibility standards (see SFAS 86). IFRS requires all research costs to be exPEnsed
+but PErmits firms to capitalize development costs once standards of technical and market
+feasibility are satisfied (IAS 38).
+Rules that require the immediate exPEnsing of outlays for some key resources may be
+good accounting, but they create a challenge for the analyst--they make it more difficult
+to infer financial PErformance from the financial statements. If all U.S. firms exPEnse
+R&D, financial statements will reflect differences in R&D success only when new products are commercialized rather than during the development process. Differences in
+R&D exPEnsing for firms using U.S. GAAP and IFRS will also make it challenging for
+the analyst to assess how much of any differences in reported PErformance are due to
+reporting standards rather than economic PErformance. One way the analyst can attempt
+to correct for these distortions is by capitalizing key R&D outlays and adjusting the value
+of the intangible asset based on R&D updates.3
+Have Fair Values of Assets Declined Below Book Value?
+An asset is impaired when its fair value falls below its book value. Of course, markets for
+many long-term oPErating assets are illiquid and incomplete, making it highly subjective
+to infer their fair values. As the 2008 financial crisis demonstrated, asset valuation can
+also be subjective in markets that are typically highly liquid but which have temporarily
+frozen. Consequently, considerable management
+is involved in deciding
+whether an asset is impaired and determining the value of any impairment loss.
+judgment
+For the analyst, this raises the possibility that asset values are misstated. In most
+countries, accounting standards
+require that a loss be recorded for PErmanent
+asset impairments. Once again, however, the sPEcific rules differ across countries. For
+example, U.S. rules (SFAS 144) PErmit a certain amount of asset overstatement since
+the test for asset impairment compares the asset's book value to the exPEcted value of
+undiscounted (rather than discounted) future cash flows exPEcted to be generated from
+future use and sale of the asset. This can create situations where no financial statement
+loss is reported for an asset that is economically impaired. In contrast, IFRS requires the
+asset impairment test to be based on discounted (rather than undiscounted) cash flows.
+The task of determining whether there has been an asset impairment and valuing the
+impairment is delegated to management with oversight by the firm's auditors. This
+leaves opportunities for potential management bias in valuing assets and for legitimate
+differences in opinion between managers and analysts over asset valuations. In most
+cases, management bias will lead to overstated assets since managers will prefer not to
+recognize an impairment. However, managers can also bias asset values downward by
+overstating the current level of
+impairment, thereby reducing future exPEnses and
+increasing future earnings.
+Opportunities for accounting adjustments can therefore arise in the situations discussed above if
+Accounting rules do not do a good job of capturing the firm's economics,
+Managers use their discretion to distort the firm's PErformance, or
+There are legitimate differences in opinion between managers and analysts about
+economic uncertainties facing the firm that are reflected in asset values.
+4-10 PART 2 Business Analysis and Valuation Tools
+Overstated Assets
+Asset overstatements are likely to arise when managers have incentives to increase
+reported earnings. Thus, adjustments to assets also typically require adjustments to the
+income statement in the form of either increased exPEnses or reduced revenues. The
+most common forms of asset (and earnings) overstatement are the following:
+1. Delayed asset write-downs. If assets become impaired--that is, their realizable
+values fall below their book values--accounting rules generally require that they
+be written down to their fair values. Asset impairments affect earnings since
+write-downs are charged directly to earnings. Asset write-downs also increase a
+firm's leverage, potentially limiting its ability to access capital markets. However,
+determining an asset's fair value involves considerable judgment, potentially providing managers with an opportunity to defer asset impairments as a way to
+boost reported profits and to enhance their firms' financial position.4
+Analysts that cover firms where management of inventories and receivables is a
+key success factor (e.g., the fashion retail and consumer electronics industries) need
+to be particularly cognizant of this form of earnings management and its impact
+on assets. For example,
+if managers over-buy or over-produce in the current
+PEriod, they are likely to have to offer customers discounts or attractive credit
+terms to get rid of surplus inventories. Significant customer discounts negatively
+impact earnings, while providing customers with credit carries the risk of default.
+Warning signs for delays in this tyPE of asset write-down include growing inventory and receivables, write-downs of similar products by comPEtitors, and business
+downturns for a firm's major customer.
+Deteriorating industry or firm economic conditions can also affect the value
+of long-term non-financial assets (such as plant and equipment) or intangible
+assets (such as goodwill). Although firms are required to recognize impairments
+in the values of these assets when they arise, SECond-hand markets for these asset
+tyPEs are often illiquid, incomplete, or nonexistent, making estimates of asset
+valuations and impairments inherently subjective. As a result, managers can use
+their reporting judgment to delay write-downs on the balance sheet and avoid
+showing impairment charges in the income statement.5 This issue is particularly
+relevant for asset-intensive firms in volatile markets (e.g., airlines) or for firms
+that follow a strategy of aggressive growth through acquisitions (and thus have
+large amounts of goodwill on their balance sheet).6 Warning signs for delays in
+impairments in long-term non-financial assets include declining long-term asset
+turnover, declines in return on assets to below the cost of capital for the firm,
+write-downs by other firms in the same industry that have also suffered deteriorating asset use, and overpayment
+integration of key
+acquisitions.
+for or unsuccessful
+2. Underestimated reserves (e.g., allowances for bad debts or loan losses). Managers
+make estimates of exPEcted customer defaults on accounts receivable and loans
+and create reserves to cover these anticipated costs. If managers underestimate
+the value of these reserves, assets and earnings will be overstated. Warning signs
+of inadequate allowances include growing receivables, business downturns for a
+firm's major clients, and growing loan delinquencies.
+3. Accelerated recognition of revenues (increasing receivables). Managers typically have
+the best information on the uncertainties governing revenue recognition--whether
+a product or service has been provided to customers and whether cash collection is
+Implementing Accounting Analysis 4-11
+reasonably likely. However, managers may also have incentives to accelerate the recognition of revenues, boosting reported earnings for the PEriod. Accounts receivable
+and earnings will then be overstated. Aggressive revenue recognition is one of the
+most popular forms of earnings management cited by the SEC. Warning signs
+include receivables growth outpacing sales growth, and increasing days' receivable.
+4. Understated depreciation/amortization on long-term assets. Managers make estimates of asset lives, salvage values, and amortization schedules for depreciable
+long-term assets. If these estimates are optimistic, long-term assets and earnings
+will be overstated. This issue is likely to be most PErtinent for firms in assetintensive businesses (e.g., airlines, utilities). A comparison of the firm's policies to
+those of its industry comPEtitors with a similar asset base and strategy will help an
+analyst identiFY potential overstatements.
+EXAMPLES OF HOW TO CORRECT FOR ASSET OVERSTATEMENT
+The following examples illustrate some of the distortions that lead to overstated assets
+and the tyPEs of corrections that an analyst can make to reduce bias in the financial
+statements.
+Delayed Write-Downs of Assets
+In recent years, the portable MP3 player dominated the music delivery industry, influencing everything from format to record label strategy to how artists market and release
+their music. Apple has dominated the market with its IPOd player--building a U.S. market share of over 75 PErcent since its introduction in 2001. Rivals such as Creative Technology, Sony, Microsoft, and Samsung have comPEted aggressively in an attempt to grab
+a share of this rapidly growing market. Key risks facing these firms include rapid
+changes in MP3 player technology and inventory management in the face of both relentless comPEtition and potential technological obsolescence.
+Singapore-based Creative Technology posted impressive revenue growth from the SECond half of 2003 through the fIRSt quarter of 2005, with predictable spikes in holiday
+season sales in both 2003 and 2004. However, gross margins steadily declined from
+35 PErcent to 23 PErcent over this PEriod. A more worrying trend was the firm's inventory management. Growth in inventory far outpaced growth in sales, leading to a 58 PErcent increase in days' inventory, from 100 days for the quarter ending September 30,
+2003, to 158 days for the quarter ending March 31, 2005. Inventory at the end of
+March 2006 was valued at $451.2 million, up from $183.9 million nine months prior.
+This increase raises questions for analysts about Creative Technology's inventory value
+and potential obsolescence.
+An analyst can assess whether inventory is impaired by talking with suppliers and
+customers, observing the sPEed of new product launches for MP3 players, benchmarking
+against the PErformance of other firms in the industry, and understanding the general
+sentiment about exPEcted market growth. Based on this research, an analyst can judge
+whether Creative Technology's slowdown in inventory turnover is likely to PErsist,
+whether there are serious technological risks for the current inventory, and, if so, whether
+and how large an impairment charge is appropriate. Prior to the release of earnings for
+the June 31, 2005, quarter, several analysts raised questions about the growth in Creative
+Technology's inventory and anticipated that the company would be forced to record
+future inventory impairment charges.
+4-12 PART 2 Business Analysis and Valuation Tools
+inventory is overstated,
+Once an analyst concludes that
+the challenge is to
+estimate the magnitude of the write-down. For Creative Technology, this dePEnds on
+the price discounts that are required to move slow-moving products. The after-tax cost
+of the impairment will reduce current and retained earnings. In addition, the tax effect
+of the impairment will lower the Tax ExPEnse and reduce the Deferred Tax Liability
+since the inventory write-down is not recorded for tax purposes until the inventory is
+subsequently sold. Creative Technology enjoys a sPEcial status in Singapore that
+exempts certain elements of revenues from income tax. However, for illustrative purposes, using the local statutory tax rate of 20 PErcent, the financial statements could be
+modified as follows for an assumed inventory overstatement of $25 million:
+Adjustment
+...................................................................
+($ Millions)
+......................................................................................................................................
+Liabilities &
+Equity
+Assets
+-25.0
+Balance Sheet
+Inventory
+Deferred Tax Liability
+Common Shareholders' Equity
+Income Statement
+Cost of Sales
+Tax ExPEnse
+Net Income
+-8.8
+-16.2
+th25.0
+-8.8
+-16.2
+......................................................................................................................................
+.......................................................................................................................................
+In August 2005, Creative Technology announced that it would take a $20 million
+charge against inventory to reflect a decline in prices of certain components used to
+manufacture MP3 players. In the quarter ending March 31, 2006, the company took
+another inventory write-down due to a steep drop in the price of components such as
+flash memory and hard drives. Not surprisingly, Creative Technology's share price tumbled in response to news of the write-downs--from a high of close to $17 PEr share in
+early 2005, the stock traded at less than $5 PEr share in mid-2006.
+Underestimated Reserves
+In late 2006, Community Health Systems (CHS) was the leading oPErator of general and
+acute care hospitals in non-urban communities in the United States. The company
+owned 77 hospitals in 22 states, had a dominant market share in more than 85 PErcent
+of the markets it served, and in fiscal 2005 generated $3.7 billion in revenues.
+CHS received payments for its services from governmental agencies, private insurers,
+and directly from the patients it served. Medicare was the single largest revenue provider,
+accounting for approximately 33 PErcent of net oPErating revenue in the quarter ended
+June 30, 2006. Managed care provided a further 25 PErcent of revenues, 10 PErcent came
+from Medicaid, and 13 PErcent was from self-pay sources (uninsured patients, patient
+deductibles, co-insurance payments not covered by the insurer, and patients whose
+insurance providers had failed to pay).
+Prior to 2006, CHS estimated its allowance for doubtful accounts by reserving an
+amount equal to all receivables aged over 150 days, regardless of patient class. Based on
+this appROAch, CHS's quarterly filing for the quarter ended June 30, 2006, showed allowance for doubtful accounts at 32.5 PErcent of gross receivables. However, this appROAch
+did not differentiate among the risk characteristics of different classes of patients. In particular, it failed to recognize that collection rates were lowest for self-pay accounts and
+Implementing Accounting Analysis 4-13
+that there had been an increase in the proportion of revenues and receivables from these
+patients during the quarter.
+An analyst who recognized the importance of the increase in the proportion of receivables from self-pay customers might decide that the June 2006 receivable allowances were
+understated, and that balance sheet adjustments needed to be made to Accounts Receivable (for the gross change in reserve), to the Deferred Tax Liability (for the tax impact of
+the increased exPEnse), and to Retained Earnings (for the net effect). For example, if the
+analyst decided that allowances for doubtful accounts for CHS should be 36 PErcent rather
+than 32.5 PErcent of Accounts Receivable, to reflect the change in patient mix, Accounts
+Receivable would have to be reduced by $37.8 million (given the June 2006 Accounts
+Receivable balance of $1.08 billion and allowance for doubtful accounts of $351 million).
+Given the company's effective tax rate of 39 PErcent, this would reduce earnings and
+equity by $23.1 million and the Deferred Tax Liability by $14.7 million. The adjustment
+to the June 30, 2006, financial statements would, therefore, be as follows:
+Adjustment
+...................................................................
+......................................................................................................................................
+Assets
+-37.8
+($ Millions)
+Balance Sheet
+Accounts Receivable
+Deferred Tax Liability
+Common Shareholders' Equity
+Income Statement
+Provision for Doubtful Accounts
+Tax ExPEnse
+Net Income
+Liabilities &
+Equity
+-14.7
+-23.1
+th37.8
+-14.7
+-23.1
+......................................................................................................................................
+.......................................................................................................................................
+At the end of October 2006, CHS announced that it would change its methodology for
+estimating the allowance for doubtful accounts for the quarter ending September 30. Under
+the new method, the company estimated separate default rates for self-pay and other
+accounts receivable to reflect the differences in collection history. As a result, an incremental
+$65 million bad debt exPEnse was recorded for the quarter and the estimate increased to
+38 PErcent of gross receivables. Further allowance increases occurred in 2008 and 2009,
+to 40 PErcent and 42 PErcent of receivables resPEctively. CHS explained that the decline in
+collectability was primarily the result of the weak economy that had increased the number
+of patients qualiFYing for charity care, reduced enrollment in certain state Medicaid programs, and increased the number of non-resident aliens seeking indigent care.
+Accelerated Recognition of Revenues
+In 2006, the SEC announced an informal inquiry into the financials of Diebold Inc., a
+U.S. maker of voting equipment, automated teller machines, and bank SECurity systems.
+In May 2007, Diebold announced that it had received a subpoena from the SEC seeking
+documents related to its revenue recognition practices. At issue was the recognition of
+certain North American revenues on "bill and hold" transactions, where the company
+billed its customers for sales and held the merchandise until later delivery. Under U.S.
+GAAP, these transactions could be recorded as revenue provided the customer requested
+that the seller hold the merchandise for legitimate business purposes, there was an
+agreed delivery schedule, the products were ready for shipment, and the seller did not
+have any future PErformance obligations.
+4-14 PART 2 Business Analysis and Valuation Tools
+From 2002 to 2003, Diebold's days' receivable had increased from 76 to 97 days--an
+increase of 28 PErcent. Upon investigation, the SEC detected a number of improPEr revenue transactions, including shipments from the factory to the warehouse that had been
+recorded as "bill and hold" sales. An analyst who had observed the increased days'
+receivable and the SEC interest in Diebold, and wanted to adjust the company's revenues
+could estimate the impact of the increase on sales and profits. To reduce days' receivable
+by 21 days, revenues and accounts receivable for 2003 would have to decline by $150
+million, requiring the following changes to Diebold's 2003 financial reports:
+1. Sales and Accounts Receivable would both decline by $150 million.
+2. Cost of Sales would decline and Inventory would increase to reflect the reduction
+in sales. The value of the Cost of Sales / Inventory adjustment can be estimated by
+multiplying the sales adjustment by the ratio of cost of sales to sales (67 PErcent
+for Diebold in 2003), or $100.5 million (67 PErcent of $150 million).
+3. The decline in pretax income would result in a lower Tax ExPEnse in the company's financial reporting books (but presumably not in its tax books). Consequently, the Deferred Tax Liability would have to be reduced. Diebold's marginal
+tax rate was 35 PErcent, implying that the decline in the Tax ExPEnse and Deferred
+Tax Liability would be $17.3 million [($150 (cid:2) $100.5) (cid:3) .35].
+The full effect of the adjustment on the 2003 financial statements would therefore be
+as follows:
+Adjustment
+...................................................................
+......................................................................................................................................
+($ Millions)
+Balance Sheet
+Accounts Receivable
+Inventory
+Deferred Tax Liability
+Common Shareholders' Equity
+Assets
+-150.0
+th100.5
+......................................................................................................................................
+Income Statement
+Sales
+Cost of Sales
+Tax ExPEnse
+Net Income
+Liabilities &
+Equity
+-17.3
+-32.2
+-150.0
+-100.5
+-17.3
+-32.2
+.......................................................................................................................................
+As a result of the SEC inquiry, Diebold launched an internal review of its accounting
+practices and in September of 2008 announced that it was restating its financial statements for the fiscal years 2003-2006 as well as the quarter ended March 31, 2007. In
+June 2010 the company agreed to pay a $25 million civil PEnalty to settle an SEC suit.
+Source: (c) Cengage Learning
+Understated Assets
+Asset understatements typically arise when managers have incentives to deflate reported
+earnings. This may occur when the firm is PErforming exceptionally well and managers
+decide to store away some of the current strong earnings for a rainy day. Income
+smoothing, as it has come to be known, can be implemented by over-stating current
+Implementing Accounting Analysis 4-15
+PEriod exPEnses (and understating the value of assets) during good times. Asset (and
+exPEnse) understatements can also arise in a particularly bad year, when managers
+decide to "take a bath" by understating current PEriod earnings to create the apPEarance
+of a turnaround in following years. Accounting analysis involves judging whether managers have understated assets (and also income) and, if necessary, adjusting the balance
+sheet and income statement accordingly.
+Asset understatements can also arise because of accounting rules themselves. In many
+countries, accounting standards require firms to exPEnse outlays for R&D and advertising because, even though they may create future value for owners, their outcomes are
+highly uncertain. Asset understatements can also arise when managers have incentives
+to understate liabilities. For example, if a firm records lease transactions as oPErating
+leases or if it discounts receivables with recourse, neither the assets nor the accompanying obligations are shown on its balance sheet. Yet, in some instances, this accounting
+treatment does not reflect the underlying economics of the transactions--the lessee may
+effectively own the leased assets, and the firm that sells receivables may still bear all of
+the risks associated with ownership. The analyst will then want to adjust the balance
+sheet (and also the income statement) for these effects.
+The most common forms of asset (and earnings) understatement arise when there are
+the following:
+1. Overstated asset write-downs. Managers potentially have an incentive to overstate
+asset write-downs either during years of exceptionally strong PErformance, or
+when the firm is financially distressed. By overstating asset impairments and overstating exPEnses in the current PEriod, managers can show lower future exPEnses,
+boosting earnings in years of sub-par PErformance or when a turnaround is
+needed. Overstated asset write-downs can also arise when managers are less optimistic about the firm's future prosPEcts than the analyst.
+2. Overestimated reserves (e.g., allowances for bad debts or loan losses). If managers
+overestimate reserves for bad debts or loan losses, accounts receivable and loans
+will be understated.
+3. Overstated depreciation/amortization on long-term assets. Firms that use tax depreciation estimates of asset lives, salvage values, or amortization rates are likely to
+amortize assets more rapidly than justifiable given the assets' economic usefulness,
+leading to long-term asset understatements.
+4. Lease assets off balance sheet. Assessing whether a lease arrangement should be
+considered a rental contract (and hence recorded using the oPErating method)
+or equivalent to a purchase (and hence shown as a capital lease) is subjective. It
+dePEnds on whether the lessee has effectively accepted most of the risks of ownership, such as obsolescence and physical deterioration. To standardize the
+reporting of lease transactions, accounting standards have created criteria for distinguishing between the two tyPEs. In the United States, SFAS 13 requires a lease
+transaction to be equivalent to an asset purchase if any of the following conditions hold: (1) ownership of the asset is transferred to the lessee at the end of
+the lease term, (2) the lessee has the option to purchase the asset for a bargain
+price at the end of the lease term, (3) the lease term is 75 PErcent or more of
+the asset's exPEcted useful life, and (4) the present value of the lease payments
+is 90 PErcent or more of the fair value of the asset. Given these objective criteria,
+managers reporting under U.S. GAAP can structure lease contracts to circumvent
+the spirit of the distinction between capital and oPErating leases, potentially leading to the understatement of lease assets.7 This is likely to be an important issue
+for the analysis of asset-intensive industries where there are options for leasing
+4-16 PART 2 Business Analysis and Valuation Tools
+(e.g., airlines and retail chains).8 In contrast, IFRS standard IAS 17 focuses on
+transfer of risk and reward to indicate transfer of ownership rather than mandated numerical thresholds.
+5. Key intangible assets, such as R&D and trademarked brands, not reported on the
+balance sheet. Some firms' most important assets are excluded from the balance
+sheet. Examples include investments in R&D, software development outlays, and
+brands and membership bases that are created through advertising and promotions. U.S. GAAP prohibits the capitalization of R&D outlays and membership
+acquisition costs (with an exception for certain software development costs),
+while countries reporting under IFRS are generally required to exPEnse these costs
+as well (with some additional limited latitude in the area of development costs)--
+primarily because it is believed that the benefits associated with such outlays are
+too uncertain. New products may never reach the market due to technological
+infeasibility or to the introduction of suPErior products by comPEtitors; and new
+members that sign up for a service as a result of a promotions campaign may subsequently quit. ExPEnsing the cost of intangibles has two implications for analysts.
+FIRSt, the omission of intangible assets from the balance sheet inflates measured rates
+of return on capital (either return on assets or return on equity).9 For firms with key
+omitted intangible assets, this omission has important implications for forecasting
+long-term PErformance; unlike firms with no intangibles, comPEtitive forces will
+not cause their rates of return to fully revert to the cost of capital over time. For
+example, pharmaceutical firms have shown very high rates of return over many decades in part because of the impact of R&D accounting. A SECond effect of exPEnsing
+outlays for intangibles is that it makes it more difficult for the analyst to assess
+whether the firm's business model works. Under the matching concept, oPErating
+profit is a meaningful indicator of the success of a firm's business model since it
+compares revenues and the exPEnses required to generate them. Immediately
+exPEnsing outlays for intangible assets runs counter to matching and, therefore,
+makes it more difficult to judge a firm's oPErating PErformance. Consistent with
+this, research shows that investors view R&D and advertising outlays as assets rather
+than exPEnses.10 Understated intangible assets are likely to be important for firms in
+pharmaceutical, software, branded consumer products, and subscription businesses.
+EXAMPLES OF HOW TO CORRECT FOR ASSET UNDERSTATEMENT
+The following examples illustrate some of the tyPEs of distortions that understate assets
+and show corrections that an analyst can make to ensure that assets are reflected
+appropriately.
+Overstated Depreciation for Long-Term Assets
+In 2009 Lufthansa, the German national airline, reported that it depreciated its aircraft
+over 12 years on a straight-line basis, with an estimated residual value of 15 PErcent of
+initial cost. Air France-KLM, an airline formed in 2004 by the merger of the French airline Air France and the Dutch airline KLM, is one of Lufthansa's main comPEtitors. In
+contrast to Lufthansa, Air France-KLM reported that its aircraft depreciation was also
+estimated using the straight-line method but assuming an average life of 20 years and
+no residual value.11
+For the analyst, these differences raise several questions. Do Lufthansa and Air
+France-KLM fly different tyPEs of routes, potentially explaining the differences in their
+Implementing Accounting Analysis 4-17
+depreciation policies? Alternatively, do they have different asset management strategies?
+For example, does Lufthansa use newer planes to attract more business travellers, to
+lower maintenance costs, or to lower fuel costs? If there do not apPEar to be oPErating
+differences that explain the differences in the two firms' depreciation rates, the analyst
+may well decide that it is necessary to adjust the depreciation rates for one or both
+firms to ensure that their PErformance is comparable.
+To adjust for this effect, the analyst could choose to decrease Lufthansa's depreciation
+rates to match those of Air France-KLM. The following financial statement adjustments
+would then be required in Lufthansa's financial statements:
+1. Increase the book value of the fleet at the beginning of the year to adjust for the
+relatively high depreciation rates that had been used in the past. This will also
+require an offsetting increase in equity (retained earnings) and in the deferred tax
+liability.
+2. Reduce the depreciation exPEnse (and increase the book value of the fleet) to
+reflect the lower depreciation for the current year, and increase the tax exPEnse
+(in 2009, Lufthansa's tax rate was 25 PErcent). On the balance sheet, show an
+increase in equity and deferred tax liability.
+Note that these changes are designed to show Lufthansa's results as if it had always used
+the same depreciation assumptions as Air France-KLM rather than to reflect a change in
+the assumptions for the current year going forward. This enables the analyst to compare
+ratios that use assets (e.g., return on assets) for the two companies.
+Lufthansa reported in its 2009 Annual Report the total cost of its aircraft at the beginning of 2009 as EUR17,918 m, and that accumulated depreciation was EUR10,547 m. This
+implies that the average life of Lufthansa's fleet was 8.32 years, calculated as follows:
+EUR Millions (unless otherwise noted)
+.........................................................................................................................................
+Aircraft cost, 01/01/09
+Depreciable cost
+Accumulated depreciation, 01/01/09
+Accumulated depreciation / Depreciable
+17,918
+15,230
+10,547
+69.3%
+Reported
+Cost (cid:3) (1 (cid:2) .15)
+Reported
+cost
+Depreciable life
+Average age of aircraft
+12 years
+8.32
+Reported
+12 (cid:3) .693 years
+..........................................................................................................................................
+If Lufthansa used the same useful life and salvage estimates as Air France-KLM, Accumulated Depreciation would have been only EUR7,454 m, thereby increasing the company's
+Long-term Tangible Assets by EUR3,093 m and Common Shareholders' Equity by EUR2,320 m,
+while also increasing the Deferred Tax Liability by EUR773 m:
+EUR Millions (unless otherwise noted)
+.........................................................................................................................................
+.........................................................................................................................................
+Aircraft cost at 01/01/09
+Depreciable cost
+Depreciable life
+Accumulated depreciation, 01/01/09
+Increase in Long-Term Tangible Assets
+Marginal Tax Rate
+Increase in Deferred Tax Liability
+Increase in Common Shareholders Equity
+17,918
+17,918
+20 years
+7,454
+3,093
+25.0%
+773
+2,320
+Reported
+No residual value
+Air France-KLM
+Over 8.32 years
+Reported
+..........................................................................................................................................
+4-18 PART 2 Business Analysis and Valuation Tools
+Given its net investment in new aircraft of EUR2,055 m in 2009, Lufthansa's depreciation
+exPEnse for 2009 (included in Cost of Sales) using the same useful life and salvage estimates as Air France-KLM, would have been EUR947 m [(17,918 th 2,055/2)/20] versus the
+EUR1,185 m reported by the company.12 Thus, Cost of Sales would decline by EUR238 m,
+increasing the Tax ExPEnse for the year by EUR60 m. On the balance sheet, these changes
+would increase Long-Term Tangible Assets by EUR238 m, increase Deferred Tax Liability
+by EUR60 m, and increase Common Shareholders' Equity by EUR178 m.
+In summary, if Lufthansa were using the same depreciation method as Air FranceKLM, its financial statements for the years ended December 31, 2009 and 2008, would
+have to be modified as follows:
+Adjustment
+December 31, 2009
+Adjustment
+December 31, 2008
+...........................................................
+Liabilities &
+Equity
+...................................................
+Liabilities &
+Equity
+Assets
+(EUR Millions)
+Assets
+.....................................................................................................................................................
+Balance Sheet
+Long-Term Tangible
+Assets
+Deferred Tax Liability
+Shareholders'
+Equity
+Total Impact
+th3,093
+th238
+th3,093
+th773 th 60
+th2,320 th 178
+th3,331
+th3,331 th3,093
+th773
+th2,320
+th3,093
+Income Statement
+Cost of Sales
+Tax ExPEnse
+Net Income
+-238
+th60
+th178
+......................................................................................................................................................
+Sales turnover (sales to average assets) comparisons for the two companies using
+reported data show that Lufthansa has higher turnover than Air France-KLM (0.91 versus 0.81). However, analysts that make the above adjustment would observe that the full
+amount of this difference is attributable to the different depreciation assumptions. After
+adjustment, Lufthansa's sales turnover declines to 0.81, identical to that of Air France-KLM.
+Key Intangible Assets Off Balance Sheet
+How should the analyst appROAch the omission of intangibles? One way is to leave the
+accounting as is but to recognize that forecasts of long-term rates of return will have to
+reflect the inherent biases that arise from this accounting method. A SECond appROAch is
+to capitalize intangibles and amortize them over their exPEcted lives.
+For example, consider the case of Microsoft, the largest software company in the
+world. Microsoft exPEnses its software R&D costs, arguing that all material research
+and development costs are incurred before technological feasibility is reached (U.S.
+GAAP allows capitalization of development costs once technical feasibility is established
+until the product is released to the market). What adjustment would be required if the
+analyst decided to capitalize Microsoft's software R&D and to amortize the intangible
+asset using the straight-line method over the exPEcted life of software (approximately
+three years)? Assume that R&D sPEnding occurs evenly throughout the year and that
+only half a year's amortization is taken on the latest year's sPEnding. Given R&D outlays
+Year
+2010
+2009
+2008
+2007
+Total
+Year
+2010
+2009
+2008
+2007
+2006
+Total
+Implementing Accounting Analysis 4-19
+for the years 2007 to 2010, the R&D asset at the end of the 2010 fiscal year (06/30/10) is
+$13.2 billion, calculated as follows:
+Proportion
+Capitalized
+06/30/10
+($ billions)
+Asset
+06/30/10
+($ billions)
+Proportion
+Capitalized
+06/30/09
+($ billions)
+Asset
+06/30/09
+($ billions)
+R&D Outlay
+($billions)
+....................................................................................................................................................
+$8.7
+9.0
+8.2
+7.1
+(1 (cid:2) .33/2)
+(1 (cid:2) .33/2 (cid:2) .33)
+(1 (cid:2) .33/2 (cid:2) .67)
+$7.3
+4.5
+1.4
+(1 (cid:2) .33/2)
+(1 (cid:2) .33/2 (cid:2) .33)
+(1 (cid:2) .33/2 (cid:2) .67)
+$13.2
+$7.5
+4.1
+1.2
+$12.8
+......................................................................................................................................................
+The R&D amortization exPEnses (included in Other OPErating ExPEnses) for 2009 and
+2010 are $7.6 billion and $8.3 billion, resPEctively, and are calculated as follows:
+Proportion
+Capitalized
+06/30/10
+($ billions)
+ExPEnse
+06/30/10
+($ billions)
+Proportion
+Capitalized
+06/30/09
+($ billions)
+ExPEnse
+06/30/09
+($ billions)
+R&D Outlay
+($billions)
+....................................................................................................................................................
+$8.7
+9.0
+8.2
+7.1
+6.6
+.33/2
+.33
+.33
+.33/2
+$1.4
+3.0
+2.7
+1.2
+.33/2
+.33
+.33
+.33/2
+$8.3
+$1.5
+2.7
+2.3
+1.1
+$7.6
+......................................................................................................................................................
+Since Microsoft will continue to exPEnse software R&D immediately for tax purposes,
+the change in reporting method will give rise to a Deferred Tax Liability. Given a marginal tax rate of 35 PErcent, this liability will equal 35 PErcent of the value of the LongTerm Intangible Assets reported, with the balance increasing Common Shareholders'
+Equity.
+In summary, the adjustments required to capitalize software R&D for Microsoft for
+the years 2010 and 2009 are as follows:
+Adjustment June 30, 2010
+.......................................................
+Liabilities &
+Equity
+Assets
+Adjustment June 30, 2009
+....................................................
+Liabilities &
+Equity
+Assets
+($ Billions)
+..................................................................................................................................................
+Balance Sheet
+Long-Term Intangible
+th13.2
+th12.8
+Assets
+Deferred Tax Liability
+Common Shareholders'
+Equity
+Income Statement
+Research and
+Development
+th4.6
+th8.6
+-8.7
+th4.5
+th8.3
+-9.0
+Tax ExPEnse
+Total ExPEnses
+Net Income
+th8.3
+th0.1
+-0.3
+th0.3
+th7.6
+th0.5
+-0.9
+th0.9
+...................................................................................................................................................
+4-20 PART 2 Business Analysis and Valuation Tools
+Adjusting R&D in this way increases Microsoft's assets by 15 PErcent and lowers its return
+on average assets in 2010 from 18.8 PErcent to 16.4 PErcent, enabling analysts to understand
+the impact of the economic resources required to generate its earnings. Such adjustments can
+also allow analysts to compare the PErformance of companies that follow different R&D
+reporting standards or make different judgements on the treatment of these costs.
+Source: (c) Cengage Learning
+Liability Distortions
+Liabilities are defined as economic obligations arising from benefits received in the past,
+and for which the amount and timing is known with reasonable certainty. Liabilities
+include obligations to customers that have paid in advance for products or services; commitments to public and private providers of debt financing; obligations to federal and
+local governments for taxes; commitments to employees for unpaid wages, PEnsions,
+and other retirement benefits; and obligations from court or government fines or environmental cleanup orders.
+Distortions in liabilities generally arise because there is ambiguity about whether
+(1) an obligation has really been incurred and/or (2) the obligation can be measured.
+Has an Obligation Been Incurred?
+For most liabilities there is little ambiguity about whether an obligation has been
+incurred. For example, when a firm buys supplies on credit, it has incurred an obligation
+to the supplier. However, for some transactions it is more difficult to decide whether
+there is any such obligation. For example, if a firm announces a plan to restructure its
+business by laying off employees, has it made a commitment that would justiFY recording
+a liability? Or, if a software firm receives cash from its customers for a five-year software
+license, should the firm report the full cash inflow as revenues, or should some of it
+represent the ongoing commitment to the customer for servicing and supporting the
+license agreement?
+Can the Obligation be Measured?
+Many liabilities sPEciFY the amount and timing of obligations precisely. For example, a
+20-year, $100 million bond issue with an 8 PErcent coupon payable semi-annually sPEcifies
+that the issuer will pay the holders $100 million in 20 years, and it will pay out interest of
+$4 million every six months for the duration of the loan. However, for some liabilities it is
+difficult to estimate the amount of the obligation. For example, a firm that is responsible
+for an environmental cleanup clearly has incurred an obligation, but the amount is highly
+uncertain.13 Similarly, firms that provide PEnsion and post-retirement benefits for employees have incurred commitments that dePEnd on uncertain future events, such as employee
+mortality rates and future inflation rates, making valuation of the obligation subjective.
+Future warranty and insurance claim obligations fall into the same category--the commitment is clear but the amount dePEnds on uncertain future events.
+Accounting rules frequently sPEciFY when a commitment has been incurred and how to
+measure the amount of the commitment. However, as discussed earlier, accounting rules
+are imPErfect--they cannot cover all contractual possibilities and reflect all of the complexities of a firm's business relationships. They also require managers to make subjective estimates of future events to value the firm's commitments. Thus the analyst may decide that
+some important obligations are omitted from the financial statements or, if included, are
+understated, either because of management bias or because there are legitimate differences
+Implementing Accounting Analysis 4-21
+in opinion between managers and analysts over future risks and commitments. As a result,
+analysis of liabilities is usually with an eye to assessing whether the firm's financial commitments and risks are understated and/or its earnings overstated.
+Understated Liabilities
+Liabilities are likely to be understated when the firm has key commitments that are difficult to value and therefore not considered liabilities for financial reporting purposes.
+Understatements are also likely to occur when managers have strong incentives to overstate the soundness of the firm's financial position or to boost reported earnings. By
+understating leverage, managers present investors with a rosy picture of the firm's financial risks. Earnings management also understates liabilities (namely deferred or unearned
+revenues) when revenues are recognized upon receipt of cash, even though not all services have been provided.
+The most common forms of liabilities understatements arise when the following conditions exist:
+1. Unearned revenues are understated through aggressive revenue recognition. If cash
+has already been received but the product or service has yet to be provided,
+unearned or deferred revenues are created. This liability reflects the company's
+commitment to provide the service or product to the customer and is extinguished
+once that is accomplished. Firms that recognize revenues prematurely--after the
+receipt of cash but prior to fulfilling their product or service commitments to
+customers--understate deferred revenue liabilities and overstate earnings. Firms
+that bundle service contracts with the sale of a product are particularly prone to
+deferred revenue liability understatement since separating the price of the product
+from the price of the service is subjective.
+2. Loans from discounted receivables are off balance sheet. As discussed earlier, receivables that are discounted with a financial institution are considered "sold" if the
+"seller" cedes control over the receivables to the financier. Yet if the sale PErmits
+the buyer to have recourse against the seller in the event of default, the seller continues to face collection risk. Given the management judgment involved in forecasting default and refinancing costs, as well as the incentives faced by managers
+to keep debt off the balance sheet, it is important for the analyst to evaluate the
+firm's estimates for default as well as the inherent commitments that it has for discounted receivables. Are the firm's estimates reasonable? Is it straightforward to
+forecast the costs of the default and prepayment risks? If not, does the analyst
+need to increase the value of the recourse liability? Or, in the extreme, does the
+analyst need to undo the sale and recognize a loan from the financial institution
+for the discounted value of the receivables?
+3. Long-term liabilities for leases are off balance sheet. As discussed earlier in the
+chapter, key lease assets and liabilities can be excluded from the balance sheet if
+the company structures lease transactions to fit the accounting definition of an
+oPErating lease. Firms that groom transactions to avoid showing lease assets and
+obligations will have very different balance sheets from firms with virtually identical economics but which either use capital leases or borrow from the bank to actually purchase the equivalent resources. For firms that choose to structure lease
+transactions to fit the definition of an oPErating lease, the analyst can restate the
+leases as capital leases, as discussed in the Asset Understatement SECtion. This will
+ensure that the firm's true financial commitments and risks will be reflected on its
+balance sheet, enabling comparison with PEer firms.
+4-22 PART 2 Business Analysis and Valuation Tools
+EXAMPLES OF HOW TO CORRECT FOR LIABILITY UNDERSTATEMENT
+The following examples illustrate some of these tyPEs of liability understatements and
+the corrections that an analyst can make to reduce bias in the financial statements.
+Unearned Revenues Understated
+Hansen Medical, Inc., is a U.S. provider of advanced medical robotics. Its Sensei Robotic
+Catheter System was designed to allow physicians to accurately position, manipulate, and
+control catheters, and had gained acceptance in hospitals globally. Typically, ownership
+of the Sensei system passed to customers upon shipment, at which point revenues were
+recognized. However, a large PErcentage of the sales contracts for systems included
+installation and training. In such instances, since these services were significant, Hansen
+deferred all system revenues until training and installation were completed.
+The company went public in 2006 and raised funds through subsequent public offerings
+in 2008, 2009, and 2010. During this PEriod it also formed key partnership agreements with
+larger medical device companies such as Philips Healthcare and GE Healthcare. However,
+following its IPO, Hansen consistently missed analyst exPEctations and generated losses.
+In October 2009, a whistleblower alleged that Hansen had recognized revenues from
+the sale of some of its Sensei systems upon shipment, prior to completion of the system
+installation, setup, and training. After an investigation, the company determined that it
+would have to restate its financial results for 2007, 2008, and the fIRSt part of 2009, reducing revenues for these PEriods by $7.4 million, $6.8 million for 2008 alone. The adjustment
+required to correct Hansen's 2008 financials (as reported in its 10-K) would be as follows:
+1. Sales would decline and unearned revenues (included in Other Current Liabilities)
+would increase by $6.8 million.
+2. Cost of Sales would decline and Deferred Cost of Sales (included in Other Current
+Assets) would increase by $2.4 million to reflect the lower sales.
+3. Since Hansen had reported losses since its inception, the restatement would not affect
+its tax position, requiring no adjustment to Tax ExPEnse or to Deferred Taxes.
+The full effect of the adjustment on the 2008 financial statements would therefore be
+as follows:
+Adjustment
+.........................................................................
+($ millions)
+..............................................................................................................................
+Assets
+Liabilities & Equity
+Balance Sheet
+..............................................................................................................................
+th6.8
+-4.4
+Other Current Assets
+Other Current Liabilities
+Common Shareholders' Equity
+Income Statement
+Sales
+Cost of Sales
+Net Income
+th2.4
+-6.8
+-2.4
+-4.4
+...............................................................................................................................
+The restatement reduced Hansen's previously reported revenues for 2008 by 22 PErcent and was accompanied by a drop in the firm's stock price of 9 PErcent on the
+announcement date, and 22 PErcent for the month (versus a 1 PErcent increase for the
+S&P 500 during that same PEriod).
+Source: (c) Cengage Learning
+Implementing Accounting Analysis 4-23
+Equity Distortions
+Accounting treats stockholders' equity as a residual claim on the firm's assets after paying off the other claimholders. Consequently, equity distortions arise primarily from distortions in assets and liabilities. For example, distortions in assets or liabilities that affect
+earnings also lead to distortions in equity. However, equity distortions can also arise that
+are not captured in an asset and liability analysis. One such distortion is for hybrid
+SECurities.
+Hybrid SECurities include convertible debt and debt with warrants attached. These
+SECurities are partially pure debt and partially equity. Current U.S. accounting rules do
+not separate these components, typically implying that the balance sheet overstates firm
+debt and understates its equity. Without adjusting for this distortion, it can be difficult
+to understand the real financial risks and returns for firms with different tyPEs of
+hybrids. New accounting rules being considered in a joint FASB/IASB project are likely
+to address this issue by requiring SECurities such as convertible debt to be separated into
+two components on the balance sheet, a debt component and an equity component.
+Each would be valued at its fair value at the date of issue. This appROAch could be
+adopted by the analyst.
+EXAMPLE OF HOW TO CORRECT FOR EQUITY DISTORTIONS
+We illustrate the equity distortion arising from the issuance of hybrid SECurities and the
+corrections that the analyst can make to reduce bias in the financial statements.
+Hybrid SECurities
+On October 27, 2009, Navistar International Corp. completed an offering of $550 million
+of 3.0 PErcent Convertible Senior Subordinated Notes due in 2014. At the same time,
+the company also issued $1.0 billion in Senior UnSECured Notes with an annual interest
+rate of 8.25 PErcent. The premium for conversion rights was therefore significant.
+The net present value of the $550 million convertible issue at an 8.25 PErcent discount
+rate is $434 million, implying that the convertibility premium was worth roughly $116 million. One way to adjust for this effect is to record the debt component at $434 million and
+to show the $116 million conversion premium as part of Common Shareholders' Equity.
+Interest on the debt would then be based on the 8.25 PErcent coupon rate of the straight
+note rather than the 3.0 PErcent (which reflects the conversion premium).
+The effect of this adjustment on Navistar's financial statements at December 31, 2009,
+would be as follows:
+Adjustment for December 31, 2009
+............................................................................
+($ millions)
+Assets
+................................................................................................................................
+Liabilities & Equity
+Balance Sheet
+Long-Term Debt
+Common Shareholders' Equity
+-116
+th116
+.................................................................................................................................
+Given Navistar's high leverage, this change generates only a modest increase in its
+long-term debt to total capital ratio, from 107 PErcent to 110 PErcent.
+Source: (c) Cengage Learning
+4-24 PART 2 Business Analysis and Valuation Tools
+COMPARING COMPANIES USING U.S. GAAP AND IFRS
+In Chapter 3 we discussed the joint convergence project being undertaken by FASB and
+the IASB that has succeeded in reducing many of the differences between U.S. GAAP
+and IFRS. Many of the remaining differences are likely to have relatively minor effects
+on financial statement comparability, making it easier for analysts to compare the PErformance of companies using different standards.
+Nonetheless, a few important differences remain. Some of these arise from differences
+in the way that U.S. and international standard setters have opted to trade-off the relevance and reliability of financial information. For example, in an effort to increase the
+relevance of financial information, IFRS PErmits companies to revalue long-term nonfinancial assets that have appreciated in value. In contrast, U.S. GAAP places a stronger
+weight on the reliability of financial information and precludes such upward revaluations. Differences can also reflect tax factors. For example, U.S. GAAP requires that
+firms that use the LIFO inventory valuation method for tax purposes follow the same
+method for financial reporting. LIFO is not used widely for tax purposes outside the
+United States and is not PErmitted under IFRS.
+Table 4-4 shows some of the remaining important differences between U.S. GAAP
+and IFRS. The table also discusses the tyPEs of adjustments that analysts could make
+to ensure that PErformance comparisons of companies using the two standards are
+meaningful. This adjustment exercise can be challenging, particularly if information
+on the accounting effects is not disclosed. The adjustments we recommend take
+TAB L E 4- 4
+Adjusting for Key Differences between U.S. GAAP and IFRS
+Financial Statement Topic
+Reporting Difference
+Adjustment
+..............................................................................................................................................................................................
+Revenue Recognition
+Contracts with contingent payments (e.g., research contracts
+where payments are contingent on
+reaching milestones)
+Under U.S. GAAP revenue cannot be
+recognized until the contingency is
+resolved; IFRS allows recognition when
+resolution of contingency is probable.
+Extraordinary Items
+..............................................................................................................................................................................................
+Can be reported separately under U.S.
+GAAP but not under IFRS, potentially
+affecting oPErating income.
+For IFRS firm, eliminate revenues
+and receivables recognized prior to
+the resolution of the contingency.
+Also adjust cost of sales/inventory
+and tax exPEnse / deferred taxes.
+Either (a) separate extraordinary
+items from oPErating income for
+IFRS firms, or (b) include extraordinary items in oPErating exPEnses for
+U.S. firms.
+..............................................................................................................................................................................................
+Receivables
+Factored (discounted) receivables
+with recourse
+Under U.S. GAAP, factored receivables
+with recourse are recorded as a sale
+provided control over the receivables has
+been ceded to the financier and the
+seller has exPErience estimating the value
+of the recourse liability. IFRS typically
+does not PErmit factored receivables
+with recourse to be reported as a sale.
+..............................................................................................................................................................................................
+(continued)
+Either: (a) eliminate the gross value
+of factored receivables and loans on
+the balance sheet of IFRS firm and
+show the bad debt allowance as a
+recourse liability; or (b) add back
+the receivables and loans to the U.S.
+firm's balance sheet.
+Financial Statement Topic
+Reporting Difference
+Adjustment
+..............................................................................................................................................................................................
+Implementing Accounting Analysis 4-25
+Contracts where cash receipts are
+deferred
+IFRS requires deferred receipts to be
+discounted to their present value; U.S.
+GAAP typically does not require deferred
+receipts to be discounted.
+For short-term receivables, this effect
+should be modest. For long-term
+receivables, adjust financials of IFRS
+firm by (a) adding back discount to
+receivables and to revenues in year of
+sale; and (b) eliminating subsequent
+interest income and reducing
+receivables.
+Adjust U.S. company inventory balance to FIFO using LIFO reserve
+data. Adjust COGS for change in
+LIFO reserve. Also adjust for tax
+impact (tax exPEnse and deferred
+taxes).
+..............................................................................................................................................................................................
+Inventory
+Inventory valuation method
+IFRS does not PErmit use of LIFO as an
+inventory valuation method, which is
+PErmitted under U.S. GAAP.
+Reversal of impairments
+..............................................................................................................................................................................................
+Reversals of inventory impairments are
+allowed under IFRS, but are not PErmitted under U.S. GAAP.
+Eliminate inventory reversal effect for
+IFRS company by deducting gain
+and reducing value of inventory.
+..............................................................................................................................................................................................
+Long-Lived Assets
+Plant, ProPErty, and Equipment
+(PPE) Valuation
+IFRS allows PPE to be valued at either
+historical cost or fair value; U.S. GAAP
+requires measurement at historical cost.
+..............................................................................................................................................................................................
+Eliminate asset revaluations for IFRS
+firms using revaluation reserve.
+Impairment of long-lived tangible &
+finite lived intangible assets
+Difficult to adjust.
+Under U.S. GAAP, an impairment
+charge for the excess of carrying value
+over fair value is recorded when carrying
+value is greater than the value of
+undiscounted cash flows. IFRS records the
+impairment charge when the excess of
+carrying value exceeds the fair or realizable value.
+..............................................................................................................................................................................................
+Reversal of long-lived asset
+impairments
+Capitalization of development
+costs
+U.S. GAAP does not allow reversal of
+impairment; IFRS allows impairment
+reversals for assets other than goodwill.
+..............................................................................................................................................................................................
+U.S. GAAP requires development costs
+to be exPEnsed (except for software
+development costs); IFRS allows development costs to be capitalized if they
+meet sPEcific criteria.
+Either (a) exPEnse development
+costs capitalized for IFRS firm, or
+(b) capitalize all R&D costs, with
+amortization over useful life for both
+U.S. and IFRS firms as illustrated
+earlier in this chapter.
+Eliminate asset reversal effect for
+IFRS firms.
+..............................................................................................................................................................................................
+Capitalization of direct response
+advertising costs
+U.S. GAAP requires certain direct
+response advertising costs to be capitalized and amortized; all such costs are
+exPEnsed immediately under IFRS.
+Either (a) exPEnse direct response
+advertising costs for U.S. firm, or (b)
+capitalize costs for IFRS firm with
+amortization over useful life.
+..............................................................................................................................................................................................
+(continued)
+4-26 PART 2 Business Analysis and Valuation Tools
+Financial Statement Topic
+Reporting Difference
+Adjustment
+..............................................................................................................................................................................................
+Debt and Equity
+Classification of compound
+instruments
+U.S. GAAP generally requires compound
+instruments such as convertible bonds
+to be classified as liabilities. IFRS
+requires such instruments to be separated into debt and equity components.
+..............................................................................................................................................................................................
+Source: (c) Cengage Learning 2013
+Either (a) reclassiFY entire instrument
+as equity for IFRS firm, or (b) separate out the two components for
+U.S. firm.
+advantage of information that is likely to be publicly available, such as the asset revaluation reserve or the LIFO reserve, so that the financials of IFRS and U.S. GAAP
+firms are comparable.
+EXAMPLES OF ADJUSTING FOR DIFFERENCES IN
+U.S. GAAP AND IFRS
+The following illustrates some of the differences and the adjustments that an analyst can
+make to enhance the comparability of financial statements for firms using the comPEting
+standards.
+Long-Term Asset Impairment Reversals
+Consider the case of OZ Minerals, the third largest diversified mining company in Australia, the world's SECond largest producer of zinc, and a significant producer of copPEr,
+lead, gold, and silver. OZ Minerals reports under Australian Accounting Standards,
+which closely follow IFRS. In 2010 the firm announced that as a result of an improved
+outlook for the global economy, record copPEr prices, and the strong production of its
+Prominent Hill mine, it would increase pretax earnings by 201.1 million Australian dollars (approximately 172 million U.S. dollars) with the reversal of a 2008 impairment of
+the Prominent Hill PP&E asset. This impairment reversal increased pre-tax earnings for
+OZ Minerals by 44 PErcent for the year.
+As shown in Table 4-4, reversals of impairments are PErmitted by IFRS but not by
+U.S. GAAP. An analyst comparing OZ Minerals' PErformance with that of U.S.-based
+mining companies such as Freeport-McMoRan CopPEr & Gold Inc., a major copPEr producer that also took a significant impairment charge in 2008, could therefore add back
+the reversal to OZ Minerals' earnings (with an adjustment for tax effects) as follows:
+Millions of Australian Dollars
+Assets
+Liabilities & Equity
+..............................................................................................................................
+Balance sheet
+Long-Term Tangible Assets
+Deferred Tax Liability
+Common Shareholders' Equity
+Income Statement
+(cid:2)201.1
+(cid:2)60.0
+(cid:2)141.1
+Impairment reversal
+Tax ExPEnse (reported by OZ)
+Net Income
+(cid:2)201.1
+(cid:2)60.0
+(cid:2)141.1
+...............................................................................................................................
+Implementing Accounting Analysis 4-27
+The add back of the impairment reversal reduces OZ Minerals' return on equity
+(ROE) from 18.4 PErcent to 13.9 PErcent.
+LIFO Inventory Valuation
+is the world's leading manufacturer of construction and mining
+Caterpillar, Inc.,
+machines and related equipment. In 2010, Caterpillar used the last-in, fIRSt-out (LIFO)
+valuation method for approximately 70 PErcent of its inventories. An analyst wanting
+to compare Caterpillar with the EuroPEan comPEtitor CNH Global N.V. (which reports
+using IFRS) could adjust Caterpillar's inventory to approximate cost using the fIRSt-in,
+fIRSt-out (FIFO) method, since IFRS does not PErmit the use of LIFO. Caterpillar reports
+its LIFO reserve (the excess of estimated current costs over LIFO carrying value) as
+$2,575 million in 2010 and $3,022 million in 2009. The following adjustments to Caterpillar's financials reflect the cumulative effect of using LIFO at the end of FY 2009 and
+the incremental impact for FY 2010:
+1) Add Caterpillar's LIFO reserve at the end of FY 2009, $3,022 million, to its inventory balance at the end of 2009, to revalue inventory to FIFO.
+2) The cumulative inventory adjustment also increases equity at the end of FY 2009
+and will require an adjustment to the Deferred Tax Liability. Given Caterpillar's
+tax rate of 35 PErcent, this effect is $1,058 million.
+3) To make the incremental adjustment for FY 2010, the analyst will lower inventory by
+$447 million to reflect the decline in the LIFO reserve for the year ($2,575 million (cid:2)
+$3,022 million) and increase cost of goods sold. This increase in exPEnses will be offset
+by a decline in the tax exPEnse for $156 million ($447 million (cid:3) the tax rate of
+35 PErcent) and a decline in Deferred Tax Liability. The impact on net income and
+equity is therefore (cid:2)$291 million ((cid:2)$447 million th $156 million).
+A summary of these entries is as follows:
+....................................................................................................................................................
+December 31, 2010
+December 31, 2009
+Fiscal Year Ending
+($ in millions)
+Assets
+Liabilities &
+Equity
+Assets
+Liabilities &
+Equity
+....................................................................................................................................................
+Balance Sheet
+Inventory
+Deferred Tax Liability
+Common Shareholders' Equity
+-447
+th3,022
+-156
+-291
+th1,058
+th1,964
+....................................................................................................................................................
+Income Statement
+Cost of Goods Sold
+Tax ExPEnse
+Total exPEnse
+Net Income
+th447
+-156
+th291
+-291
+......................................................................................................................................................
+Caterpillar reports inventory turnover (cost of goods sold to average inventory) of 3.8 for
+2010, the same as reported by its comPEtitor CNH. However, after restating Caterpillar's
+financials to FIFO, its turnover declines to 2.9, indicating that it actually underPErforms
+its rival.
+Off Balance Sheet Discounted Receivables with Recourse
+Tecumseh Products Company is a global manufacturer of compressors for residential
+and commercial air conditioning and refrigeration applications. It has manufacturing
+4-28 PART 2 Business Analysis and Valuation Tools
+and assembly plants in the United States, Brazil, France, India, Canada, Mexico, Malaysia, and China. The company's Brazilian and Indian subsidiaries PEriodically factor their
+accounts receivables to financial institutions, both with and without recourse. The sale of
+receivables with recourse creates a contingent liability. Tecumseh reported that in 2010
+receivables sold with "limited recourse liability" amounted to $19.4 million, 15 PErcent of
+reported receivables.
+Since Tecumseh is a U.S. company, it will show the receivables factored with recourse as
+sold. The financing will therefore not apPEar on its balance sheet as a loan, and its receivables
+will be excluded from current assets. In contrast, other firms in the industry that use IFRS,
+such as Ingersoll-Rand PLC, a company headquartered in Ireland, and Sandvik AB from
+Sweden, show factored receivables and loans on their balance sheets. An analyst comparing
+Tecumseh with either of these comPEtitors could therefore decide to restate Tecumseh's
+financials to add back the recourse receivables sold to Tecumseh's balance sheet as follows:
+Adjustment for December 31, 2010
+.......................................................................
+($ millions)
+Assets
+......................................................................................................................
+Liabilities & Equity
+Balance Sheet
+Other Current Assets
+Short-Term Debt
+th19.4
+th19.4
+.......................................................................................................................
+On an unadjusted basis, Tecumseh apPEars to manage its receivables more closely
+than its EuroPEan comPEtitors, with days' receivable of 50.0, compared to 56.3 for Sandvik and 60.8 for Ingersoll-Rand. However, when factored receivables are added back to
+Tecumseh's ending 2010 accounts receivables, days' receivable increase to 57.5, comparable to its PEers.
+Source: (c) Cengage Learning 2013
+APPLICATION TO TJX AND NORDSTROM
+Let us return to the TJX and Nordstrom comparison discussed in Chapter 2. Are any of
+the accounting adjustments discussed in this chapter relevant to understanding the relative PErformance of TJX and Nordstrom? Would it make sense for an analyst covering
+the two companies to make any of the adjustments?
+One potentially important accounting difference is that TJX Companies, Inc.
+leases virtually all of its stores using oPErating leases, whereas a significant portion
+of Nordstrom's stores are owned or leased under capital
+leases. As a result, TJX
+omits many more of its critical assets and lease obligations from its balance sheet
+than Nordstrom, making it challenging to compare the two firms asset intensity
+and financial leverage.
+To evaluate how the difference in store ownership/leasing affects the financial PErformance of TJX and Nordstrom, the analyst can use information on lease commitments
+presented in the financial statement footnotes to estimate the value of the assets and liabilities that are omitted from the balance sheet. The leased proPErty is subsequently
+depreciated over the life of the lease, and the lease payments are treated as interest and
+debt repayment. We show these computations for TJX below and present comparable
+adjustments for Nordstrom's oPErating leases in ApPEndix B.
+To estimate the value of the oPErating lease assets and liabilities, we use information
+on the future minimum oPErating lease payments provided by TJX in its financial
+Implementing Accounting Analysis 4-29
+statement footnotes. For the years ending January 29, 2011, and January 30, 2010, these
+amounts were as follows:
+Year Ended (in thousands)
+January 29, 2011
+January 30, 2010
+Less than 1 year
+1-3 years
+3-5 years
+More than 5 years
+Total
+$1,092,709
+1,938,020
+1,464,690
+2,304,674
+$6,800,093
+$1,005,366
+1,771,055
+1,307,773
+1,610,867
+$5,695,061
+TJX estimated the net present value of its minimum future lease obligations was
+$5,572.6 million on January 29, 2011, and $4,450.2 million on January 30, 2010. In addition, it reported that the average interest rate on its long-term debt was 5.5 PErcent.
+Based on the data on general lease terms given in the financial statements, we assume
+that the average lease term is 15 years. Given this information, the analyst can make
+the following adjustments to TJX's beginning and ending balance sheets, and to its
+income statement for the year ended January 29, 2011:
+1. Capitalize the net present value of the minimum lease obligations as of January 30,
+increasing Long-Term Tangible Assets and Long-Term Debt by $4,450.2
+2010,
+million.14
+2. Calculate the value of any change in lease assets and lease liabilities during the year
+from new lease transactions or terminations. On January 30, 2010, TJX's liability for
+oPErating lease commitments in 2011 and beyond was $4,450.2 million. During
+2010, the company exPEcted to repay $1,005.4 million (as PEr the schedule above),
+comprising $244.8 million of interest (5.5 PErcent of $4,450.2 million) and the
+remaining $760.6 million as retirement of the lease liability. If there had been no
+new lease commitments added during the year, the oPErating lease liability on January 29, 2011, would therefore have been $3,689.6 million ($4,450.2 million (cid:2) $760.6
+million). Yet TJX's actual lease commitment on January 29, 2011, was $5,572.6 million, indicating that it increased its leased store capacity by $1,883.0 million. TJX's
+Long-Term Tangible Assets and Long-Term Debt therefore increased by $1,883.0
+million during 2010 as a result of net new lease commitments.
+3. Record the change in lease asset value and exPEnse from depreciation during the
+year. Using a fifteen-year life and straight-line depreciation, the depreciation exPEnse
+for 2010 (included in Cost of Sales) is $359.4 m {[$4450.2 m th ($1,883.0 m/2)]/15}.
+4. Add back the lease exPEnse in the income statement, included in Cost of Sales, and
+apportion the payment between Interest ExPEnse and repayment of Long-Term
+Debt. As previously mentioned, the lease exPEnse is $1,005.4 million. As noted
+above, this reflects $244.8 million ($4,450.2 m (cid:3) 5.5 PErcent) that is shown as
+Interest ExPEnse and the remaining $760.6 million is allocated toward retiring the
+total oPErating lease liability.
+5. Make changes to the Deferred Tax Liability to reflect differences in earnings under
+the capital and oPErating methods. If it capitalizes oPErating leases, TJX's exPEnses
+are $604.2 million ($359.4 million depreciation exPEnse plus $244.8 million interest
+exPEnse) versus $1,005.4 million under the oPErating method, a difference of
+$401.2 million. TJX will not change its tax books, but for financial reporting purposes it will show higher earnings before tax and thus a higher Tax ExPEnse
+through deferred taxes. Given a corporate tax rate of 35 PErcent, Tax ExPEnse will
+increase by $140.4 million ($401.2 million x .35) and the Deferred Tax Liability
+will increase by the same amount for the year ended January 29, 2011.
+4-30 PART 2 Business Analysis and Valuation Tools
+In summary, the adjustments to TJX's financial statements on January 30, 2010, and
+January 29, 2011, are as follows:
+Adjustment January 29, 2011
+Adjustment January 30, 2010
+($ Billions)
+Assets
+Assets
+Liabilities &
+Equity
+Liabilities &
+Equity
+Balance Sheet
+Long-term tangible
+assets
+Long-term debt
+(1) th4,450.2
+(2) th1,883.0
+(3) -359.4
+Deferred taxes
+Shareholders' equity
+(1) th4,450.2
+(2) th1,883.0
+(4) -760.6
+(5) th140.4
+th260.8
+(1) th4,450.2
+(1) th4,450.2
+Income Statement
+Cost of sales
+Net interest exPEnse
+Tax exPEnse
+Total increase in
+(3) th359.4
+(4) -1005.4
+(4) th244.8
+(5) th140.4
+-260.8
+exPEnse
+Net Income
+th260.8
+SUMMARY
+The increase in both TJX's long term asset and liability balances and related income
+statement impact resulting from the above adjustment significantly alters many of the
+financial ratios that an analyst uses to understand and categorize a firm's PErformance.
+In the next chapter we will look at these ratios in detail, comparing TJX and Nordstrom
+on both an unadjusted and adjusted basis.
+To implement accounting analysis, the analyst must fIRSt recast the financial statements
+into a common format so that financial statement terminology and formatting is comparable between firms and across time. A standard template for recasting the financials,
+presented in this chapter, is used throughout the remainder of the book.
+Once the financial statements are standardized, the analyst can determine what
+accounting distortions exist in the firm's assets, liabilities, and equity. Common distortions that overstate assets include delays in recognizing asset impairments, underestimated reserves, aggressive revenue recognition leading to overstated receivables, and
+optimistic assumptions on long-term asset depreciation. Asset understatements can
+arise if managers overstate asset write-offs, use oPErating leases to keep assets off the balance sheet, or make conservative assumptions for asset depreciation. They can also arise
+because accounting rules require outlays for key assets (e.g., R&D and brands) to be
+immediately exPEnsed. For liabilities, the primary concern for the analyst is whether the
+firm understates its real commitments. This can arise from off-balance liabilities (e.g.,
+oPErating lease obligations), and from aggressive revenue recognition that understates
+unearned revenue obligations. Equity distortions frequently arise when there are distortions in assets and liabilities. However, they can also arise if firms issue hybrid SECurities.
+Implementing Accounting Analysis 4-31
+Adjustments for distortions can,
+therefore, arise because accounting standards,
+although applied appropriately, do not reflect a firm's economic reality. They can also
+arise if the analyst has a different point of view from management about the estimates
+and assumptions made in preparing the financial statements. Finally, adjustments may
+be necessary for the analyst seeking to compare companies reporting under different
+accounting standards (bROAdly represented as U.S. GAAP and IFRS) in order to ensure
+that the data to be analyzed are comparable.
+Once distortions have been identified, the analyst can use footnote and cash flow
+statement information to make adjustments to the balance sheet at the beginning and/
+or end of the current year, as well as any needed adjustments to revenues and exPEnses
+in the latest income statement. This ensures that the most recent financial ratios used to
+evaluate a firm's PErformance and to forecast its future results are based on financial data
+that appropriately reflect its business economics.
+Several points are worth remembering when doing accounting analysis. FIRSt, the bulk of
+the analyst's time and energy should be focused on evaluating and adjusting accounting policies and estimates that describe the firm's key strategic value drivers. Of course, this does
+not mean that management bias is not reflected in other accounting estimates and policies,
+and the analyst should certainly examine these. But given the importance of evaluating how
+the firm is managing its key success factors and risks, the bulk of the accounting analysis
+should be sPEnt examining those policies that represent these key factors and risks.
+It is also important to recognize that many accounting adjustments can only be
+approximations rather than precise calculations since much of the information necessary
+for making precise adjustments is not disclosed. The analyst should therefore try to avoid
+worrying about being overly precise in making accounting adjustments. By making even
+crude adjustments, it is usually possible to mitigate some of the limitations of accounting
+standards and problems of management bias in financial reporting.
+DISCUSSION QUESTIONS
+1. Use the templates shown in Tables 4-1, 4-2, and 4-3 to recast the following financial
+statements for Nordstrom, Inc.
+Nordstrom, Inc. Consolidated Balance Sheets
+(in millions)
+January 29, 2011
+January 30, 2010
+Assets
+Current assets:
+Cash and cash equivalents
+Accounts receivable, net
+Merchandise inventories
+Current deferred tax assets, net
+Prepaid exPEnses and other
+Total current assets
+Land, buildings and equipment
+(net of accumulated depreciation
+of $3,520 and $3,316)
+Goodwill
+Other assets
+Total assets
+$ 1,506
+2,026
+977
+236
+79
+4,824
+2,318
+$795
+2,035
+898
+238
+88
+4,054
+2,242
+53
+267
+$ 7,462
+53
+230
+$ 6,579
+4-32 PART 2 Business Analysis and Valuation Tools
+Nordstrom, Inc. Consolidated Balance Sheets
+(in millions)
+January 29, 2011
+January 30, 2010
+Liabilities and Shareholders' Equity
+Current liabilities:
+Accounts payable
+Accrued salaries, wages and
+related benefits
+Other current liabilities
+Current portion of long-term
+debt
+Total current liabilities
+Long-term debt, net
+Deferred proPErty incentives, net
+Other liabilities
+Commitments and contingencies
+Shareholders' equity:
+Common stock, no par value:
+1,000 shares authorized; 218.0
+and 217.7 share issued and
+outstanding
+Retained earnings
+Accumulated other comprehensive loss
+Total shareholders' equity
+Total liabilities and shareholders'
+equity
+$ 846
+375
+652
+6
+1,879
+2,775
+495
+292
+1,168
+882
+(29)
+2,021
+$ 7,462
+$ 726
+336
+596
+356
+2,014
+2,257
+469
+267
+1,066
+525
+(19)
+1,572
+$ 6,579
+Source: Nordstrom, Inc. SEC 10-K filed March 18, 2011.
+Nordstrom, Inc. Consolidated Statements of Earnings
+(in millions)
+Fiscal Year
+2010
+2009
+2008
+Net sales
+Credit card revenues
+Total revenues
+Cost of sales and related buying
+and occupancy costs
+Selling, general and administrative exPEnses:
+Retail
+Credit
+Earnings before interest and income taxes
+$ 9,310
+390
+9,700
+(5,897)
+(2,412)
+(273)
+1,118
+$ 8,258
+369
+8,627
+(5,328)
+(2,109)
+(356)
+834
+$ 8,272
+301
+8,573
+(5,417)
+(2,103)
+(274)
+779
+Interest exPEnse, net
+Earnings before income taxes
+Income tax exPEnse
+Net earnings
+(127)
+991
+(378)
+$ 613
+(138)
+696
+(255)
+$ 441
+(131)
+648
+(247)
+$ 401
+Source: Nordstrom, Inc. SEC 10-K filed March 18, 2011.
+Implementing Accounting Analysis 4-33
+Nordstrom, Inc. Consolidated Statements of Cash Flows
+(in millions)
+Fiscal Year
+2010
+2009
+2008
+$ 613
+$ 441
+$ 401
+OPErating Activities
+Net earnings
+Adjustments to reconcile net earnings to net cash
+provided by oPErating activities:
+Depreciation and amortization of buildings and
+equipment
+Amortization of deferred proPErty incentives and
+other, net
+Deferred income taxes, net
+Stock-based comPEnsation exPEnse
+Tax benefit from stock-based comPEnsation
+Excess tax benefit from stock-based comPEnsation
+Provision for bad debt exPEnse
+Change in oPErating assets and liabilities:
+Accounts receivable
+Merchandise inventories
+Prepaid exPEnses and other assets
+Accounts payable
+Accrued salaries, wages and related benefits
+Other current liabilities
+Deferred proPErty incentives
+Other liabilities
+Net cash provided by oPErating activities
+Investing activities
+Capital exPEnditures
+Change in credit card receivables originated at
+third parties
+Other, net
+Net cash used in investing activities
+Financing activities
+327
+(54)
+2
+42
+15
+(16)
+149
+(74)
+(80)
+1
+72
+37
+42
+95
+6
+1,177
+(399)
+(66)
+3
+(462)
+313
+(42)
+(58)
+32
+6
+(7)
+251
+(159)
+(1)
+(38)
+168
+120
+81
+96
+48
+1,251
+(360)
+(182)
+1
+(541)
+(Repayments) proceeds from commercial paPEr
+-
+(275)
+borrowings
+Proceeds from long-term borrowings, net of
+498
+399
+discounts
+Principal payments on long-term borrowings
+Increase in cash book overdrafts
+Cash dividends paid
+Repurchase of common stock
+Proceeds from exercise of stock options
+Proceeds from employee stock purchase plan
+Excess tax benefit from stock-based comPEnsation
+Other, net
+Net cash (used in) provided by financing activities
+Net increase (decrease) in cash and cash equivalents
+Cash and cash equivalents at beginning of year
+(356)
+37
+(167)
+(84)
+35
+13
+16
+4
+(4)
+711
+795
+(25)
+9
+(139)
+-
+21
+13
+7
+3
+13
+723
+72
+302
+(21)
+(36)
+28
+3
+(4)
+173
+(93)
+53
+38
+16
+(54)
+(48)
+119
+(29)
+848
+(563)
+(232)
+3
+(792)
+275
+150
+(410)
+20
+(138)
+(264)
+13
+17
+4
+(9)
+(342)
+(286)
+358
+$ 72
+Cash and cash equivalents at end of year
+$1,506
+$ 795
+Source: Nordstrom, Inc. SEC 10-K filed March 18, 2011.
+4-34 PART 2 Business Analysis and Valuation Tools
+2. Refer to the Creative Technology example on delaying write-downs of current assets.
+How much excess inventory do you estimate Creative Technology is holding in
+March 2005 if the firm's optimal days' inventory is 100 days? Calculate the inventory impairment charge for Creative Technology if 50 PErcent of this excess inventory is deemed worthless? Record the changes to Creative Technology's financial
+statements from adjusting for this impairment.
+3. U.S.-based American International Group, Inc. (AIG) is one of the world's largest
+insurance companies, offering proPErty, casualty, life insurance, and retirement services to customers in more than 130 countries. In its 2010 10-K report to the SEC, it
+discloses the following information on the loss reserves created for claims originating in 2000:
+(in millions)
+Net reserves held in 2000:
+$ 26,971
+Cumulative net liability paid as of:
+One year later
+Two years later
+Three years later
+Four years later
+Five years later
+Six years later
+Seven years later
+Eight years later
+Nine years later
+Ten years later
+$ 9,709
+17,149
+21,930
+26,090
+29,473
+32,421
+34,660
+36,497
+38,943
+40,153
+Net reserves for 2000 re-estimated as of:
+...................................................................................................
+One year later
+Two years later
+Three years later
+Four years later
+Five years later
+Six years later
+Seven years later
+Eight years later
+Nine years later
+Ten years later
+$26,979
+30,696
+32,732
+36,210
+41,699
+43,543
+44,475
+45,767
+47,682
+50,422
+Net redundancy (deficiency)
+$(23,451)
+Was the initial estimate for loss reserves originating in 2000 too low or too high?
+How has the firm updated its estimate of this obligation over time? What PErcentage
+of the original liability remains outstanding for 2000 claims at the end of 2010? As a
+financial analyst, what questions would you have for the CFO on its 2000 liability?
+4. AMR, the parent of American Airlines, provides the following footnote information
+on its capital and oPErating leases:
+AMR's subsidiaries lease various tyPEs of equipment and proPErty, primarily
+aircraft and airport facilities. The future minimum lease payments required
+under capital leases, together with the present value of such payments, and
+Implementing Accounting Analysis 4-35
+future minimum lease payments required under oPErating leases that have initial or remaining non-cancellable lease terms in excess of one year as of
+December 31, 2010, were (in millions):
+Year Ending December 31
+Capital Leases OPErating Leases
+2011
+2012
+2013
+2014
+2015
+2016 and thereafter
+$1,254
+1,068
+973
+831
+672
+6,006
+$10,804
+$186
+136
+120
+98
+87
+349
+$976
+$372
+$604
+Less amount representing interest
+Present value of net minimum lease payments
+AMR further disclosed that "lease terms vary but are generally six to 25 years for
+aircraft and seven to 40 years for other leased proPErty and equipment." Assuming
+that all leases are for aircraft with an average lease term of 15 years, what interest
+rate does AMR use to capitalize its capital leases? Use this rate to capitalize AMR's
+oPErating leases at December 31, 2010. Record the adjustment to AMR's balance
+sheet to reflect the capitalization of oPErating leases. How would this reporting
+change affect AMR's Income Statement in 2011?
+5. In 2011, Tata became the fIRSt Indian brand to be named in the top 50 global brands
+in Brand Finance's 2011 Global 500 report, which assigned the Tata brand a value of
+$15.8 billion. What appROAches would you use to estimate the value of brands? What
+assumptions underlie these appROAches? As a financial analyst, what would you use
+to assess whether the brand value assigned by Brand Finance was a reasonable
+reflection of the future benefits from this brand? What questions would you raise
+with the firm's CFO about the firm's brand assets?
+6. As the CFO of a company, what indicators would you look at to assess whether
+your firm's long-term assets were impaired? What appROAches could be used,
+either by management or an indePEndent valuation firm, to assess the dollar
+value of any asset impairment? As a financial analyst, what indicators would you
+look at to assess whether a firm's long-term assets were impaired? What questions
+would you raise with the firm's CFO about any charges
+taken for asset
+impairment?
+7. The cigarette industry is subject to litigation for health hazards posed by its products. The industry has been in an ongoing process of negotiating a settlement of
+these claims with state and federal governments. As the CFO for Altria Group, the
+parent company of Philip Morris, one of the larger firms in the industry, what information would you report to investors in the annual report on the firm's litigation
+risks? How would you assess whether the firm should record a liability for this
+risk, and if so, what appROAch would you use to assess the value of this liability? As
+a financial analyst following Altria, what questions would you raise with the CEO
+over the firm's litigation liability?
+8. Refer to the Lufthansa example on asset depreciation estimates. What adjustments
+would be required if Lufthansa's aircraft depreciation were computed using an average life of 25 years and salvage value of 5 PErcent (instead of the reported values of
+12 years and 15 PErcent)? Show the adjustments to the 2008 and 2009 balance
+sheets, and to the 2009 income statement.
+4-36 PART 2 Business Analysis and Valuation Tools
+9. In early 2003, Bristol-Myers Squibb announced that it would have to restate its
+financial statements as a result of stuffing as much as $3.35 billion worth of products into wholesalers' warehouses from 1999 through 2001. The company's sales
+and cost of sales during this PEriod was as follows:
+($ millions)
+Net sales
+Cost of products sold
+2001
+$18,139
+5,454
+2000
+$17,695
+4,729
+1999
+$16,502
+4,458
+NOTES
+The company's marginal tax rate during the three years was 35 PErcent. What adjustments are required to correct Bristol-Myers Squibb's balance sheet for December 31,
+2001? What assumptions underlie your adjustments? How would you exPEct the
+adjustments to affect Bristol-Myers Squibb's PErformance in the coming few years?
+1. If a firm's primary business income is from rentals, rental income will be classified
+as Sales, rather than Investment Income.
+2. The IASB and FASB are currently considering a proposal for all lease commitments
+to be capitalized and shown as an asset and liability on the lessee's balance sheet.
+The following tables show the financial statements for The TJX Companies, Inc. for the
+year ended January 2011, both as reported by the company and as standardized using
+the classifications discussed in this chapter. The fIRSt column in each reported financial
+statement presents the classifications that are used for each line item to standardize the
+statements. Note that the classifications are not applied to subtotal lines such as Total current assets or Net income. The recast financial statements for TJX are prepared by simply
+4-38 PART 2 Business Analysis and Valuation Tools
+totalling the balances of line items with the same standard classifications. For example, on
+the balance sheet there are two line items classified as Other Current Assets - Prepaid
+exPEnses and other current assets and Current deferred income taxes, net.
+The TJX Companies, Inc. Reported Consolidated Balance Sheet
+(In thousands)
+Fiscal Year Ended
+January 29,
+2011
+January 30,
+2010
+Classifications:
+Assets
+Current assets:
+Cash and Marketable
+Cash and cash equivalents
+$1,741,751
+$1,614,607
+SECurities
+Cash and Marketable
+Short-term investments
+76,261
+130,636
+SECurities
+Accounts Receivable
+Inventory
+Other Current Assets
+Other Current Assets
+Accounts receivable, net
+Merchandise inventories
+Prepaid exPEnses and other
+current assets
+Current deferred income
+taxes, net
+200,147
+2,765,464
+249,832
+148,126
+2,532,318
+255,707
+66,072
+122,462
+Total current assets
+5,099,527
+4,803,856
+ProPErty at cost:
+Long-Term Tangible
+Land and buildings
+320,633
+281,527
+Assets
+Long-Term Tangible
+Assets
+Long-Term Tangible
+Assets
+Long-Term Tangible
+Assets
+Long-Term Tangible
+Assets
+Other Long-Term Assets
+Long-Term Intangible
+Assets
+Short-Term Debt
+Accounts Payable
+Other Current Liabilities
+Other Current Liabilities
+Leasehold costs and
+improvements
+Furniture, fixtures and
+equipment
+Total proPErty at cost
+Less accumulated depreciation and amortization
+Net proPErty at cost
+ProPErty under capital lease,
+net of accumulated amortization of $21,591 and
+$19,357, resPEctively
+Other assets
+Goodwill and trademark,
+net of amortization
+2,112,151
+1,930,977
+3,256,446
+3,087,419
+5,689,230
+3,239,429
+2,449,801
+10,981
+5,299,923
+3,026,041
+2,273,882
+13,215
+231,518
+179,936
+193,230
+179,794
+Total assets
+$ 7,971,763
+$ 7,463,977
+Liabilities
+Current liabilities:
+Obligation under capital
+lease due within one year
+Accounts payable
+Accrued exPEnses and other
+current liabilities
+Federal, foreign, and state
+income taxes payable
+Total current liabilities
+$ 2,727
+$ 2,355
+1,683,929
+1,347,951
+1,507,892
+1,248,002
+98,514
+136,737
+3,133,121
+709,321
+2,894,986
+697,099
+(continued)
+Other Long-Term
+Other long-term liabilities
+Liabilities
+Implementing Accounting Analysis 4-39
+January 29,
+2011
+January 30,
+2010
+Fiscal Year Ended
+Deferred Taxes
+Non-current deferred income
+241,905
+192,447
+Long-Term Debt
+Long-Term Debt
+taxes, net
+Obligation under capital lease,
+less portion due within one
+year
+Long-term debt, exclusive
+of current installments
+Other Long-Term
+Liabilities
+Commitments and
+contingencies
+Common Shareholders'
+Equity
+Shareholders' equity
+Common stock, authorized
+1,200,000,000 shares, par
+value $1, issued and outstanding 389, 657, 340, and
+409,386,126 resPEctively
+13,117
+15,844
+774,400
+774,325
+-
+-
+389,657
+409,386
+Common Shareholders'
+Additional paid in capital
+-
+-
+Equity
+Common Shareholders'
+Equity
+Accumulated other comprehensive income (loss)
+(91,755)
+(134,124)
+Common Shareholders'
+Retained earnings
+2,801,997
+2,614,014
+Equity
+Total shareholders' equity
+Total liabilities and
+3,099,899
+$ 7,971,763
+2,889,276
+$ 7,463,977
+Source: The TJX Companies, Inc. SEC 10-K filed March 30, 2011.
+shareholders' equity
+The TJX Companies, Inc. Reported Consolidated Statements of Income
+(in thousands)
+January 29,
+2011
+January 30,
+2010
+January 31,
+2009
+(53 weeks)
+Fiscal Year Ended
+Classifications:
+Sales
+Cost of Sales
+Net sales
+Cost of sales,
+$ 21,942,193
+16,040,461
+$ 20,288,444 $ 18,999,505
+14,429,185
+14,968,429
+SG&A
+Other OPErating
+ExPEnse
+including buying
+and
+occupancy costs
+Selling, general and
+administrative
+exPEnses
+Provision (credit) for
+computer intrusion related costs
+3,710,053
+3,328,944
+3,135,589
+(11,550)
+-
+(30,500)
+(continued)
+4-40 PART 2 Business Analysis and Valuation Tools
+The TJX Companies, Inc. Reported Consolidated Statements of Income
+(in thousands)
+Fiscal Year Ended
+January 29,
+2011
+January 30,
+2010
+January 31,
+2009
+Net Interest
+ExPEnse
+(Income)
+Tax ExPEnse
+Unusual Gains,
+Net of Unusual
+Losses
+Interest exPEnse, net
+39,137
+39,509
+14,291
+Income from
+continuing
+OPErations before
+provision for
+income taxes
+Provision for income
+taxes
+Income from
+continuing
+OPErations
+Gain (loss) from
+discontinued
+oPErations, net
+of income taxes
+2,164,092
+1,951,562
+1,450,940
+824,562
+737,990
+536,054
+1,339,530
+1,213,572
+914,886
+3,611
+-
+(34,269)
+Source: The TJX Companies, Inc. SEC 10-K filed March 30, 2011.
+Net income
+$ 1,343,141
+$ 1,213,572
+$ 880,617
+The TJX Companies, Inc. Reported Consolidated Statements of Cash Flows
+(in thousands)
+Fiscal Year Ended
+January 29,
+2011
+January 30,
+2010
+January 31,
+2009
+Classifications:
+Net Income
+Long-Term
+OPErating
+Accruals -
+Depreciation and
+Amortization
+Long-Term OPErating Accruals -
+Other
+Long-Term OPErating Accruals -
+Other
+Cash flows from
+oPErating
+activities:
+Net income
+Adjustments to
+reconcile net
+income to net
+cash provided
+by oPErating
+activities:
+Depreciation and
+amortization
+Assets of discontinued oPErations
+sold
+Loss on proPErty
+disposals and impairment charges
+$1,343,141
+$1,213,572
+$880,617
+458,052
+435,218
+401,707
+-
+-
+31,328
+96,073
+10,270
+23,903
+(continued)
+Implementing Accounting Analysis 4-41
+Fiscal Year Ended
+January 29,
+2011
+January 30,
+2010
+January 31,
+2009
+Long-Term OPErating Accruals -
+Other
+Long-Term OPErating Accruals -
+Other
+Long-Term OPErating Accruals -
+Other
+Net (Investments in)
+or Liquidation of
+OPErating Working Capital
+Net (Investments in)
+or Liquidation of
+OPErating Working Capital
+Net (Investments in)
+or Liquidation of
+OPErating Working Capital
+Net (Investments in)
+or Liquidation of
+OPErating Working Capital
+Net (Investments in)
+or Liquidation of
+OPErating Working Capital
+Net (Investments in)
+or Liquidation of
+OPErating Working Capital
+Long-Term OPErating Accruals -
+Other
+Net (Investments in)
+or Liquidation of
+OPErating LongTerm Assets
+Deferred income tax
+50,641
+53,155
+132,480
+Provision
+Share-based
+comPEnsation
+Excess tax benefits
+from share-based
+comPEnsation
+Changes in assets
+and liabilities:
+(Increase) in
+accounts
+Receivable
+Decrease (increase)
+in Merchandise
+inventories
+Decrease (increase)
+in prepaid exPEnses and other
+current assets
+Increase (decrease)
+in accounts
+payable
+Increase (decrease)
+in accrued exPEnses and other
+liabilities
+(Decrease) increase
+in income taxes
+payable
+58,804
+55,145
+51,229
+(28,095)
+(17,494)
+(18,879)
+(23,587)
+(1,862)
+(8,245)
+(211,823)
+147,805
+(68,489)
+495
+21,219
+(118,830)
+163,823
+197,496
+(141,580)
+77,846
+31,046
+(34,525)
+(11,801)
+152,851
+(10,488)
+Other
+2,912
+(26,495)
+34,344
+Net cash provided
+by oPErating
+activities
+Cash flow from investing activities:
+ProPErty additions
+$ 1,976,481
+$ 2,271,926
+$ 1,154,572
+(707,134)
+(429,282)
+(582,932)
+(continued)
+4-42 PART 2 Business Analysis and Valuation Tools
+The TJX Companies, Inc. Reported Consolidated Statements of Cash Flows
+(in thousands)
+Fiscal Year Ended
+.....................................................................................................................................................
+January 29,
+2011
+January 30,
+2010
+January 31,
+2009
+Net (Investments in)
+or Liquidation of
+OPErating LongTerm Assets
+Net (Investments in)
+or Liquidation of
+OPErating LongTerm Assets
+Net (Investments in)
+or Liquidation of
+OPErating LongTerm Assets
+Net (Investments in)
+or Liquidation of
+OPErating LongTerm Assets
+Net Debt
+(Repayment)
+or Issuance
+Net Debt
+(Repayment)
+or Issuance
+Net Debt
+(Repayment)
+or Issuance
+Net Debt
+(Repayment)
+or Issuance
+Net Stock
+(Repurchase)
+or Issuance
+Net Stock
+(Repurchase)
+or Issuance
+Net Stock
+(Repurchase)
+or Issuance
+Dividend
+(payments)
+Proceeds to settle
+net investment
+hedges
+Purchase of shortterm investments
+Sales and maturities
+of short-term
+investments
+-
+-
+14,379
+(119,530)
+(278,692)
+180,116
+153,275
+-
+-
+Other
+(1,065)
+(5,578)
+(34)
+Net cash (used in)
+investing activities
+Cash flows from financing activities:
+Proceeds from issuance of long-term
+debt
+Principal payments
+on current portion
+of long-term debt
+Cash payments for
+debt issuance
+exPEnses
+Payments on capital
+lease obligation
+Cash payments for
+repurchase of
+common stock
+Proceeds from issuance of common
+stock
+Excess tax benefits
+from share-based
+comPEnsation
+Cash dividends paid
+$ (647,613)
+$ (560,277)
+$ (568,587)
+-
+-
+774,263
+(393,573)
+(3,118)
+(7,202)
+-
+-
+-
+(2,355)
+(2,174)
+(2,008)
+(1,193,380)
+(944,762)
+(751,097)
+176,159
+169,862
+142,154
+28,095
+17,494
+18,879
+(229,329)
+(197,662)
+(176,749)
+Net cash (used in)
+$ (1,223,928)
+$ (583,754)
+$ (768,821)
+Non-oPErating
+Losses (Gains)
+financing
+activities
+Effect of exchange
+rate changes on
+cash
+22,204
+33,185
+(96,249)
+(continued)
+Implementing Accounting Analysis 4-43
+January 29,
+2011
+January 30,
+2010
+January 31,
+2009
+Fiscal Year Ended
+.....................................................................................................................................................
+Net increase
+(decrease) in cash
+and cash
+equivalents
+Cash and cash
+equivalents at beginning of year
+127,144
+1,161,080
+(279,085)
+1,614,607
+453,527
+732,612
+Cash and cash
+$ 1,741,751
+$ 1,614,607
+$ 453,527
+equivalents at end
+of year
+......................................................................................................................................................
+Source: The TJX Companies, Inc. SEC 10-K filed March 30, 2011.
+TJX Standardized Consolidated Balance Sheet
+(in thousands)
+Fiscal Year Ended
+..................................................................................................................................................
+January 29, 2011
+January 30, 2010
+ASSETS
+Cash and Marketable SECurities
+Accounts Receivable
+Inventory
+Other Current Assets
+Total Current Assets
+Long-Term Tangible Assets
+Long-Term Intangible Assets
+Other Long-Term Assets
+Total Long-Term Assets
+Total Assets
+LIABILITIES
+Accounts Payable
+Short-Term Debt
+Other Current Liabilities
+Total Current Liabilities
+Long-Term Debt
+Deferred Taxes
+Other Long-Term Liabilities
+Total Long-Term Liabilities
+Total Liabilities
+$1,818,012
+200,147
+2,765,464
+315,904
+5,099,527
+2,460,782
+179,936
+231,518
+2,872,236
+$ 7,971,763
+$1,683,929
+2,727
+1,446,465
+3,133,121
+787,517
+241,905
+709,321
+1,738,743
+$ 4,871,864
+$1,745,243
+148,126
+2,532,318
+378,169
+4,803,856
+2,287,097
+179,794
+193,230
+2,660,121
+$ 7,463,977
+$1,507,892
+2,355
+1,384,739
+2,894,986
+790,169
+192,447
+697,099
+1,679,715
+$ 4,574,701
+Minority Interest
+-
+-
+SHAREHOLDER'S EQUITY
+Preferred Stock
+Common Shareholder's Equity
+Total Shareholders' Equity
+Total Liabilities and Shareholders' Equity
+-
+3,099,899
+3,099,899
+$ 7,971,763
+-
+2,889,276
+2,889,276
+$ 7,463,977
+...................................................................................................................................................
+4-44 PART 2 Business Analysis and Valuation Tools
+TJX Standardized Consolidated Statements of Income
+(In thousands)
+Fiscal Year Ended
+.....................................................................................................................................................
+January 29, 2011
+January 30, 2010 January 31, 2009
+Sales
+Cost of sales
+Gross profit
+SG&A
+Other oPErating exPEnse
+OPErating income
+Net interest exPEnse (income)
+Pre-tax income
+Tax exPEnse
+Unusual gains, net of unusual
+$21,942,193
+16,040,461
+5,901,732
+3,710,053
+(11,550)
+2,203,229
+39,137
+2,164,092
+824,562
+3,611
+$20,288,444
+14,968,429
+5,320,015
+3,328,944
+-
+1,991,071
+39,509
+1,951,562
+737,990
+-
+$18,999,505
+14,429,185
+4,570,320
+3,135,589
+(30,500)
+1,465,231
+14,291
+1,450,940
+536,054
+(34,269)
+losses
+Net income
+......................................................................................................................................................
+$ 1,343,141
+$ 1,213,572
+$ 880,617
+TJX Standardized Consolidated Statements of Cash Flows
+(In thousands)
+Fiscal Year Ended
+.....................................................................................................................................
+January 29,
+2011
+January 30,
+2010
+January 31,
+2009
+Cash Flows from OPErating
+Activities
+Net Income
+After-tax interest exPEnse
+(income)
+Non-oPErating Losses (Gains)
+Long-term oPErating accruals
+Depreciation and Amortization
+Other
+OPErating cash flow before
+working capital investments
+Net (Investments in) or
+Liquidation of OPErating
+Working Capital
+OPErating cash flow before investment in long-term assets
+Cash Flows Used for Investing
+Activities
+$1,343,141
+24,200
+$1,213,572
+26,120
+$880,617
+9,020
+22,204
+638,387
+458,052
+180,335
+2,027,932
+33,185
+509,799
+435,218
+74,581
+1,782,676
+(96,249)
+656,112
+401,707
+254,405
+1,449,500
+(5,047)
+548,555
+(382,157)
+2,022,885
+2,331,231
+1,067,343
+Net (Investments in) or
+(647,613)
+(560,277)
+(568,587)
+Liquidation of OPErating
+Long-term Assets
+Free cash flow available to debt
+1,375,272
+1,770,954
+498,756
+and equity
+Cash Flows from (used for)
+Financing Activities
+After-tax net interest (exPEnse)
+(24,200)
+(26,120)
+(9,020)
+income
+(continued)
+Implementing Accounting Analysis 4-45
+.....................................................................................................................................
+Fiscal Year Ended
+Net Debt (Repayment) or
+January 29,
+2011
+(5,473)
+January 30,
+2010
+371,314
+January 31,
+2009
+(2,008)
+Issuance
+Free cash flow available to
+1,345,599
+2,116,148
+487,728
+equity
+Dividend (payments)
+Net Stock (Repurchase) or
+Issuance
+(229,329)
+(989,126)
+(197,662)
+(757,406)
+(176,749)
+(590,064)
+Net increase (decrease) in cash
+127,144
+1,161,080
+(279,085)
+......................................................................................................................................
+Note: The cash flow statement shows the cash flows from oPErating activities attributable to all
+capital providers (debt and equity). Consequently, Net after-tax interest exPEnse (income) is added
+back to Net Income in the OPErating cash flow segment and reported in the Financing segment.
+Net after-tax interest exPEnse (income) is Net interest exPEnse (income) (cid:3) (1 (cid:2) Average tax rate).
+APPENDIX B Nordstrom, Inc. OPErating Lease Adjustment
+To estimate the value of Nordstrom's oPErating lease assets and liabilities, we use footnote information on the future minimum oPErating lease payments provided by Nordstrom in the financial statement footnotes included in its 2010 10-K. For the years
+ending January 29, 2011, and January 30, 2010, these amounts were as follows:
+Year ended (in thousands)
+January 29, 2011
+January 30, 2010
+..................................................................................................................................................
+Less than 1 year
+1-2 years
+2-3 years
+3-4 years
+4-5 years
+More than 5 years
+Total
+$
+111
+108
+100
+96
+92
+524
+$ 1,031
+$ 98
+101
+89
+82
+78
+406
+$ 854
+...................................................................................................................................................
+Whereas in the TJX adjustment shown earlier in the chapter TJX provides an estimate
+of the net present value of its minimum future lease obligations, Nordstrom does not
+provide such an estimate. However, using Nordstrom's reported average interest rate on
+its long-term debt of 6.3 PErcent, and estimating an average lease term of 18 years using
+data on general lease terms given in the 10-K, we can estimate the present value of
+Nordstrom's minimum lease obligations for the year ended January 29, 2011, as $685
+million and for the year ended January 30, 2010, as $578 million.15 With those estimates,
+we can now make the following adjustments to Nordstrom's beginning and ending balance
+sheets and to its income statement for the year ended January 29, 2011:
+1. Capitalize the estimated net present value of the minimum lease obligations as of January
+30, 2010, increasing Long-Term Tangible Assets and Long-Term Debt by $578 million.
+2. Calculate the value of any change in lease assets and lease liabilities during the year
+from new lease transactions or terminations. On January 30, 2010, the estimated
+present value of Nordstrom's liability for oPErating lease commitments in 2011
+...................................................................................................................
+15The net present value of Nordstrom's reported future oPErating lease obligation is calculated using 6.3 PErcent as
+a discount rate, which represents the average of Nordstrom's long-term debt at the time, and an 18 year assumed
+average lease term. The fIRSt 5 years are discounted by year as reported, with the remaining obligation (reported as
+a lump sum due beyond year 5) spread on a straight line basis across years 6-18 and discounted.
+4-46 PART 2 Business Analysis and Valuation Tools
+and beyond was $578 million. During 2010, the company exPEcted to repay
+$98 million (as PEr the schedule above), comprising $36.4 million of interest (6.3 PErcent of $578 million) and the remaining $61.6 million as retirement of the lease liability. If there had been no new lease commitments added during the year, the oPErating
+lease liability on January 29, 2011, would therefore have been $516.4 million ($578
+million - $61.6 million). Yet Nordstrom's actual lease commitment on January 29,
+2011, was $685 million, indicating that it increased its leased store capacity by $168.6
+million. Nordstrom's Long-Term Tangible Assets and Long-Term Debt therefore
+increased by $168.6 million during 2010 as a result of net new lease commitments.
+3. Record the change in lease asset value and exPEnse from depreciation during the year.
+Using an eighteen-year life and straight-line depreciation, the depreciation exPEnse for
+2010 (included in Cost of Sales) is $36.8 million {[$578 m th ($168.6 m/2)]/18}.
+4. Add back the lease exPEnse in the income statement, included in Cost of Sales, and
+apportion the payment between Interest ExPEnse and repayment of Long-Term Debt.
+As previously mentioned, the lease exPEnse is $98 million. As noted above, this reflects
+$36.4 million ($578 m (cid:3) 6.3 PErcent) that is shown as Interest ExPEnse and the
+remaining $61.6 million is allocated toward retiring the total oPErating lease liability.
+5. Make changes to the Deferred Tax Liability to reflect differences in earnings under
+the capital and oPErating methods. If it capitalizes oPErating leases, Nordstrom's
+exPEnses are $73.2 million ($36.8 million depreciation exPEnse plus $36.4 million
+interest exPEnse) versus $98 million under the oPErating method, a difference of
+$24.8 million. Nordstrom will not change its tax books, but for financial reporting
+purposes it will show higher earnings before tax and thus a higher Tax ExPEnse
+through deferred taxes. Given a corporate tax rate of 35 PErcent, Tax ExPEnse will
+increase by $8.7 million ($24.8 million (cid:3) .35) and the Deferred Tax Liability will
+increase by the same amount for the year ended January 29, 2011.
+In summary, the adjustments to Nordstrom's financial statements on January 30,
+2010, and January 29, 2011, are as follows:
+Adjustment
+January 29, 2011
+Adjustment
+January 30, 2010
+...............................................
+Liabilities &
+Equity
+Assets
+...............................................
+Liabilities &
+Equity
+Assets
+.............................................................................................................................................
+($ Billions)
+Balance Sheet
+Long-term tangible assets
+Long-term debt
+Deferred taxes
+Shareholders' equity
+Income Statement
+Cost of sales
+Net interest exPEnse
+Tax exPEnse
+Total increase in exPEnse
+Net Income
+(1) th578.0
+(2) th168.6
+(3) -36.8
+(1) th578.0
+(1) th578.0
+(1) th578.0
+(2) th168.6
+(4) -61.6
+(5) th8.7
+th16.1
+(3) th36.8
+(4) -98.0
+(4) th36.4
+(5) th8.7
+-16.1
+th16.1
+..............................................................................................................................................
+As noted in the TJX example above, we will be examining the impact of these adjustments in the next chapter.

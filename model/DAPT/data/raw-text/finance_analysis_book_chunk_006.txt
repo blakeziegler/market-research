@@ -1,0 +1,1470 @@
+FINANCIAL ANALYSIS TECHNIQUES
+Study Session 7
+EXAM FOCUS
+This topic review presents a "tool box" for an analyst. It would be nice if you could
+calculate all these ratios, but it is imPErative that you understand what firm
+characteristic each one is measuring, and even more important, that you know
+whether a higher or lower ratio is better in each instance. Different analysts calculate
+some ratios differently. It would be helpful if analysts were always careful to
+distinguish between total liabilities, total interest-bearing debt, long-term debt, and
+creditor and trade debt, but they do not. Some analysts routinely add deferred tax
+liabilities to debt or exclude goodwill when calculating assets and equity; others do
+not. Statistical reporting services almost always disclose how each of the ratios they
+present was calculated. So do not get too tied up in the details of each ratio, but
+understand what each one represents and what factors would likely lead to significant
+changes in a particular ratio. The DuPont formulas have been with us a long time and
+were in the curriculum when I took the exams back in the 1980s. Decomposing ROE
+into its components is an important analytic technique and it should definitely be in
+your tool box.
+LOS 27.a: Describe tools and techniques used in financial analysis, including their
+uses and limitations.
+CFA(r) Program Curriculum, Volume 3, page 330
+Various tools and techniques are used to convert financial statement data into formats
+that facilitate analysis. These include ratio analysis, common-size analysis, graphical
+analysis, and regression analysis.
+Ratio Analysis
+Ratios are useful tools for expressing relationships among data that can be used for
+internal comparisons and comparisons across firms. They are often most useful in
+identiFYing questions that need to be answered, rather than answering questions
+directly. SPEcifically, ratios can be used to do the following:
+Project future earnings and cash flow.
+Evaluate a firm's flexibility (the ability to grow and meet obligations even when
+unexPEcted circumstances arise).
+Assess management's PErformance.
+Evaluate changes in the firm and industry over time.
+Compare the firm with industry comPEtitors.
+Analysts must also be aware of the limitations of ratios, including the following:
+Financial ratios are not useful when viewed in isolation. They are only
+informative when compared to those of other firms or to the company's
+historical PErformance.
+Comparisons with other companies are made more difficult by different
+accounting treatments. This is particularly important when comparing U.S. firms
+to non-U.S. firms.
+It is difficult to find comparable industry ratios when analyzing companies that
+oPErate in multiple industries.
+Conclusions cannot be made by calculating a single ratio. All ratios must be
+viewed relative to one another.
+Determining the target or comparison value for a ratio is difficult, requiring
+some range of acceptable values.
+It is important to understand that the definitions of ratios can vary widely among the
+analytical community. For example, some analysts use all liabilities when measuring
+leverage, while other analysts only use interest-bearing obligations. Consistency is
+paramount. Analysts must also understand that reasonable values of ratios can differ
+among industries.
+Common-Size Analysis
+Common-size statements normalize balance sheets and income statements and allow
+the analyst to more easily compare PErformance across firms and for a single firm over
+time.
+A vertical common-size balance sheet expresses all balance sheet accounts as a
+PErcentage of total assets.
+A vertical common-size income statement expresses all income statement items
+as a PErcentage of sales.
+In addition to comparisons of financial data across firms and time, common-size
+analysis is appropriate for quickly viewing certain financial ratios. For example, the
+gross profit margin, oPErating profit margin, and net profit margin are all clearly
+indicated within a common-size income statement. Vertical common-size income
+statement ratios are esPEcially useful for studying trends in costs and profit margins.
+vertical common-size income statement ratios =
+Balance sheet accounts can also be converted to common-size ratios by dividing each
+balance sheet item by total assets.
+vertical common-size balance-sheet ratios =
+Example: Constructing common-size statements
+The common-size statements in Figure 1 show balance sheet items as PErcentages of assets, and income
+statement items as PErcentages of sales.
+You can convert all asset and liability amounts to their actual values by multiplying the
+PErcentages listed below by their total assets of $57,100; $55,798; and $52,071, resPEctively for
+20X6, 20X5, and 20X4 (data is USD millions).
+Also, all income statement items can be converted to their actual values by multiplying the given
+PErcentages by total sales, which were $29,723; $29,234; and $22,922, resPEctively, for 20X6,
+20X5, and 20X4.
+Figure 1: Vertical Common-Size Balance Sheet and Income Statement
+Balance Sheet, fiscal year-end
+20X6
+20X5
+20X4
+Assets
+Cash & cash equivalents
+0.38%
+0.29%
+0.37%
+Accounts receivable
+5.46%
+5.61%
+6.20%
+Inventories
+5.92%
+5.42%
+5.84%
+Deferred income taxes
+0.89%
+0.84%
+0.97%
+Other current assets
+0.41%
+0.40%
+0.36%
+Total current assets
+13.06%
+12.56%
+13.74%
+Gross fixed assets
+25.31%
+23.79%
+25.05%
+Accumulated depreciation
+8.57%
+7.46%
+6.98%
+Net gross fixed assets
+16.74%
+16.32%
+18.06%
+Other long-term assets
+70.20%
+71.12%
+68.20%
+Total assets
+Liabilities
+100.00% 100.00% 100.00%
+Accounts payable
+3.40%
+3.40%
+3.79%
+Short-term debt
+1.00%
+2.19%
+1.65%
+Other current liabilities
+8.16%
+10.32%
+9.14%
+Total current liabilities
+12.56%
+15.91%
+14.58%
+Long-term debt
+18.24%
+14.58%
+5.18%
+Other long-term liabilities
+23.96%
+27.44%
+53.27%
+Total liabilities
+54.76%
+57.92%
+73.02%
+Preferred equity
+0.00%
+0.00%
+0.00%
+Common equity
+45.24%
+42.08%
+26.98%
+Total liabilities & equity
+100.00% 100.00% 100.00%
+Income Statement, fiscal year
+20X6
+20X5
+20X4
+Revenues
+100.00% 100.00% 100.00%
+Cost of goods sold
+59.62%
+60.09%
+60.90%
+Gross profit
+40.38%
+39.91%
+39.10%
+Selling, general & administrative
+16.82%
+17.34%
+17.84%
+Depreciation
+Amortization
+2.39%
+2.33%
+2.18%
+0.02%
+3.29%
+2.33%
+Other oPErating exPEnses
+0.58%
+0.25%
+-0.75%
+OPErating income
+20.57%
+16.71%
+17.50%
+Interest and other debt exPEnse
+2.85%
+4.92%
+2.60%
+Income before taxes
+17.72%
+11.79%
+14.90%
+Provision for income taxes
+6.30%
+5.35%
+6.17%
+Net income
+11.42%
+6.44%
+8.73%
+Even a cursory insPEction of the income statement in Figure 1 can be quite instructive.
+Beginning at the bottom, we can see that the profitability of the company has
+increased nicely in 20X6 after falling slightly in 20X5. We can examine the 20X6 income
+statement values to find the source of this greatly improved profitability. Cost of goods
+sold seems to be stable, with an improvement (decrease) in 20X6 of only 0.48%. SG&A
+was down approximately one-half PErcent as well.
+These improvements from (relative) cost reduction, however, only begin to explain the
+5% increase in the net profit margin for 20X6. Improvements in two items,
+"amortization" and "interest and other debt exPEnse," apPEar to be the most
+significant factors in the firm's improved profitability in 20X6. Clearly the analyst must
+investigate further in both areas to learn whether these improvements represent
+PErmanent improvements or whether these items can be exPEcted to return to
+previous PErcentage-of-sales levels in the future.
+We can also note that interest exPEnse as a PErcentage of sales was approximately the
+same in 20X4 and 20X6. We must investigate the reasons for the higher interest costs
+in 20X5 to determine whether the current level of 2.85% can be exPEcted to continue
+into the next PEriod. In addition, more than 3% of the 5% increase in net profit margin
+in 20X6 is due to a decrease in amortization exPEnse. Since this is a noncash exPEnse,
+the decrease may have no implications for cash flows looking forward.
+This discussion should make clear that common-size analysis doesn't tell an analyst the
+whole story about this company, but can certainly point the analyst in the right
+direction to find out the circumstances that led to the increase in the net profit margin
+and to determine the effects, if any, on firm cash flow going forward.
+Another way to present financial statement data that is quite useful when analyzing
+trends over time is a horizontal common-size balance sheet or income statement. The
+divisor here is the fIRSt-year values, so they are all standardized to 1.0 by construction.
+Figure 2 illustrates this appROAch.
+Figure 2: Horizontal Common-Size Balance Sheet Data
+20X4
+20X5
+20X6
+Inventory
+1.0
+1.1
+1.4
+Cash and marketable SECurities
+1.0
+1.3
+1.2
+Long-term debt
+1.0
+1.6
+1.8
+PP&E (net of depreciation)
+1.0
+0.9
+0.8
+Trends in the values of these items, as well as the relative growth in these items, are
+readily apparent from a horizontal common-size balance sheet.
+Professor's Note: We have presented data in Figure 1 with information for the most recent PEriod
+on the left, and in Figure 2 we have presented the historical values from left to right. Both
+presentation methods are common, and on the exam you should pay sPEcial attention to which
+method is used in the data presented for any question.
+We can view the values in the common-size financial statements as ratios. Net income
+is shown on the common-size income statement as net income/revenues, which is the
+net profit margin, and tells the analyst the PErcentage of each dollar of sales that
+remains for shareholders after all exPEnses related to the generation of those sales are
+deducted. One measure of financial leverage, long-term debt to total assets, can be
+read directly from the vertical common-size financial statements. SPEcific ratios
+commonly used in financial analysis and interpretation of their values are covered in
+detail in this review.
+Graphical Analysis
+Graphs can be used to visually present PErformance comparisons and composition of
+financial statement elements over time.
+A stacked column graph (also called a stacked bar graph) shows the changes in items
+from year to year in graphical form. Figure 3 presents such data for a hypothetical
+corporation.
+Figure 3: Stacked Column (Stacked Bar) Graph
+Another alternative for graphic presentation of data is a line graph. Figure 4 presents
+the same data as Figure 3, but as a line graph. The increase in trade payables and the
+decrease in cash are evident in either format and would alert the analyst to potential
+liquidity problems that require further investigation and analysis.
+Figure 4: Line Graph
+Regression Analysis
+Regression analysis can be used to identiFY relationships between variables. The results
+are often used for forecasting. For example, an analyst might use the relationship
+between GDP and sales to prepare a sales forecast.
+LOS 27.b: ClassiFY, calculate, and interpret activity, liquidity, solvency, profitability,
+and valuation ratios.
+CFA(r) Program Program Curriculum, Volume 3, page 347
+Financial ratios can be segregated into different classifications by the tyPE of
+information about the company they provide. One such classification scheme is:
+Activity ratios. This category includes several ratios also referred to asset
+utilization or turnover ratios (e.g., inventory turnover, receivables turnover, and
+total assets turnover). They often give indications of how well a firm utilizes
+various assets such as inventory and fixed assets.
+Liquidity ratios. Liquidity here refers to the ability to pay short-term obligations
+as they come due.
+Solvency ratios. Solvency ratios give the analyst information on the firm's
+financial leverage and ability to meet its longer-term obligations.
+Profitability ratios. Profitability ratios provide information on how well the
+company generates oPErating profits and net profits from its sales.
+Valuation ratios. Sales PEr share, earnings PEr share, and price to cash flow PEr
+share are examples of ratios used in comparing the relative valuation of
+companies.
+Professor's Note: We examine valuation ratios in another LOS concerning equity analysis later in
+this review, and in the Study Session on equity investments.
+It should be noted that these categories are not mutually exclusive. An activity ratio
+such as payables turnover may also provide information about the liquidity of a
+company, for example. There is no one standard set of ratios for financial analysis.
+Different analysts use different ratios and different calculation methods for similar
+ratios. Some ratios are so commonly used that there is very little variation in how they
+are defined and calculated. We will note some alternative treatments and alternative
+terms for single ratios as we detail the commonly used ratios in each category.
+ACTIVITY RATIOS
+Activity ratios (also known as asset utilization ratios or oPErating efficiency ratios)
+measure how efficiently the firm is managing its assets.
+A measure of accounts receivable turnover is receivables turnover:
+Professor's Note: In most cases when a ratio compares a balance sheet account (such as
+receivables) with an income or cash flow item (such as sales), the balance sheet item will be the
+average of the account instead of simply the end-of-year balance. Averages are calculated by
+adding the beginning-of-year account value to the end-of-year account value, then dividing the
+sum by two.
+It is considered desirable to have a receivables turnover figure close to the
+industry norm.
+The inverse of the receivables turnover times 365 is the average collection
+PEriod, or days of sales outstanding, which is the average number of days it
+takes for the company's customers to pay their bills:
+It is considered desirable to have a collection PEriod (and receivables turnover)
+close to the industry norm. The firm's credit terms are another important
+benchmark used to interpret this ratio. A collection PEriod that is too high
+might mean that customers are too slow in paying their bills, which means too
+much capital is tied up in assets. A collection PEriod that is too low might
+indicate that the firm's credit policy is too rigorous, which might be hamPEring
+sales.
+A measure of a firm's efficiency with resPEct to its processing and inventory
+management is inventory turnover:
+Professor's Note: Pay careful attention to the numerator in the turnover ratios. For inventory
+turnover, be sure to use cost of goods sold, not sales.
+The inverse of the inventory turnover times 365 is the average inventory
+processing PEriod, number of days of inventory, or days of inventory on hand:
+As is the case with accounts receivable, it is considered desirable to have days of
+inventory on hand (and inventory turnover) close to the industry norm. A
+processing PEriod that is too high might mean that too much capital is tied up in
+inventory and could mean that the inventory is obsolete. A processing PEriod
+that is too low might indicate that the firm has inadequate stock on hand, which
+could hurt sales.
+A measure of the use of trade credit by the firm is the payables turnover ratio:
+Professor's Note: You can use the inventory equation to calculate purchases from the financial
+statements. Purchases = ending inventory - beginning inventory + cost of goods sold.
+The inverse of the payables turnover ratio multiplied by 365 is the payables
+payment PEriod or number of days of payables, which is the average amount of
+time it takes the company to pay its bills:
+Professor's Note: We have shown days calculations for payables, receivables, and inventory based on
+annual turnover and a 365-day year. If turnover ratios are for a quarter rather than a year, the number
+of days in the quarter should be divided by the quarterly turnover ratios in order to get the "days"
+form of these ratios.
+The effectiveness of the firm's use of its total assets to create revenue is
+measured by its total asset turnover:
+Different tyPEs of industries might have considerably different turnover ratios.
+Manufacturing businesses that are capital-intensive might have asset turnover
+ratios near one, while retail businesses might have turnover ratios near 10. As
+was the case with the current asset turnover ratios discussed previously, it is
+desirable for the total asset turnover ratio to be close to the industry norm. Low
+asset turnover ratios might mean that the company has too much capital tied
+up in its asset base. A turnover ratio that is too high might imply that the firm
+has too few assets for potential sales, or that the asset base is outdated.
+The utilization of fixed assets is measured by the fixed asset turnover ratio:
+As was the case with the total asset turnover ratio, it is desirable to have a fixed
+asset turnover ratio close to the industry norm. Low fixed asset turnover might
+mean that the company has too much capital tied up in its asset base or is using
+the assets it has inefficiently. A turnover ratio that is too high might imply that
+the firm has obsolete equipment, or at a minimum, that the firm will probably
+have to incur capital exPEnditures in the near future to increase capacity to
+support growing revenues. Since "net" here refers to net of accumulated
+depreciation, firms with more recently acquired assets will typically have lower
+fixed asset turnover ratios.
+How effectively a company is using its working capital is measured by the
+working capital turnover ratio:
+Working capital (sometimes called net working capital) is current assets minus
+current liabilities. The working capital turnover ratio gives us information about
+the utilization of working capital in terms of dollars of sales PEr dollar of
+working capital. Some firms may have very low working capital if outstanding
+payables equal or exceed inventory and receivables. In this case the working
+capital turnover ratio will be very large, may vary significantly from PEriod to
+PEriod, and is less informative about changes in the firm's oPErating efficiency.
+LIQUIDITY RATIOS
+Liquidity ratios are employed by analysts to determine the firm's ability to pay its
+short-term liabilities.
+The current ratio is the best-known measure of liquidity:
+The higher the current ratio, the more likely it is that the company will be able
+to pay its short-term bills. A current ratio of less than one means that the
+company has negative working capital and is probably facing a liquidity crisis.
+Working capital equals current assets minus current liabilities.
+The quick ratio is a more stringent measure of liquidity because it does not
+include inventories and other assets that might not be very liquid:
+The higher the quick ratio, the more likely it is that the company will be able to
+pay its short-term bills. Marketable SECurities are short-term debt instruments,
+typically liquid and of good credit quality.
+The most conservative liquidity measure is the cash ratio:
+The higher the cash ratio, the more likely it is that the company will be able to
+pay its short-term bills.
+The current, quick, and cash ratios differ only in the assumed liquidity of the
+current assets that the analyst projects will be used to pay off current liabilities.
+The defensive interval ratio is another measure of liquidity that indicates the
+number of days of average cash exPEnditures the firm could pay with its current
+liquid assets:
+ExPEnditures here include cash exPEnses for costs of goods, SG&A, and research
+and development. If these items are taken from the income statement, noncash
+charges such as depreciation should be added back just as in the preparation of
+a statement of cash flows by the indirect method.
+The cash conversion cycle is the length of time it takes to turn the firm's cash
+investment in inventory back into cash, in the form of collections from the sales
+of that inventory. The cash conversion cycle is computed from days sales
+outstanding, days of inventory on hand, and number of days of payables:
+High cash conversion cycles are considered undesirable. A conversion cycle that
+is too high implies that the company has an excessive amount of capital
+investment in the sales process.
+SOLVENCY RATIOS
+Solvency ratios measure a firm's financial leverage and ability to meet its long-term
+obligations. Solvency ratios include various debt ratios that are based on the balance
+sheet and coverage ratios that are based on the income statement.
+A measure of the firm's use of fixed-cost financing sources is the debt-to-equity
+ratio:
+Increases and decreases in this ratio suggest a greater or lesser reliance on debt
+as a source of financing.
+Total debt is calculated differently by different analysts and different providers
+of financial information. Here, we will define it as long-term debt plus interestbearing short-term debt.
+Some analysts include the present value of lease obligations and/or noninterest-bearing current liabilities, such as trade payables.
+Another way of looking at the usage of debt is the debt-to-capital ratio:
+Capital equals all short-term and long-term debt plus preferred stock and
+equity. Increases and decreases in this ratio suggest a greater or lesser reliance
+on debt as a source of financing.
+A slightly different way of analyzing debt utilization is the debt-to-assets ratio:
+Increases and decreases in this ratio suggest a greater or lesser reliance on debt
+as a source of financing.
+Another measure that is used as an indicator of a company's use of debt
+financing is the financial leverage ratio (or leverage ratio):
+Average here means the average of the values at the beginning and at the end
+of the PEriod. Greater use of debt financing increases financial leverage and,
+typically, risk to equity holders and bondholders alike.
+The remaining risk ratios help determine the firm's ability to repay its debt
+obligations. The fIRSt of these is the interest coverage ratio:
+The lower this ratio, the more likely it is that the firm will have difficulty meeting
+its debt payments.
+A SECond ratio that is an indicator of a company's ability to meet its obligations
+is the fixed charge coverage ratio:
+Here, lease payments are added back to oPErating earnings in the numerator
+and also added to interest payments in the denominator. Significant lease
+obligations will reduce this ratio significantly compared to the interest coverage
+ratio. Fixed charge coverage is the more meaningful measure for companies
+that lease a large portion of their assets, such as some airlines.
+Professor's Note: With all solvency ratios, the analyst must consider the variability of a firm's
+cash flows when determining the reasonableness of the ratios. Firms with stable cash flows are
+usually able to carry more debt.
+PROFITABILITY RATIOS
+Profitability ratios measure the overall PErformance of the firm relative to revenues,
+assets, equity, and capital.
+The net profit margin is the ratio of net income to revenue:
+Analysts should be concerned if this ratio is too low. The net profit margin
+should be based on net income from continuing oPErations, because analysts
+should be primarily concerned about future exPEctations, and below-the-line
+items such as discontinued oPErations will not affect the company in the future.
+OPErating profitability ratios look at how good management is at turning their
+efforts into profits. OPErating ratios compare the top of the income statement
+(sales) to profits. The different ratios are designed to isolate sPEcific costs.
+Know these terms:
+gross profits = net sales - COGS
+oPErating profits = earnings before interest and taxes = EBIT
+net income = earnings after taxes but before dividends
+total capital = long-term debt + short-term debt + common and preferred equity
+total capital = total assets
+Professor's Note: The difference between these two definitions of total capital is working capital
+liabilities, such as accounts payable. Some analysts consider these liabilities a source of financing
+for a firm and include them in total capital. Other analysts view total capital as the sum of a
+firm's debt and equity.
+How they relate in the income statement:
+-
+-
+-
+-
+Net sales
+Cost of goods sold
+Gross profit
+OPErating exPEnses
+OPErating profit (EBIT)
+Interest
+Earnings before taxes (EBT)
+Taxes
+Earnings after taxes (EAT)
++/-
+Below the line items adjusted for tax
+Net income
+-
+Preferred dividends
+Income available to common
+The gross profit margin is the ratio of gross profit (sales less cost of goods sold)
+to sales:
+An analyst should be concerned if this ratio is too low. Gross profit can be
+increased by raising prices or reducing costs. However, the ability to raise prices
+may be limited by comPEtition.
+The oPErating profit margin is the ratio of oPErating profit (gross profit less
+selling, general, and administrative exPEnses) to sales. OPErating profit is also
+referred to as earnings before interest and taxes (EBIT):
+Strictly sPEaking, EBIT includes some nonoPErating items, such as gains on
+investment. The analyst, as with other ratios with various formulations, must be
+consistent in his calculation method and know how published ratios are
+calculated. Analysts should be concerned if this ratio is too low. Some analysts
+prefer to calculate the oPErating profit margin by adding back depreciation and
+any amortization exPEnse to arrive at earnings before interest, taxes,
+depreciation, and amortization (EBITDA).
+Sometimes profitability is measured using earnings before tax (EBT), which can
+be calculated by subtracting interest from EBIT or from oPErating earnings. The
+pretax margin is calculated as:
+Another set of profitability ratios measure profitability relative to funds
+invested in the company by common stockholders, preferred stockholders, and
+suppliers of debt financing. The fIRSt of these measures is the return on assets
+(ROA). Typically, ROA is calculated using net income:
+This measure is a bit misleading, however, because interest is excluded from
+net income but total assets include debt as well as equity. Adding interest
+adjusted for tax back to net income puts the returns to both equity and debt
+holders in the numerator. The interest exPEnse that should be added back is
+gross interest exPEnse, not net interest exPEnse (which is gross interest
+exPEnse less interest income). This results in an alternative calculation for ROA:
+A measure of return on assets that includes both taxes and interest in the
+numerator is the oPErating return on assets:
+The return on total capital (ROTC) is the ratio of net income before interest and
+taxes to total capital:
+Total capital includes short- and long-term debt, preferred equity, and common
+equity. Analysts should be concerned if this ratio is too low.
+An alternative method for computing ROTC is to include the present value of
+oPErating leases on the balance sheet as a fixed asset and as a long-term
+liability. This adjustment is esPEcially important for firms that are dePEndent on
+oPErating leases as a major form of financing. Calculations related to leasing
+will be discussed in the next Study Session.
+The return on equity (ROE) is the ratio of net income to average total equity
+(including preferred stock):
+Analysts should be concerned if this ratio is too low. It is sometimes called
+return on total equity.
+A similar ratio to the return on equity is the return on common equity:
+This ratio differs from the return on total equity in that it only measures the
+accounting profits available to, and the capital invested by, common
+stockholders, instead of common and preferred stockholders. That is why
+preferred dividends are deducted from net income in the numerator. Analysts
+should be concerned if this ratio is too low.
+The return on common equity is often more thoroughly analyzed using the
+DuPont decomposition, which is described later in this topic review.
+LOS 27.c: Describe relationships among ratios and evaluate a company using ratio
+analysis.
+CFA(r) Program Program Curriculum, Volume 3, page 368
+Example: Using ratios to evaluate a company
+A balance sheet and income statement for a hypothetical company are shown below for this year and the
+previous year.
+Using the company information provided, calculate the current year ratios. Discuss how these ratios
+compare with the company's PErformance last year and with the industry's PErformance.
+Sample Balance Sheet
+Year
+Assets
+Cash and marketable SECurities
+Receivables
+Inventories
+Total current assets
+Current year
+Previous year
+$105
+205
+310
+620
+$95
+195
+290
+580
+Gross proPErty, plant, and equipment
+1,800
+$1,700
+Accumulated depreciation
+360
+340
+Net proPErty, plant, and equipment
+1,440
+1,360
+Total assets
+$2,060
+$1,940
+Liabilities
+Payables
+Short-term debt
+Current portion of long-term debt
+Current liabilities
+Long-term debt
+Deferred taxes
+Common stock at par
+Additional paid in capital
+Retained earnings
+$110
+160
+55
+325
+610
+105
+300
+400
+320
+Common shareholders equity
+1,020
+$90
+140
+45
+$275
+$690
+95
+300
+400
+180
+880
+Total liabilities and equity
+$2,060
+$1,940
+Sample Income Statement
+Year
+Current year
+Sales
+Cost of goods sold
+Gross profit
+OPErating exPEnses
+OPErating profit
+Interest exPEnse
+Earnings before taxes
+Taxes
+Net income
+Common dividends
+Financial Ratio Template
+Current ratio
+Quick ratio
+Days of sales outstanding
+Inventory turnover
+$4,000
+3,000
+1,000
+650
+350
+50
+300
+100
+200
+60
+Current Year
+Last Year
+Industry
+2.1
+1.1
+1.5
+0.9
+18.9
+18.0
+10.7
+12.0
+2.3
+2.4
+Total asset turnover
+Working capital turnover
+Gross profit margin
+Net profit margin
+Return on total capital
+Return on common equity
+Debt-to-equity
+Interest coverage
+Answer:
+current ratio =
+14.5
+11.8
+27.4%
+29.3%
+5.8%
+6.5%
+21.1%
+22.4%
+24.1%
+19.8%
+99.4%
+35.7%
+5.9
+9.2
+The current ratio indicates lower liquidity levels when compared to last year and more liquidity
+than the industry average.
+quick ratio =
+The quick ratio is lower than last year and is in line with the industry average.
+DSO (days of sales outstanding) =
+DSO =
+The DSO is a bit lower relative to the company's past PErformance but slightly higher than the
+industry average.
+inventory turnover =
+inventory turnover =
+Inventory turnover is much lower than last year and the industry average. This suggests that
+the company is not managing inventory efficiently and may have obsolete stock.
+total asset turnover =
+total asset turnover =
+Total asset turnover is slightly lower than last year and the industry average.
+working capital turnover =
+beginning working capital = 580 - 275 = 305
+ending working capital = 620 - 325 = 295
+working capital turnover =
+Working capital turnover is lower than last year, but still above the industry average.
+gross profit margin =
+gross profit margin =
+The gross profit margin is lower than last year and much lower than the industry average.
+net profit margin =
+net profit margin =
+The net profit margin is lower than last year and much lower than the industry average.
+return on total capital =
+beginning total capital = 140 + 45 + 690 + 880 = 1,755
+ending total capital = 160 + 55 + 610 + 1,020 = 1,845
+return on total capital =
+The return on total capital is below last year and below the industry average. This suggests a
+problem stemming from the low asset turnover and low profit margin.
+return on common equity =
+return on common equity =
+The return on equity is lower than last year but better than the industry average. The reason it
+is higher than the industry average is probably because of greater use of leverage.
+debt-to-equity ratio =
+debt-to-equity ratio =
+Note that preferred equity would be included in the denominator if there were any, and that
+we have included short-term debt and the current portion of long-term debt in calculating total
+(interest-bearing) debt.
+The debt-to-equity ratio is lower than last year but still much higher than the industry average.
+This suggests the company is trying to get its debt level more in line with the industry.
+interest coverage =
+interest coverage =
+The interest coverage is better than last year but still worse than the industry average. This,
+along with the slip in profit margin and return on assets, might cause some concern.
+LOS 27.d: Demonstrate the application of DuPont analysis of return on equity and
+calculate and interpret effects of changes in its components.
+CFA(r) Program Program Curriculum, Volume 3, page 370
+The DuPont system of analysis is an appROAch that can be used to analyze return on
+equity (ROE). It uses basic algebra to break down ROE into a function of different
+ratios, so an analyst can see the impact of leverage, profit margins, and turnover on
+shareholder returns. There are two variants of the DuPont system: The original threepart appROAch and the extended five-part system.
+For the original appROAch, start with ROE defined as:
+Average or year-end values for equity can be used. Multiplying ROE by
+(revenue/revenue) and rearranging terms produces:
+The fIRSt term is the profit margin, and the SECond term is the equity turnover:
+We can expand this further by multiplying these terms by (assets/assets), and
+rearranging terms:
+The fIRSt term is still the profit margin, the SECond term is now asset turnover, and the
+third term is a financial leverage ratio that will increase as the use of debt financing
+increases:
+Professor's Note: The leverage ratio is sometimes called the "equity multiplier."
+This is the original DuPont equation. It is arguably the most important equation in ratio
+analysis, since it breaks down a very important ratio (ROE) into three key components.
+If ROE is relatively low, it must be that at least one of the following is true: The
+company has a poor profit margin, the company has poor asset turnover, or the firm
+has too little leverage.
+Professor's Note: Often candidates get confused and think the DuPont method is a way to
+calculate ROE. While you can calculate ROE given the components of either the original or
+extended DuPont equations, this isn't necessary if you have the financial statements. If you have
+net income and equity, you can calculate ROE. The DuPont method is a way to decompose ROE,
+to better see what changes are driving the changes in ROE.
+Example: Decomposition of ROE with original DuPont
+Staret, Inc. has maintained a stable and relatively high ROE of approximately 18% over the last three
+years. Use traditional DuPont analysis to decompose this ROE into its three components and comment on
+trends in company PErformance.
+Answer:
+ROE 20X3: 21.5 / 119 =
+20X4: 22.3 / 124 =
+20X5: 21.9 / 126 =
+18.1%
+18.0%
+17.4%
+DuPont 20X3: 7.0% x 1.33 x 1.93
+20X4: 6.4% x 1.21 x 2.34
+20X5: 5.3% x 1.17 x 2.78
+(some rounding in values)
+While the ROE has dropPEd only slightly, both the total asset turnover and the net profit margin have
+declined. The effects of declining net margins and turnover on ROE have been offset by a significant
+increase in leverage. The analyst should be concerned about the net margin and determine the
+combination of pricing pressure and/or increasing exPEnses that caused this. Note that the company has
+become more risky due to increased debt financing.
+Example: Computing ROE using original DuPont
+A company has a net profit margin of 4%, asset turnover of 2.0, and a debt-to-assets ratio of 60%. What is
+the ROE?
+Answer:
+Debt-to-assets = 60%, which means equity to assets is 40%; this implies assets to equity (the leverage
+ratio) is 1 / 0.4 = 2.5
+= (0.04)(2.00)(2.50) = 0.20, or 20%
+The extended (5-way) DuPont equation takes the net profit margin and breaks it
+down further.
+Note that the fIRSt term in the 3-part DuPont equation, net profit margin, has been
+decomposed into three terms:
+We then have:
+An increase in interest exPEnse as proportion of EBIT will increase the interest burden
+(i.e., decrease the interest burden ratio). Increases in either the tax burden or the
+interest burden (i.e., decreases in the ratios) will tend to decrease ROE.
+EBIT in the SECond two expressions can be replaced by oPErating earnings. In this case,
+we have the oPErating margin rather than the EBIT margin. The interest burden term
+would then show the effects of nonoPErating income as well as the effect of interest
+exPEnse.
+Note that in general, high profit margins, leverage, and asset turnover will lead to high
+levels of ROE. However, this version of the formula shows that more leverage does not
+always lead to higher ROE. As leverage rises, so does the interest burden. Hence, the
+positive effects of leverage can be offset by the higher interest payments that
+accompany more debt. Note that higher taxes will always lead to lower levels of ROE.
+Example: Extended DuPont analysis
+An analyst has gathered data from two companies in the same industry. Calculate the ROE for both
+companies and use the extended DuPont analysis to explain the critical factors that account for the
+differences in the two companies' ROEs.
+Selected Income and Balance Sheet Data
+Answer:
+EBIT = EBIT / revenue
+Company A: EBIT margin = 35 / 500 = 7.0%
+Company B: EBIT margin = 100 / 900 = 11.1%
+asset turnover = revenue / average assets
+Company A: asset turnover = 500 / 250 = 2.0
+Company B: asset turnover = 900 / 300 = 3.0
+interest burden = EBT / EBIT
+Company A: interest burden = 30 / 35 = 85.7%
+Company B: interest burden = 100 / 100 = 1
+financial leverage = average assets / average equity
+Company A: financial leverage = 250 / 150 = 1.67
+Company B: financial leverage = 300 / 250 = 1.2
+tax burden = net income / EBT
+Company A: tax burden = 20 / 30 = 66.7%
+Company B: tax burden = 60 / 100 = 60.0%
+Company A: ROE = 0.667 x 0.857 x 0.07 x 2.0 x 1.67 = 13.4%
+Company B: ROE = 0.608 x 1.0 x 0.111 x 3.0 x 1.2 = 24%
+Company B has a higher tax burden but a lower interest burden (a lower ratio indicates a higher burden).
+Company B has better EBIT margins and better asset utilization (PErhaps management of inventory,
+receivables, or payables, or a lower cost basis in its fixed assets due to their age), and less leverage. Its
+higher EBIT margins and asset turnover are the main factors leading to its significantly higher ROE, which it
+achieves with less leverage than Company A.
+LOS 27.e: Calculate and interpret ratios used in equity analysis and credit analysis.
+CFA(r) Program Program Curriculum, Volume 3, page 376
+Valuation ratios are used in analysis for investment in common equity. The most
+widely used valuation ratio is theprice-to-earnings (P/E) ratio, the ratio of the current
+market price of a share of stock divided by the company's earnings PEr share. Related
+measures based on price PEr share are the price-to-cash flow, the price-to-sales, and
+the price-to-book value ratios.
+Professor's Note: The use of the above valuation ratios is covered in the Study Session on equity
+SECurities.
+PEr-share valuation measures include earnings PEr share (EPS). Basic EPS is net income
+available to common divided by the weighted average number of common shares
+outstanding.
+Diluted EPS is a "what if" value. It is calculated to be the lowest possible EPS that could
+have been reported if all firm SECurities that can be converted into common stock, and
+that would decrease basic EPS if they had been, were converted. That is, if all dilutive
+SECurities had been converted. Potentially dilutive SECurities include convertible debt
+and convertible preferred stock, as well as options and warrants issued by the
+company. The numerator of diluted EPS is increased by the after-tax interest savings
+on any dilutive debt SECurities and by the dividends on any dilutive convertible
+preferred stock. The denominator is increased by the common shares that would result
+from conversion or exchange of dilutive SECurities into common shares.
+Professor's Note: Refer back to our topic review of Understanding Income Statements for details
+and examples of how to calculate basic and diluted EPS.
+Other PEr-share measures include cash flow PEr share, EBIT PEr share, and EBITDA PEr
+share. PEr share measures are not comparable because the number of outstanding
+shares differ among firms. For example, assume Firm A and Firm B both report net
+income of $100. If Firm A has 100 shares outstanding, its EPS is $1 PEr share. If Firm B
+has 20 shares outstanding, its EPS is $5 PEr share.
+Dividends
+Dividends are declared on a PEr-common-share basis. Total dividends on a firm-wide
+basis are referred to as dividends declared. Neither EPS nor net income is reduced by
+the payment of common stock dividends. Net income minus dividends declared is
+retained earnings, the earnings that are used to grow the corporation rather than
+being distributed to equity holders. The proportion of a firm's net income that is
+retained to fund growth is an important determinant of the firm's sustainable growth
+rate.
+To estimate the sustainable growth rate for a firm, the rate of return on resources is
+measured as the return on equity capital, or the ROE. The proportion of earnings
+reinvested is known as the retention rate (RR).
+The formula for the sustainable growth rate, which is how fast the firm can
+grow without additional external equity issues while holding leverage constant,
+is:
+g = RR x ROE
+The calculation of the retention rate is:
+Example: Calculating sustainable growth
+The following figure provides data for three companies.
+Growth Analysis Data
+Calculate the sustainable growth rate for each company.
+Answer:
+RR = 1 - (dividends / earnings)
+Company A: RR = 1 - (1.50 / 3.00) = 0.500
+Company B: RR = 1 - (1.00 / 4.00) = 0.750
+Company C: RR = 1 - (2.00 / 5.00) = 0.600
+g = RR x ROE
+Company A: g = 0.500 x 14% = 7.0%
+Company B: g = 0.750 x 12% = 9.0%
+Company C: g = 0.600 x 10% = 6.0%
+Some ratios have sPEcific applications in certain industries.
+Net income PEr employee and sales PEr employee are used in the analysis and
+valuation of service and consulting companies.
+Growth in same-store sales is used in the restaurant and retail industries to indicate
+growth without the effects of new locations that have been oPEned. It is a measure of
+how well the firm is doing at attracting and keeping existing customers and, in the case
+of locations with overlaPPIng markets, may indicate that new locations are taking
+customers from existing ones.
+Sales PEr square foot is another metric commonly used in the retail industry.
+Business Risk
+The standard deviation of revenue, standard deviation of oPErating income, and the
+standard deviation of net income are all indicators of the variation in and the
+uncertainty about a firm's PErformance. Since they all dePEnd on the size of the firm to
+a great extent, analysts employ a size-adjusted measure of variation. The coefficient of
+variation for a variable is its standard deviation divided by its exPEcted value.
+Professor's Note: We saw this before as a measure of portfolio risk in Quantitative Methods.
+Certainly, different industries have different levels of uncertainty about revenues,
+exPEnses, taxes, and nonoPErating items. Comparing coefficients of variation for a firm
+across time, or among a firm and its PEers, can aid the analyst in assessing both the
+relative and ABSolute degree of risk a firm faces in generating income for its investors.
+Banks, insurance companies, and other financial firms carry their own challenges for
+analysts. Part of the challenge is to understand the commonly used terms and the
+ratios they represent.
+Capital adequacy typically refers to the ratio of some dollar measure of the risk, both
+oPErational and financial, of the firm to its equity capital. Other measures of capital are
+also used. A common measure of capital risk is value-at-risk, which is an estimate of
+the dollar size of the loss that a firm will exceed only some sPEcific PErcent of the time,
+over a sPEcific PEriod of time.
+Banks are subject to minimum reserve requirements. Their ratios of various liabilities to
+their central bank reserves must be above the minimums. The ratio of a bank's liquid
+assets to certain liabilities is called the liquid asset requirement.
+The PErformance of financial companies that lend funds is often summarized as the
+net interest margin, which is simply interest income divided by the firm's interestearning assets.
+Credit Analysis
+Credit analysis is based on many of the ratios that we have already covered in this
+review. In assessing a company's ability to service and repay its debt, analysts use
+interest coverage ratios (calculated with EBIT or EBITDA), return on capital, and debtto-assets ratios. Other ratios focus on various measures of cash flow to total debt.
+Ratios have been used to analyze and predict firm bankruptcies. ALTMan (2000)1
+develoPEd a Z-score that is useful in predicting firm bankruptcies (a low score indicates
+high probability of failure). The predictive model was based on a firm's working capital
+to assets, retained earnings to assets, EBIT to assets, market to book value of a share
+of stock, and revenues to assets.
+Professor's Note: Credit analysis is covered in more detail in the Study Session on fixed income
+risk analysis.
+LOS 27.f: Explain the requirements for segment reporting and calculate and interpret
+segment ratios.
+CFA(r) Program Program Curriculum, Volume 3, page 385
+A business segment is a portion of a larger company that accounts for more than 10%
+of the company's revenues or assets, and is distinguishable from the company's other
+lines of business in terms of the risk and return characteristics of the segment.
+Geographic segments are also identified when they meet the size criterion above and
+the geographic unit has a business environment that is different from that of other
+segments or the remainder of the company's business.
+Both U.S. GAAP and IFRS require companies to report segment data, but the required
+disclosure items are only a subset of the required disclosures for the company as a
+whole. Nonetheless, an analyst can prepare a more detailed analysis and forecast by
+examining the PErformance of business or geographic segments separately. Segment
+profit margins, asset utilization (turnover), and return on assets can be very useful in
+gaining a clear picture of a firm's overall oPErations. For forecasting, growth rates of
+segment revenues and profits can be used to estimate future sales and profits and to
+determine the changes in company characteristics over time.
+Figure 5 illustrates how Boeing broke down its results into business segments in its
+2013 annual report (source: Boeing.com).
+Figure 5: Boeing, Inc. Segment Reporting
+LOS 27.g: Describe how ratio analysis and other techniques can be used to model and
+forecast earnings.
+CFA(r) Program Program Curriculum, Volume 3, page 388
+Ratio analysis can be used in preparing pro forma financial statements that provide
+estimates of financial statement items for one or more future PEriods. The preparation
+of pro forma financial statements and related forecasts is covered in some detail in the
+Study Session on corporate finance. Here, some examples will suffice.
+A forecast of financial results that begins with an estimate of a firm's next-PEriod
+revenues might use the most recent COGS, or an average of COGS, from a commonsize income statement. On a common-size income statement, COGS is calculated as a
+PErcentage of revenue. If the analyst has no reason to believe that COGS in relation to
+sales will change for the next PEriod, the COGS PErcentage from a common-size
+income statement can be used in constructing a pro forma income statement for the
+next PEriod based on the estimate of sales.
+Similarly, the analyst may believe that certain ratios will remain the same or change in
+one direction or the other for the next PEriod. In the ABSence of any information
+indicating a change, an analyst may choose to incorporate the oPErating profit margin
+from the prior PEriod into a pro forma income statement for the next PEriod.
+Beginning with an estimate of next-PEriod sales, the estimated oPErating profit margin
+can be used to forecast oPErating profits for the next PEriod.
+Rather than point estimates of sales and net and oPErating margins, the analyst may
+examine possible changes in order to create a range of possible values for key financial
+variables.
+Three methods of examining the variability of financial outcomes around point
+estimates are: sensitivity analysis, scenario analysis, and simulation. Sensitivity analysis
+is based on "what if" questions such as: What will be the effect on net income if sales
+increase by 3% rather than the estimated 5%? Scenario analysis is based on sPEcific
+scenarios (a sPEcific set of outcomes for key variables) and will also yield a range of
+values for financial statement items. Simulation is a technique in which probability
+distributions for key variables are selected and a computer is used to generate a
+distribution of values for outcomes based on rePEated random selection of values for
+the key variables.
+1 Edward I. ALTMan, "Predicting Financial Distress of Companies: Revisiting the Z-Score and Zeta(r) Models," July
+2000.
+KEY CONCEPTS
+LOS 27.a
+Ratios can be used to project earnings and future cash flow, evaluate a firm's flexibility,
+assess management's PErformance, evaluate changes in the firm and industry over
+time, and compare the firm with industry comPEtitors.
+Vertical common-size data are stated as a PErcentage of sales for income statements
+or as a PErcentage of total assets for balance sheets. Horizontal common-size data
+present each item as a PErcentage of its value in a base year.
+Ratio analysis has limitations. Ratios are not useful when viewed in isolation and
+require adjustments when different companies use different accounting treatments.
+Comparable ratios may be hard to find for companies that oPErate in multiple
+industries. Ratios must be analyzed relative to one another, and determining the range
+of acceptable values for a ratio can be difficult.
+LOS 27.b
+Activity ratios indicate how well a firm uses its assets. They include receivables
+turnover, days of sales outstanding, inventory turnover, days of inventory on hand,
+payables turnover, payables payment PEriod, and turnover ratios for total assets, fixed
+assets, and working capital.
+Liquidity ratios indicate a firm's ability to meet its short-term obligations. They include
+the current, quick, and cash ratios, the defensive interval, and the cash conversion
+cycle.
+Solvency ratios indicate a firm's ability to meet its long-term obligations. They include
+the debt-to-equity, debt-to-capital, debt-to-assets, financial leverage, interest
+coverage, and fixed charge coverage ratios.
+Profitability ratios indicate how well a firm generates oPErating income and net
+income. They include net, gross, and oPErating profit margins, pretax margin, return
+on assets, oPErating return on assets, return on total capital, return on total equity,
+and return on common equity.
+Valuation ratios are used to compare the relative values of stocks. They include
+earnings PEr share and price-to-earnings, price-to-sales, price-to-book value, and priceto-cash-flow ratios.
+LOS 27.c
+An analyst should use an appropriate combination of different ratios to evaluate a
+company over time and relative to comparable companies. The interpretation of an
+increase in ROE, for example, may be quite different for a firm that has significantly
+increased its financial leverage compared to one that has maintained or decreased its
+financial leverage.
+LOS 27.d
+Basic DuPont equation:
+ROE =
+Extended DuPont equation:
+ROE =
+LOS 27.e
+Ratios used in equity analysis include price-to-earnings, price-to-cash flow, price-tosales, and price-to-book value ratios, and basic and diluted earnings PEr share. Other
+ratios are relevant to sPEcific industries such as retail and financial services.
+Credit analysis emphasizes interest coverage ratios, return on capital, debt-to-assets
+ratios, and cash flow to total debt.
+LOS 27.f
+A business or geographic segment is a portion of a firm that has risk and return
+characteristics distinguishable from the rest of the firm and accounts for more than
+10% of the firm's sales or assets.
+Firms are required to report some items for significant business and geographic
+segments. Profitability, leverage, and turnover ratios by segment can give the analyst a
+better understanding of the PErformance of the overall business.
+LOS 27.g
+Ratio analysis in conjunction with other techniques can be used to construct pro forma
+financial statements based on a forecast of sales growth and assumptions about the
+relation of changes in key income statement and balance sheet items to growth of
+sales.
+CONCEPT CHECKERS
+1. To study trends in a firm's cost of goods sold (COGS), the analyst should
+standardize the cost of goods sold numbers to a common-sized basis by
+dividing COGS by:
+A. assets.
+B. sales.
+C. net income.
+2. Which of the following is least likely a limitation of financial ratios?
+A. Data on comparable firms are difficult to acquire.
+B. Determining the target or comparison value for a ratio requires
+judgment.
+C. Different accounting treatments require the analyst to adjust the data
+before comparing ratios.
+3. An analyst who is interested in a company's long-term solvency would most
+likely examine the:
+A. return on total capital.
+B. defensive interval ratio.
+C. fixed charge coverage ratio.
+4. RGB, Inc.'s purchases during the year were $100,000. The balance sheet shows
+an average accounts payable balance of $12,000. RGB's payables payment
+PEriod is closest to:
+A. 37 days.
+B. 44 days.
+C. 52 days.
+5. RGB, Inc. has a gross profit of $45,000 on sales of $150,000. The balance sheet
+shows average total assets of $75,000 with an average inventory balance of
+$15,000. RGB's total asset turnover and inventory turnover are closest to:
+Asset turnover
+A. 7.00 times
+B. 2.00 times
+C. 0.50 times
+Inventory turnover
+2.00 times
+7.00 times
+0.33 times
+6. If RGB, Inc. has annual sales of $100,000, average accounts payable of $30,000,
+and average accounts receivable of $25,000, RGB's receivables turnover and
+average collection PEriod are closest to:
+Receivables turnover
+A. 2.1 times
+B. 3.3 times
+Average collection PEriod
+174 days
+111 days
+C. 4.0 times
+91 days
+7. A company's current ratio is 1.9. If some of the accounts payable are paid off
+from the cash account, the:
+A. numerator would decrease by a greater PErcentage than the
+denominator, resulting in a lower current ratio.
+B. denominator would decrease by a greater PErcentage than the
+numerator, resulting in a higher current ratio.
+C. numerator and denominator would decrease proportionally, leaving the
+current ratio unchanged.
+8. A company's quick ratio is 1.2. If inventory were purchased for cash, the:
+A. numerator would decrease more than the denominator, resulting in a
+lower quick ratio.
+B. denominator would decrease more than the numerator, resulting in a
+higher current ratio.
+C. numerator and denominator would decrease proportionally, leaving the
+current ratio unchanged.
+9. All other things held constant, which of the following transactions will increase
+a firm's current ratio if the ratio is greater than one?
+A. Accounts receivable are collected and the funds received are deposited
+in the firm's cash account.
+B. Fixed assets are purchased from the cash account.
+C. Accounts payable are paid with funds from the cash account.
+10. RGB, Inc.'s receivable turnover is ten times, the inventory turnover is five
+times, and the payables turnover is nine times. RGB's cash conversion cycle is
+closest to:
+A. 69 days.
+B. 104 days.
+C. 150 days.
+11. RGB, Inc.'s income statement shows sales of $1,000, cost of goods sold of $400,
+pre-interest oPErating exPEnse of $300, and interest exPEnse of $100. RGB's
+interest coverage ratio is closest to:
+A. 2 times.
+B. 3 times.
+C. 4 times.
+12. Return on equity using the traditional DuPont formula equals:
+A. (net profit margin) (interest component) (solvency ratio).
+B. (net profit margin) (total asset turnover) (tax retention rate).
+C. (net profit margin) (total asset turnover) (financial leverage multiplier).
+13. RGB, Inc. has a net profit margin of 12%, a total asset turnover of 1.2 times,
+and a financial leverage multiplier of 1.2 times. RGB's return on equity is closest
+to:
+A. 12.0%.
+B. 14.2%.
+C. 17.3%.
+14. Use the following information for RGB, Inc.:
+EBIT / revenue = 10%
+Tax retention rate = 60%
+Revenue / assets = 1.8 times
+Current ratio = 2 times
+EBT / EBIT = 0.9 times
+Assets / equity = 1.9 times
+RGB, Inc.'s return on equity is closest to:
+A. 10.5%.
+B. 14.0%.
+C. 18.5%.
+15. Which of the following equations least accurately represents return on equity?
+A. (net profit margin)(equity turnover).
+B. (net profit margin)(total asset turnover)(assets / equity).
+C. (ROA)(interest burden)(tax retention rate).
+16. Paragon Co. has an oPErating profit margin (EBIT / revenue) of 11%; an asset
+turnover ratio of 1.2; a financial leverage multiplier of 1.5 times; an average tax
+rate of 35%; and an interest burden of 0.7. Paragon's return on equity is closest
+to:
+A. 9%.
+B. 10%.
+C. 11%.
+17. A firm has a dividend payout ratio of 40%, a net profit margin of 10%, an asset
+turnover of 0.9 times, and a financial leverage multiplier of 1.2 times. The
+firm's sustainable growth rate is closest to:
+A. 4.3%.
+B. 6.5%.
+C. 8.0%.
+18. An analyst who needs to model and forecast a company's earnings for the next
+three years would be least likely to:
+A. assume that key financial ratios will remain unchanged for the forecast
+PEriod.
+B. use common-size financial statements to estimate exPEnses as a
+PErcentage of net income.
+C. examine the variability of the predicted outcomes by PErforming a
+sensitivity or scenario analysis.
+For more questions related to this topic review, log in to your Schweser online account
+and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
+topic review, log in to your Schweser online account and launch the OnDemand video
+lectures, if you have purchased these products.
+ANSWERS - CONCEPT CHECKERS
+1. To study trends in a firm's cost of goods sold (COGS), the analyst should
+standardize the cost of goods sold numbers to a common-sized basis by
+dividing COGS by:
+A. assets.
+B. sales.
+C. net income.
+With a vertical common-size income statement, all income statement accounts
+are divided by sales.
+2. Which of the following is least likely a limitation of financial ratios?
+A. Data on comparable firms are difficult to acquire.
+B. Determining the target or comparison value for a ratio requires
+judgment.
+C. Different accounting treatments require the analyst to adjust the data
+before comparing ratios.
+Company and industry data are widely available from numerous private and
+public sources. The other statements describe limitations of financial ratios.
+3. An analyst who is interested in a company's long-term solvency would most
+likely examine the:
+A. return on total capital.
+B. defensive interval ratio.
+C. fixed charge coverage ratio.
+Fixed charge coverage is a solvency ratio. Return on total capital is a measure
+of profitability and the defensive interval ratio is a liquidity measure.
+4. RGB, Inc.'s purchases during the year were $100,000. The balance sheet shows
+an average accounts payable balance of $12,000. RGB's payables payment
+PEriod is closest to:
+A. 37 days.
+B. 44 days.
+C. 52 days.
+payables turnover = (purchases / avg. AP) = 100 / 12 = 8.33
+payables payment PEriod = 365 / 8.33 = 43.8 days
+5. RGB, Inc. has a gross profit of $45,000 on sales of $150,000. The balance sheet
+shows average total assets of $75,000 with an average inventory balance of
+$15,000. RGB's total asset turnover and inventory turnover are closest to:
+Asset turnover
+A. 7.00 times
+B. 2.00 times
+C. 0.50 times
+Inventory turnover
+2.00 times
+7.00 times
+0.33 times
+total asset turnover = (sales / total assets) = 150 / 75 = 2 times
+inventory turnover = (COGS / avg. inventory) = (150 - 45) / 15 = 7 times
+6. If RGB, Inc. has annual sales of $100,000, average accounts payable of $30,000,
+and average accounts receivable of $25,000, RGB's receivables turnover and
+average collection PEriod are closest to:
+Receivables turnover
+A. 2.1 times
+B. 3.3 times
+C. 4.0 times
+Average collection PEriod
+174 days
+111 days
+91 days
+receivables turnover = (S / avg. AR) = 100 / 25 = 4
+average collection PEriod = 365 / 4 = 91.25 days
+7. A company's current ratio is 1.9. If some of the accounts payable are paid off
+from the cash account, the:
+A. numerator would decrease by a greater PErcentage than the
+denominator, resulting in a lower current ratio.
+B. denominator would decrease by a greater PErcentage than the
+numerator, resulting in a higher current ratio.
+C. numerator and denominator would decrease proportionally, leaving the
+current ratio unchanged.
+Current ratio = current assets / current liabilities. If cash (a current asset) and
+AP (a current liability) decrease by the same amount and the current ratio is
+greater than 1, then the numerator decreases less in PErcentage terms than
+the denominator, and the current ratio increases.
+8. A company's quick ratio is 1.2. If inventory were purchased for cash, the:
+A. numerator would decrease more than the denominator, resulting in a
+lower quick ratio.
+B. denominator would decrease more than the numerator, resulting in a
+higher current ratio.
+C. numerator and denominator would decrease proportionally, leaving the
+current ratio unchanged.
+Quick ratio = (cash + marketable SECurities + AR) / current liabilities. If cash
+decreases, the quick ratio will also decrease. The denominator is unchanged.
+9. All other things held constant, which of the following transactions will increase
+a firm's current ratio if the ratio is greater than one?
+A. Accounts receivable are collected and the funds received are deposited
+in the firm's cash account.
+B. Fixed assets are purchased from the cash account.
+C. Accounts payable are paid with funds from the cash account.
+Current ratio = current assets / current liabilities. If CR is > 1, then if CA and CL
+both fall, the overall ratio will increase.
+10. RGB, Inc.'s receivable turnover is ten times, the inventory turnover is five
+times, and the payables turnover is nine times. RGB's cash conversion cycle is
+closest to:
+A. 69 days.
+B. 104 days.
+C. 150 days.
+(365 / 10 + 365 / 5 - 365 / 9) = 69 days
+11. RGB, Inc.'s income statement shows sales of $1,000, cost of goods sold of $400,
+pre-interest oPErating exPEnse of $300, and interest exPEnse of $100. RGB's
+interest coverage ratio is closest to:
+A. 2 times.
+B. 3 times.
+C. 4 times.
+Interest coverage ratio = EBIT / I = (1,000 - 400 - 300) / 100 = 3 times
+12. Return on equity using the traditional DuPont formula equals:
+A. (net profit margin) (interest component) (solvency ratio).
+B. (net profit margin) (total asset turnover) (tax retention rate).
+C. (net profit margin) (total asset turnover) (financial leverage multiplier).
+This is the correct formula for the three-ratio DuPont model for ROE.
+13. RGB, Inc. has a net profit margin of 12%, a total asset turnover of 1.2 times,
+and a financial leverage multiplier of 1.2 times. RGB's return on equity is closest
+to:
+A. 12.0%.
+B. 14.2%.
+C. 17.3%.
+return on equity =
+= (0.12)(1.2)(1.2) = 0.1728 =
+return on equity =
+17.28%
+14. Use the following information for RGB, Inc.:
+= (0.12)(1.2)(1.2) = 0.1728 =
+EBIT / revenue = 10%
+Tax retention rate = 60%
+Revenue / assets = 1.8 times
+Current ratio = 2 times
+EBT / EBIT = 0.9 times
+Assets / equity = 1.9 times
+RGB, Inc.'s return on equity is closest to:
+A. 10.5%.
+B. 14.0%.
+C. 18.5%.
+Tax burden = (1 - tax rate) = tax retention rate = 0.6.
+ROE = 0.6 x 0.9 x 0.1 x 1.8 x 1.9 = 0.1847 = 18.47%.
+15. Which of the following equations least accurately represents return on equity?
+A. (net profit margin)(equity turnover).
+B. (net profit margin)(total asset turnover)(assets / equity).
+C. (ROA)(interest burden)(tax retention rate).
+(ROA)(interest burden)(tax retention rate) is not one of the DuPont models for
+calculating ROE.
+16. Paragon Co. has an oPErating profit margin (EBIT / revenue) of 11%; an asset
+turnover ratio of 1.2; a financial leverage multiplier of 1.5 times; an average tax
+rate of 35%; and an interest burden of 0.7. Paragon's return on equity is closest
+to:
+A. 9%.
+B. 10%.
+C. 11%.
+Tax burden = 1 - 0.35 = 0.65.
+ROE = 0.65 x 0.7 x 0.11 x 1.2 x 1.5 = 0.0901.
+17. A firm has a dividend payout ratio of 40%, a net profit margin of 10%, an asset
+turnover of 0.9 times, and a financial leverage multiplier of 1.2 times. The
+firm's sustainable growth rate is closest to:
+A. 4.3%.
+B. 6.5%.
+C. 8.0%.
+g = (retention rate)(ROE)
+ROE = net profit margin x asset turnover x equity multiplier = (0.1)(0.9)(1.2) =
+0.108
+g = (1 - 0.4)(0.108) = 6.5%
+18. An analyst who needs to model and forecast a company's earnings for the next
+three years would be least likely to:
+A. assume that key financial ratios will remain unchanged for the forecast
+PEriod.
+B. use common-size financial statements to estimate exPEnses as a
+PErcentage of net income.
+C. examine the variability of the predicted outcomes by PErforming a
+sensitivity or scenario analysis.
+An earnings forecast model would typically estimate exPEnses as a PErcentage
+of sales.
+CHALLENGE PROBLEMS
+A. The following table lists partial financial statement data for Alpha Company:
+Alpha Company
+Sales
+Cost of goods sold
+Average
+Inventories
+Accounts receivable
+Working capital
+Cash
+Accounts payable
+Fixed assets
+Total assets
+Annual purchases
+$5,000
+2,500
+$600
+450
+750
+200
+500
+4,750
+$6,000
+$2,400
+Calculate the following ratios for Alpha Company:
+Inventory turnover.
+Days of inventory on hand.
+Receivables turnover.
+Days of sales outstanding.
+Payables turnover.
+Number of days of payables.
+Cash conversion cycle.
+Use the following information for problems B through E.
+Beta Co. has a loan covenant requiring it to maintain a current ratio of 1.5 or better. As
+Beta appROAches year-end, current assets are $20 million ($1 million in cash, $9 million
+in accounts receivable, and $10 million in inventory) and current liabilities are $13.5
+million.
+B. Calculate Beta's current ratio and quick ratio.
+C. Which of the following transactions would Beta Co. most likely enter to meet
+its loan covenant?
+Sell $1 million in inventory and deposit the proceeds in the company's
+checking account.
+Borrow $1 million short term and deposit the funds in their checking
+account.
+Sell $1 million in inventory and pay off some of its short-term creditors.
+D. If Beta sells $2 million in inventory on credit, how will this affect its current
+ratio?
+E. If Beta sells $1 million in inventory and pays off accounts payable, how will
+this affect its quick ratio?
+ANSWERS - CHALLENGE PROBLEMS
+A. The following table lists partial financial statement data for Alpha Company:
+Alpha Company
+Sales
+Cost of goods sold
+Average
+Inventories
+Accounts receivable
+Working capital
+Cash
+Accounts payable
+Fixed assets
+Total assets
+Annual purchases
+$5,000
+2,500
+$600
+450
+750
+200
+500
+4,750
+$6,000
+$2,400
+Calculate the following ratios for Alpha Company:
+Inventory turnover.
+Days of inventory on hand.
+Receivables turnover.
+Days of sales outstanding.
+Payables turnover.
+Number of days of payables.
+Cash conversion cycle.
+inventory turnover = COGS / avg. inventory = 2500 / 600 = 4.167 times
+days of inventory on hand = 365 / inventory turnover = 365 / 4.167 = 87.6
+days
+receivables turnover = sales / avg. account receivable = 5,000 / 450 = 11.11
+times
+days of sales outstanding = 365 / receivables turnover = 365 / 11.11 = 32.85
+days
+payables turnover = purchases / avg. payables = 2,400 / 500 = 4.8 times
+number of days of payables = 365 / payables turnover = 365 / 4.8 = 76 days
+cash conversion cycle = days of inventory on hand + days of sales outstanding
+- number of days of payables
+= 33 + 88 - 76 = 45 days
+Use the following information for problems B through E.
+Beta Co. has a loan covenant requiring it to maintain a current ratio of 1.5 or better. As
+Beta appROAches year-end, current assets are $20 million ($1 million in cash, $9 million
+in accounts receivable, and $10 million in inventory) and current liabilities are $13.5
+million.
+B. Calculate Beta's current ratio and quick ratio.
+current ratio = current assets / current liabilities
+= [(1 + 9 + 10) / 13.5] = 20 / 13.5 = 1.48 times
+Quick ratio = (cash + marketable SECurities + receivables) / current liabilities
+= (1 + 9) / 13.5 = 10 / 13.5 = 0.74 times
+C. Which of the following transactions would Beta Co. most likely enter to meet
+its loan covenant?
+Sell $1 million in inventory and deposit the proceeds in the company's
+checking account.
+Borrow $1 million short term and deposit the funds in their checking
+account.
+Sell $1 million in inventory and pay off some of its short-term creditors.
+Selling $1 million in inventory and pay off some of its short-term creditors
+would increase the current ratio: (20 - 1) / (13.5 - 1) = 19 / 12.5 = 1.52.
+Selling $1 million in inventory and depositing the proceeds in the company's
+checking account would leave the ratio unchanged: (20 + 1 - 1) / 13.5 = 1.48.
+Borrowing $1 million short term and depositing the funds in their checking
+account would decrease the current ratio: (20 + 1) / (13.5 + 1) = 21 / 14.5 =
+1.45.
+D. If Beta sells $2 million in inventory on credit, how will this affect its current
+ratio?
+If Beta sells the inventory at a profit, receivables increase by more than
+inventory decreases, and current assets increase. If Beta sells the inventory
+for its carrying value, inventory decreases and receivables increase by the
+same amount, and current assets are unchanged.
+E. If Beta sells $1 million in inventory and pays off accounts payable, how will
+this affect its quick ratio?
+QR = (cash + AR) / AP. AP will decrease without any change to the numerator,
+thus increasing the overall ratio.
+The following is a review of the Financial Reporting and Analysis principles designed to address the learning
+outcome statements set forth by CFA Institute. Cross-Reference to CFA Institute Assigned Reading #28.
