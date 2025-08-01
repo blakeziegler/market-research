@@ -5,7 +5,7 @@ model_name = "Dev9124/qwen3-finance-model"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
-dataset = load_dataset("text", data_files={"train": ["/data/raw-text/*.txt"]})["train"]
+dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 
 def tokenize(example):
     return tokenizer(example["text"], truncation=True, max_length=32768)
