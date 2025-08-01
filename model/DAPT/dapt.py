@@ -1,17 +1,19 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments, DataCollatorForLanguageModeling, BitsAndBytesConfig
 from datasets import load_dataset
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
-import numpy as np
+import torch
 
 model_name = "Dev9124/qwen3-finance-model"
 
 quantization_config = BitsAndBytesConfig(
-    load_in_8bit=True,
-    llm_int8_enable_fp32_cpu_offload=True,
+    load_in_4bit=True,
+    bnb_4bit_compute_dtype=torch.float16,
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_quant_type="nf4",
 )
 
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config=quantization_config, device_map="auto")
+tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
+model = AutoModelForCausalLM.from_pretrained(model_name, quantization_config=quantization_config, device_map="auto", trust_remote_code=True)
 model = prepare_model_for_kbit_training(model)
 
 lora_config = LoraConfig(
@@ -27,10 +29,8 @@ model.print_trainable_parameters()
 
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 
-def tokenize(example):
-    result = tokenizer(example["text"], truncation=True, max_length=32768)
-    result["input_ids"] = np.array(result["input_ids"], dtype=np.int64)
-    return result
+def tokenize(batch):
+    return tokenizer(batch["text"], truncation=True, max_length=32768)
 
 tokenized_dataset = dataset.map(tokenize, batched=True, remove_columns=["text"], num_proc=4)
 
