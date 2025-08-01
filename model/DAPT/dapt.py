@@ -17,7 +17,7 @@ lora_config = LoraConfig(
     r=16,
     lora_alpha=32,
     lora_dropout=0.05,
-    lora_train_bias=False,
+    bias="none",
     task_type="CAUSAL_LM",
 )
 
