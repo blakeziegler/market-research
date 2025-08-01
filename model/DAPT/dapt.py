@@ -32,7 +32,7 @@ def tokenize(example):
 tokenized_dataset = dataset.map(tokenize, batched=True, remove_columns=["text"], num_proc=4)
 
 training_args = TrainingArguments(
-    output_dir="model/DAPT/dapt-models",
+    output_dir="dapt-models",
     per_device_train_batch_size=1,
     gradient_accumulation_steps=16,
     num_train_epochs=2,
