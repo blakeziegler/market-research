@@ -1,0 +1,16 @@
+# Core ML and Data Processing
+transformers>=4.30.0
+datasets>=2.10.0
+
+# PDF Processing
+pdfminer.six>=20221105
+
+# Text Processing and Utilities
+unidecode>=1.3.0
+tqdm>=4.65.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# Standard Library (no need to include, but listed for reference)
+# os, sys, re, pathlib, typing, io, logging, glob, collections 
