@@ -14,8 +14,8 @@ tokenized_dataset = dataset.map(tokenize, batched=True, remove_columns=["text"],
 
 training_args = TrainingArguments(
     output_dir="model/DAPT/dapt-models",
-    per_device_train_batch_size=2,
-    gradient_accumulation_steps=8,
+    per_device_train_batch_size=1,
+    gradient_accumulation_steps=16,
     num_train_epochs=2,
     learning_rate=5e-5,
     fp16=True,
