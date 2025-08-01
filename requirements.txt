@@ -1,6 +1,7 @@
 # Core ML and Data Processing
 transformers>=4.30.0
 datasets>=2.10.0
+torch>=2.0.0
 
 # PDF Processing
 pdfminer.six>=20221105
