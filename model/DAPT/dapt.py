@@ -32,7 +32,21 @@ dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["tra
 def tokenize(batch):
     return tokenizer(batch["text"], truncation=True, max_length=32768)
 
+def check_token_types(dataset, num_batches=5):
+    print("Checking token types...")
+    for i, example in enumerate(dataset):
+        if i >= num_batches:
+            break
+        input_ids = example["input_ids"]
+        attention_mask = example["attention_mask"]
+        if not all(isinstance(x, int) for x in input_ids):
+            raise TypeError(f"Non-integer token found in input_ids at index {i}")
+        if not all(isinstance(x, int) for x in attention_mask):
+            raise TypeError(f"Non-integer token found in attention_mask at index {i}")
+    print("✅ All token types are valid (int)")
+
 tokenized_dataset = dataset.map(tokenize, batched=True, remove_columns=["text"], num_proc=4)
+check_token_types(tokenized_dataset)
 
 training_args = TrainingArguments(
     output_dir="dapt-models",
@@ -58,5 +72,3 @@ trainer = Trainer(
     tokenizer=tokenizer,
     data_collator=data_collator,
 )
-
-trainer.train()
