@@ -79,3 +79,5 @@ trainer = Trainer(
     tokenizer=tokenizer,
     data_collator=data_collator,
 )
+
+trainer.train()
