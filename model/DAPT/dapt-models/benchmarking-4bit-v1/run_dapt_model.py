@@ -49,9 +49,16 @@ df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
 df[OUTPUT_COLUMN] = ""
 
 # ------------------ Generate --------------------
+def format_prompt(prompt: str) -> str:
+    return (
+        "<|im_start|>system\nYou are a helpful financial analyst tasked with answering these questions in a concise manner.<|im_end|>\n"
+        f"<|im_start|>user\n{prompt.strip()}<|im_end|>\n"
+        "<|im_start|>assistant\n"
+    )
+
 def generate(prompt):
     try:
-        inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
+        inputs = tokenizer(format_prompt(prompt), return_tensors="pt").to(model.device)
         with torch.no_grad():
             outputs = model.generate(**inputs, **generation_kwargs)
         text = tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
