@@ -4,24 +4,29 @@ import pandas as pd
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 from tqdm import tqdm
+import logging
+import csv
 
-# Config
-input_csv = "benchmark_v1.csv"
-output_csv = "results.csv"
+# -------------------- Config --------------------
+INPUT_CSV = "benchmark_v1.csv"
+OUTPUT_CSV = "results.csv"
+MODEL_ID = "Dev9124/qwen3-finance-model"
+OUTPUT_COLUMN = "base_output"
+MAX_NEW_TOKENS = 512
 
-base_model_id = "Dev9124/qwen3-finance-model"
-max_new_tokens = 512
+# ------------------ Logging ---------------------
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s"
+)
 
-print("🔄 Loading tokenizer and base model...")
+# ------------------ Load Model ------------------
+logging.info("🔄 Loading tokenizer and base model...")
 
-# Load tokenizer
-tokenizer = AutoTokenizer.from_pretrained(base_model_id, trust_remote_code=True)
-
-# Set token IDs
+tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
 pad_token_id = tokenizer.pad_token_id or tokenizer.eos_token_id
 eos_token_id = tokenizer.eos_token_id or tokenizer.pad_token_id
 
-# Generation config
 generation_kwargs = {
     "do_sample": True,
     "temperature": 0.7,
@@ -30,48 +35,48 @@ generation_kwargs = {
     "repetition_penalty": 1.1,
     "pad_token_id": pad_token_id,
     "eos_token_id": eos_token_id,
-    "max_new_tokens": max_new_tokens
+    "max_new_tokens": MAX_NEW_TOKENS
 }
 
-# Load base model
-base_model = AutoModelForCausalLM.from_pretrained(base_model_id, trust_remote_code=True, device_map="auto")
-base_model.eval()
+model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, device_map="auto")
+model.eval()
 
-# Load CSV
-df = pd.read_csv(input_csv)
+# ------------------ Load Data -------------------
+df = pd.read_csv(INPUT_CSV)
 
-# Ensure base_output column exists
-if "base_output" not in df.columns:
-    df["base_output"] = ""
+if OUTPUT_COLUMN not in df.columns:
+    df[OUTPUT_COLUMN] = ""
 
-# Generation function
-def generate(model, prompt):
+# ------------------ Generate --------------------
+def generate(prompt):
     try:
         inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
         with torch.no_grad():
-            output = model.generate(**inputs, **generation_kwargs)
-        text = tokenizer.decode(output[0], skip_special_tokens=True).strip()
+            outputs = model.generate(**inputs, **generation_kwargs)
+        text = tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
         if text.startswith(prompt.strip()):
             text = text[len(prompt.strip()):].strip()
         return text
     except Exception as e:
-        print(f"⚠️ Generation error: {e}")
+        logging.error(f"Generation failed: {e}")
         return "[ERROR]"
 
-# Inference loop
-print("🚀 Generating base model outputs...")
+# ------------------ Inference -------------------
+logging.info("🚀 Starting inference...")
+
 for idx, row in tqdm(df.iterrows(), total=len(df)):
-    prompt = row["prompt"]
-    tqdm.write(f"\n📝 Prompt {idx+1}: {prompt[:100]}...")
+    prompt = str(row.get("prompt", "")).strip()
+    if not prompt:
+        continue
 
-    if not row["base_output"] or row["base_output"] == "[ERROR]":
-        tqdm.write("🔹 Generating base model response...")
-        df.at[idx, "base_output"] = generate(base_model, prompt)
+    if not row[OUTPUT_COLUMN] or row[OUTPUT_COLUMN] == "[ERROR]":
+        logging.info(f"📝 [{idx+1}] Generating base output...")
+        result = generate(prompt)
+        df.at[idx, OUTPUT_COLUMN] = result
 
-    # Optional: save progress every 5 rows
     if idx % 5 == 0:
-        df.to_csv(output_csv, index=False)
+        df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
 
-# Final save
-df.to_csv(output_csv, index=False)
-print(f"\n✅ Base model responses saved to {output_csv}")
+# ------------------ Final Save ------------------
+df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
+logging.info(f"✅ Base model responses saved to {OUTPUT_CSV}")
