@@ -2,7 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 # Load merged model directly from Hugging Face
-model_id = "blakeziegler/qwen3-4b-dapt-v1"
+model_id = "Dev9124/qwen3-4b-dapt-v1"
 tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(model_id, trust_remote_code=True, device_map="auto")
 model.eval()
