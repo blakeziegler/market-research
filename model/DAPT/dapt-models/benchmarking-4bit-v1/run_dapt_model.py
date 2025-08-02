@@ -12,7 +12,7 @@ INPUT_CSV = "benchmark_v1.csv"
 OUTPUT_CSV = "results_dapt.csv"
 MODEL_ID = "blakeziegler/qwen3-4b-dapt-v1"
 OUTPUT_COLUMN = "dapt_output"
-MAX_NEW_TOKENS = 512
+MAX_NEW_TOKENS = 1024
 
 # ------------------ Logging ---------------------
 logging.basicConfig(
