@@ -42,22 +42,11 @@ model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, d
 model.eval()
 
 # ------------------ Load Data -------------------
-# Try to load existing results_dapt.csv first, otherwise create new from benchmark_v1.csv
-try:
-    df = pd.read_csv(OUTPUT_CSV)
-    logging.info(f"📁 Loaded existing {OUTPUT_CSV}")
-except FileNotFoundError:
-    logging.info(f"📁 Creating new results from {INPUT_CSV}")
-    df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
+# Read only the prompt column to avoid unnamed columns
+df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
 
-# Defensive: check prompt column
-if 'prompt' not in df.columns:
-    logging.error("'prompt' column is required but missing.")
-    exit(1)
-
-# Add the output column if it doesn't exist
-if OUTPUT_COLUMN not in df.columns:
-    df[OUTPUT_COLUMN] = ""
+# Add the output column
+df[OUTPUT_COLUMN] = ""
 
 # ------------------ Generate --------------------
 def generate(prompt):
