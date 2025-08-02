@@ -47,12 +47,18 @@ try:
     df = pd.read_csv(OUTPUT_CSV)
     logging.info(f"📁 Loaded existing {OUTPUT_CSV}")
 except FileNotFoundError:
-    # If results.csv doesn't exist, create from benchmark_v1.csv
     logging.info(f"📁 Creating new results from {INPUT_CSV}")
     df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
-    df['base_output'] = ""  # Initialize base_output column if it doesn't exist
 
-# Add the output column if it doesn't exist
+# Defensive: check prompt column
+if 'prompt' not in df.columns:
+    logging.error("'prompt' column is required but missing.")
+    exit(1)
+
+# Only add missing columns
+if "base_output" not in df.columns:
+    df["base_output"] = ""
+
 if OUTPUT_COLUMN not in df.columns:
     df[OUTPUT_COLUMN] = ""
 
