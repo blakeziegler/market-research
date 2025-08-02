@@ -9,7 +9,7 @@ import csv
 
 # -------------------- Config --------------------
 INPUT_CSV = "benchmark_v1.csv"
-OUTPUT_CSV = "results.csv"
+OUTPUT_CSV = "results_base.csv"
 MODEL_ID = "Dev9124/qwen3-finance-model"
 OUTPUT_COLUMN = "base_output"
 MAX_NEW_TOKENS = 512

@@ -9,7 +9,7 @@ import csv
 
 # -------------------- Config --------------------
 INPUT_CSV = "benchmark_v1.csv"
-OUTPUT_CSV = "results.csv"
+OUTPUT_CSV = "results_dapt.csv"
 MODEL_ID = "blakeziegler/qwen3-4b-dapt-v1"
 OUTPUT_COLUMN = "dapt_output"
 MAX_NEW_TOKENS = 512
@@ -42,7 +42,7 @@ model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, d
 model.eval()
 
 # ------------------ Load Data -------------------
-# Try to load existing results.csv first, otherwise create new from benchmark_v1.csv
+# Try to load existing results_dapt.csv first, otherwise create new from benchmark_v1.csv
 try:
     df = pd.read_csv(OUTPUT_CSV)
     logging.info(f"📁 Loaded existing {OUTPUT_CSV}")
@@ -55,10 +55,7 @@ if 'prompt' not in df.columns:
     logging.error("'prompt' column is required but missing.")
     exit(1)
 
-# Only add missing columns
-if "base_output" not in df.columns:
-    df["base_output"] = ""
-
+# Add the output column if it doesn't exist
 if OUTPUT_COLUMN not in df.columns:
     df[OUTPUT_COLUMN] = ""
 
