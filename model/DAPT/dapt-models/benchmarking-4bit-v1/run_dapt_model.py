@@ -36,7 +36,6 @@ generation_kwargs = {
     "pad_token_id": pad_token_id,
     "eos_token_id": eos_token_id,
     "max_new_tokens": MAX_NEW_TOKENS,
-    "enable_thinking": False
 }
 
 model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, device_map="auto")
