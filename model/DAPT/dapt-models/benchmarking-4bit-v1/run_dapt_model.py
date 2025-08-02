@@ -42,8 +42,17 @@ model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, d
 model.eval()
 
 # ------------------ Load Data -------------------
-df = pd.read_csv(INPUT_CSV)
+# Try to load existing results.csv first, otherwise create new from benchmark_v1.csv
+try:
+    df = pd.read_csv(OUTPUT_CSV)
+    logging.info(f"📁 Loaded existing {OUTPUT_CSV}")
+except FileNotFoundError:
+    # If results.csv doesn't exist, create from benchmark_v1.csv
+    logging.info(f"📁 Creating new results from {INPUT_CSV}")
+    df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
+    df['base_output'] = ""  # Initialize base_output column if it doesn't exist
 
+# Add the output column if it doesn't exist
 if OUTPUT_COLUMN not in df.columns:
     df[OUTPUT_COLUMN] = ""
 

@@ -42,10 +42,11 @@ model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, d
 model.eval()
 
 # ------------------ Load Data -------------------
-df = pd.read_csv(INPUT_CSV)
+# Read only the prompt column to avoid unnamed columns
+df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
 
-if OUTPUT_COLUMN not in df.columns:
-    df[OUTPUT_COLUMN] = ""
+# Add the output column
+df[OUTPUT_COLUMN] = ""
 
 # ------------------ Generate --------------------
 def generate(prompt):
