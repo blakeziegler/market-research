@@ -1,16 +1,23 @@
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-base_model = "Dev9124/qwen3-finance-model"
-dapt_model = "blakeziegler/qwen3-4b-dapt-v1"
+# Updated model paths
+base_model_id = "Dev9124/qwen3-finance-model"
+dapt_model_id = "blakeziegler/qwen3-4b-dapt-v1"
 
-tokenizer = AutoTokenizer.from_pretrained(base_model, trust_remote_code=True)
+# Use the DAPT tokenizer for consistency
+tokenizer = AutoTokenizer.from_pretrained(dapt_model_id, trust_remote_code=True)
 
-base_model = AutoModelForCausalLM.from_pretrained(base_model, trust_remote_code=True, device_map="auto")
+# Load models
+base_model = AutoModelForCausalLM.from_pretrained(base_model_id, trust_remote_code=True, device_map="auto")
+dapt_model = AutoModelForCausalLM.from_pretrained(dapt_model_id, trust_remote_code=True, device_map="auto")
+
 base_model.eval()
-
-dapt_model = AutoModelForCausalLM.from_pretrained(dapt_model, trust_remote_code=True, device_map="auto")
 dapt_model.eval()
+
+# Handle token IDs safely
+eos_token_id = tokenizer.eos_token_id or tokenizer.pad_token_id or tokenizer.convert_tokens_to_ids("<|endoftext|>")
+pad_token_id = tokenizer.pad_token_id or eos_token_id
 
 prompt = (
     "Assume you're a buy-side equity analyst evaluating a high-growth SaaS company with slowing top-line expansion. "
@@ -30,13 +37,13 @@ def generate_response(model, prompt):
             do_sample=False,
             temperature=0.7,
             top_p=0.95,
-            pad_token_id=tokenizer.eos_token_id,
+            pad_token_id=pad_token_id,
+            eos_token_id=eos_token_id,
         )
-    return tokenizer.decode(outputs[0], skip_special_tokens=True)
+    decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    print("🔍 Raw output:", repr(decoded))  # Optional debug
+    return decoded
 
-print("Prompt:", prompt)
-print("\nBase Model Response:\n", generate_response(base_model, prompt))
-print("\nDAPT Model Response:\n", generate_response(dapt_model, prompt))
-
-
-
+print("\n📊 Prompt:\n", prompt)
+print("\n🧠 Base Model Response:\n", generate_response(base_model, prompt))
+print("\n🚀 DAPT Model Response:\n", generate_response(dapt_model, prompt))
