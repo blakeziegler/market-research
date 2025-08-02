@@ -35,7 +35,8 @@ generation_kwargs = {
     "repetition_penalty": 1.1,
     "pad_token_id": pad_token_id,
     "eos_token_id": eos_token_id,
-    "max_new_tokens": MAX_NEW_TOKENS
+    "max_new_tokens": MAX_NEW_TOKENS,
+    "enable_thinking": False
 }
 
 model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, device_map="auto")
@@ -51,7 +52,7 @@ df[OUTPUT_COLUMN] = ""
 # ------------------ Generate --------------------
 def format_prompt(prompt: str) -> str:
     return (
-        "<|im_start|>system\nYou are a helpful financial analyst tasked with answering these questions in a concise manner.<|im_end|>\n"
+        "<|im_start|>system\nYou are a financial analyst. Output ONLY your final answer.<|im_end|>\n"
         f"<|im_start|>user\n{prompt.strip()}<|im_end|>\n"
         "<|im_start|>assistant\n"
     )
