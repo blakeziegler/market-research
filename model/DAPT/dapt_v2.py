@@ -11,7 +11,7 @@ from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 import matplotlib.pyplot as plt
 import torch
 
-# Model config
+# === Model Configuration ===
 model_name = "tarun7r/Finance-Llama-8B"
 quantization_config = BitsAndBytesConfig(
     load_in_4bit=True,
@@ -20,6 +20,7 @@ quantization_config = BitsAndBytesConfig(
     bnb_4bit_quant_type="nf4",
 )
 
+# Load tokenizer and model
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
@@ -29,7 +30,7 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 model = prepare_model_for_kbit_training(model)
 
-# LoRA config
+# Apply LoRA
 lora_config = LoraConfig(
     r=16,
     lora_alpha=32,
@@ -40,11 +41,11 @@ lora_config = LoraConfig(
 model = get_peft_model(model, lora_config)
 model.print_trainable_parameters()
 
-# Load dataset
+# === Load and Clean Dataset ===
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
-# Tokenization & Chunking config
+# === Tokenization and Chunking ===
 MAX_LENGTH = 4096
 STRIDE = 256
 
@@ -57,12 +58,12 @@ def chunk_with_tokenizer(example):
         return_overflowing_tokens=True,
         return_attention_mask=True
     )
-    return {
-        "input_ids": tokenized["input_ids"],
-        "attention_mask": tokenized["attention_mask"]
-    }
+    return [
+        {"input_ids": ids, "attention_mask": mask}
+        for ids, mask in zip(tokenized["input_ids"], tokenized["attention_mask"])
+    ]
 
-# Flatten tokenized chunks
+# Apply tokenization and flatten
 tokenized_dataset = dataset.map(
     chunk_with_tokenizer,
     batched=False,
@@ -70,7 +71,7 @@ tokenized_dataset = dataset.map(
     num_proc=4
 ).flatten_indices()
 
-# Safety check for token types
+# === Validate Token Types ===
 def check_token_types(dataset, num_batches=5):
     print("Checking token types...")
     for i, example in enumerate(dataset):
@@ -84,7 +85,7 @@ def check_token_types(dataset, num_batches=5):
 
 check_token_types(tokenized_dataset)
 
-# Plot token length histogram
+# === Plot Histogram of Sequence Lengths ===
 lengths = [len(x["input_ids"]) for x in tokenized_dataset]
 plt.hist(lengths, bins=50)
 plt.title("Token Length Distribution")
@@ -93,7 +94,7 @@ plt.ylabel("Frequency")
 plt.grid(True)
 plt.show()
 
-# Training arguments
+# === Training Arguments ===
 training_args = TrainingArguments(
     output_dir="v2",
     per_device_train_batch_size=1,
@@ -106,7 +107,7 @@ training_args = TrainingArguments(
     save_total_limit=2,
 )
 
-# Data collator
+# === Safe Data Collator ===
 class SafeDataCollator(DataCollatorForLanguageModeling):
     def __call__(self, features):
         batch = super().__call__(features)
@@ -114,9 +115,12 @@ class SafeDataCollator(DataCollatorForLanguageModeling):
         batch["attention_mask"] = batch["attention_mask"].long()
         return batch
 
-data_collator = SafeDataCollator(tokenizer=tokenizer, mlm=False)
+data_collator = SafeDataCollator(
+    tokenizer=tokenizer,
+    mlm=False
+)
 
-# Train
+# === Trainer Initialization ===
 trainer = Trainer(
     model=model,
     args=training_args,
@@ -125,4 +129,5 @@ trainer = Trainer(
     data_collator=data_collator,
 )
 
+# === Start Training ===
 trainer.train()
