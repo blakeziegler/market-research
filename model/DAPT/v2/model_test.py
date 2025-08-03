@@ -1,13 +1,30 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import torch
 
-# Load model and tokenizer from Hugging Face
+# Model ID
 model_id = "blakeziegler/llama_8b_dapt-600k_v1"
+
+# Define 4-bit quantization config
+quant_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_compute_dtype=torch.float16
+)
+
+# Load tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
-model = AutoModelForCausalLM.from_pretrained(model_id, trust_remote_code=True, device_map="auto")
+
+# Load quantized model
+model = AutoModelForCausalLM.from_pretrained(
+    model_id,
+    quantization_config=quant_config,
+    device_map="auto",
+    trust_remote_code=True
+)
 model.eval()
 
-# Consistent prompt template
+# Prompt template
 finance_prompt_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
 ### Instruction:
 {instruction}
@@ -31,20 +48,20 @@ user_question = (
     "and briefly discuss how sensitive the valuation is to assumptions like P/E ratio, FCF growth, and profit margins."
 )
 
-# Format full prompt
+# Format prompt
 prompt = finance_prompt_template.format(
     instruction=system_message,
     input=user_question
 )
 
-# Tokenize prompt
+# Tokenize
 inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
-# Generate response
+# Generate
 with torch.no_grad():
     output = model.generate(
         **inputs,
-        max_new_tokens=2500,          # match GGUF config
+        max_new_tokens=2500,
         do_sample=True,
         temperature=0.7,
         top_p=0.9,
@@ -54,10 +71,10 @@ with torch.no_grad():
         eos_token_id=tokenizer.eos_token_id,
     )
 
-# Decode and strip prompt
+# Decode
 generated_text = tokenizer.decode(output[0], skip_special_tokens=True)
 response = generated_text[len(prompt):].strip()
 
-# Output results
+# Output
 print("\n📊 Prompt:\n", prompt)
 print("\n🚀 DAPT Model Response:\n", response)

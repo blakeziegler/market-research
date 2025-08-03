@@ -1,0 +1,31 @@
+The free cash flow for the next five years can be calculated as follows:
+Year 1: $1.2 billion * 18% * 22% * 10% = $264.6 million
+Year 2: $264.6 million * 1.1 = $289.4 million
+Year 3: $289.4 million * 1.1 = $317.8 million
+Year 4: $317.8 million * 1.1 = $348.9 million
+Year 5: $348.9 million * 1.1 = $383.2 million
+
+The present value of these cash flows can be calculated as follows:
+Year 1: $264.6 million / (1 + 9%)^1 = $241.7 million
+Year 2: $289.4 million / (1 + 9%)^2 = $218.7 million
+Year 3: $317.8 million / (1 + 9%)^3 = $198.9 million
+Year 4: $348.9 million / (1 + 9%)^4 = $181.2 million
+Year 5: $383.2 million / (1 + 9%)^5 = $166.1 million
+
+The terminal value using a P/E-based approach can be calculated as follows:
+Year 5 EPS = $383.2 million / 30 = $12.8 million
+Terminal value = $12.8 million * 30 = $384 million
+
+The total present value of cash flows and terminal value is $2.2 billion, which is significantly higher than the current market capitalization of 
+$6.8 billion. This implies that the company is undervalued if the assumptions used to calculate the valuation are accurate.
+
+However, the valuation is sensitive to assumptions like P/E ratio, FCF growth, and profit margins. For instance, if the P/E ratio was 20 instead of 
+30, the terminal value would be $256 million instead of $384 million, reducing the total present value to $1.8 billion. Similarly, if the FCF growth 
+rate was 8% instead of 10%, the present value of cash flows would be $1.6 billion instead of $2.2 billion. Finally, if the profit margins were 15% 
+instead of 18%, the free cash flow calculation would result in $180 million instead of $264.6 million in year 1, lowering the present value to $1.5 billion. 
+Therefore, the valuation is quite sensitive to these assumptions, and additional analysis may be necessary to ensure accuracy.
+
+
+
+
+
