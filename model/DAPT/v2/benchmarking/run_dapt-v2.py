@@ -50,7 +50,7 @@ df[OUTPUT_COLUMN] = ""
 
 # ------------------ Prompt Formatting -------------------
 def format_prompt(prompt: str) -> str:
-    return f"You are a finance professional tasked with answering this question:\n{prompt.strip()}"
+    return f"You are a finance professional tasked with answering this question:\n{prompt.strip()}\n\n Use ONLY the data provided in the question to answer the question. Do not make up any data."
 
 # ------------------ Generate --------------------
 def generate(prompt):

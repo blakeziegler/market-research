@@ -1,21 +1,194 @@
-﻿prompt,,,,,,
-"A manufacturing company reported $150 million in net income last year and has 25 million shares outstanding. With a current market price of $90 per share, is the stock undervalued or overvalued based on its P/E ratio compared to an industry average of 18?",,,,,,
-"A retail firm generates $50 million in free cash flow annually and is expected to grow at 6% per year. If the weighted average cost of capital is 10%, estimate the company’s intrinsic value using a DCF model.",,,,,,
-A SaaS company earned $80 million in EBITDA and has $20 million in net debt. Comparable companies trade at an average EV/EBITDA multiple of 12. What is the implied equity value of the business?,,,,,,
-"A logistics firm’s revenue has grown from $300 million to $375 million over the past three years, with stable EBITDA margins around 20%. If its cost of capital is 9% and growth is projected at 5%, how would you value this company using a terminal Gordon Growth approach?",,,,,,
-"A firm has projected free cash flows of $40M, $45M, $50M, $55M, and $60M over the next 5 years. Assuming a terminal growth rate of 4% and a WACC of 8%, calculate the present value of the business using a full DCF model.",,,,,,
-"A retail company reports free cash flows of $25M, $28M, $31M, $34M, and $37M over the next five years. Assuming a terminal growth rate of 3% and a WACC of 9%, estimate the intrinsic value using a discounted cash flow model.",,,,,,
-"An industrial firm has annual earnings of $120M and trades at a market cap of $1.8B. With a peer P/E ratio of 18 and $200M in net debt, assess whether the firm appears over- or undervalued using a simple relative valuation.",,,,,,
-"A SaaS company expects revenue to grow from $100M to $180M over five years, with EBITDA margins expanding from 20% to 30%. Using an EV/EBITDA exit multiple of 15x and a discount rate of 10%, perform an enterprise value analysis.",,,,,,
-"A manufacturing firm generates $50M in free cash flow and is projected to grow that cash flow at 5% annually. If the company has $100M in cash, $150M in debt, and its WACC is 8%, calculate its equity value using a perpetuity growth model.",,,,,,
-"A biotech company has no earnings but holds $300M in cash and expects to generate positive FCF starting at $20M in year 4, growing 10% annually. Using a 12% discount rate and assuming a 5% terminal growth rate, estimate the firm’s current value.",,,,,,
-"A consumer goods company generates free cash flows of $45M annually and expects to grow at 4% per year. With a WACC of 8% and no debt, estimate the firm’s intrinsic value using the perpetuity growth method.",,,,,,
-"A logistics firm earned $150M in net income last year and has 50M shares outstanding. If peer companies trade at a P/E of 20, estimate the firm’s fair market value and compare it to a current market price of $55 per share.",,,,,,
-A healthcare company has projected EBITDA of $120M next year and peers trade at an average EV/EBITDA multiple of 13x. The company holds $40M in cash and has $90M in debt. Estimate the firm’s equity value using a relative valuation approach.,,,,,,
-"A media business projects free cash flows of $30M, $35M, $40M, $45M, and $50M over the next five years. Using a WACC of 10% and applying a terminal growth rate of 3%, calculate the firm’s enterprise value through a DCF.",,,,,,
-"A software firm expects earnings to reach $60M in year 5, and similar companies are trading at a forward P/E of 25. If the company has no debt and $25M in cash, estimate its present equity value assuming a discount rate of 9%.",,,,,,
-A manufacturing firm retains 60% of its $80M annual earnings and has an ROE of 12%. Estimate its sustainable growth rate and discuss how this might influence a long-term DCF model.,,,,,,
-"A telecom company has $500M in total assets and generates $1.2B in annual revenue. If its asset turnover ratio is above industry average but margins are compressed, evaluate how this impacts valuation using both the residual income model and traditional DCF.",,,,,,
-"A retail business recently restructured its capital with a 70/30 debt-to-equity ratio. Discuss how the new capital structure affects WACC and firm valuation, especially in light of rising interest rates and $25M in annual interest payments.",,,,,,
-"A REIT reports $100M in retained earnings and pays out 90% of its net income as dividends. Using the residual income valuation model, estimate equity value assuming a required return of 10% and a forecasted ROE of 11%.",,,,,,
-"A company has $300M in goodwill on its balance sheet and recently recorded a $50M impairment. How should this non-cash charge affect intrinsic valuation, and what adjustments, if any, should be made in a DCF or comparables analysis?",,,,,,
+﻿prompt
+"A company reported the following for the most recent fiscal year:
+
+- Revenue: $980M
+- Net Income: $125M
+- Operating Cash Flow: $160M
+- Capital Expenditures: $95M
+- Free Cash Flow: $65M
+- Shares Outstanding: 50M
+- Market Cap: $3.5B
+
+Evaluate the financial health of the company based on its cash generation and valuation. Discuss any red or green flags, especially in relation to free cash flow and earnings quality."
+"Analyze the income statement trend for this company over the past three years:
+
+Year 1:
+- Revenue: $600M
+- Gross Margin: 48%
+- Operating Margin: 12%
+- Net Income: $40M
+
+Year 2:
+- Revenue: $690M
+- Gross Margin: 46%
+- Operating Margin: 10%
+- Net Income: $38M
+
+Year 3:
+- Revenue: $780M
+- Gross Margin: 43%
+- Operating Margin: 8%
+- Net Income: $36M
+
+Is the company improving or deteriorating in terms of profitability and efficiency? What concerns would you raise?"
+"A company’s latest results show:
+
+- Net Income: $90M
+- Operating Cash Flow: $35M
+- Capital Expenditures: $25M
+- Free Cash Flow: $10M
+
+Despite reporting strong net income, the company’s cash flow is significantly lower. Explain the possible causes of this discrepancy and whether it raises any red flags about earnings quality."
+"You are evaluating a firm with the following data:
+
+- Return on Equity (ROE): 18%
+- Retention Ratio: 60%
+- Return on Invested Capital (ROIC): 14%
+- Weighted Average Cost of Capital (WACC): 9%
+- CapEx / Revenue: 10%
+
+Estimate the sustainable growth rate and evaluate whether the firm is reinvesting efficiently. Comment on whether the company is likely to create or destroy value over time."
+"A retail company posted the following results:
+
+- Revenue: $2.1B
+- COGS: $1.55B
+- Operating Expenses: $400M
+- Net Income: $75M
+- EBITDA: $180M
+- Gross Margin: 26%
+- Operating Margin: 6.2% (down from 9% last year)
+
+Evaluate how margin compression is affecting profitability. Should investors be concerned? What underlying causes might explain this change?"
+"A SaaS firm has shown impressive top-line growth over the last two years:
+
+- Year 1 Revenue: $120M
+- Year 2 Revenue: $180M
+- Net Income (Year 2): $12M
+- Operating Cash Flow (Year 2): $8M
+- Deferred Revenue: $50M
+- CapEx: $25M
+
+Despite strong revenue growth, operating cash flow remains weak. Assess the quality of growth and whether it's sustainable. What risks or strengths can be inferred from this pattern?"
+"A company reported:
+
+- ROIC: 11.5%
+- WACC: 8.5%
+- Net Operating Profit After Tax (NOPAT): $90M
+- Invested Capital: $780M
+
+Determine whether the company is creating or destroying shareholder value. Discuss how large the value spread is and what it implies for long-term investment potential."
+"The company reported:
+
+- Net Income: $60M
+- Operating Cash Flow: $20M
+- Changes in Working Capital: -$5M
+- Depreciation & Amortization: $10M
+
+Evaluate the quality of earnings. Are profits being backed by real cash flow, or do accruals dominate? How should this influence investor confidence in the reported figures?"
+"A company is being valued using a DCF model with these assumptions:
+
+- Year 5 EBITDA: $240M
+- Exit Multiple: 10x
+- WACC: 9%
+- Terminal Value Contribution to Total EV: 70%
+- Current Enterprise Value: $1.6B
+
+Assess whether the terminal value assumption is too aggressive. How sensitive is the valuation to the terminal multiple, and what would be a more conservative scenario?"
+"A logistics firm reports the following:
+
+- Total Assets: $2.4B
+- Revenue: $1.1B
+- Net Income: $90M
+- CapEx: $300M
+- Asset Turnover: 0.46
+- ROA: 3.75%
+
+Assess the company’s capital efficiency. How well is it using its asset base to generate returns? Would a DCF or EVA model better capture its value drivers?"
+"A consumer tech startup has the following metrics:
+
+- P/E Ratio: 85x
+- EPS (TTM): $0.40
+- YoY Earnings Growth: 35%
+- ROE: 19%
+- Retention Rate: 80%
+- No Dividend
+
+Evaluate whether the valuation is justified using the PEG ratio. Is this growth priced reasonably, or does the stock appear overvalued relative to its fundamentals?"
+"An industrial manufacturing company provided these figures:
+
+- EBITDA: $300M
+- Interest Expense: $80M
+- Principal Repayments (Next 12 months): $120M
+- Cash: $50M
+- EBIT: $220M
+
+Calculate the Debt Service Coverage Ratio (DSCR) and assess the firm's financial resilience in a downturn. Would a traditional DCF reflect this risk appropriately, or is scenario analysis more useful here?"
+"A regional bank reports:
+
+- Net Interest Income: $780M
+- Average Earning Assets: $25B
+- Net Interest Margin: 3.12%
+- Loan Loss Provisions: $120M
+- Tier 1 Capital Ratio: 10.5%
+
+Evaluate the bank’s earnings quality and credit risk exposure. Is the Net Interest Margin sustainable, and how does capital adequacy influence valuation under a residual income model?"
+"An oil and gas firm reports:
+
+- Free Cash Flow: $3.6B
+- Market Cap: $40B
+- FCF Yield: 9%
+- Production Growth Forecast: Flat
+- Oil Price Assumption: $75/barrel
+- Terminal Value Contribution: 65% of DCF EV
+
+Analyze whether the FCF yield offers a margin of safety. Is the terminal value too sensitive to commodity price assumptions? Would a NAV-based valuation be more appropriate for this type of business?"
+"A nationwide retail chain reports the following:
+
+- Current Assets: $950M  
+- Current Liabilities: $1.2B  
+- EBIT: $310M  
+- Total Assets: $3.4B  
+- Market Value of Equity: $2B  
+- Total Liabilities: $2.6B  
+- Revenue: $5.2B
+
+Using the Altman Z-score framework, assess the likelihood of financial distress. Would a market-based valuation fairly reflect this liquidity risk, or should distressed asset methodologies be considered?"
+"A B2B SaaS company disclosed:
+
+- Customer Acquisition Cost (CAC): $3,200  
+- Average Revenue Per User (ARPU): $1,100/year  
+- Gross Margin: 75%  
+- Churn Rate: 8% annually  
+- Retention Rate: 92%  
+- Revenue Growth: 28%
+
+Calculate the CAC payback period and LTV/CAC ratio. Based on these, assess the scalability and economic moat of the business. How should these metrics influence a DCF or rule-of-40 valuation?"
+"A regulated utility company pays a stable dividend and reports:
+
+- Annual Dividend per Share: $2.10  
+- Dividend Growth Rate: 2.5%  
+- Cost of Equity: 6.5%  
+- Payout Ratio: 85%  
+- ROE: 7%
+
+Value the company using the Gordon Growth (DDM) model. Comment on whether the current payout is sustainable and how regulatory constraints influence valuation accuracy."
+"An early-stage biotech firm expects:
+
+- Peak Sales Potential: $2.5B/year (if approved)  
+- Probability of Approval: 12%  
+- R&D Burn Rate: $180M/year  
+- Time to Approval: 5 years  
+- WACC: 14%
+
+Conduct a scenario-based NPV analysis. Given the binary nature of clinical trials, how should investors value this firm today? Is DCF or a decision-tree approach more appropriate?"
+"A commercial REIT reports:
+
+- Net Operating Income (NOI): $650M  
+- Cap Rate: 6%  
+- Debt: $2.8B  
+- Cash: $200M  
+- Shares Outstanding: 300M  
+- AFFO per Share: $2.35  
+- Stock Price: $21.50
+
+Value the REIT using both NAV and AFFO-based methods. Which valuation method is more appropriate in the current interest rate environment, and how should leverage be treated in your assessment?"
