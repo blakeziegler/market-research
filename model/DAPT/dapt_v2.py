@@ -1,12 +1,15 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments, DataCollatorForLanguageModeling, BitsAndBytesConfig
+from transformers import (
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    Trainer,
+    TrainingArguments,
+    DataCollatorForLanguageModeling,
+    BitsAndBytesConfig,
+)
 from datasets import load_dataset
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
-import torch
-import nltk
 import matplotlib.pyplot as plt
-
-# Download NLTK sentence tokenizer
-nltk.download("punkt")
+import torch
 
 # Model config
 model_name = "tarun7r/Finance-Llama-8B"
@@ -19,10 +22,14 @@ quantization_config = BitsAndBytesConfig(
 
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(
-    model_name, quantization_config=quantization_config, device_map="auto", trust_remote_code=True
+    model_name,
+    quantization_config=quantization_config,
+    device_map="auto",
+    trust_remote_code=True
 )
 model = prepare_model_for_kbit_training(model)
 
+# LoRA config
 lora_config = LoraConfig(
     r=16,
     lora_alpha=32,
@@ -37,69 +44,56 @@ model.print_trainable_parameters()
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
-# Chunking config
+# Tokenization & Chunking config
 MAX_LENGTH = 4096
 STRIDE = 256
 
-def chunk_by_sentences(example):
-    sentences = nltk.sent_tokenize(example["text"])
-    chunks = []
-    current_chunk = ""
-
-    for sentence in sentences:
-        if len(tokenizer(current_chunk + sentence)["input_ids"]) < MAX_LENGTH:
-            current_chunk += sentence + " "
-        else:
-            if current_chunk.strip():
-                chunks.append(current_chunk.strip())
-            current_chunk = sentence + " "
-
-    if current_chunk.strip():
-        chunks.append(current_chunk.strip())
-
-    tokenized_chunks = tokenizer(
-        chunks,
+def chunk_with_tokenizer(example):
+    tokenized = tokenizer(
+        example["text"],
         truncation=True,
         max_length=MAX_LENGTH,
         stride=STRIDE,
         return_overflowing_tokens=True,
-        return_attention_mask=True,
+        return_attention_mask=True
     )
-    return tokenized_chunks
+    return {
+        "input_ids": tokenized["input_ids"],
+        "attention_mask": tokenized["attention_mask"]
+    }
 
+# Flatten tokenized chunks
 tokenized_dataset = dataset.map(
-    chunk_by_sentences,
+    chunk_with_tokenizer,
     batched=False,
     remove_columns=["text"],
     num_proc=4
-)
+).flatten_indices()
 
-# Token type check
+# Safety check for token types
 def check_token_types(dataset, num_batches=5):
     print("Checking token types...")
     for i, example in enumerate(dataset):
         if i >= num_batches:
             break
-        input_ids = example["input_ids"]
-        attention_mask = example["attention_mask"]
-        if not all(isinstance(x, int) for x in input_ids):
-            raise TypeError(f"Non-integer token found in input_ids at index {i}")
-        if not all(isinstance(x, int) for x in attention_mask):
-            raise TypeError(f"Non-integer token found in attention_mask at index {i}")
-    print("✅ All token types are valid (int)")
+        if not all(isinstance(x, int) for x in example["input_ids"]):
+            raise TypeError(f"input_ids not all ints at index {i}")
+        if not all(isinstance(x, int) for x in example["attention_mask"]):
+            raise TypeError(f"attention_mask not all ints at index {i}")
+    print("✅ All token types are valid")
 
 check_token_types(tokenized_dataset)
 
-# Plot histogram
-lengths = [len(example["input_ids"]) for example in tokenized_dataset]
+# Plot token length histogram
+lengths = [len(x["input_ids"]) for x in tokenized_dataset]
 plt.hist(lengths, bins=50)
-plt.title("Token Length Distribution After Chunking")
-plt.xlabel("Token Length")
+plt.title("Token Length Distribution")
+plt.xlabel("Length")
 plt.ylabel("Frequency")
 plt.grid(True)
 plt.show()
 
-# Training setup
+# Training arguments
 training_args = TrainingArguments(
     output_dir="v2",
     per_device_train_batch_size=1,
@@ -112,6 +106,7 @@ training_args = TrainingArguments(
     save_total_limit=2,
 )
 
+# Data collator
 class SafeDataCollator(DataCollatorForLanguageModeling):
     def __call__(self, features):
         batch = super().__call__(features)
@@ -119,11 +114,9 @@ class SafeDataCollator(DataCollatorForLanguageModeling):
         batch["attention_mask"] = batch["attention_mask"].long()
         return batch
 
-data_collator = SafeDataCollator(
-    tokenizer=tokenizer,
-    mlm=False,
-)
+data_collator = SafeDataCollator(tokenizer=tokenizer, mlm=False)
 
+# Train
 trainer = Trainer(
     model=model,
     args=training_args,
