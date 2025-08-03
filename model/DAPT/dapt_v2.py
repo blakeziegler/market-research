@@ -49,24 +49,23 @@ dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 MAX_LENGTH = 4096
 STRIDE = 256
 
-def chunk_with_tokenizer(example):
+def chunk_with_tokenizer(batch):
     tokenized = tokenizer(
-        example["text"],
+        batch["text"],
         truncation=True,
         max_length=MAX_LENGTH,
         stride=STRIDE,
         return_overflowing_tokens=True,
-        return_attention_mask=True
+        return_attention_mask=True,
     )
-    return [
-        {"input_ids": ids, "attention_mask": mask}
-        for ids, mask in zip(tokenized["input_ids"], tokenized["attention_mask"])
-    ]
+    return {
+        "input_ids": tokenized["input_ids"],
+        "attention_mask": tokenized["attention_mask"]
+    }
 
-# Apply tokenization and flatten
 tokenized_dataset = dataset.map(
     chunk_with_tokenizer,
-    batched=False,
+    batched=True,
     remove_columns=["text"],
     num_proc=4
 ).flatten_indices()
