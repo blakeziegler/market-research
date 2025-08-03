@@ -28,7 +28,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
 pad_token_id = tokenizer.pad_token_id or tokenizer.eos_token_id
 eos_token_id = tokenizer.eos_token_id or tokenizer.pad_token_id
 
-# Quantization config if needed (comment out if using full-precision model)
+# Quantization config (4-bit for efficiency)
 quant_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_use_double_quant=True,
@@ -40,7 +40,7 @@ model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
     quantization_config=quant_config,
     trust_remote_code=True,
-    device_map="cuda:0"
+    device_map="auto"
 )
 model.eval()
 
@@ -50,14 +50,7 @@ df[OUTPUT_COLUMN] = ""
 
 # ------------------ Prompt Formatting -------------------
 def format_prompt(prompt: str) -> str:
-    return (
-        "Below is an instruction that describes a task, paired with an input that provides further context. "
-        "Write a response that appropriately completes the request.\n"
-        "### Instruction:\n"
-        "You are a highly knowledgeable finance chatbot. Your purpose is to provide accurate, insightful, and actionable financial advice.\n"
-        f"### Input:\n{prompt.strip()}\n"
-        "### Response:\n"
-    )
+    return f"You are a finance professional tasked with answering this question:\n{prompt.strip()}"
 
 # ------------------ Generate --------------------
 def generate(prompt):
@@ -99,7 +92,6 @@ for idx, row in tqdm(df.iterrows(), total=len(df)):
         result = generate(prompt)
         df.at[idx, OUTPUT_COLUMN] = result
 
-    # Periodic save
     if idx % 5 == 0:
         df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
 
