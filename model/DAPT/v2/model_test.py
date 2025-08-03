@@ -61,7 +61,7 @@ inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 with torch.no_grad():
     output = model.generate(
         **inputs,
-        max_new_tokens=2500,
+        max_new_tokens=2048,
         do_sample=True,
         temperature=0.7,
         top_p=0.9,

@@ -15,7 +15,7 @@ model_path = hf_hub_download(
 # Initialize LLaMA GGUF model
 llm = Llama(
     model_path=model_path,
-    n_ctx=8192,         # You can increase this to 32768+ if needed
+    n_ctx=4096,         # You can increase this to 32768+ if needed
     n_threads=8,        # Adjust based on CPU
     n_gpu_layers=-1,    # Offload to GPU if possible
     verbose=False
