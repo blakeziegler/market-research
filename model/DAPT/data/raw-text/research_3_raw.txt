@@ -1,0 +1,659 @@
+Background
+The notion of markets as the best way of organizing an economy's resources
+is often associated with Friedrich Hayek. Hayek (1945) viewed the market as
+a way of aggregating disPErsed information, incorporating the collective
+knowledge of all market participants into the market price. For Hayek, the
+market was about information. If the market could, through prices, convey
+all available information then it could efficiently serve the purpose of resource allocation. An informationally efficient market is one where market
+prices fully reflect all available information; such a market allocates resources to those means which will employ those resources most efficiently.
+Hayek (1945) did not suggest that markets were PErfect or that they in
+fact did incorporate all available information, he simply proposed that markets as way of allocating resources in an economy were suPErior to what he
+saw as the only alternative, a planned economy.
+Hayek's notion of the suPEriority of the market economy has come to resound in most western societies over the past century, as planned economies
+have diminished in number while capital markets the world over has grown
+exponentially in volume as well as in importance to the societies they serve.
+With the growing importance of capital markets has followed a growing
+interest in capital market research. While Hayek theoretically argued for the
+market as a way of organizing an economy's resources, researchers across
+academic disciplines have studied the movement of market prices rigorously
+to understand how the market works and indeed if it can be beaten. This
+thesis investigates the information aggregation of the market by examining
+the information used by financial analysts.
+In 1965 Eugene Fama launched the Efficient Market Hypothesis (EMH),
+which introduced weak, semi-strong, and strong forms of market efficiency.
+A weak-form efficient market is one in which market prices reflect past
+prices. A semi-strong efficient market is one in which market prices reflect
+all public information. A strong-form efficient market is one in which market prices reflect all information, public and private. Customarily, when referring to the EMH one refers to the EMH in its semi-strong form (Fama,
+1991). The EMH states that market prices are always efficient, and as such
+the price discovery process, the process by which prices adapt to new information is considered trivial and instantaneous.
+Since the inception of the EMH, it has been one of the most researched
+concepts in finance and accounting research. An indication of the once so
+9
+strong support for the EMH can be gleaned from the statement by Jensen
+(1978, p.95) that "there is no other proposition in economics which has more
+solid empirical evidence supporting it than the Efficient Market Hypothesis".
+However, since that statement was made research questioning the EMH
+has gained MoMentum. Research on market efficiency has turned up several
+anomalies, findings which can not be explained within the EMH theory, such
+as the January effect which documents that mean returns of equity is higher
+in January than any other month (Rozeff and Kinney, 1976; Bhardwaj and
+Brooks, 1992), the Monday effect showing that daily returns tend to be
+worse on Mondays than any other day of the week (French, 1980; Kamara
+1997), the P/E ratio effect which shows that low P/E portfolios yield higher
+returns than high P/E portfolios (Basu 1977; Fama and French, 1995), the
+over/under reaction to earnings announcements effect has shown that stock
+prices overreact to changes in earnings(DeBondt and Thaler, 1985, 1987),
+and even a weather effect which has shown that stock returns tend to be
+negative when it is cloudy and positive when it is sunny (Saunders, 1993;
+HIRSchleifer and Shumway 2001). These findings all contradict the EMH
+since they provide an opportunity to beat the market by adhering to a trading
+rule, e.g. selling a portfolio of high P/E stocks while purchasing a portfolio
+of low P/E stocks. In an efficient market it should not be possible to earn
+abnormal returns by following such trading rules.
+The theoretical reasoning behind the EMH consists of three layers, 1) investors are rational and only trade on value relevant information. 2) To the
+extent that investors are IRRational they are so randomly and thus cancel each
+other out. 3) In case investors are non-randomly IRRational their IRRational
+influence on share prices will be exploited by arbitrageurs who will profit by
+countering IRRational trades whenever they deviate from intrinsic values.
+With regards to these theoretical underpinnings of the EMH it can fIRSt be
+concluded that few would suggest that there are no IRRational investors, and
+as evident by every market bubble and subsequent burst since the tulip-craze
+in Holland in the 17th century to the more recent dot.com crash at the turn of
+the 20th century IRRational investors have a tendency of not always being
+random. The remaining hoPE of the EMH is hence the arbitrage function.
+Lee (2001, p.6) notes that the faith in the arbitrage mechanism is a cornerstone in modern finance. Lee (2001) informs of the circular reasoning prevalent in the EMH's belief that arbitrage assures market efficiency by pointing
+out that arbitrage cannot itself exist without some amount of mispricing.
+Were there no mispricing in the market, there would be no profits to feed the
+arbitrageurs. Lee (2001) argues that price discovery is a complex process
+and calls for more research on "how, when, and why price becomes efficient
+(and why at other times it fails to do so)" (Lee, 2001, p.25).
+By relaxing the EMH assumption, the price discovery process is neither
+trivial nor instantaneous, but rather complex and of central importance for a
+well functioning capital market. Consider a price discovery process that,
+10
+unlike in the EMH framework, is not instantaneous but a time consuming
+process. In such a situation the sPEed and accuracy of the price discovery
+process would determine the level of efficiency of a market. Additionally,
+there would be significant gains to those actors on the market that can increase the sPEed and accuracy of the price discovery process.
+This is where valuation becomes interesting. Valuation is at the heart of
+the price discovery process, processing new information and incorporating it
+into stock prices. This thesis is concerned with exploring this process by
+studying both what information is included in the valuation process and
+which valuation methods are used to translate that information into a value.
+11
+Valuation Methods
+While there is a large universe of valuation methods to choose from when
+converting a forecast to a valuation a useful classification employed in this
+thesis is that of sophisticated and unsophisticated valuation methods (Barker,
+1999). Sophisticated valuation methods are methods based on the net present
+value (NPV) of the financial PErformance of multiple future PEriods. Unsophisticated valuation methods are simpler heuristic methods based on the
+multiple of a single PEriod's PErformance measure to price relative to the
+same measure for comparable firms. Examples of sophisticated valuation
+methods are Discounted Cash Flow (DCF), Residual Income Valuation
+(RIV), and the Dividend Discounting Model (DDM). Examples of unsophisticated valuation methods for calculating
+the value of equity are
+Price/Earnings (P/E), Price/Sales (P/S), Price/Cash Flow (P/CF); and for
+valuing the firm (enterprise value) and subsequently subtracting the value of
+debt, Enterprise Value/Earnings (EV/E), Enterprise Value/Sales (EV/S) and
+Enterprise Value/ Cash Flow (EV/CF).
+The theoretical literature on valuation has declared the sophisticated
+methods suPErior to the unsophisticated methods. Two examples of valuation textbooks which favor sophisticated valuation methods are Stephen
+PEnman's Financial Statement Analysis and SECurity Valuation and
+McKinsey's Valuation: Measuring and Managing the Value of Companies.
+Tom CoPEland, Tim Koller and Jack Murrin, authors of the book Valuation,
+support the use of the sophisticated DCF method. In Valuation the authors
+address the suPEriority of the DCF appROAch over the earnings-multiple appROAch: "The DCF appROAch provides a more sophisticated and reliable picture of a company's value than an earnings-multiple appROAch" (p.62).
+In Financial Statement Analysis and SECurity Valuation PEnman (2003)
+prefers sophisticated valuation methods over unsophisticated multiple-based
+valuation methods. PEnman identifies several conceptual and methodological
+problems with relative valuation based on multiples. The conceptual problems are that the method (1) provides a relative valuation that is in relation to
+comparable firms and (2) becomes circular since the price of all comparable
+firms would be based on the price of all other firms in the group. As PEnman
+notes, when considering a relative appROAch to valuing computer producer
+Dell: "The analysis in not anchored in something fundamental that tells us
+about value indePEndently of prices. It assumes that the market is efficient in
+setting prices for the comparables. But if this is the case, why doubt that the
+12
+$27 market price for Dell is also efficient and go through the exercise? If the
+comps are mispriced, then the exercise is doubtful" (PEnman, 2003, p.67).
+Granted that these and other authors take a clear stance in favor of the sophisticated valuation methods, this thesis takes an empirical appROAch to
+unveiling and attempting to explain the choices of valuation methods in
+takeovers and by sell-side financial analysts.
+Valuation can be a rigorous process with several stEPS between gathering
+information and reaching a value. PEnman (2003, p.75) describes a five-step
+valuation process:
+1. Knowing the business (Strategy)
+2. Analyzing information (Financial and Non-Financial)
+3. Developing Forecasts (SPEciFYing and forecasting payoffs)
+4. Converting forecasts to a valuation.
+5. Trading on the valuation.
+In bROAd terms essays three and four in this thesis are concerned with stEPS
+1-3 in PEnman's five step process, whereas essays one and two are concerned with step number four, converting forecasts to a valuation. Converting a forecast to a valuation requires a valuation method. The focus of essays
+one and two is the choice of valuation method in takeovers and by sell-side
+analysts.
+13
+Analysts
+Although this thesis is concerned with the valuation process rather than the
+actors which PErforms the process it is worthwhile to ponder one group of
+actors which are critical to the price discovery process, financial analysts.
+Although often referred to simply as financial analysts, a distinction can be
+made between sell-side and buy-side analysts1. The most numerous tyPE of
+financial analyst is sell-side analysts, these analysts work for broker/dealer
+firms entailing anything from large banks to small niche brokerage firms.
+Sell-side analysts produce research reports, issue investment recommendations, and forecast earnings, which are offered to their employers' clients and
+prosPEctive clients. These analysts are called sell-side analysts because they
+work for firms in the business of selling and dealing in SECurities.
+Buy-side analysts are employed by the clients of the sell-side broker/dealer firms, such as mutual funds, money management firms, trusts and
+other large investors. Buy-side analysts make investment recommendations
+on stocks for their employers to act upon; however, unlike sell-side analysts
+they do not generally publish reports or issue earnings forecasts.
+Buy-side analysts generally cover a larger universe of stocks than do sellside analysts which tend to sPEcialize according to industry. Since buy-side
+analysts work for the customers of the sell-side analysts' employers, an input
+to the work of the buy-side analysts is the reports prepared by the sell-side
+analysts. It has been brought to attention in previous research that due to the
+different circumstances of buy-side and sell-side analysts, the two groups
+have different motivations and different behaviors (Cianci, 2000; Jegadeesh,
+Kim, Krische, and Lee, 2004).
+A consistent finding in previous research is that sell-side analysts' display
+an optimistic bias in their recommendations, issuing far more buy than sell
+recommendations (Beneish, 1991). This optimistic bias in analysts' recommendations can been intuitively explained by analysts' incentives to increase
+the trading revenues of their employers, which is boosted by buy recommendations, and by an unwillingness among analysts to fall out of favor with the
+management of the target firm by issuing a sell recommendation. Additionally, Lin and McNichols (1997) empirically showed that analysts' working
+for brokerages that were underwriting a SECurity issued significantly more
+1 Additionally Essay 1 focuses on financial analysis PErformed by acquiring companies in
+takeovers. This group of analysts however is not discussed in this SECtion.
+14
+favorable recommendations for that firm than did analysts working for brokerages which did not underwrite the SECurity.
+To put the findings on financial analysts in a context it is important to
+consider what role financial analysts play. Although it is clear that financial
+analysts are intermediaries who serve investors, it is less clear whether they
+serve as substitutes or complements to firm disclosed information. DeFranco
+(2004) studied whether sell-side analysts act as complements or substitutes
+for firm disclosures. His results show that analysts are primarily substitutes
+for firm disclosed information. However, the study shows that analysts do
+indeed gather private information in addition to the firm disclosed information. Hence, while much of the information communicated by analysts has
+already been communicated in firm disclosures, analysts do add information
+that they have gathered elsewhere. This thesis directly investigates the information used by sell-side analysts in essay 4 and additionally compares the
+information used in analyst reports to the information disclosed in company
+annual reports.
+15
+Value Relevance and Valuation Relevance
+Valuation is a process of translating information into a value. Understanding
+precisely what information is useful in the valuation process and ensuring
+that this information is efficiently provided to market actors has hence become an important concern for regulators and standard setters around the
+world. The market works best when information which is useful to investors
+and analysts is readily available in the market. One way to determine which
+information is useful is to test the association of a sPEcific information item
+and stock returns. Research on the association between accounting information and market returns has been labeled value relevance research. Such research has for example investigated the correlation between stock returns
+and earnings (e.g. Ball and Brown, 1968) to determine the usefulness of
+earnings information. The ability to infer the usefulness of financial information from this kind of research is restricted (Lev, 1989, p.3). Additionally,
+such methods are not well suited for inferring the usefulness of non-financial
+information which may be useful for investors and analysts. The correlation
+between non-financial information such as a firm's relationships with its
+suppliers and stock returns will not easily be measured nor will it likely be a
+good measure of the usefulness of that information to investors and analysts.
+As a response to the problems associated with value relevance as a measure of information usefulness this thesis introduces the term valuation relevance. Valuation relevance is an alternative measure of information usefulness which simply refers to if an information item is used in the valuation
+process. Information which is used in the valuation process is valuation
+relevant and, vice versa, information not used is not valuation relevant. Note
+that an information item which is valuation relevant does not necessarily
+have to be value relevant; because an information item is used in the valuation process does not mean it has an impact on stock prices. The logic behind
+the valuation relevance concept as a measure is quite simple, what is used is
+determined useful. If investors and analysts use a certain information item, it
+must be of some use. The problem with valuation relevance is not that some
+information which is used is not useful, but rather that some useful information is not used. The concept valuation relevance is oPErationalised in this
+thesis by investigating if certain information is mentioned in analyst reports.
+A problem with this appROAch is that analysts do not include all information
+which they find relevant in their reports (SchipPEr, 1991). However, it is
+easier to argue that the information which is included is considered useful.
+16
+Hence, though not PErfect the valuation relevance concept offers an alternative, intuitive way, of measuring information usefulness which is also suitable for complex information which can not easily be correlated to stock
+returns.
+After so much talk of the relevance of information, the reader might wonder what hapPEned to reliability, the other primary quality of information. A
+valid question often articulated is whether or not non-financial information is
+reliable. Reliability of information is a matter of judgment on the behalf of
+the user, and the users in this thesis are sell-side financial analysts. While the
+reliability concept has not been explicitly dealt with in the thesis, it is implied by the empirical evidence that the non-financial information items
+mentioned in the reports of analysts in essay 4 and the indicators of IC used
+in the reports of analysts in essay 3 did not only meet the analysts' requirements for relevance but also for reliability.
+17
+Research Question
+The research interest of this thesis is to oPEn-up the black box of SECurity
+valuation to shed some light on the valuation process. The overarching research question of this thesis is: How is equity valued?
+The overarching question is bROAd and has been divided into the following
+sub questions:
+What valuation methods do companies use when valuing takeover targets?
+(Essay 1)
+To fully consider how equity is valued it is important to look at different
+valuation situations. Takeovers are an important phenomenon due to its
+sheer size; at its height in 2000 the global Mergers & Acquisitions market
+reached a volume of approximately $3.2 trillion2. Additionally, since a takeover result in a tender offer for all outstanding shares the result of the underlying valuation of the target PErformed by the acquiring firm has very tangible effects on the market.
+What valuation methods do sell-side analysts use when valuing equity?
+(Essay 2)
+Sell-side financial analysts are among the most influential actors on the capital market. As a group, sell-side financial analysts are intermediaries serving
+institutional investors and other buyers of SECurities by gathering and interpreting company and macro information and giving forecasts and investment
+advice. Granted that sell-side analysts and their recommendations carry a
+strong influence over market prices it is of importance to understand what
+they base their recommendations on.
+What factors explain the variation in the use of valuation methods by sellside analysts? (Essay 2)
+To the extent that there are several valuation methods with different characteristics available, and that the use of these models varies among sell-side
+analysts, how can this be explained? If the valuation of equity differs within
+the group of sell-side analysts, then why?
+2 According to Thomson Financial cited in Bruner (2004)
+18
+To what extent do sell-side analysts utilize non-financial information in their
+reports? (Essays 3&4)
+In order to understand the valuation of equity one needs not only look at the
+valuation methods employed but also at the information used to estimate the
+inputs of the methods. A growing challenge to several actors on the capital
+market is to adapt to changing market conditions. Information disclosed by
+companies to the market has over the past couple of decades moved from
+financial reporting to business reporting, containing more and more information of a non-financial nature including but not limited to information on
+intellectual capital. Much of this information is considered relevant for understanding the value creation process of companies and for forecasting the
+future financial PErformance of those companies. However, little is known of
+how and to what extent sell-side analysts include this information in their
+valuation process. Understanding how sell-side analysts deal with this tyPE
+of information is essential for understanding the impact of such information
+on market prices.
+19
+Method
+The analyses contained in this thesis build on the interpretation of primary as
+well as SECondary data. Essay one utilizes primary data collected using surveys, while essays two, three, and four rely on SECondary information
+sources such as Investext Plus, and Compustat. In these articles, the SECondary sources have been examined employing content analysis methodology.
+Survey
+The fIRSt essay in this thesis uses the survey method. The analysis in this
+essay is based upon the results of four surveys PErformed in 1990, 1994,
+1996, and 2004. While the last survey was PErformed by the author, the fIRSt
+three surveys were PErformed by MSc students at Stockholm University. The
+surveys PErformed in 1994 and 1996 were constructed as replicas of the one
+PErformed in 1990, however, due to differences in the sample the construction of the questions could not be identical. The survey in 2004 PErformed
+by the author aimed at rePEating the questions posed in the earlier surveys to
+the same sample. With regards to the recipients of the surveys, the original
+1990 survey was sent to all Swedish companies who had PErformed an acquisition in the previous year. In 1994 data on which Swedish companies
+had PErformed acquisitions the previous year was not available since the
+responsible government agency had by then discontinued that particular
+database. The last three surveys were instead sent to all companies listed on
+the Stockholm Stock Exchange (SSE). The composition of the SSE is dynamic, with some companies dropPEd from the exchange and others added
+each year. Hence, while the sample is similar over the three surveys it is not
+the same. The most prominent change in the composition of the exchange is
+that the list of companies expanded over the 1994-2004 PEriod, with 197
+companies in the sample in 1994 and 261 companies in the sample in 2004.
+While the aim is that the results of the four surveys should be as comparable as possible, the analysis of the essay takes into consideration the factors which could decrease the comparability of the surveys such as; the
+changing composition of the sample, the different business climate across
+the PEriods, and the increasing size of the companies listed on the SSE.
+20
+Content Analysis
+Three of the four paPErs in this dissertation use some form of content analysis. All three of these paPErs use analyst reports as the main empirical data.
+Content analysis is a method which in its widest meaning is concerned
+with the presence of a certain information item or items within texts. By
+examining the presence of the particular words or concepts of interest the
+researcher sheds light on the meaning of the text or the importance of the
+studied words or concepts, dePEnding on the aims of the study.
+A common application of content analysis in the area of capital market
+based research is through disclosure studies. Disclosure studies look for information items in a data source using indexes with pre-defined information
+items. Disclosure index studies have been used to examine the information
+content of annual reports and analyst reports (e.g. Arvidson, 2003) and IPO
+prosPEctuses (e.g. Strom, 2006). Other applications of content analysis have
+also been employed in the area of capital market research; Govindarajan
+(1980) applied content analysis in a study on the importance placed on cash
+flows versus earnings by sell-side analysts when he counted the occurrence
+of cash flow information versus earnings information in analysts' reports. An
+application of content analysis requiring more detailed analysis was applied
+by Rogers and Grant (1997) who coded each sentence of 187 sell-side analysts' reports in an effort to identiFY the source of the information used by
+sell-side financial analysts.
+The three studies in this dissertation utilized different variations of content analysis. The following SECtion will briefly describe the methods used in
+the resPEctive essays.
+The essay "The Sell Side- Observations on Intellectual Capital Indicators"
+is an exploratory study where the aim is to identiFY the use of indicators of
+intellectual capital by financial analysts in their published reports. No previous research has investigated the topic. Instead of using a disclosure index
+the author provides a working definition of intellectual capital indicators for
+the study and collects the information items which fit the definition. This
+method of qualitative content analysis introduces judgment, subjectivity, and
+possible bias both in the definition of intellectual capital indicators and also
+in the coding process where the indicators are identified. However, the
+method is transparent in that it affords the reader an opportunity to review
+the collected information items and the classification of those items.
+The essay "The Reasons Why Analysts Use Unsophisticated Valuation
+Methods" examines the use of valuation methods in analyst reports by identiFYing which valuation method(s) analysts stated they had used in their reports. The coding process in this study was facilitated by the explicit way in
+which analysts tended to describe the valuation process. Additionally, reports where analysts were unclear or where they had simply not stated which
+method they had used was dropPEd from the sample. However, some level of
+21
+subjectivity on the part of the author remains, and the chance of bias in the
+coding process can never be completely excluded using this method.
+Finally the essay "The Valuation Relevance of Non-Financial Information" uses a disclosure index to study the presence of non-financial information in analysts' reports on 200 randomly selected S&P 500 listed companies. The chosen disclosure index was a pre-existing index derived from the
+1994 "Jenkins Report" and used in earlier studies by other researchers. The
+PErceived benefits of using this index as opposed to constructing a new index was that the index was based on the recommendations for non-financial
+disclosures made by the AICPA "Jenkins Committee" in 1994, which summarized the expressed information needs of investors and analysts, presumably capturing relevant non-financial information.
+This study was written by two authors, which both participated in the coding process. This circumstance prompts the question of how consistent the
+two researchers were in their coding. In an effort to ensure consistency the
+two researchers fIRSt coded several reports together in order to agree on how
+to define the information items in the index, then the researchers coded several reports separately only to later compare the outcome (which were not
+part of the sample) a comparison of the separately coded reports showed that
+the two researchers were consistent in their coding.
+It should be noted that the information items in the disclosure index used
+in this study is of such a nature that the concepts are not self-explanatory, but
+requires some interpretation by the researcher. Thus, a limitation of the study
+is that the comparability between the results of this study and previous studies using the same index is low due to the possibility that the authors of the
+previous study interpreted the information items differently.
+In using content analysis, there are several choices which the researcher
+must face, and several limitations of the method which the researcher must
+be aware of. Using a disclosure index, the fIRSt choice facing the researcher
+is whether to use an existing disclosure index or construct an index of his/her
+own. The critical question when choosing a disclosure index is whether the
+index captures what it is intended to capture. Researchers who construct
+their own indexes do so using their own judgment in the selection process.
+Researchers using an existing disclosure index rely on the judgment of those
+who initially constructed the index. Either way, there is a risk that the index
+is incapable of measuring what the researcher wants to measure.
+A limitation which applies to the use of content analysis is the subjectivity required from the researchers in the coding process (Unerman, 2000). As
+the aim is to examine the presence of words or concepts in a text, the nature
+of the words or concepts in question to an extent affects the subjectivity of a
+task. A content analysis that is concerned with investigating how many sentences in a text contains the word "tomorrow", would entail less subjectivity
+on the part of the researcher than a content analysis concerned with investigating how many paragraphs of the same text were forward-looking in na22
+ture. The SECond content analysis might yield more interesting findings, but
+would require the researcher to define what constitutes a forward-looking
+paragraph and would also require the researcher to use his/her judgment
+while coding the paragraphs of the text, more so than when determining how
+many sentences contain the word "tomorrow". Efforts to achieve validity
+and reliability are outlined in each separate essay.
+23
+Summary of the essays
+This SECtion provides an overview of the essays of the thesis. The table below provides an introduction to the four essays, followed by a brief summary
+of each essay.
+Title
+Research aim
+Method
+Empirical Data
+Findings
+On the use of valuation
+methods in takeovers.
+To examine the use
+of valuation methods
+in takeovers.
+Surveying CFO's of
+companies quoted on
+the SSE.
+Four surveys conducted 1990, 1994,
+1996, and 2004.
+The Sell SideObservations on
+Indicators of
+Intellectual Capital.
+To explore to what
+extent analysts use
+indicators of
+intellectual capital
+in their reports.
+Qualitative content
+analysis using a selfconstructed definition
+of indicators of IC.
+250 analyst
+reports.
+The reasons why
+analysts use unsophisticated valuation
+methods.
+To investigate and
+explain the use of
+valuation methods
+by sell-side analysts.
+Content analysis
+coding the valuation
+methods used in
+analyst reports.
+260 analyst
+reports.
+Results indicate a
+systematic difference
+between valuation in
+takeovers and by sell-side
+analysts in previous
+research.
+Analysts use indicators
+on Relational Capital to a
+higher extent than
+indicators on Human and
+Structural Capital.
+Firm industry and
+brokerage firm have
+explanatory power.
+The Valuation
+Relevance of NonFinancial Information.
+To investigate the
+usefulness of nonfinancial information
+by measuring its
+valuation relevance.
+Content analysis
+using a pre-develoPEd
+disclosure index of
+70 items.
+200 analyst
+reports and
+200 annual reports.
+Defines the "valuation
+relevance" of a set of
+non-financial information
+items.
+Essay 1 Flostrand, P. (2006)"On the use of valuation methods in takeovers"
+The fIRSt essay explores how acquiring companies in takeovers value target
+companies; which valuation methods they use. The analysis builds on results
+from four surveys PErformed 1990, 1994, 1996, and 2004.
+The surveys were sent out to the CFO's of Swedish companies, in the
+1990 survey the sample was 479 firms which had PErformed an acquisition
+during the previous year, in the 1994, 1996, and 2004 surveys the sample
+consisted of the companies quoted on the Stockholm Stock Exchange (SSE).
+The total number of responses from the four surveys was 535 which equal an
+average response rate of 46.4%. The surveys asked the respondents to sPEc24
+iFY which method, if any, was used to value the target company of their latest
+takeover. The respondents where also asked to motivate their choice of
+valuation method. The fIRSt three surveys were PErformed by MSc students
+at Stockholm University while the last survey PErformed in 2004 was conducted by the author.
+Results of the four surveys indicate that the Discounted Cash Flow (DCF)
+model has increased dramatically in popularity over the PEriod to become the
+most commonly used model in 2004. The valuation behavior indicated by
+these surveys differs from the valuation behavior of sell-side financial analysts and fund managers found in previous research. Earlier research on sellside analysts and fund managers has found that these actors rely primarily on
+Price/Earnings models and other relative valuation models. The study hence
+shows that companies in takeover situations use sophisticated valuation
+methods to a higher extent than do sell-side analysts and fund managers.
+The study provides alternative explanations for why companies valuing
+takeover targets would use more sophisticated valuation methods than sellside analysts and fund managers. One attractive explanation is that the generally recognized weakness of the DCF-model, that the input information is
+hard to estimate, is mitigated in takeover situations. When a firm evaluates a
+takeover target, it generally receives access to private information on the
+target company. Additionally, acquiring companies in a takeover situation
+will likely sPEnd more time and resources on the valuation than would a sellside analyst whom is responsible for valuing a universe of several companies.
+Essay 2 Flostrand, P. (2006)"The reasons why analysts use unsophisticated valuation methods"
+Like the fIRSt essay the SECond essay investigates the use of valuation
+methods. Unlike the fIRSt essay which looked at the valuation methods
+used by companies valuing takeover targets, this essay looks at which
+methods are used by sell-side analysts. Earlier research in the area has
+consistently found that sell-side analysts primarily rely on
+Price/Earnings- valuation and similar unsophisticated valuation methods, relying less on sophisticated methods such as the DCF method
+and the DDM.
+25
+Using a sample of 260 sell-side analyst reports this study investigates the
+use of valuation methods in the reports and finds as in earlier research a
+dominance of unsophisticated methods. Additionally, the study tests several
+explanations that have been given by earlier research to account for the use
+of unsophisticated valuation methods, to see if these explanations can hold
+for the cross-SECtional variation in the sample.
+Analysis of the empirical data did not support the arguments proposed by
+earlier research that the cross-SECtional variation in analysts' choice of methods can be explained by (1) a knowledge problem of the analysts, (2) a costbenefit tradeoff that analysts adopt, (3) the uncertainty of future outcomes of
+the target company and (4) the relative level of target prices.
+Results did however support the role of brokerage firm and industry of
+the target firm. With regards to the effect of brokerage firm it is not apparent
+from the results why brokerage firm explains analysts' valuation behavior.
+One possibility is the differing needs of brokerage firm clients as proposed
+by Demikaros, Strong and Walker (2004). Concerning industry, it is hard to
+draw conclusions as to why sophistication behavior of analysts systematically varies across industries. A possible explanation is differing growth
+characteristics of industries also proposed by Demikaros, Strong and Walker
+(2004).
+Essay 3 Flostrand, P. (2006)"The Sell Side- Observations on Indicators of Intellectual Capital" Forthcoming in Journal of Intellectual
+Capital
+The third essay stays on the topic of valuation behavior by financial
+analysts, but moves beyond their use of valuation methods to focus on
+the input to their methods or rather their forecasting. More sPEcifically
+the study focuses on sell-side analysts' use of indicators of Intellectual
+Capital (IC) to capture information relevant to predicting future outcomes which is not necessarily reflected in available accounting information.
+26
+The basis for the paPEr is a content analysis of 250 sell-side financial analyst reports written on a resPEctive number of randomly selected S&P 500
+companies, where the reports are analyzed for occurrences of indicators of
+IC. The study describes the use of IC information as leading indicators of
+future PErformance and identifies the contextual factors related to the use of
+such indicators.
+The results reveal frequent use of IC indicators in analyst reports. Statistical analysis of the results indicates industry as a contextual factor significantly related to the number of indicators used. Moreover, a majority of the
+IC indicators refer to relational capital, whereas indicators on human and
+structural capital are less frequent. Which indicates that relational capital are
+the set of IC which analysts view as most important when evaluating companies' potential for generating future cash flows.
+Essay 4 Flostrand, P. and Strom, N. (2006)"The Valuation Relevance
+of Non-Financial Information" Forthcoming in Management Research
+News
+The fourth essay continues on the same path as the third essay by examining the information used in analysts' reports. The fourth essay
+has a bROAder focus, investigating the occurrence of 70 non-financial
+information items as defined by a pre-develoPEd disclosure index
+based on the 1994 Jenkins Committee Report.
+The essay introduces the concept of Valuation Relevance as a criterion for
+measuring information usefulness. Valuation relevance is defined by
+whether or not the information item in question is mentioned by analysts in
+their reports. The study shows that the information items included in the
+disclosure index is to varying degrees mentioned in analysts reports, and that
+a distinction between more and less useful information can be made using
+the valuation relevance concept.
+The study further shows that the level of non-financial information content in analyst reports is positively related to size of the target firm as well as
+the level of non-financial information content in the firms annual report. It is
+additionally observed that analyst reports contain more forward-looking nonfinancial information than historical non-financial information.
+27
+Conclusions and Contribution
+The overarching research question of the thesis was; how is equity valued? A
+research question which in turn prompted the following more sPEcific questions:
+What valuation methods do companies use when valuing takeover targets?
+What valuation methods do sell-side analysts use when valuing equity?
+What factors explain the variation in the use of valuation methods by
+analysts?
+To what extent do sell-side analysts utilize non-financial information in their
+reports?
+The thesis found the following answers to those sPEcific questions:
+What valuation methods do companies use when valuing takeover targets?
+Companies valuing takeover targets tend to use sophisticated valuation
+methods, notably the DCF method. The fIRSt essay, which it should be noted
+relied on Swedish data, showed that a high proportion of the respondents,
+61% in 2004, relied on the DCF method when valuing takeover targets.
+The theoretical literature on valuation is quite clear when it comes to the
+choice of valuation method. It is consistently argued in theoretical research
+as well as in textbooks on the subject that sophisticated valuation methods,
+those which build upon multiple PEriod net present values (NPV) techniques,
+are suPErior to unsophisticated valuation methods which use relative measures of only a single PEriod.
+With the theoretical literature in mind, it may not be surprising to find
+that companies in takeover situations value the target-companies using sophisticated techniques. Rather, the question might be why all of the companies in the sample did not value the targets using these techniques. However,
+considering that research on other actors on the capital market, such as sellside financial analysts and fund managers has consistently found that these
+actors primarily rely on unsophisticated relative valuation methods such as
+the P/E method, it is more surprising to find that valuations of takeover targets deviate from the behavior of other analysts and investors.
+28
+There are of course several possible explanations for why companies
+valuing takeover targets use different techniques than do sell-side analysts or
+fund managers. One explanation is that acquiring companies in takeover
+situations have better access to information about the target company than do
+sell-side analyst, which mitigates one of the pronounced weaknesses of the
+sophisticated multi-PEriod models namely to forecast the inputs. Another
+possible explanation for the more sophisticated valuation methods in takeovers is that acquiring companies are more vested in the valuation than are
+sell-side analysts since they are buying the whole company, and hence exPEnd more time and resources to PErform the valuation. Finally, the preference for the DCF method in takeover situations could be explained by the
+method's focus on liquidity, which is often a critical concern in takeovers.
+What valuation methods do sell-side analysts use when valuing equity?
+Previous research on the valuation behavior of sell-side analysts has shown
+that they rely heavily on unsophisticated models (Arnold and Moizer, 1984;
+Barker, 1999; Pike Meerjanssen, and Chadwick, 1993; Demikaros, Strong
+and Walker, 2004). Barker (1999, p.197) reached the conclusion that
+...the strongest and most consistent finding in the behavioural literature is
+that the PE is of primary importance... A further, consistent finding is that
+discounted cash flow (DCF) models, technical analysis and beta analysis are
+of little practical importance to investment decisions.
+Essay two empirically answers this question by analyzing the valuation
+methods used in 260 analyst reports written on a resPEctive number of S&P
+500 listed companies. The results of essay two reflect the findings in previous research that sell-side analysts primarily rely on unsophisticated valuation models.
+What factors explain the variation in the use of valuation methods by
+analysts?
+A natural question to ask in light of the findings that sell-side analysts use
+unsophisticated valuation methods is WHY?
+Previous research in the area has offered several explanations for why
+analysts rely on unsophisticated instead of sophisticated valuation methods.
+After confirming the findings of previous research, that analysts do use unsophisticated valuation methods, the SECond essay of this thesis sets out to
+test the previously offered explanations for this behavior.
+The following explanations that have been proposed in previous research
+were tested:
+1. a knowledge problem of the analysts
+2. a cost-benefit tradeoff that analysts adopt
+29
+the uncertainty of future outcomes of the target company
+3.
+4.
+the relative level of target prices
+5. brokerage firm publishing the report
+6.
+industry of the target firm
+The findings in essay two did not support explanations 1-4 and hence the
+choice of valuation method by analysts is not explained by; a knowledge
+problem of the analyst, a cost-benefit tradeoff that analysts adopt, the uncertainty of future outcomes of the target company, or the relative level of target prices.
+However, the tests in essay two did support the role of brokerage firm and
+industry of the target firm. Results showed that there is a significant relationship between brokerage firm and analysts' choice of valuation method. Tests
+also showed that the choices of valuation models are significantly affected
+by industry of the target firm. Interpreting these two results is difficult since
+there might be several plausible explanations for why brokerage and industry
+affect the choice of valuation model by analysts. Demikaros, Strong, and
+Walker (2004) suggested that the effect of brokerage can be explained by the
+differing needs of brokerage clienteles, and that industry effects are explained by the differing growth characteristics of the various industries.
+While plausible, these explanations can not be confirmed by the results in
+essay two.
+To what extent do sell-side analysts utilize non-financial information in their
+reports?
+It has long been suggested that for the needs of the users of business reporting to be met, companies must disclose relevant non-financial information,
+which includes information on intellectual capital, the firms' value creation
+processes, and other information relevant for analyzing a firm's future prosPEct which is not included in the financial statements (AICPA, 1994).
+Essays three and four tie in to this debate from a users' standpoint by investigating what kind of information analysts use in their reports.
+Both essays found that analysts do indeed use non-financial information
+in general, as defined in essay four, and information on IC in the form of
+indicators as sPEcified in essay three. However, it becomes clear that such
+information can not be described in general terms, and neither can the use of
+such information. With regards to indicators of IC, analysts use indicators of
+relational capital to a much larger extent than indicators on human capital or
+structural capital, indicating that IC-information is of varying usefulness.
+The fourth essay found equally that the 70 information items contained in
+the disclosure index derived from the Jenkins Report were of varying usefulness with an average number of items disclosed in an analyst report being
+5.33 out of 70.
+30
+It was additionally showed in essay four that the occurrence of nonfinancial items in analyst reports was related to the non-financial information
+content in the annual reports of the same firms, indicating that easy access to
+information may likely be a determinant of use. While not tested for in the
+third essay, access to the particular IC indicators is likely a determinant factor of their level of occurrence.
+The use and usefulness of non-financial information and information on
+IC is best described as contextual. Essays three and four both show that the
+occurrence of such information in analyst reports is highly varying and related to many contextual variables such as industry of target firm, firm size,
+and brokerage firm. Additionally, there are most likely endogenous variables
+which research in this area has yet to uncover.
+By relating this question to the earlier discussion of Hayek (1945), investigating to what extent analysts use non-financial information can be seen as
+a way of examining how the market incorporates such information into
+prices. Information that is not used by market actors is not likely incorporated in their valuations. If an information item is not incorporated in market
+prices it is either not of use in predicting future financial PErformance of one
+or more companies, or the market price is not efficient in the Fama (1965)
+sense. Investigating what information is considered by analysts in their
+valuation process is then a qualitative way of exploring market efficiency,
+since market efficiency is determined by what information is reflected in
+prices.
+By answering those sPEcific questions the thesis has established a foundation for appROAching the more general original question:
+How is equity valued?
+The findings in this thesis show that equity is valued differently according to
+the sPEcific situation. The fIRSt essay showed that companies valuing takeover targets use sophisticated valuation methods to a larger extent than do
+sell-side analysts and fund-managers as shown by previous research. This
+finding is likely explained by the different circumstances of takeover situations. The critique against the sophisticated DCF-model is that the inputs of
+the model are hard or impossible to forecast. However, in takeover situations
+this difficulty is mitigated by the access to private information which is afforded the acquiring company in the due diligence process before the purchase is finalized.
+Valuation behavior varies even within the category of sell-side analysts,
+as showed in the SECond essay. Sell-side analysts as a group tend to use unsophisticated valuation methods, but as the investigation shows there are
+systematic differences in valuation behavior within the group. Of the six
+explanations tested to explain the cross-SECtional variation in valuation behavior, the study supported the effect of brokerage firm and industry of the
+31
+target firm. This finding shows that the choice of valuation method is contextual even within the group of sell-side analysts.
+With regards to the use of non-financial information and information on
+IC this thesis has shown that the context of the target firm dictates which
+information is relevant for predicting future PErformance, and that the information used by analysts is hence related to the size, industry, etc. of the target firm. Additionally, the accessibility of information is an important factor
+affecting the information used in the valuation process.
+The overall contribution of this thesis is primarily empirical. With empirical observations spanning the use of valuation methods in takeovers and by
+sell-side analysts, to the use of non-financial information and indicators of
+intellectual capital by sell-side analysts the empirical findings presented in
+this thesis shows how the use of valuation methods and the use of nonfinancial information varies both between and within groups of market actors.
+32
