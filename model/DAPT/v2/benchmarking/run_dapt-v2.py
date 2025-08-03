@@ -50,7 +50,18 @@ df[OUTPUT_COLUMN] = ""
 
 # ------------------ Prompt Formatting -------------------
 def format_prompt(prompt: str) -> str:
-    return f"You are a finance professional tasked with answering this question:\n{prompt.strip()}\n\n Use ONLY the data provided in the question to answer the question. Do not make up any data."
+    return (
+        "You are a financial analyst at a professional investment firm. "
+        "Your role is to evaluate the financial data below strictly using sound reasoning and accepted valuation principles.\n\n"
+        "TASK:\n"
+        f"{prompt.strip()}\n\n"
+        "CONSTRAINTS:\n"
+        "- Use only the data provided in the prompt. Do not make up or assume any additional numbers.\n"
+        "- Avoid giving user instructions (e.g., 'write a paragraph' or 'submit your answer').\n"
+        "- Focus on delivering clear financial analysis and valuation insights.\n"
+        "- If calculations are required, show them step-by-step and explain their meaning.\n"
+        "- Answer as if you were preparing an internal investment memo, not a student submission."
+    )
 
 # ------------------ Generate --------------------
 def generate(prompt):
