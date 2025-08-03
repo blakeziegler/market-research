@@ -1,14 +1,28 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer
-import torch
+from huggingface_hub import hf_hub_download
+from llama_cpp import Llama
 
-# Load merged model directly from Hugging Face
-model_id = "tarun7r/Finance-Llama-8B-q4_k_m-GGUF"
-tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
-model = AutoModelForCausalLM.from_pretrained(model_id, trust_remote_code=True, device_map="auto")
-model.eval()
+# GGUF model info
+model_name = "tarun7r/Finance-Llama-8B-q4_k_m-GGUF"
+model_file = "Finance-Llama-8B-GGUF-q4_K_M.gguf"  # Double-check this name matches exactly on HF
 
-# Refined prompt with realistic valuation metrics
-prompt = (
+# Download model to local directory if not already
+model_path = hf_hub_download(
+    repo_id=model_name,
+    filename=model_file,
+    local_dir="./models"
+)
+
+# Initialize LLaMA GGUF model
+llm = Llama(
+    model_path=model_path,
+    n_ctx=8192,         # You can increase this to 32768+ if needed
+    n_threads=8,        # Adjust based on CPU
+    n_gpu_layers=-1,    # Offload to GPU if possible
+    verbose=False
+)
+
+# Prompt
+valuation_prompt = (
     "You're an equity analyst evaluating the intrinsic value of a software company. "
     "The company has $1.2 billion in trailing twelve-month revenue, a net income margin of 18%, and a free cash flow margin of 22%. "
     "Free cash flow is expected to grow at 10% annually over the next five years. Comparable firms in the sector trade at a P/E ratio of 30. "
@@ -20,28 +34,30 @@ prompt = (
     "Answer:"
 )
 
-# Tokenize
-inputs = tokenizer(prompt, return_tensors="pt", return_attention_mask=True).to(model.device)
+# Use optional system/instruction wrapper for better formatting
+prompt_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+### Instruction:
+You are a highly knowledgeable finance chatbot. Your purpose is to provide accurate, insightful, and actionable financial advice.
+### Input:
+{valuation_prompt}
+### Response:
+"""
 
-# Generate
-with torch.no_grad():
-    output = model.generate(
-        **inputs,
-        max_new_tokens=1024,
-        do_sample=True,
-        temperature=0.7,
-        top_p=0.95,
-        top_k=50,
-        repetition_penalty=1.1,
-        pad_token_id=tokenizer.eos_token_id,
-        eos_token_id=tokenizer.eos_token_id
-    )
+formatted_prompt = prompt_template.format(valuation_prompt=valuation_prompt)
 
-# Decode
-text = tokenizer.decode(output[0], skip_special_tokens=True)
+# Run inference
+response = llm(
+    formatted_prompt,
+    max_tokens=2048,
+    temperature=0.7,
+    top_p=0.9,
+    echo=False,
+    stop=["###"]
+)
 
-# Strip the prompt
-response = text[len(prompt):].strip()
+# Extract text
+answer = response["choices"][0]["text"].strip()
 
-print("\n📊 Prompt:\n", prompt)
-print("\n🚀 DAPT Model Response:\n", response)
+# Print results
+print("\n📊 Prompt:\n", valuation_prompt)
+print("\n🚀 GGUF Model Response:\n", answer)
