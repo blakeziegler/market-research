@@ -1,18 +1,23 @@
 # run_base_model.py
 
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForCausalLM
-import torch
+from huggingface_hub import hf_hub_download
+from llama_cpp import Llama
 from tqdm import tqdm
 import logging
 import csv
+import os
 
 # -------------------- Config --------------------
 INPUT_CSV = "benchmark_v2.csv"
 OUTPUT_CSV = "results_base_v2.csv"
-MODEL_ID = "tarun7r/Finance-Llama-8B-q4_k_m-GGUF"
+MODEL_REPO = "tarun7r/Finance-Llama-8B-q4_k_m-GGUF"
+MODEL_FILE = "Finance-Llama-8B-GGUF-q4_K_M.gguf"
 OUTPUT_COLUMN = "base_output"
 MAX_NEW_TOKENS = 1024
+N_CTX = 4096
+N_GPU_LAYERS = -1  # Set to -1 for full GPU offload (if supported)
+N_THREADS = 8
 
 # ------------------ Logging ---------------------
 logging.basicConfig(
@@ -21,56 +26,59 @@ logging.basicConfig(
 )
 
 # ------------------ Load Model ------------------
-logging.info("🔄 Loading tokenizer and base model...")
+logging.info("🔄 Downloading and loading GGUF model...")
 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
-pad_token_id = tokenizer.pad_token_id or tokenizer.eos_token_id
-eos_token_id = tokenizer.eos_token_id or tokenizer.pad_token_id
+model_path = hf_hub_download(
+    repo_id=MODEL_REPO,
+    filename=MODEL_FILE,
+    local_dir="./models",
+    local_dir_use_symlinks=False
+)
 
-generation_kwargs = {
-    "do_sample": True,
-    "temperature": 0.7,
-    "top_p": 0.95,
-    "top_k": 50,
-    "repetition_penalty": 1.1,
-    "pad_token_id": pad_token_id,
-    "eos_token_id": eos_token_id,
-    "max_new_tokens": MAX_NEW_TOKENS,
-}
-
-model = AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True, device_map="auto")
-model.eval()
+llm = Llama(
+    model_path=model_path,
+    n_ctx=N_CTX,
+    n_threads=N_THREADS,
+    n_gpu_layers=N_GPU_LAYERS,
+    f16_kv=True,
+    verbose=False
+)
 
 # ------------------ Load Data -------------------
-# Read only the prompt column to avoid unnamed columns
-df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
-
-# Add the output column
+df = pd.read_csv(INPUT_CSV, usecols=["prompt"])
 df[OUTPUT_COLUMN] = ""
 
-# ------------------ Generate --------------------
+# ------------------ Prompt Formatting -------------------
 def format_prompt(prompt: str) -> str:
     return (
-        "<|im_start|>system\nYou are a financial analyst. Output ONLY your final answer.<|im_end|>\n"
-        f"<|im_start|>user\n{prompt.strip()}<|im_end|>\n"
-        "<|im_start|>assistant\n"
+        "Below is an instruction that describes a task, paired with an input that provides further context. "
+        "Write a response that appropriately completes the request.\n"
+        "### Instruction:\n"
+        "You are a highly knowledgeable finance chatbot. Your purpose is to provide accurate, insightful, and actionable financial advice.\n"
+        f"### Input:\n{prompt.strip()}\n"
+        "### Response:\n"
     )
 
-def generate(prompt):
+# ------------------ Inference -------------------
+def generate(prompt: str) -> str:
     try:
-        inputs = tokenizer(format_prompt(prompt), return_tensors="pt").to(model.device)
-        with torch.no_grad():
-            outputs = model.generate(**inputs, **generation_kwargs)
-        text = tokenizer.decode(outputs[0], skip_special_tokens=True).strip()
-        if text.startswith(prompt.strip()):
-            text = text[len(prompt.strip()):].strip()
-        return text
+        full_prompt = format_prompt(prompt)
+        output = llm(
+            full_prompt,
+            max_tokens=MAX_NEW_TOKENS,
+            temperature=0.7,
+            top_p=0.95,
+            top_k=50,
+            echo=False,
+            stop=["###"]
+        )
+        return output["choices"][0]["text"].strip()
     except Exception as e:
-        logging.error(f"Generation failed: {e}")
+        logging.error(f"❌ Generation failed: {e}")
         return "[ERROR]"
 
-# ------------------ Inference -------------------
-logging.info("🚀 Starting inference...")
+# ------------------ Run Inference -------------------
+logging.info("🚀 Starting GGUF model inference...")
 
 for idx, row in tqdm(df.iterrows(), total=len(df)):
     prompt = str(row.get("prompt", "")).strip()
@@ -78,13 +86,14 @@ for idx, row in tqdm(df.iterrows(), total=len(df)):
         continue
 
     if not row[OUTPUT_COLUMN] or row[OUTPUT_COLUMN] == "[ERROR]":
-        logging.info(f"📝 [{idx+1}] Generating base output...")
+        logging.info(f"📝 [{idx+1}] Generating GGUF base output...")
         result = generate(prompt)
         df.at[idx, OUTPUT_COLUMN] = result
 
+    # Periodic save
     if idx % 5 == 0:
         df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
 
 # ------------------ Final Save ------------------
 df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
-logging.info(f"✅ Base model responses saved to {OUTPUT_CSV}")
+logging.info(f"✅ GGUF model responses saved to {OUTPUT_CSV}")
