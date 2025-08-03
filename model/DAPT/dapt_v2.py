@@ -32,7 +32,7 @@ dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["tra
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
 def tokenize(batch):
-    return tokenizer(batch["text"], truncation=True, max_length=128000)
+    return tokenizer(batch["text"], truncation=True, max_length=64000)
 
 def filter_empty(example):
     return len(example["input_ids"]) > 0
