@@ -1,6 +1,3 @@
-# === TRAINING SCRIPT ===
-# File: train_fp16_dapt.py
-
 from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
