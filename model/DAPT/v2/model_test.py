@@ -38,7 +38,7 @@ system_message = (
     "You are a highly knowledgeable finance chatbot. Your purpose is to provide accurate, insightful, and actionable financial advice."
 )
 user_question = (
-    "You're an equity analyst evaluating the intrinsic value of a software company. "
+    "You're an equity specialist evaluating the intrinsic value of a software company. "
     "The company has $1.2 billion in trailing twelve-month revenue, a net income margin of 18%, and a free cash flow margin of 22%. "
     "Free cash flow is expected to grow at 10% annually over the next five years. Comparable firms in the sector trade at a P/E ratio of 30. "
     "The company holds $150 million in cash and has $100 million in debt. The appropriate discount rate for this business is 9%. "
