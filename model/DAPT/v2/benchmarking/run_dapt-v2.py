@@ -40,7 +40,7 @@ model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
     quantization_config=quant_config,
     trust_remote_code=True,
-    device_map="auto"
+    device_map="cuda:0"
 )
 model.eval()
 
