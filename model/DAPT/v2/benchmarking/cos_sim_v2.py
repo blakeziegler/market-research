@@ -3,45 +3,68 @@ from sentence_transformers import SentenceTransformer, util
 from tqdm import tqdm
 from pathlib import Path
 
-# Load both CSV files
-df_base = pd.read_csv("results_base_v2.csv")
-df_dapt = pd.read_csv("results_dapt_v2.csv")
+# ---------------- CONFIG ----------------
+BASE_CSV_PATH = "results_base_v2.csv"
+DAPT_CSV_PATH = "results_dapt_v2.csv"
+CORPUS_DIR = Path("../data/raw-text")
+EMBED_MODEL_NAME = "all-MiniLM-L6-v2"
+BASE_COL = "base_output"
+DAPT_COL = "dapt_output"
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# ---------------- LOAD MODEL ----------------
+print("🔄 Loading sentence transformer...")
+model = SentenceTransformer(EMBED_MODEL_NAME)
 
-corpus_dir = Path("../data/raw-text")
-
+# ---------------- LOAD CORPUS ----------------
+print("📚 Loading corpus documents...")
 corpus_text = ""
-for f in corpus_dir.glob("*.txt"):
-    with open(f, "r", encoding="utf-8") as file:
-        corpus_text += file.read() + "\n"
+for file in CORPUS_DIR.glob("*.txt"):
+    with open(file, "r", encoding="utf-8") as f:
+        corpus_text += f.read() + "\n"
 
-print("Total text length:", len(corpus_text))
+print(f"✅ Corpus loaded (length={len(corpus_text):,} characters)")
+corpus_embedding = model.encode(corpus_text, convert_to_tensor=True)
 
-corpus_embeddings = model.encode(corpus_text, show_progress_bar=True, convert_to_tensor=True)
+# ---------------- UTILS ----------------
+def is_valid_text(val) -> bool:
+    return isinstance(val, str) and val.strip() != ""
 
-# Calculate similarity scores for base model
-similarity_score_base = []
+def safe_encode(text: str):
+    return model.encode(text, convert_to_tensor=True)
 
-print("Calculating similarity scores for base model...")
+def compute_similarity(row_text: str) -> float:
+    try:
+        if is_valid_text(row_text):
+            emb = safe_encode(row_text)
+            return util.cos_sim(emb, corpus_embedding).item()
+    except Exception as e:
+        print(f"[Error] Encoding failed: {e}")
+    return float("nan")
+
+# ---------------- PROCESS BASE MODEL ----------------
+print("📊 Processing base model outputs...")
+df_base = pd.read_csv(BASE_CSV_PATH)
+df_base = df_base[df_base[BASE_COL].notna()]
+
+similarity_scores_base = []
 for _, row in tqdm(df_base.iterrows(), total=len(df_base)):
-    base_emb = model.encode(row["base_output"], convert_to_tensor=True)
-    sim_base = util.cos_sim(base_emb, corpus_embeddings).item()
-    similarity_score_base.append(sim_base)
+    sim_score = compute_similarity(str(row[BASE_COL]))
+    similarity_scores_base.append(sim_score)
 
-df_base["similarity_score_base"] = similarity_score_base
-df_base.to_csv("results_base_v2.csv", index=False)
-print("Base model similarity scores saved to results_base_v2.csv")
+df_base["similarity_score_base"] = similarity_scores_base
+df_base.to_csv(BASE_CSV_PATH, index=False)
+print(f"✅ Saved updated base results to {BASE_CSV_PATH}")
 
-# Calculate similarity scores for DAPT model
-similarity_score_dapt = []
+# ---------------- PROCESS DAPT MODEL ----------------
+print("📊 Processing DAPT model outputs...")
+df_dapt = pd.read_csv(DAPT_CSV_PATH)
+df_dapt = df_dapt[df_dapt[DAPT_COL].notna()]
 
-print("Calculating similarity scores for DAPT model...")
+similarity_scores_dapt = []
 for _, row in tqdm(df_dapt.iterrows(), total=len(df_dapt)):
-    dapt_emb = model.encode(row["dapt_output"], convert_to_tensor=True)
-    sim_dapt = util.cos_sim(dapt_emb, corpus_embeddings).item()
-    similarity_score_dapt.append(sim_dapt)
+    sim_score = compute_similarity(str(row[DAPT_COL]))
+    similarity_scores_dapt.append(sim_score)
 
-df_dapt["similarity_score_dapt"] = similarity_score_dapt
-df_dapt.to_csv("results_dapt_v2.csv", index=False)
-print("DAPT model similarity scores saved to results_dapt_v2.csv")
+df_dapt["similarity_score_dapt"] = similarity_scores_dapt
+df_dapt.to_csv(DAPT_CSV_PATH, index=False)
+print(f"✅ Saved updated DAPT results to {DAPT_CSV_PATH}")
