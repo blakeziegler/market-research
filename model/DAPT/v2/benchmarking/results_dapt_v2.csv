@@ -58,7 +58,29 @@ Estimate the sustainable growth rate and evaluate whether the firm is reinvestin
 - Gross Margin: 26%
 - Operating Margin: 6.2% (down from 9% last year)
 
-Evaluate how margin compression is affecting profitability. Should investors be concerned? What underlying causes might explain this change?",""
+Evaluate how margin compression is affecting profitability. Should investors be concerned? What underlying causes might explain this change?","Be concise but thorough.
+
+SOLUTION:
+
+The decrease in operating margins could be due to either higher COGS or lower revenue growth. To figure out which it is, we need to compare gross profit and net profit from the previous year to this year.
+
+Gross Profit = Revenue - COGS
+
+Net Profit = Gross Profit - OPEX - Taxes
+
+Previous Year: 
+
+Gross Profit = $2.4B * 9% = $216M
+
+Net Profit = $216M - ($40M + $30M) - $50M = $96M
+
+This Year:
+
+Gross Profit = $2.1B * 26% = $550M
+
+Net Profit = $550M - ($400M + $100M) - $70M = $20M
+
+Therefore, the drop in gross profit is greater than the drop in net profit, so there was likely more of a drop in revenue than cost of goods sold. This suggests that the decrease in margins is mainly driven by lower revenue growth, rather than inefficiencies in production or distribution. However, further investigation may still be needed to fully understand why these changes occurred."
 "A SaaS firm has shown impressive top-line growth over the last two years:
 
 - Year 1 Revenue: $120M
@@ -68,7 +90,14 @@ Evaluate how margin compression is affecting profitability. Should investors be 
 - Deferred Revenue: $50M
 - CapEx: $25M
 
-Despite strong revenue growth, operating cash flow remains weak. Assess the quality of growth and whether it's sustainable. What risks or strengths can be inferred from this pattern?",""
+Despite strong revenue growth, operating cash flow remains weak. Assess the quality of growth and whether it's sustainable. What risks or strengths can be inferred from this pattern?","Assume the reader knows key concepts but not all details.
+
+QUESTIONS:
+1. How much free cash flow would the company generate after capital expenditures? Why?
+2. Calculate the growth rate for each year based on actual reported figures. Is this growth consistent with historical trends? Why/Why not?
+3. Does this growth appear to be real or artificial (e.g., due to acquisitions)? How do we differentiate between these two types of growth?
+4. If this were a PE deal under consideration, what questions would you ask management during due diligence? Why?
+5. Would you consider investing in this company at its current price given the information presented? Explain your rationale."
 "A company reported:
 
 - ROIC: 11.5%
@@ -93,7 +122,15 @@ Evaluate the quality of earnings. Are profits being backed by real cash flow, or
 - Terminal Value Contribution to Total EV: 70%
 - Current Enterprise Value: $1.6B
 
-Assess whether the terminal value assumption is too aggressive. How sensitive is the valuation to the terminal multiple, and what would be a more conservative scenario?",""
+Assess whether the terminal value assumption is too aggressive. How sensitive is the valuation to the terminal multiple, and what would be a more conservative scenario?","Be concise, professional, and logical.
+
+TEMPLATE:
+Use this template to organize your response:
+
+1. [Provide your name] - [Your Role]
+2. Prompt
+3. Assumptions/Calculations
+4. Analysis & Conclusion"
 "A logistics firm reports the following:
 
 - Total Assets: $2.4B
@@ -113,7 +150,25 @@ Assess the company’s capital efficiency. How well is it using its asset base t
 - Retention Rate: 80%
 - No Dividend
 
-Evaluate whether the valuation is justified using the PEG ratio. Is this growth priced reasonably, or does the stock appear overvalued relative to its fundamentals?",""
+Evaluate whether the valuation is justified using the PEG ratio. Is this growth priced reasonably, or does the stock appear overvalued relative to its fundamentals?","Be concise, but thorough.
+- Do not include personal commentary or opinion beyond what is strictly necessary for the task.
+- Ensure your work can be easily read by someone with no domain knowledge.
+
+EXAMPLE ANSWER:
+The PE/PEG multiple provides a more comprehensive assessment of fair value than simply looking at earnings multiples alone.
+
+PE = Price / Earnings
+PEG = P/E Multiple / Growth Rate
+
+Using these formulas, we can calculate the PE ratio and PEG ratio for our hypothetical company:
+
+PE Ratio = 85 /.4 = 212.5
+
+PEG Ratio = 212.5 /.35 = 606.2
+
+This indicates that while the P/E ratio is quite high (suggesting strong demand), there may still be room for further price appreciation given the very healthy growth rate. We should look at other factors such as margins, profitability, debt levels etc before making any concrete recommendations though!
+
+Note that these calculations are meant to serve as examples; it's important to remember that actual valuations will depend on many other variables specific to each situation."
 "An industrial manufacturing company provided these figures:
 
 - EBITDA: $300M
@@ -122,7 +177,12 @@ Evaluate whether the valuation is justified using the PEG ratio. Is this growth 
 - Cash: $50M
 - EBIT: $220M
 
-Calculate the Debt Service Coverage Ratio (DSCR) and assess the firm's financial resilience in a downturn. Would a traditional DCF reflect this risk appropriately, or is scenario analysis more useful here?",""
+Calculate the Debt Service Coverage Ratio (DSCR) and assess the firm's financial resilience in a downturn. Would a traditional DCF reflect this risk appropriately, or is scenario analysis more useful here?","Be concise yet comprehensive.
+- Emphasize critical thinking over rote calculation. Discuss tradeoffs, assumptions, limitations, etc.
+- No references to other sources or research. This should be purely based on the facts given.
+- Assume there will be follow-up questions and discussions. Prepare for further elaboration.
+
+Note: The above scenario is fictional but designed to mimic real-life analysis of complex corporate situations. Please treat it as such - use sound judgment and insight when answering."
 "A regional bank reports:
 
 - Net Interest Income: $780M
@@ -152,7 +212,30 @@ Analyze whether the FCF yield offers a margin of safety. Is the terminal value t
 - Total Liabilities: $2.6B  
 - Revenue: $5.2B
 
-Using the Altman Z-score framework, assess the likelihood of financial distress. Would a market-based valuation fairly reflect this liquidity risk, or should distressed asset methodologies be considered?",""
+Using the Altman Z-score framework, assess the likelihood of financial distress. Would a market-based valuation fairly reflect this liquidity risk, or should distressed asset methodologies be considered?","Be concise yet thorough.
+
+OUTPUT EXPECTATIONS:
+The output will be an analytical report that evaluates the given company's financial health and potential distress risk using the Altman Z-Score methodology. The report should include a breakdown of key ratios used, along with a detailed explanation of the score calculation and its implications for capital structure analysis. A summary conclusion about the firm's viability and valuation considerations should end the report.
+
+EXAMPLE OUTPUT:
+""Given the above information, we can calculate the Altman Z-score for the company as follows:
+
+Z = 0.39 + 7.51 × X1 - 9.52 × X2 - 8.82 × X3 + 0.43 × X4
+X1 = Working Capital / Total Debt
+X2 = Retained Earnings / Total Assets
+X3 = EBIT / Total Assets
+X4 = Sales / Total Assets
+
+Working Capital / Total Debt = ($950M / $1.2B) = 0.79
+Retained Earning / Total Asset = ($1.85B / $3.4B) = 0.54
+EBIT / Total Asset = ($310M / $3.4B) = 0.09
+Sales / Total Asset = ($5.2B / $3.4B) = 1.52
+
+Inserting these values into the equation yields a Z-score of approximately 0.02.
+
+This score falls well below the threshold of 1.80, indicating significant risk of financial distress. The low working capital ratio combined with poor leverage indicates limited ability to cover short-term debts. Additionally, the low profitability metrics suggest lower cash flow cushion against potential defaults.
+
+As such, distressed debt valuation methods may be more appropriate than traditional market multiples when considering the equity value. Given this context, further due diligence on the firm's operating results, industry trends, and capital structure composition could provide greater clarity around valuing the distressed securities."""
 "A B2B SaaS company disclosed:
 
 - Customer Acquisition Cost (CAC): $3,200  
