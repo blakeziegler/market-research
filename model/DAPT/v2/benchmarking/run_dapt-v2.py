@@ -1,11 +1,11 @@
 # run_dapt_model.py
 
 import pandas as pd
-from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 import torch
-from tqdm import tqdm
 import logging
 import csv
+from tqdm import tqdm
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 
 # -------------------- Config --------------------
 INPUT_CSV = "benchmark_v2.csv"
@@ -13,22 +13,22 @@ OUTPUT_CSV = "results_dapt_v2.csv"
 MODEL_ID = "blakeziegler/llama_8b_dapt-600k_v1"
 OUTPUT_COLUMN = "dapt_output"
 MAX_NEW_TOKENS = 1024
-N_CTX = 4096  # Match GGUF context window
+N_CTX = 4096
+RESERVED_INPUT_TOKENS = N_CTX - MAX_NEW_TOKENS
 
-# ------------------ Logging ---------------------
+# -------------------- Logging --------------------
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(message)s"
 )
 
-# ------------------ Load Model ------------------
-logging.info("🔄 Loading tokenizer and DAPT model...")
+# -------------------- Load Tokenizer & Model --------------------
+logging.info("🔄 Loading model and tokenizer...")
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
 pad_token_id = tokenizer.pad_token_id or tokenizer.eos_token_id
 eos_token_id = tokenizer.eos_token_id or tokenizer.pad_token_id
 
-# Quantization config (4-bit for efficiency)
 quant_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_use_double_quant=True,
@@ -44,11 +44,12 @@ model = AutoModelForCausalLM.from_pretrained(
 )
 model.eval()
 
-# ------------------ Load Data -------------------
-df = pd.read_csv(INPUT_CSV, usecols=['prompt'])
-df[OUTPUT_COLUMN] = ""
+# -------------------- Load Data --------------------
+df = pd.read_csv(INPUT_CSV, usecols=["prompt"])
+if OUTPUT_COLUMN not in df.columns:
+    df[OUTPUT_COLUMN] = ""
 
-# ------------------ Prompt Formatting -------------------
+# -------------------- Prompt Formatter --------------------
 def format_prompt(prompt: str) -> str:
     return (
         "You are a financial analyst at a professional investment firm. "
@@ -63,14 +64,19 @@ def format_prompt(prompt: str) -> str:
         "- Answer as if you were preparing an internal investment memo, not a student submission."
     )
 
-# ------------------ Generate --------------------
-def generate(prompt):
+# -------------------- Inference Function --------------------
+def generate_response(prompt: str) -> str:
     try:
-        full_prompt = format_prompt(prompt)
-        inputs = tokenizer(full_prompt, return_tensors="pt", truncation=True, max_length=N_CTX).to(model.device)
+        formatted = format_prompt(prompt)
+        inputs = tokenizer(
+            formatted,
+            return_tensors="pt",
+            truncation=True,
+            max_length=RESERVED_INPUT_TOKENS
+        ).to(model.device)
 
         with torch.no_grad():
-            outputs = model.generate(
+            output = model.generate(
                 **inputs,
                 max_new_tokens=MAX_NEW_TOKENS,
                 do_sample=True,
@@ -82,16 +88,19 @@ def generate(prompt):
                 eos_token_id=eos_token_id,
             )
 
-        decoded = tokenizer.decode(outputs[0], skip_special_tokens=True)
-        response = decoded[len(full_prompt):].strip()
+        generated_tokens = output[0][inputs["input_ids"].shape[-1]:]
+        response = tokenizer.decode(generated_tokens, skip_special_tokens=True).strip()
+
+        if not response:
+            logging.warning("⚠️ Empty response generated.")
         return response
 
     except Exception as e:
         logging.error(f"❌ Generation failed: {e}")
         return "[ERROR]"
 
-# ------------------ Inference -------------------
-logging.info("🚀 Starting DAPT model inference...")
+# -------------------- Main Inference Loop --------------------
+logging.info("🚀 Starting inference...")
 
 for idx, row in tqdm(df.iterrows(), total=len(df)):
     prompt = str(row.get("prompt", "")).strip()
@@ -99,13 +108,13 @@ for idx, row in tqdm(df.iterrows(), total=len(df)):
         continue
 
     if not row[OUTPUT_COLUMN] or row[OUTPUT_COLUMN] == "[ERROR]":
-        logging.info(f"📝 [{idx+1}] Generating DAPT output...")
-        result = generate(prompt)
+        logging.info(f"📝 Generating output for row {idx+1}...")
+        result = generate_response(prompt)
         df.at[idx, OUTPUT_COLUMN] = result
 
     if idx % 5 == 0:
         df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
 
-# ------------------ Final Save ------------------
+# -------------------- Final Save --------------------
 df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
-logging.info(f"✅ DAPT model responses saved to {OUTPUT_CSV}")
+logging.info(f"✅ Finished. Saved results to {OUTPUT_CSV}")
