@@ -1,0 +1,1902 @@
+1
+CHAPTER 3
+UNDERSTANDING FINANCIAL STATEMENTS
+Financial statements provide the fundamental information that we use to analyze and
+answer valuation questions. It is important, therefore, that we understand the principles
+governing these statements by looking at four questions:
+* How valuable are the assets of a firm? The assets of a firm can come in several forms -
+assets with long lives such as land and buildings, assets with shorter lives such
+inventory, and intangible assets that still produce revenues for the firm such as patents
+and trademarks.
+* How did the firm raise the funds to finance these assets? In acquiring these assets, firms
+can use the funds of the owners (equity) or borrowed money (debt), and the mix is
+likely to change as the assets age.
+* How profitable are these assets? A good investment, we argued, is one that makes a
+return greater than the hurdle rate. To evaluate whether the investments that a firm has
+already made are good investments, we need to estimate what returns we are making on
+these investments.
+* How much uncertainty (or risk) is embedded in these assets? While we have not directly
+confronted the issue of risk yet, estimating how much uncertainty there is in existing
+investments and the implications for a firm is clearly a fIRSt step.
+We will look at the way accountants would answer these questions, and why the
+answers might be different when doing valuation. Some of these differences can be traced to
+the differences in objectives - accountants try to measure the current standing and
+immediate past PErformance of a firm, whereas valuation is much more forward looking.
+The Basic Accounting Statements
+There are three basic accounting statements that summarize information about a
+firm. The fIRSt is the balance sheet, shown in Figure 3.1, which summarizes the assets
+owned by a firm, the value of these assets and the mix of financing, debt and equity, used to
+finance these assets at a point in time.
+1
+2
+Figure 3.1: The Balance Sheet
+Assets
+Liabilities
+Long Lived Real Assets
+Fixed Assets
+Current
+Liabilties
+Short-term liabilities of the firm
+Short-lived Assets
+Current Assets
+Debt
+Debt obligations of firm
+Investments in SECurities &
+assets of other firms
+Financial Investments
+Other
+Liabilities
+Other long-term obligations
+Assets which are not physical,
+like patents & trademarks
+Intangible Assets
+Equity
+Equity investment in firm
+The next is the income statement, shown in Figure 3.2, which provides information on the
+revenues and exPEnses of the firm, and the resulting income made by the firm, during a
+PEriod. The PEriod can be a quarter (if it is a quarterly income statement) or a year (if it is an
+annual report).
+2
+3
+Figure 3.2: Income Statement
+Gross revenues from sale
+of products or services
+Revenues
+ExPEnses associates with
+generating revenues
+- OPErating ExPEnses
+OPErating income for the
+PEriod
+= OPErating Income
+ExPEnses associated with
+borrowing and other financing
+- Financial ExPEnses
+Taxes due on taxable income
+- Taxes
+Earnings to Common &
+Preferred Equity for
+Current PEriod
+Profits and Losses not
+associated with oPErations
+Profits or losses associated
+with changes in accounting
+rules
+Dividends paid to preferred
+stockholders
+= Net Income before extraordinary items
+Extraordinary Losses (Profits)
+Income Changes Associated with Accounting Changes
+- Preferred Dividends
+= Net Income to Common Stockholders
+Finally, there is the statement of cash flows, shown in figure 3.3, which sPEcifies the
+sources and uses of cash of the firm from oPErating, investing and financing activities,
+during a PEriod.
+3
+-
+-
+Figure 3.3: Statement of Cash Flows
+4
+Net cash flow from oPErations,
+after taxes and interest exPEnses
+Cash Flows From OPErations
+Includes divestiture and acquisition
+of real assets (capital exPEnditures)
+and disposal and purchase of
+financial assets. Also includes
+acquisitions of other firms.
+Net cash flow from the issue and
+repurchase of equity, from the
+issue and repayment of debt and after
+dividend payments
++ Cash Flows From Investing
++ Cash Flows from Financing
+The statement of cash flows can be viewed as an attempt to explain how much the cash
+flows during a PEriod were, and why the cash balance changed during the PEriod.
+= Net Change in Cash Balance
+Asset Measurement and Valuation
+When analyzing any firm, we would like to know the tyPEs of assets that it owns, the
+values of these assets and the degree of uncertainty about these values. Accounting
+statements do a reasonably good job of categorizing the assets owned by a firm, a partial job
+of assessing the values of these assets and a poor job of reporting uncertainty about asset
+values. In this SECtion, we will begin by looking at the accounting principles underlying
+asset categorization and measurement, and the limitations of financial statements in
+providing relevant information about assets.
+Accounting Principles Underlying Asset Measurement
+An asset is any resource that has the potential to either generate future cash inflows
+or reduce future cash outflows. While that is a general definition bROAd enough to cover
+almost any kind of asset, accountants add a caveat that for a resource to be an asset. A firm
+has to have acquired it in a prior transaction and be able to quantiFY future benefits with
+reasonable precision. The accounting view of asset value is to a great extent grounded in the
+notion of historical cost, which is the original cost of the asset, adjusted upwards for
+improvements made to the asset since purchase and downwards for the loss in value
+associated with the aging of the asset. This historical cost is called the book value. While
+4
+5
+the generally accepted accounting principles for valuing an asset vary across different kinds
+of assets, three principles underlie the way assets are valued in accounting statements.
+* An Abiding Belief in Book Value as the Best Estimate of Value: Accounting estimates of
+asset value begin with the book value. Unless a substantial reason is given to do
+otherwise, accountants view the historical cost as the best estimate of the value of an
+asset.
+* A Distrust of Market or Estimated Value: When a current market value exists for an
+asset that is different from the book value, accounting convention seems to view this
+market value with suspicion. The market price of an asset is often viewed as both much
+too volatile and too easily manipulated to be used as an estimate of value for an asset.
+This suspicion runs even deePEr when values are is estimated for an asset based upon
+exPEcted future cash flows.
+* A Preference for under estimating value rather than over estimating it: When there is
+more than one appROAch to valuing an asset, accounting convention takes the view that
+the more conservative (lower) estimate of value should be used rather than the less
+conservative (higher) estimate of value. Thus, when both market and book value are
+available for an asset, accounting rules often require that you use the lesser of the two
+numbers.
+Measuring Asset Value
+The financial statement in which accountants summarize and report asset value is the
+balance sheet. To examine how asset value is measured, let us begin with the way assets are
+categorized in the balance sheet. FIRSt, there are the fixed assets, which include the longterm assets of the firm, such as plant, equipment, land and buildings. Next, we have the
+short-term assets of the firm, including inventory (including raw materials, work in progress
+and finished goods), receivables (summarizing moneys owed to the firm) and cash; these
+are categorized as current assets. We then have investments in the assets and SECurities of
+other firms, which are generally categorized as financial investments. Finally, we have what
+is loosely categorized as intangible assets. These include assets, such as patents and
+trademarks that presumably will create future earnings and cash flows, and also uniquely
+accounting assets such as goodwill that arise because of acquisitions made by the firm.
+Fixed Assets
+Generally accepted accounting principles (GAAP) in the United States require the
+valuation of fixed assets at historical cost, adjusted for any estimated gain and loss in value
+from improvements and the aging, resPEctively, of these assets. While in theory the
+adjustments for aging should reflect the loss of earning power of the asset as it ages, in
+5
+6
+practice they are much more a product of accounting rules and convention, and these
+adjustments are called depreciation. Depreciation methods can very bROAdly be categorized
+into straight line (where the loss in asset value is assumed to be the same every year over
+its lifetime) and accelerated (where the asset loses more value in the earlier years and less
+in the later years). [While tax rules, at least in the United States, have restricted the freedom
+that firms have on their choice of asset life and depreciation methods, firms continue to have
+a significant amount of flexibility on these decisions for reporting purposes. Thus, the
+depreciation that is reported in the annual reports may not, and generally is not, the same
+depreciation that is used in the tax statements.
+Since fixed assets are valued at book value and are adjusted for depreciation
+provisions, the value of a fixed asset is strongly influenced by both its depreciable life and
+the depreciation method used. Many firms in the United States use straight line depreciation
+for financial reporting while using accelerated depreciation for tax purposes, since firms can
+report better earnings with the former1, at least in the years right after the asset is acquired.
+In contrast, Japanese and German firms often use accelerated depreciation for both tax and
+financial reporting purposes, leading to reported income which is understated relative to that
+of their U.S. counterparts.
+Current Assets
+Current assets include inventory, cash and accounts receivables. It is in this category
+that accountants are most amenable to the use of market value, esPEcially in valuing
+marketable SECurities.
+Accounts Receivable
+Accounts receivable represent money owed by entities to the firm on the sale of
+products on credit. When the Home Depot sells products to building contractors and gives
+them a few weeks to make the payment, it is creating accounts receivable. The accounting
+convention is for accounts receivable to be recorded as the amount owed to the firm, based
+upon the billing at the time of the credit sale. The only major valuation and accounting issue
+is when the firm has to recognize accounts receivable that are not collectible. Firms can set
+aside a portion of their income to cover exPEcted bad debts from credit sales, and accounts
+receivable will be reduced by this reserve. Alternatively, the bad debts can be recognized as
+they occur and the firm can reduce the accounts receivable accordingly. There is the danger,
+1 Depreciation is treated as an accounting exPEnse. Hence, the use of straight line depreciation (which is
+lower than accelerated depreciation in the fIRSt few years after an asset is acquired) will result in lower
+exPEnses and higher income.
+6
+7
+however, that ABSent a decisive declaration of a bad debt, firms may continue to show as
+accounts receivable amounts that they know are unlikely to be ever collected.
+Cash
+Cash is one of the few assets for which accountants and financial analysts should
+agree on value. The value of a cash balance should not be oPEn to estimation error. Having
+said this, we should note that fewer and fewer companies actually hold cash in the
+conventional sense (as currency or as demand deposits in banks). Firms often invest the
+cash in interest-bearing accounts or in treasuries, so as to earn a return on their investments.
+In either case, market value can deviate from book value, esPEcially if the investments are
+long term. While there is no real default risk in either of these investments, interest rate
+movements can affect their value. We will examine the valuation of marketable SECurities
+later in this SECtion.
+Inventory
+Three basis appROAches to valuing inventory are allowed by GAAP: FIFO, LIFO
+and Weighted Average.
+(a) FIRSt-in, FIRSt-out (FIFO): Under FIFO, the cost of goods sold is based upon the cost
+of material bought earliest in the PEriod, while the cost of inventory is based upon the cost
+of material bought latest in the year. This results in inventory being valued close to the
+current replacement cost. During PEriods of inflation, the use of FIFO will result in the
+lowest estimate of cost of goods sold among the three valuation appROAches, and the highest
+net income.
+(b) Last-in, FIRSt-out (LIFO): Under LIFO, the cost of goods sold is based upon the cost
+of material bought latest in the PEriod, while the cost of inventory is based upon the cost of
+material bought earliest in the year. This results in finished goods being valued close to the
+current production cost. During PEriods of inflation, the use of LIFO will result in the
+highest estimate of cost of goods sold among the three valuation appROAches, and the lowest
+net income.
+(c) Weighted Average: Under the weighted average appROAch, both inventory and the cost of
+goods sold are based upon the average cost of all materials bought during the PEriod. When
+inventory turns over rapidly, this appROAch will more closely resemble FIFO than LIFO.
+Firms often adopt the LIFO appROAch for its tax benefits during PEriods of high
+inflation. The cost of goods sold is then higher because it is based upon prices paid towards
+to the end of the accounting PEriod. This, in turn, will reduce the reported taxable income
+and net income, while increasing cash flows. Studies indicate that larger firms with rising
+7
+8
+prices for raw materials and labor, more variable inventory growth and an ABSence of other
+tax loss carry forwards are much more likely to adopt the LIFO appROAch.
+Given the income and cash flow effects of inventory valuation methods, it is often
+difficult to compare the inventory values of firms that use different methods. There is,
+however, one way of adjusting for these differences. Firms that choose the LIFO appROAch
+to value inventories have to sPEciFY in a footnote the difference in inventory valuation
+between FIFO and LIFO, and this difference is termed the LIFO reserve. It can be used to
+adjust the beginning and ending inventories, and consequently the cost of goods sold, and to
+restate income based upon FIFO valuation.
+Investments (Financial) and Marketable SECurities
+In the category of investments and marketable SECurities, accountants consider
+investments made by firms in the SECurities or assets of other firms, and other marketable
+SECurities including treasury bills or bonds. The way in which these assets are valued
+dePEnds upon the way the investment is categorized and the motive behind the investment.
+In general, an investment in the SECurities of another firm can be categorized as a minority,
+passive investment; a minority, active investment; or a majority, active investment.
+The accounting rules vary dePEnding upon the categorization.
+Minority, Passive Investments
+If the SECurities or assets owned in another firm represent less than 20% of the
+overall ownership of that firm, an investment is treated as a minority, passive investment.
+These investments have an acquisition value, which represents what the firm originally paid
+for the SECurities and often a market value. Accounting principles require that these assets be
+sub-categorized into one of three groups: investments that will be held to maturity,
+investments that are available for sale and trading investments. The valuation principles vary
+for each.
+* For investments that will be held to maturity, the valuation is at historical cost or book
+value, and interest or dividends from this investment are shown in the income statement
+under net interest exPEnses
+* For investments that are available for sale, the valuation is at market value, but the
+unrealized gains or losses are shown as part of the equity in the balance sheet and not in
+the income statement. Thus, unrealized losses reduce the book value of the equity in the
+firm, and unrealized gains increase the book value of equity.
+* For trading investments, the valuation is at market value and the unrealized gains and
+losses are shown in the income statement.
+8
+9
+Firms are allowed an element of discretion in the way they classiFY investments and,
+subsequently, in the way they value these assets. This classification ensures that firms such
+as investment banks, whose assets are primarily SECurities held in other firms for purposes
+of trading, revalue the bulk of these assets at market levels each PEriod. This is called
+marking-to-market and provides one of the few instances in which market value trumps
+book value in accounting statements.
+Minority, Active Investments
+If the SECurities or assets owned in another firm represent between 20% and 50% of
+the overall ownership of that firm, an investment is treated as a minority, active
+investment. While these investments have an initial acquisition value, a proportional share
+(based upon ownership proportion) of the net income and losses made by the firm in which
+the investment was made, is used to adjust the acquisition cost. In addition, the dividends
+received from the investment reduce the acquisition cost. This appROAch to valuing
+investments is called the equity appROAch.
+The market value of these investments is not considered until the investment is
+liquidated, at which point the gain or loss from the sale, relative to the adjusted acquisition
+cost is shown as part of the earnings under extraordinary items in that PEriod.
+Majority, Active Investments
+If the SECurities or assets owned in another firm represent more than 50% of the
+overall ownership of that firm, an investment is treated as a majority active investment2.
+In this case, the investment is no longer shown as a financial investment but is instead
+replaced by the assets and liabilities of the firm in which the investment was made. This
+appROAch leads to a consolidation of the balance sheets of the two firms, where the assets
+and liabilities of the two firms are merged and presented as one balance sheet. The share of
+the firm that is owned by other investors is shown as a minority interest on the liability
+side of the balance sheet. A similar consolidation occurs in the financial statements of the
+other firm as well. The statement of cash flows reflects the cumulated cash inflows and
+outflows of the combined firm. This is in contrast to the equity appROAch, used for minority
+active investments, in which only the dividends received on the investment are shown as a
+cash inflow in the cash flow statement.
+2 Firms have evaded the requirements of consolidation by keeping their share of ownership in other firms
+below 50%.
+9
+10
+Here again, the market value of this investment is not considered until the ownership
+stake is liquidated. At that point, the difference between the market price and the net value of
+the equity stake in the firm is treated as a gain or loss for the PEriod.
+Intangible Assets
+Intangible assets include a wide array of assets ranging from patents and trademarks
+to goodwill. The accounting standards vary across intangible assets.
+1. Patents and Trademarks
+Patents and trademarks are valued differently dePEnding on whether they are
+generated internally or acquired. When patents and trademarks are generated from internal
+sources, such as research, the costs incurred in developing the asset are exPEnsed in that
+PEriod even though the asset might have a life of several accounting PEriods. Thus, the
+intangible asset is not usually valued in the balance sheet of the firm. In contrast, when an
+intangible asset is acquired from an external party, it is treated as an asset.
+Intangible assets have to be amortized over their exPEcted lives, with a maximum
+amortization PEriod of 40 years. The standard practice is to use straight-line amortization.
+For tax purposes, however, firms are not allowed to amortize goodwill or other intangible
+assets with no sPEcific lifetime.
+2. Goodwill
+Intangible assets are sometimes the by-products of acquisitions. When a firm
+acquires another firm, the purchase price is fIRSt allocated to tangible assets and then
+allocated to any intangible assets such as patents or trade names. Any residual becomes
+goodwill. While accounting principles suggest that goodwill captures the value of any
+intangibles that are not sPEcifically identifiable, it is really a reflection of the difference
+between the market value of the firm owning the assets and the book value of assets. This
+appROAch is called purchase accounting and it creates an intangible asset (goodwill) which
+has to be amortized over 40 years. Firms, which do not want to see this charge against their
+earnings, often use an alternative appROAch called pooling accounting, in which the
+purchase price never shows up in the balance sheet. Instead, the book values of the two
+companies involved in the merger are aggregated to create the consolidated balance of the
+combined firm.3
+3 The Financial Accounting Standards Board (FASB) was considering eliminating the use of pooling and
+reducing the amortization PEriod for goodwill in purchase accounting to 20 years at the time this book went
+to print.
+10
+Illustration 3.1: Asset Values for Boeing and the Home Depot
+Table 3.1 summarizes asset values, as measured in the balance sheets of Boeing, the
+aerospace giant, and The Home Depot, a building suppliers retailer, at the end of the 1998
+financial year:
+Table 3.1: Assets: Boeing and the Home Depot
+Boeing
+Home Depot
+11
+Net Fixed Assets
+Goodwill
+Investments and Notes Receivable
+Deferred Income Taxes
+Prepaid PEnsion ExPEnse
+Customer Financing
+Other Assets
+Current Assets
+Cash
+Short-term Marketable Investments
+Accounts Receivables
+Current Portion of Customer Financing
+Deferred Income Taxes
+Inventories
+Other Current Assets
+Total Current Assets
+Total Assets
+$8,589
+$2,312
+$0
+$411
+$3,513
+$4,930
+$542
+$2,183
+$279
+$3,288
+$781
+$1,495
+$8,349
+$0
+$16,375
+$36,672
+$8,160
+$140
+$41
+$0
+$0
+$0
+$191
+$62
+$0
+$469
+$0
+$0
+$4,293
+$109
+$4,933
+$13,465
+There are a number of points worth noting about these asset values.
+1. Goodwill: Boeing, which acquired Rockwell in 1996 and MCDOnnell Douglas in 1997,
+used purchase accounting for the Rockwell acquisition and pooling for MCDOnnell
+Douglas. The goodwill on the balance sheet reflects the excess of acquisition value over
+book value for Rockwell and is being amortized over 30 years. With MCDOnnell
+Douglas, there is no recording of the premium paid on the acquisition among the assets.
+2. Customer Financing and Accounts Receivable: Boeing often either provides financing
+to its customers to acquire its planes or acts as the lessor on the planes. Since these
+contracts tend to run over several years, the present value of the payments due in future
+years on the financing and the lease payments is shown as customer financing. The
+current portion of these payments is shown as accounts receivable. The Home Depot
+provides credit to its customers as well, but all these payments due are shown as
+accounts receivable, since they are all short term.
+11
+12
+3. Inventories: Boeing values inventories using the weighted average cost method, while
+The Home Depot uses the FIFO appROAch for valuing inventories.
+4. Marketable SECurities: Boeing classifies its short term investments as trading
+investments and records them at market value. The Home Depot has a mix of trading,
+available-for-sale and held-to-maturity investments and therefore uses a mix of book
+and market value to value these investments.
+5. Prepaid PEnsion ExPEnse: Boeing records the excess of its PEnsion fund assets over its
+exPEcted PEnsion fund liabilities as an asset on the balance sheet.
+Finally, the balance sheet for Boeing fails to report the value of a very significant asset,
+which is the effect of past research and development exPEnses. Since accounting convention
+requires that these be exPEnsed in the year that they occur and not capitalized, the research
+asset does not show up in the balance sheet. In chapter 9, we will consider how to capitalize
+research and development exPEnses and the effects on balance sheets.
+Measuring Financing Mix
+The SECond set of questions that we would like to answer and accounting statements
+to shed some light on relates to the current value and subsequently the mixture of debt and
+equity used by the firm. The bulk of the information about these questions is provided on
+the liability side of the balance sheet and the footnotes.
+Accounting Principles Underlying Liability and Equity Measurement
+Just as with the measurement of asset value, the accounting categorization of
+liabilities and equity is governed by a set of fairly rigid principles. The fIRSt is a strict
+categorization of financing into either a liability or equity based upon the nature of the
+obligation. For an obligation to be recognized as a liability, it must meet three requirements:
+1. It must be exPEcted to lead to a future cash outflow or the loss of a future cash inflow at
+some sPEcified or determinable date,
+2. The firm cannot avoid the obligation.
+3. The transaction giving rise to the obligation has hapPEned already.
+In keeping with the earlier principle of conservatism in estimating asset value, accountants
+recognize as liabilities only cash flow obligations that cannot be avoided.
+The SECond principle is that the value of both liabilities and equity in a firm are
+better estimated using historical costs with accounting adjustments, rather than with
+exPEcted future cash flows or market value. The process by which accountants measure the
+value of liabilities and equities is inextricably linked to the way they value assets. Since
+assets are primarily valued at historical cost or at book value, both debt and equity also get
+12
+measured primarily at book value. In the SECtion that follows, we will examine the
+accounting measurement of both liabilities and equity.
+Measuring the Value of Liabilities and Equities
+Accountants categorize liabilities into current liabilities, long term debt and long term
+liabilities that are neither debt nor equity. Next, we will examine the way they measure each
+13
+of these.
+Current Liabilities
+Current liabilities categorizes all obligations that the firm has coming due in the next
+accounting PEriod. These generally include:
+1. Accounts Payable - representing credit received from suppliers and other vendors to the
+firm. The value of accounts payable represents the amounts due to these creditors. For
+this item, book and market value should be similar.
+2. Short term borrowing - representing short term loans (due in less than a year) taken to
+finance the oPErations or current asset needs of the business. Here again, the value
+shown represents the amounts due on such loans, and the book and market value should
+be similar, unless the default risk of the firm has changed dramatically since it borrowed
+the money.
+3. Short term portion of long term borrowing - representing the portion of the long term
+debt or bonds that is coming due in the next year. Here again, the value shown is the
+actual amount due on these loans, and market and book value should converge as the
+due date appROAches.
+4. Other short term liabilities - which is a catch-all component for any other short term
+liabilities that the firm might have, including wages due to its employees and taxes due
+to the government.
+Of all the items on the liability side of the balance sheet, ABSent outright fraud, current
+liabilities should be the one for which the accounting estimates of book value and financial
+estimates of market value are the closest.
+Long Term Debt
+Long term debt for firms can take one of two forms. It can be a long-term loan from
+a bank or other financial institution or it can be a long-term bond issued to financial
+markets, in which case the creditors are the investors in the bond. Accountants measure the
+value of long term debt by looking at the present value of payments due on the loan or bond
+at the time of the borrowing. For bank loans, this will be equal to the nominal value of the
+loan. With bonds, however, there are three possibilities: When bonds are issued at par value,
+13
+14
+for instance, the value of the long-term debt is generally measured in terms of the nominal
+obligation created, in terms of principal (face value) due on the borrowing. When bonds are
+issued at a premium or a discount on par value, the bonds are recorded at the issue price, but
+the premium or discount to the face value is amortized over the life of the bond. As an
+extreme example, companies that issue zero coupon debt have to record the debt at the issue
+price, which will be significantly below the principal (face value) due at maturity. The
+difference between the issue price and the face value is amortized each PEriod and is treated
+as a non-cash interest exPEnse that is tax deductible.
+In all these cases, the book value of debt is unaffected by changes in interest rates
+during the life of the loan or bond. Note that as market interest rates rise (fall), the present
+value of the loan obligations should decrease (increase). This updated market value for debt
+is not shown on the balance sheet. If debt is retired prior to maturity, the difference between
+book value and the amount paid at retirement is treated as an extraordinary gain or loss in
+the income statement.
+Finally, companies which have long term debt denominated in non-domestic
+currencies have to adjust the book value of debt for changes in exchange rates. Since
+exchange rate changes reflect underlying changes in interest rates, it does imply that this
+debt is likely to be valued much nearer to market value than is debt in the home currency.
+Other Long Term Liabilities
+Firms often have long term obligations that are not captured in the long term debt
+item. These include obligations to lessors on assets that firms have leased, to employees in
+the form of PEnsion fund and health care benefits yet to be paid, and to the government in
+the form of taxes deferred. In the last two decades, accountants have increasingly moved
+towards quantiFYing these liabilities and showing them as long term liabilities.
+1. Leases
+Firms often choose to lease long-term assets rather than buy them. Lease payments
+create the same kind of obligation that interest payments on debt create, and they must be
+viewed in a similar light. If a firm is allowed to lease a significant portion of its assets and
+keep it off its financial statements, a PErusal of the statements will give a very misleading
+view of the company's financial strength. Consequently, accounting rules have been devised
+to force firms to reveal the extent of their lease obligations on their books.
+There are two ways of accounting for leases. In an oPErating lease, the lessor (or
+owner) transfers only the right to use the proPErty to the lessee. At the end of the lease
+PEriod, the lessee returns the proPErty to the lessor. Since the lessee does not assume the
+risk of ownership, the lease exPEnse is treated as an oPErating exPEnse in the income
+14
+15
+statement and the lease does not affect the balance sheet. In a capital lease, the lessee
+assumes some of the risks of ownership and enjoys some of the benefits. Consequently, the
+lease, when signed, is recognized both as an asset and as a liability (for the lease payments)
+on the balance sheet. The firm gets to claim depreciation each year on the asset and also
+deducts the interest exPEnse component of the lease payment each year. In general, capital
+leases recognize exPEnses sooner than equivalent oPErating leases.
+Since firms prefer to keep leases off the books and sometimes to defer exPEnses
+they have a strong incentive to report all leases as oPErating leases. Consequently the
+Financial Accounting Standards Board has ruled that a lease should be treated as a capital
+lease if it meets any one of the following four conditions.
+(a) The lease life exceeds 75% of the life of the asset.
+(b) There is a transfer of ownership to the lessee at the end of the lease term.
+(c) There is an option to purchase the asset at a "bargain price" at the end of the lease term.
+(d) The present value of the lease payments, discounted at an appropriate discount rate,
+exceeds 90% of the fair market value of the asset.
+The lessor uses the same criteria for determining whether the lease is a capital or oPErating
+lease and accounts for it accordingly. If it is a capital lease, the lessor records the present
+value of future cash flows as revenue and recognizes exPEnses. The lease receivable is also
+shown as an asset on the balance sheet and the interest revenue is recognized over the term
+of the lease as paid.
+From a tax standpoint, the lessor can claim the tax benefits of the leased asset only if
+it is an oPErating lease, though the revenue code uses slightly different criteria4 for
+determining whether the lease is an oPErating lease.
+2. Employee Benefits
+Employers provide PEnsion and health care benefits to their employees. In many
+cases, the obligations created by these benefits are extensive and a failure by the firm to
+adequately fund these obligations needs to be revealed in financial statements.
+a. PEnsion Plans
+In a PEnsion plan, the firm agrees to provide certain benefits to its employees, either
+by sPEciFYing a 'defined contribution' (wherein a fixed contribution is made to the plan each
+year by the employer, without any promises as to the benefits which will be delivered in the
+4 The requirements for an oPErating lease in the revenue code are as follows - (a) the proPErty can be used by
+someone other than the lessee at the end of the lease term, (b) the lessee cannot buy the asset using a
+bargain purchase option, (c) the lessor has at least 20% of its capital at risk, (d) the lessor has a positive
+cash flow from the lease indePEndent of tax benefits and (e) the lessee does not have an investment in the
+15
+16
+plan) or a 'defined benefit' (wherein the employer promises to pay a certain benefit to the
+employee). In the latter case, the employer has to put sufficient money into the plan each
+PEriod to meet the defined benefits.
+Under a defined contribution plan, the firm meets its obligation once it has made the
+pre-sPEcified contribution to the plan. Under a defined-benefit plan, the firm's obligations
+are much more difficult to estimate, since they will be determined by a number of variables
+including the benefits that employees are entitled to, the prior contributions made by the
+employer, the returns the plan have earned, and the rate of return that the employer exPEcts
+to make on current contributions. As these variables change, the value of the PEnsion fund
+assets can be greater than, less than or equal to PEnsion fund liabilities (which is the present
+value of promised benefits). A PEnsion fund whose assets exceed its liabilities is an overfunded plan, whereas one whose assets are less than its liabilities is an under-funded plan
+and disclosures to that effect have to be included in financial statements, generally in the
+footnotes.
+When a PEnsion fund is over-funded, the firm has several options. It can withdraw
+the excess assets from the fund, it can discontinue contributions to the plan, or it can
+continue to make contributions on the assumption that the over-funding is a transitory
+phenomenon that could well disapPEar by the next PEriod. When a fund is under-funded,
+the firm has a liability, though accounting standards require that firms reveal only the excess
+of accumulated5 PEnsion fund liabilities over PEnsion fund assets on the balance sheet.
+b. Health Care Benefits
+A firm can provide health care benefits in one of two ways: by making a fixed
+contribution to a health care plan, without promising sPEcific benefits (analogous to a
+defined contribution plan), or by promising sPEcific health benefits and setting aside the
+funds to provide these benefits (analogous to a defined benefit plan). The accounting for
+health care benefits is very similar to the accounting for PEnsion obligations. The key
+difference between the two is that firms do not have to report6 the excess of their health care
+obligations over the health care fund assets as a liability on the balance sheet, though a
+footnote to that effect has to be added to the financial statement.
+lease.
+5 The accumulated PEnsion fund liability does not take into account the projected benefit obligation, where
+actuarial estimates of future benefits are made. Consequently, it is much smaller than the total PEnsion
+liabilities.
+6 While companies might not have to report the excess of their health care obligations over assets as a
+liability, some firms choose to do so anyway.
+16
+17
+3. Deferred Taxes
+Firms often use different methods of accounting for tax and financial reporting
+purposes, leading to a question of how tax liabilities should be reported. Since accelerated
+depreciation and favorable inventory valuation methods for tax accounting purposes lead to
+a deferral of taxes, the taxes on the income reported in the financial statements will generally
+be much greater than the actual tax paid. The same principles of matching exPEnses to
+income that underlie accrual accounting suggest that the 'deferred income tax' be recognized
+in the financial statements. Thus a company which pays taxes of $55,000 on its taxable
+income based upon its tax accounting, and which would have paid taxes of $75,000 on the
+income reported in its financial statements, will be forced to recognize the difference
+($20,000) as deferred taxes in liabilities. Since the deferred taxes will be paid in later years,
+they will be recognized as paid.
+It is worth noting that companies that actually pay more in taxes than the taxes they
+report in the financial statements create an asset on the balance sheet called a deferred tax
+asset. This reflects the fact that the firm's earnings in future PEriods will be greater as the
+firm is given credit for the deferred taxes.
+The question of whether the deferred tax liability is really a liability is an interesting
+one. Firms do not owe the amount categorized as deferred taxes to any entity, and treating it
+as a liability makes the firm look more risky than it really is. On the other hand, the firm will
+eventually have to pay its deferred taxes, and treating it as a liability seems to be the
+conservative thing to do.
+Preferred Stock
+When a company issues preferred stock, it generally creates an obligation to pay a
+fixed dividend on the stock. Accounting rules have conventionally not viewed preferred
+stock as debt because the failure to meet preferred dividends does not result in bankruptcy.
+At the same time, the fact the preferred dividends are cumulative makes them more onerous
+than common equity. Thus, preferred stock is viewed in accounting as a hybrid SECurity,
+sharing some characteristics with equity and some with debt.
+Preferred stock is valued on the balance sheet at its original issue price, with any
+cumulated unpaid dividends added on. Convertible preferred stock is treated similarly, but it
+is treated as equity on conversion.
+Equity
+The accounting measure of equity is a historical cost measure. The value of equity
+shown on the balance sheet reflects the original proceeds received by the firm when it issued
+the equity, augmented by any earnings made since (or reduced by losses, if any) and
+17
+18
+reduced by any dividends paid out during the PEriod. While these three items go into what
+we can call the book value of equity, a few other items also end up in this estimate.
+1. When companies buy back stock for short PEriods, with the intent of reissuing the stock
+or using it to cover option exercises, they are allowed to show the repurchased stock as
+treasury stock, which reduces the book value of equity. Firms are not allowed to keep
+treasury stock on the books for extended PEriods and have to reduce their book value of
+equity by the value of repurchased stock in the case of actions such as stock buybacks.
+Since these buybacks occur at the current market price, they can result in significant
+reductions in the book value of equity.
+2. Firms that have significant losses over extended PEriods or carry out massive stock
+buybacks can end up with negative book values of equity.
+3. Relating back to our discussion of marketable SECurities, any unrealized gain or loss in
+marketable SECurities that are classified as available-for-sale is shown as an increase or
+decrease in the book value of equity in the balance sheet.
+As part of their financial statements, firms provide a summary of changes in shareholders
+equity during the PEriod, where all the changes that occurred to the accounting (book value)
+measure of equity value are summarized.
+Accounting rules still do not seem to have come to grips with the effect of warrants
+and equity options (such as those granted by many firms to management) on the book value
+of equity. If warrants are issued to financial markets, the proceeds from this issue will show
+up as part of the book value of equity. In the far more prevalent case where options are
+given or granted to management, there is no effect on the book value of equity. When the
+options are exercised, the cash inflows from the exercise do ultimately show up in the book
+value of equity and there is a corresponding increase in the number of shares outstanding.
+The same point can be made about convertible bonds, which are treated as debt until
+conversion, at which point they become part of equity. In partial defense of accountants, we
+must note that the effect of options outstanding is often revealed when earnings and book
+value are computed on a PEr share basis. Here, the computation is made on two bases, the
+fIRSt on the current number of shares outstanding (primary shares outstanding) and the
+SECond on the number of shares outstanding after all options have been exercised (fully
+diluted shares outstanding).
+As a final point on equity, accounting rules still seem to consider preferred stock,
+with its fixed dividend, as equity or near-equity, largely because of the fact that preferred
+dividends can be deferred or cumulated without the risk of default. To the extent that there
+can still be a loss of control in the firm (as opposed to bankruptcy), we would argue that
+18
+19
+preferred stock shares almost as many characteristics with unSECured debt as it does with
+equity.
+Illustration 3.2: Measuring Liabilities and Equity: Boeing and the Home Depot
+Table 3.2 summarizes the accounting estimates of liabilities and equity at Boeing
+and The Home Depot for the 1998 financial year:
+Table 3.2: Liabilities - Boeing and Home Depot
+Boeing
+Home Depot
+Current Liabilities
+Accounts Payable & other liabilities
+$10,733
+Accrued Salaries and ExPEnses
+Advances in excess of costs
+Taxes payable
+Short term debt and Current LT debt
+Total Current Liabilities
+Accrued Health Care Benefits
+Other Long Term Liabilities
+Deferred Income Taxes
+Long-term Debt
+$0
+$1,251
+$569
+$869
+$13,422
+$4,831
+$0
+$0
+$1,586
+$1,010
+$0
+$247
+$14
+$2,857
+$0
+$210
+$83
+$6,103
+$1,566
+Minority Interests
+$0
+$9
+Shareholder's Equity
+Par Value
+Additional Paid-in Capital
+Retained Earnings
+Total Shareholder's Equity
+Total Liabilities
+$5,059
+$0
+$7,257
+$12,316
+$36,672
+$37
+$2,891
+$5,812
+$8,740
+$13,465
+The most significant difference between the companies is the accrued health care liability,
+representing the present value of exPEcted health care obligations promised to employees in
+excess of health care assets. The shareholders' equity for both firms represents the book
+value of equity and is significantly different from the market value of equity. Table 3.3
+summarizes the difference at the end of the 1998.
+Table 3.3: Book and Market Value of Equity Comparison
+Book Value of Equity
+$12,316
+$8,740
+Boeing
+Home Depot
+19
+20
+Market Value of Equity
+$32,595
+$85,668
+One final point needs to be made about the Home Depot's liabilities. The Home
+Depot has substantial oPErating leases. Because these leases are treated as oPErating
+exPEnses, they do not show up in the balance sheet. Since they represent commitments to
+make payments in the future, we would argue that oPErating leases should be capitalized and
+treated as part of the liabilities of the firm. We will consider how best to do this later in this
+book.
+Measuring Earnings and Profitability
+How profitable is a firm? What did it earn on the assets that it invested in? These are
+the fundamental questions we would like financial statements to answer. Accountants use
+the income statement to provide information about a firm's oPErating activities over a
+sPEcific time PEriod. In terms of our description of the firm, the income statement is
+designed to measure the earnings from assets in place. In this SECtion, we will examine the
+principles underlying earnings and return measurement in accounting, and the methods that
+they are put into practice.
+Accounting Principles Underlying Measurement of Earnings and Profitability
+Two primary principles underlie the measurement of accounting earnings and
+profitability. The fIRSt is the principle of accrual accounting. In accrual accounting, the
+revenue from selling a good or service is recognized in the PEriod in which the good is sold
+or the service is PErformed (in whole or substantially). A corresponding effort is made on
+the exPEnse side to match7 exPEnses to revenues. This is in contrast to cash accounting,
+where revenues are recognized when payment is received and exPEnses are recorded when
+they are paid.
+The SECond principle is the categorization of exPEnses into oPErating, financing and
+capital exPEnses. OPErating exPEnses are exPEnses that, at least in theory, provide benefits
+only for the current PEriod; the cost of labor and materials exPEnded to create products that
+are sold in the current PEriod is a good example. Financing exPEnses are exPEnses arising
+from the non-equity financing used to raise capital for the business; the most common
+example is interest exPEnses. Capital exPEnses are exPEnses that are exPEcted to generate
+benefits over multiple PEriods; for instance, the cost of buying land and buildings is treated
+as a capital exPEnse.
+7 If a cost (such as an administrative cost) cannot be easily linked with a particular revenues, it is usually
+recognized as an exPEnse in the PEriod in which it is consumed.
+20
+21
+OPErating exPEnses are subtracted from revenues in the current PEriod to arrive at a
+measure of oPErating earnings from the firm. Financing exPEnses are subtracted from
+oPErating earnings to estimate earnings to equity investors or net income. Capital exPEnses
+are written off over their useful life (in terms of generating benefits) as depreciation or
+amortization.
+Measuring Accounting Earnings and Profitability
+Since income can be generated from a number of different sources, generally
+accepted accounting principles (GAAP) require that income statements be classified into
+four SECtions: income from continuing oPErations, income from discontinued oPErations,
+extraordinary gains or losses and adjustments for changes in accounting principles.
+Generally accepted accounting principles require the recognition of revenues when
+the service for which the firm is getting paid has been PErformed in full or substantially and
+for which it has received in return either cash or a receivable that is both observable and
+measurable. ExPEnses linked directly to the production of revenues (like labor and
+materials) are recognized in the same PEriod in which revenues are recognized. Any
+exPEnses that are not directly linked to the production of revenues are recognized in the
+PEriod in which the firm consumes the services.
+While accrual accounting is straightforward in firms that produce goods and sell
+them, there are sPEcial cases where accrual accounting can be complicated by the nature of
+the product or service being offered. For instance, firms that enter into long term contracts
+with their customers, for instance, are allowed to recognize revenue on the basis of the
+PErcentage of the contract that is completed. As the revenue is recognized on a PErcentage of
+completion basis, a corresponding proportion of the exPEnse is also recognized. When there
+is considerable uncertainty about the capacity of the buyer of a good or service to pay for a
+service, the firm providing the good or service may recognize the income only when it
+collects portions of the selling price under the installment method.
+Reverting back to our discussion of the difference between capital and oPErating
+exPEnses, oPErating exPEnses should reflect only those exPEnses that create revenues in the
+current PEriod. In practice, however, a number of exPEnses are classified as oPErating
+exPEnses that do not seem to meet this test. The fIRSt is depreciation and amortization. While
+the notion that capital exPEnditures should be written off over multiple PEriods is reasonable,
+the accounting depreciation that is computed on the original historical cost often bears little
+resemblance to the actual economical depreciation. The SECond exPEnse is research and
+development exPEnses, which accounting standards in the United States classiFY as
+21
+22
+oPErating exPEnses, but which clearly provide benefits over multiple PEriods. The rationale
+used for this classification is that the benefits cannot be counted on or easily quantified.
+Much of financial analysis is built around the exPEcted future earnings of a firm, and
+many of these forecasts start with the current earnings. It is therefore important that we
+know how much of these earnings come from the ongoing oPErations of the firm, and how
+much can be attributed to unusual or extraordinary events, that are unlikely to recur on a
+regular basis. From that standpoint, it is useful that firms categorize exPEnses into oPErating
+and nonrecurring exPEnses, since it is the earnings prior to extraordinary items that should
+be used in forecasting. Nonrecurring items include the following:
+a. Unusual or Infrequent items, such as gains or losses from the divestiture of an asset or
+division and write-offs or restructuring costs. Companies sometimes include such items
+as part of oPErating exPEnses. As an example, Boeing in 1997 took a write-off of
+$1,400 million to adjust the value of assets it acquired in its acquisition of MCDOnnell
+Douglas, and it showed this as part of oPErating exPEnses.
+b. Extraordinary items, which are defined as events that are unusual in nature, infrequent
+in occurrence and material in impact. Examples include the accounting gain associated
+with refinancing high coupon debt with lower coupon debt, and gains or losses from
+marketable SECurities that are held by the firm.
+c. Losses associated with discontinued oPErations, which measure both the loss from the
+phase out PEriod and the estimated loss on the sale of the oPErations. To qualiFY,
+however, the oPErations have to be separable separated from the firm.
+d. Gains or losses associated with accounting changes, which measure earnings changes
+created by accounting changes made voluntarily by the firm (such as a change in
+inventory valuation and change in reporting PEriod) and accounting changes mandated
+by new accounting standards.
+Illustration 3.3: Measures of Earnings
+Table 3.4 summarizes the income statements of Boeing and the Home Depot for the
+1998 financial year:
+Table 3.4: Income Statements: Boeing and Home Depot
+Boeing
+Home Depot
+(in millions)
+(in millons)
+Sales & Other OPErating Revenues
+$56,154.00
+$30,219.00
+- OPErating Costs & ExPEnses
+$51,022.00
+$27,185.00
+- Depreciation
+- Research and Development ExPEnses
+$1,517.00
+$1,895.00
+$373.00
+$0.00
+22
+23
+OPErating Income
++ Other Income (Includes Interest Income)
+- Interest ExPEnses
+Earnings before Taxes
+- Income Taxes
+Net Earnings (Loss)
+$1,720.00
+$2,661.00
+$130.00
+$453.00
+$30.00
+$37.00
+$1,397.00
+$2,654.00
+$277.00
+$1,040.00
+$1,120.00
+$1,614.00
+Boeing's oPErating income is reduced by the research and development exPEnse, which is
+treated as an oPErating exPEnse by accountants. The Home Depot's oPErating exPEnses
+include oPErating leases. As noted earlier, the treatment of both these items skews earnings
+and we will consider how best to adjust earnings when such exPEnses exist, in chapter 9.
+Measures of Profitability
+While the income statement allows us to estimate how profitable a firm is in
+ABSolute terms, it is just as important that we gauge the profitability of the firm in
+comparison terms or PErcentage returns. Two basic gauges measure profitability. One
+examines the profitability relative to the capital employed to get a rate of return on
+investment. This can be done either from the viewpoint of just the equity investors, or by
+looking at the entire firm. Another examines profitability relative to sales, by estimating a
+profit margin.
+I. Return on Assets (ROA) & Return on Capital (ROC)
+The return on assets (ROA) of a firm measures its oPErating efficiency in
+generating profits from its assets, prior to the effects of financing.
+ROA =
+EBIT
+(
+- 1
+Total
+rate
+tax
+Assets
+)
+Earnings before interest and taxes (EBIT) is the accounting measure of oPErating income
+from the income statement and total assets refers to the assets as measured using accounting
+rules, i.e., using book value for most assets. Alternatively, return on assets can be written as:
+Net
+Income
++
+ROA
+=
+Interest
+Total
+ExPEnses
+Assets
+(
+- 1
+tax
+rate
+)
+By separating the financing effects from the oPErating effects, the return on assets provides
+a cleaner measure of the true return on these assets.
+ROA can also be computed on a pre-tax basis with no loss of generality, by using
+the earnings before interest and taxes (EBIT), and not adjusting for taxes -
+23
+24
+-Pre
+tax
+ROA
+=
+EBIT
+Total
+Assets
+This measure is useful if the firm or division is being evaluated for purchase by an acquirer
+with a different tax rate or structure.
+A more useful measure of return relates the oPErating income to the capital invested
+in the firm, where capital is defined as the sum of the book value of debt and equity. This is
+the return on capital (ROC). When a substantial portion of the liabilities is either current
+(such as accounts payable) or non-interest bearing, this appROAch provides a better measure
+of the true return earned on capital employed in the business.
+After
+-
+Tax
+ROC
+=
+EBIT
++
+(
+)
+t-1
+of BV
+of BV
+Debt
+Equity
+-Pre
+Tax
+ROC
+=
+EBIT
++
+of BV
+Debt
+of BV
+Equity
+Illustration 3.4: Estimating Return on Capital
+Table 3.5 summarizes the after-tax return on asset and return on capital estimates for
+Boeing, the Home Depot and InfoSoft, using both average and beginning measures of
+capital in 1998:
+Table 3.5: Return on Capital
+Boeing
+Home Depot
+After-tax OPErating Income
+BV of Capital - Beginning
+BV of Capital - Ending
+BV of Capital - Average
+ROC (based on average)
+ROC (based on beginning)
+$1,118
+$19,807
+$19,288
+$19,548
+5.72%
+5.64%
+$1,730
+$8,525
+$10,320
+$9,423
+18.36%
+20.29%
+Boeing had a terrible year in terms of after-tax returns. The Home Depot had a much better
+year.
+Decomposing Return on Capital
+The return on capital of a firm can be written as a function of its oPErating profit
+margin and its capital turnover ratio.
+24
+25
+After - Tax ROC = EBIT 1-t
+)
+(
+BV of Capital
+(
+= EBIT 1-t
+Sales
+)
+X
+Sales
+BV of Capital
+= After -Tax OPErating Margin * Capital Turnover Ratio
+Pre- Tax ROC = Pre -Tax OPErating Margin * Capital Turnover Ratio
+Thus, a firm can arrive at a high ROC by either increasing its profit margin or more
+efficiently utilizing its capital to increase sales. There are likely to be comPEtitive constraints
+and technological constraints on increasing sales, but firms still have some freedom within
+these constraints to choose the mix of profit margin and capital turnover that maximizes
+their ROC. The return on capital varies widely across firms in different businesses, largely
+as a consequence of differences in profit margins and capital turnover ratios.
+mgnroc.xls: There is a dataset on the web that summarizes the oPErating margins,
+turnover ratios and returns on capital of firms in the United States, classified by industry.
+II. Return on Equity
+While the return on capital measures the profitability of the overall firm, the return
+on equity (ROE) examines profitability from the PErsPEctive of the equity investor by
+relating profits to the equity investor (net profit after taxes and interest exPEnses) to the
+book value of the equity investment.
+ROE =
+Net
+of
+Income
+Common
+Equity
+Book
+Value
+Since preferred stockholders have a different tyPE of claim on the firm than do common
+stockholders, the net income should be estimated after preferred dividends and the book
+value of common equity should not include the book value of preferred stock. This can be
+accomplished by using net income after preferred dividends in the numerator and the book
+value of common equity in the denominator.
+Determinants of ROE
+Since the ROE is based upon earnings after interest payments, it is affected by the
+financing mix the firm uses to fund its projects. In general, a firm that borrows money to
+finance projects and that earns a ROC on those projects exceeding the after-tax interest rate
+25
+it pays on its debt will be able to increase its ROE by borrowing. The ROE can be written as
+26
+follows8:
+where,
+ROC
+=
+ROE
+=
+ROC
++
+(
+ROC
+)t-1i-
+)
+(
+D
+E
+EBIT
++
+(
+)
+t-1
+of BV
+of BV
+Debt
+Equity
+D =
+E
+of BV
+of BV
+Debt
+Equity
+i =
+Interest
+ExPEnse
+on
+Debt
+of BV
+Debt
+t = Marginal tax rate on ordinary income
+The SECond term captures the benefit of financial leverage.
+Illustration 3.5: ROE Computations
+Table 3.6 summarizes the return on equity for Boeing and the Home Depot in 1998:
+Table 3.6: Return on Equity
+Return Ratios
+Net Income
+BV of Equity- Beginning
+BV of Equity- Ending
+BV of Equity - Average
+ROE (based on average)
+ROE (based on beginning)
+Boeing
+Home Depot
+$1,120
+$12,953
+$12,316
+$12,635
+8.86%
+8.65%
+$1,614
+$7,214
+$8,740
+$7,977
+20.23%
+22.37%
+The results again indicate that Boeing had a poor year in 1998, while the Home Depot
+reported a healthier return on equity. The returns on equity can also be estimated by
+decomposing into the components sPEcified above (using the adjusted beginning of the year
+numbers):
+After-tax ROC
+Boeing
+Home Depot
+5.82%
+16.37%
+8
+ROC
++
+D
+E
+(
+ROC
+(
+t-1i-
+)
+)
+=
+NI
+=
+)
++
+(
+t-1IE
++
+ED
++
+1
+D
+E
+NI
++
+(
+t-1IE
++
+ED
+(
+)
+t-1IE
+E
+=
+)
++
+D
+E
+NI
++
+NI
+E
+(
+t-1IE
+E
++
+(
+t-1IE
++
+ED
+)
+(
+t-1IE
+E
+)
+)
+(
+t-1IE
+D
+)
+=
+NI
+E
+=
+ROE
+26
+-
+-
+(cid:247)
+l
+(cid:246)
+(cid:231)
+L
+(cid:230)
+(cid:247)
+l
+(cid:246)
+(cid:231)
+L
+(cid:230)
+(cid:247)
+l
+(cid:246)
+(cid:231)
+L
+(cid:230)
+-
+27
+Debt/Equity Ratio
+Book Interest Rate (1-tax rate)
+ROE
+35.18%
+4.22%
+6.38%
+48.37%
+4.06%
+22.33%
+Note that we used a tax rate of 35% on both the return on capital and the book interest rate.
+This appROAch results in a return on equity that is different from the one estimated using the
+net income and the book value of equity.
+rocROE.xls: There is a dataset on the web that summarizes the return on capital,
+debt equity ratios, book interest rates and returns on equity of firms in the United States,
+classified by industry.
+Measuring Risk
+How risky are the investments the firm has made over time? How much risk do
+equity investors in a firm face? These are two more questions that we would like to find the
+answer to in the course of an investment analysis. Accounting statements do not really claim
+to measure or quantiFY risk in a systematic way, other than to provide footnotes and
+disclosures where there might be risk embedded in the firm. In this SECtion, we will examine
+some of the ways in which accountants try to assess risk.
+Accounting Principles Underlying Risk Measurement
+To the extent that accounting statements and ratios do attempt to measure risk, there
+seem to be two common themes.
+a. The fIRSt is that the risk being measured is the risk of default, i.e. the risk that a fixed
+obligation, such as interest or principal due on outstanding debt, will not be met. The
+bROAder equity notion of risk, which measures the variance of actual returns around
+exPEcted returns, does not seem to receive much attention. Thus, an all-equity-financed
+firm with positive earnings and few or no fixed obligations will generally emerge as a
+low-risk firm from an accounting standpoint, in spite of the fact that its earnings are
+unpredictable.
+b. Accounting risk measures generally take a static view of risk, by looking at the capacity
+of a firm at a point in time to meet its obligations. For instance, when ratios are used to
+assess a firm's risk, the ratios are almost always based upon one PEriod's income
+statement and balance sheet.
+27
+28
+Accounting Measures of Risk
+Accounting measures of risk can be bROAdly categorized into two groups. The fIRSt
+is disclosures about potential obligations or losses in values that show up as footnotes on
+balance sheets, which are designed to alert potential or current investors to the possibility of
+significant losses. The SECond is the ratios that are designed to measure both liquidity and
+default risk.
+Disclosures in Financial Statements
+In recent years, the number of disclosures that firms have to make about future
+obligations has proliferated. Consider, for instance, the case of contingent liabilities.
+These refer to potential liabilities that will be incurred under certain contingencies, as is the
+case when a firm is the defendant in a lawsuit. The general rule that has been followed is to
+ignore contingent liabilities which hedge against risk, since the obligations on the contingent
+claim will be offset9 by benefits elsewhere. In recent PEriods, however, significant losses
+borne by firms from supposedly hedged derivatives positions (such as options and futures)
+have led to FASB requirements that these derivatives be disclosed as part of a financial
+statement. In fact, PEnsion fund and health care obligations have moved from mere footnotes
+to actual liabilities for firms.
+Financial Ratios
+Financial statements have long been used as the basis for estimating financial ratios
+that measure profitability, risk and leverage. In the SECtion on earnings, we looked at two of
+the profitability ratios - return on equity and return on capital . In this SECtion, we will look
+at some of the financial ratios that are often used to measure the financial risk in a firm.
+1. Short-Term Liquidity Risk
+Short-term liquidity risk arises primarily from the need to finance current
+oPErations. To the extent that the firm has to make payments to its suppliers before it gets
+paid for the goods and services it provides, there is a cash shortfall that has to be met,
+usually through short-term borrowing. Though this financing of working capital needs is
+done routinely in most firms, financial ratios have been devised to keep track of the extent of
+the firm's exposure to the risk that it will not be able to meet its short-term obligations. The
+two most frequently used to measure short-term liquidity risk are the current ratio and the
+quick ratio.
+9 This assumes that the hedge is set up comPEtently. It is entirely possible that a hedge, if sloPPIly set up,
+can end up costing the firm money.
+28
+The current ratio is the ratio of current assets (cash, inventory, accounts receivable)
+to its current liabilities (obligations coming due within the next PEriod).
+29
+Current
+Ratio
+=
+Current
+Assets
+Liabilitie
+s
+Current
+A current ratio below one, for instance, would indicate that the firm has more obligations
+coming due in the next year than assets it can exPEct to turn to cash. That would be an
+indication of liquidity risk.
+While traditional analysis suggests that firms maintain a current ratio of 2 or greater,
+there is a trade-off here between minimizing liquidity risk and tying up more and more cash
+in net working capital (Net working capital = Current Assets - Current Liabilities). In fact, it
+can be reasonably argued that a very high current ratio is indicative of an unhealthy firm,
+which is having problems reducing its inventory. In recent years, firms have worked at
+reducing their current ratios and managing their net working capital better.
+Reliance on current ratios has to be temPEred by a few concerns. FIRSt, the ratio can
+be easily manipulated by firms around the time of financial reporting dates to give the
+illusion of safety; SECond, current assets and current liabilities can change by an equal
+amount, but the effect on the current ratio will dePEnd upon its level10 before the change.
+The quick or acid test ratio is a variant of the current ratio. It distinguishes current
+assets that can be converted quickly into cash (cash, marketable SECurities) from those that
+cannot (inventory, accounts receivable).
+Quick
+Ratio
+=
+Cash
++
+Marketable
+SECurities
+s
+Liabilitie
+Current
+The exclusion of accounts receivable and inventory is not a hard and fast rule. If there is
+evidence that either can be converted into cash quickly, it can, in fact, be included as part of
+the quick ratio.
+Turnover ratios measure the efficiency of working capital management by looking
+at the relationship of accounts receivable and inventory to sales and to the cost of goods
+sold.
+Accounts
+Receivable
+Turnover
+=
+Sales
+Accounts
+Average
+Receivable
+10 If the current assets and current liabilities increase by an equal amount, the current ratio will go down if
+29
+30
+Inventory
+Turnover
+=
+Cost
+of
+Average
+Goods
+Sold
+Inventory
+These ratios can be interpreted as measuring the sPEed with which the firm turns accounts
+receivable into cash or inventory into sales. These ratios are often expressed in terms of the
+number of days outstanding.
+Days
+Receivable
+Outstandin
+g
+=
+365
+Receivable
+Turnover
+Days
+Inventory
+Held
+=
+365
+Inventory
+Turnover
+A similar pair of ratios can be computed for accounts payable, relative to purchases.
+Accounts
+Payable
+Turnover
+=
+Purchases
+Accounts
+Average
+Payable
+Days
+Accounts
+Payable
+Outstandin
+g
+=
+365
+Payable
+Turnover
+Accounts
+Since accounts receivable and inventory are assets and accounts payable is a liability, these
+three ratios (standardized in terms of days outstanding) can be combined to get an estimate
+of how much financing the firm needs to fund working capital needs.
+Required
+Financing
+PEriod
+=
+Days
+Receivable
+Outstandin
+g
++(cid:247)
+Days
+Inventory
+Held
++(cid:247)
+Days
+Payable
+Outstandin
+g
+The greater the financing PEriod for a firm, the greater is its short-term liquidity risk.
+wcdata.xls: This is a dataset on the web that summarizes working capital ratios for
+firms in the United States, classified by industry.
+it was greater than one before the increase and go up if it was less than one.
+30
+(cid:247)
+(cid:247)
+l
+(cid:246)
+(cid:231)
+(cid:231)
+L
+(cid:230)
+(cid:247)
+l
+(cid:246)
+(cid:231)
+(cid:231)
+L
+(cid:230)
+(cid:247)
+l
+(cid:246)
+(cid:231)
+(cid:231)
+L
+(cid:230)
+31
+finratio.xls: This spreadsheet allows you to compute the working capital ratios for a
+firm, based upon financial statement data.
+2. Long-term Solvency and Default risk
+Measures of long-term solvency attempt to examine a firm's capacity to meet interest
+and principal payments in the long term. Clearly, the profitability ratios discussed earlier in
+the SECtion are a critical component of this analysis. The ratios sPEcifically designed to
+measure long term solvency try to relate profitability to the level of debt payments, to
+identiFY the degree of comfort with which the firm can meet these payments.
+Interest Coverage Ratios
+The interest coverage ratio measures the capacity of the firm to meet interest
+payments from pre-debt, pre-tax earnings.
+Interest
+Coverage
+Ratio
+=
+EBIT
+Interest
+ExPEnses
+The higher the interest coverage ratio, the more SECure is the firm's capacity to make interest
+payments from earnings. This argument however has to be temPEred by the recognition that
+earnings before interest and taxes is volatile and can drop significantly if the economy
+enters a recession. Consequently, two firms can have the same interest coverage ratio but be
+viewed very differently in terms of risk.
+The denominator in the interest coverage ratio can be easily extended to cover other
+fixed obligations such as lease payments. If this is done, the ratio is called a fixed charges
+coverage ratio.
+Fixed Chargeds Coverage Ratio = EBIT + Fixed Charges
+Fixed Charges
+Finally, this ratio, while stated in terms of earnings, can be restated in terms of cash flows,
+by using earnings before interest, taxes and depreciation (EBITDA) in the numerator and
+cash fixed charges in the denominator.
+Cash
+Fixed
+Charges
+Coverage
+Ratio
+=
+EBITDA
+Fixed
+Charges
+Cash
+Both interest coverage and fixed charge ratios are oPEn to the criticism that they do not
+consider capital exPEnditures, a cash flow that may be discretionary in the very short term,
+31
+but not in the long term if the firm wants to maintain growth. One way of capturing the
+extent of this cash flow, relative to oPErating cash flows, is to compute a ratio of the two.
+32
+OPErating
+Cash
+flow
+to
+Capital
+ExPEnditur
+es
+=
+Cash
+flows
+Capital
+from
+ExPEnditur
+OPErations
+es
+While there are a number of different definitions of cash flows from oPErations, the most
+reasonable way of defining it is to measure the cash flows from continuing oPErations,
+before interest but after taxes, and after meeting working capital needs.
+Cash flow from oPErations = EBIT (1-tax rate) - D Working Capital
+covratio.xls: There is a dataset on the web that summarizes the interest coverage
+and fixed charge coverage ratios for firms in the United States, classified by industry.
+Illustration 3.6: Interest and Fixed Charge Coverage Ratios
+Table 3.7 summarizes interest and fixed charge coverage ratios for Boeing and
+Home Depot in 1998:
+Table 3.7: Interest and Fixed Charge Coverage Ratios
+EBIT
+Interest ExPEnse
+Interest Coverage Ratio
+Boeing
+Home Depot
+$1,720
+$453
+3.80
+$2,661
+$37
+71.92
+EBIT
+$1,720
+$2,661
+OPErating Lease ExPEnses
+Interest ExPEnses
+Fixed Charge Coverage Ratio
+EBITDA
+Cash Fixed Charges
+Cash Fixed Charge Coverage
+Cash Flows from OPErations
+Capital ExPEnditures
+CF/Cap Ex
+$215
+$453
+2.90
+$290
+$37
+9.02
+$3,341
+$3,034
+$668
+5.00
+$2,161
+$1,584
+1.36
+$327
+9.28
+$1,662
+$2,059
+0.81
+32
+33
+Boeing, based upon its oPErating income in 1998, looks riskier than the Home Depot on
+both the interest coverage ratio and fixed charge coverage ratio basis. On a cash flow basis,
+however, Boeing does look much better. In fact, when capital exPEnditures are considered,
+the Home Depot has a lower ratio. For Boeing, the other consideration is the fact that
+oPErating income in 1998 was depressed, relative to income in earlier years, and this does
+have an impact on the ratios across the board. It might make more sense when computing
+these ratios to look at the average figures over time.
+finratio.xls: This spreadsheet allows you to compute the interest coverage and fixed
+charge coverage ratios for a firm, based upon financial statement data.
+Debt Ratios
+Interest coverage ratios measure the capacity of the firm to meet interest payments
+but do not examine whether it can pay back the principal on outstanding debt. Debt ratios
+attempt to do this, by relating debt to total capital or to equity. The two most widely used
+debt ratios are:
+Debt to
+Capital
+Ratio
+=
+Debt
++
+Debt
+Equity
+Debt to
+Equity
+Ratio
+=
+Debt
+Equity
+The fIRSt ratio measures debt as a proportion of the total capital of the firm and cannot
+exceed 100%. The SECond measures debt as a proportion of equity in the firm and can be
+easily derived from the fIRSt.
+Debt/Equit
+y
+Ratio
+=
+1
+Debt/Capit
+al
+Debt/Capit
+Ratio
+al
+Ratio
+While these ratios presume that capital is raised from only debt and equity, they can
+be easily adapted to include other sources of financing, such as preferred stock. While
+preferred stock is sometimes combined with common stock under the 'equity' label, it is
+better to keep it separate and to compute the ratio of preferred stock to capital (which will
+include debt, equity and preferred stock).
+33
+-
+a. Variants on Debt Ratios
+There are two close variants of debt ratios. In the fIRSt, only long-term debt is used
+rather than total debt, with the rationale that short-term debt is transitory and will not affect
+34
+the long-term solvency of the firm.
+Long
+term
+Debt to
+Capital
+Ratio
+=
+Long
+term
+term
+Debt
+Debt
++
+Equity
+Long
+Long
+term
+Debt to
+Equity
+Ratio
+=
+Long
+Debt
+term
+Equity
+Given the ease with which firms can roll over short-term debt, and the willingness of many
+firms to use short-term financing to fund long-term projects, these variants can provide a
+misleading picture of the firm's financial leverage risk.
+The SECond variant of debt ratios uses market value (MV) instead of book value,
+primarily to reflect the fact that some firms have a significantly greater capacity to borrow
+than their book values indicate.
+Market
+Value
+Debt to
+Capital
+Ratio
+=
+of MV
+Debt
+Debt
+of MV
++
+Equity
+of MV
+Market
+Value
+Debt to
+Equity
+Ratio
+=
+of MV
+of MV
+Debt
+Equity
+Many analysts disavow the use of market value in their calculations, contending that market
+values, in addition to being difficult to get for debt, are volatile and hence unreliable. These
+contentions are oPEn to debate. It is true that the market value of debt is difficult to get for
+firms which do not have publicly traded bonds, but the market value of equity is not only
+easy to obtain, it is constantly updated to reflect market-wide and firm-sPEcific changes.
+Furthermore, using the book value of debt as a proxy for market value in those cases where
+bonds are not traded does not significantly shift11 most market-value based debt ratios.
+Illustration 3.7: Book Value Debt Ratios and Variants- Boeing and Home Depot
+Table 3.8 summarizes different estimates of the debt ratio for Boeing, the Home
+Depot and InfoSoft, using book values of debt and equity for all three firms:
+Table 3.8: Book Value Debt Ratios
+11 Deviations in the market value of equity from book value are likely to be much larger than deviation for
+debt and are likely to dominate in most debt ratio calculations.
+34
+35
+Long Term Debt
+Short Term Debt
+BV of Equity
+LT Debt/Equity
+LT Debt / (LT Debt + Equity)
+Debt/Equity
+Debt/ (Debt + Equity)
+Boeing
+Home Depot
+$6,103
+$869
+$12,316
+49.55%
+33.13%
+56.61%
+36.15%
+$1,566
+$14
+$8,740
+17.92%
+15.20%
+18.08%
+15.31%
+Boeing has a much higher book value debt ratio, both long term and total debt, than the
+Home Depot.
+dbtfund.xls: There is a dataset on the web that summarizes the book value debt
+ratios and market value debt ratios for firms in the United States, classified by industry.
+Other issues in analyzing financial statements
+Two more issues bear consideration before we conclude this SECtion on financial
+statements. The fIRSt relates to differences in accounting standards and practices and how
+these differences may color comparisons across companies and the SECond relates to
+accounting for acquisitions and how this can affect both the acquisition method and price.
+Differences in accounting standards and practices
+Differences in accounting standards across countries affect the measurement of
+earnings. These differences, however, are not so great as they are made out to be and they
+cannot explain away radical departures from fundamental principles of valuation12. Choi
+and Levich, in a survey of accounting standards across develoPEd markets, note that most
+countries subscribe to basic accounting notions of consistency, realization and historical
+cost principles in preparing accounting statements. Table 3.9 summarizes accounting
+standards in eight major financial markets and reveals that the common elements vastly
+outnumber those areas where there are differences.
+12 At the PEak of the Japanese market, there were many investors who explained away the price-earnings
+multiples of 60 and greater in the market, by noting that Japanese firms were conservative in measuring
+earnings. Even after taking into account the general provisions and excess depreciation used by many of
+these firms to depress current earnings, the price-earnings multiples were greater than 50 for many firms,
+suggesting either extraordinary exPEcted growth in the future or overvaluation.
+35
+36
+The two countries that offer the strongest contrast to the United States are Germany
+and Japan. The key differences and their implications are as follows. FIRSt, companies in the
+United States generally maintain separate tax and financial reporting books, which in turn
+generates items like deferred taxes to cover differences between the two books. Companies
+in Germany and Japan do not maintain separate books. Consequently, depreciation methods
+in financial reports are much more likely to be accelerated and hence to reduce stated
+income. SECond, the requirement that leases be capitalized and shown as a liability is much
+more tightly enforced in the United States. In Japan, leases are generally treated as oPErating
+leases and do not show up as liabilities in the balance sheet. In Germany, firms can
+capitalize leases, but they have more leeway in classiFYing leases as oPErating and capital
+leases than U.S. companies. Third, goodwill, once created, can be amortized over 40 years in
+the United States and over much shorter time PEriods in Germany and Japan, again
+depressing stated income. Fourth, reserves in the United States can be created only for
+sPEcific purposes, whereas German and Japanese companies can use general reserves to
+equalize earnings across PEriods, leading earnings to be understated during the good years,
+and overstated during bad years.
+Most of these differences can be accounted and adjusted for when comparisons are
+made between companies in the U.S. and companies in other financial markets. Ratios such
+as price earnings, which use stated and unadjusted earnings, can be misleading when
+accounting standards vary widely across the companies being compared.
+Summary
+Financial statements remain the primary source of information for most investors
+and analysts. There are differences, however, in how accounting and financial analysis
+appROAch answering a number of key questions about the firm. We examine these
+differences in this chapter.
+The fIRSt question that we examined related to the nature and the value of the assets
+owned by a firm. Categorizing assets into investments already made (assets in place) and
+investments yet to be made (growth assets), we argued that accounting statements provide a
+substantial amount of historical information about the former and very little about the latter.
+The focus on the original price of assets in place (book value) in accounting statements can
+lead to significant differences between the stated value of these assets and their market
+value. With growth assets, accounting rules result in low or no values for assets generated
+by internal research.
+The SECond issue that we examined was the measurement of profitability. The two
+principles that seem to govern how profits are measured are accrual accounting - revenues
+36
+37
+and exPEnses are shown in the PEriod where transactions occur rather than when the cash is
+received or paid - and the categorization of exPEnses into oPErating, financing and capital
+exPEnses. OPErating and financing exPEnses are shown in income statements. Capital
+exPEnditures take the form of depreciation and amortization and are spread over several time
+PEriods. Accounting standards miscategorize oPErating leases and research and development
+exPEnses as oPErating exPEnses (when the former should be categorized as financing
+exPEnses and the latter as capital exPEnses).
+In the last part of the chapter, we examine how financial statements deal with shortterm liquidity risk and long-term default risk. While the emphasis in accounting statements
+is on examining the risk that firms may be unable to make payments that they have
+committed to make, there is very little focus on risk to equity investors.
+37
+Coca Cola's balance sheet for December 1998 is summarized below (in millions of dollars)
+Problems
+38
+3141
+4462
+1037
+8640
+687
+1415
+2102
+3060
+5343
+8403
+for problems 1 through 9:
+Cash & Near Cash
+Marketable SECurities
+Accounts Receivable
+Other Current Assets
+Current Assets
+Long term investments
+Depreciable Fixed Assets
+1648
+159
+1666
+2017
+6380
+1863
+5486
+Accounts Payable
+Short term Borrowings
+Other Short term liabilities
+Current Liabilities
+Long term Borrowings
+Other long term Liabilities
+Non-current liabilities
+Non-depreciable Fixed Assets
+199
+Accumulated Depreciation
+Net Fixed Assets
+Other Assets
+Total Assets
+2016
+3669
+7233
+Share Capital (Paid-in)
+Retained Earnings
+Shareholder Equity
+19145
+Total Liabilities & Equity
+19145
+1. Consider the assets on Coca Cola's balance sheet and answer the following questions:
+a. Looking at the assets that Coca Cola has on its balance sheet, which assets are likely
+to be assessed closest to market value? Explain.
+b. Coca Cola has net fixed assets of $3,669 million. Can you estimate how much Coca
+Cola paid for these assets? Is there any way to know the age of these assets?
+c. Coca Cola seems to have far more invested in current assets, rather than fixed assets.
+Is this significant? Explain.
+d. In the early 1980s, Coca Cola sold off its bottling oPErations, with the bottlers
+becoming indePEndent companies. How would this action have impacted the assets on
+Coca Cola's balance sheet? (The manufacturing plants are most likely to be part of the
+bottling oPErations)
+2. Examine the liabilities on Coca Cola's balance sheet.
+a. Based upon the balance sheet, how much interest-bearing debt does Coca Cola have
+outstanding. (You can assume that other short term liabilities represent sundry
+payables, and other long term liabilities represent health care and PEnsion obligations.)
+b. Based upon the balance sheet, how much did Coca Cola obtain in equity capital
+when it issued stock originally to the financial markets?
+c. Is there any significance to the fact that retained earnings is much larger than the
+original paid-in capital?
+38
+39
+d. The market value of Coca Cola's equity is $140 billion. What is the book value of
+equity in Coca Cola? Why is there such a large difference between the market value of
+equity and the book value of equity?
+3. Coca Cola's most valuable asset is its brand name. Where in the balance sheet do you
+see its value? Is there any way to adjust the balance sheet to reflect the value of this asset?
+4. Assume that you have been asked to analyze Coca Cola's working capital management.
+a. Estimate the net working capital and non-cash working capital for Coca Cola.
+b. Estimate the firm's current ratio.
+c. Estimate the firm's quick ratio.
+d. Would you draw any conclusions about the riskiness of Coca Cola as a firm by
+looking at these numbers? Why or why not?
+Coca Cola's income statements for 1997 and 1998 are summarized below (in millions of
+dollars):
+Net Revenues
+Cost of Goods Sold
+Selling, G & A ExPEnses
+Earnings before interest and taxes
+Interest ExPEnses
+Non-oPErating Gains
+Income Tax ExPEnses
+Net Income
+Dividends
+1997
+$18,868
+1998
+$18,813
+6,105
+7,852
+5,001
+258
+1,312
+1,926
+4,129
+1,387
+5,562
+8,284
+4,967
+277
+508
+1,665
+3,533
+1,480
+The following questions relate to Coca Cola's income statement.
+5. How much oPErating income did Coca Cola earn, before taxes, in 1998? How does this
+compare to how much Coca Cola earned in 1997? What are the reasons for the differences?
+6. The biggest exPEnse for Coca Cola is advertising, which is part of the selling, general and
+administrative exPEnses. A large portion of these exPEnses are designed to build up Coca
+Cola's brand name. Should advertising exPEnses be treated as oPErating exPEnses or are
+they really capital exPEnses? If they are to be treated as capital exPEnses, how would you
+capitalize them? (Use the capitalization of R&D as a guide.)
+39
+40
+7. What effective tax rate did Coca Cola have in 1998? How does it compare with what they
+paid in 1997 as an effective tax rate? What might account for the difference?
+8. You have been asked to assess the profitability of Coca Cola, as a firm. To that end,
+estimate the pre-tax oPErating and net margins in 1997 and 1998 for the firm. Are there any
+conclusions you would draw from the comparisons across the two years.
+9. The book value of equity at Coca Cola in 1997 was $7,274 million. The book value of
+interest-bearing debt was $3,875 million. Estimate:
+a. the return on equity (beginning of the year) in 1998
+b. the pre-tax return on capital (beginning of the year) in 1998
+c. the after-tax return on capital (beginning of the year) in 1998, using the effective tax
+rate in 1998.
+10. SeeSaw Toys reported that it had a book value of equity of $1.5 billion at the end of
+1998 and 100 million shares outstanding. During 1999, it bought back 10 million shares at
+a market price of $40 PEr share. The firm also reported a net income of $150 million for
+1999, and paid dividends of $50 million.
+a. Estimate the book value of equity at the end of 1999
+b. Estimate the return on equity, using beginning book value of equity.
+c. Estimate the return on equity, using the average book value of equity.
+40

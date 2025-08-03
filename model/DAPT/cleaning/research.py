@@ -37,7 +37,7 @@ def setup_directories() -> tuple[Path, Path]:
     project_root = script_dir.parent.parent
     
     # input and output directories
-    input_dir = project_root / "DAPT" / "data" / "research-2"
+    input_dir = project_root / "DAPT" / "data" / "research-3"
     output_dir = project_root / "DAPT" / "data" / "raw-text"
     output_dir.mkdir(parents=True, exist_ok=True)
 
