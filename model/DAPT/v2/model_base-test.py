@@ -36,6 +36,7 @@ valuation_prompt = (
 
 # Use optional system/instruction wrapper for better formatting
 prompt_template = """Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+Ensure your response is formatted in a readable and professional manner.
 ### Instruction:
 You are a highly knowledgeable finance chatbot. Your purpose is to provide accurate, insightful, and actionable financial advice.
 ### Input:

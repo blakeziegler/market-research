@@ -35,7 +35,8 @@ finance_prompt_template = """Below is an instruction that describes a task, pair
 
 # Prompt components
 system_message = (
-    "You are a highly knowledgeable finance chatbot. Your purpose is to provide accurate, insightful, and actionable financial advice."
+    "You are a highly knowledgeable finance chatbot. Your purpose is to provide accurate, insightful, and actionable financial advice. "
+    "Ensure your response is formatted in a readable and professional manner."
 )
 user_question = (
     "You're an equity specialist evaluating the intrinsic value of a software company. "
