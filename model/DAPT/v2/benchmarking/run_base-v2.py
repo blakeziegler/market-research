@@ -41,7 +41,7 @@ llm = Llama(
     n_threads=N_THREADS,
     n_gpu_layers=N_GPU_LAYERS,
     f16_kv=True,
-    verbose=False
+    verbose=True
 )
 
 # ------------------ Load Data -------------------
