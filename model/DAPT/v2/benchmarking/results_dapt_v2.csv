@@ -9,9 +9,7 @@
 - Shares Outstanding: 50M
 - Market Cap: $3.5B
 
-Evaluate the financial health of the company based on its cash generation and valuation. Discuss any red or green flags, especially in relation to free cash flow and earnings quality.","You may use numbers to convey your answers if you wish. However, please also provide an explanation in words for why those numbers indicate what they do.
-
-If you need more information about how to calculate these metrics, see our article [here](https://www.investopedia.com/financial-ratios/market-cap-to-free-cash-flow/) for details."
+Evaluate the financial health of the company based on its cash generation and valuation. Discuss any red or green flags, especially in relation to free cash flow and earnings quality.",""
 "Analyze the income statement trend for this company over the past three years:
 
 Year 1:
@@ -32,7 +30,7 @@ Year 3:
 - Operating Margin: 8%
 - Net Income: $36M
 
-Is the company improving or deteriorating in terms of profitability and efficiency? What concerns would you raise?","Your answer must be supported by calculations."
+Is the company improving or deteriorating in terms of profitability and efficiency? What concerns would you raise?",""
 "A company’s latest results show:
 
 - Net Income: $90M
@@ -40,7 +38,7 @@ Is the company improving or deteriorating in terms of profitability and efficien
 - Capital Expenditures: $25M
 - Free Cash Flow: $10M
 
-Despite reporting strong net income, the company’s cash flow is significantly lower. Explain the possible causes of this discrepancy and whether it raises any red flags about earnings quality.","Please write your answer as a paragraph (not bullet points). It should be at least 100 words but no more than 250 words."
+Despite reporting strong net income, the company’s cash flow is significantly lower. Explain the possible causes of this discrepancy and whether it raises any red flags about earnings quality.",""
 "You are evaluating a firm with the following data:
 
 - Return on Equity (ROE): 18%
@@ -49,7 +47,7 @@ Despite reporting strong net income, the company’s cash flow is significantly 
 - Weighted Average Cost of Capital (WACC): 9%
 - CapEx / Revenue: 10%
 
-Estimate the sustainable growth rate and evaluate whether the firm is reinvesting efficiently. Comment on whether the company is likely to create or destroy value over time.","Make sure your answer is clear, concise, and easy for anyone to understand. Please use bullet points to format your response. Thank you."
+Estimate the sustainable growth rate and evaluate whether the firm is reinvesting efficiently. Comment on whether the company is likely to create or destroy value over time.",""
 "A retail company posted the following results:
 
 - Revenue: $2.1B
@@ -60,13 +58,7 @@ Estimate the sustainable growth rate and evaluate whether the firm is reinvestin
 - Gross Margin: 26%
 - Operating Margin: 6.2% (down from 9% last year)
 
-Evaluate how margin compression is affecting profitability. Should investors be concerned? What underlying causes might explain this change?","You must show your work and use formulas and numbers as evidence of your calculations.
-
-Use ONLY the data provided in the question to answer the question. Do not make up any data. You must show your work and use formulas and numbers as evidence of your calculations.
-
-## Outcomes for ""Margin Compression""
-
-Explain why the company's net income decreased even though its revenues increased by $200 million. Show calculations supporting your explanation. Calculate the firm's gross profit, operating profit, and earnings before interest and taxes (EBIT) using the information provided. Identify potential factors that may have contributed to this decline in profitability. Evaluate whether these changes represent a significant deterioration or simply reflect normal fluctuations within the industry. Provide recommendations on steps management could take to address concerns raised by lower margins and declining profits."
+Evaluate how margin compression is affecting profitability. Should investors be concerned? What underlying causes might explain this change?",""
 "A SaaS firm has shown impressive top-line growth over the last two years:
 
 - Year 1 Revenue: $120M
@@ -76,7 +68,7 @@ Explain why the company's net income decreased even though its revenues increase
 - Deferred Revenue: $50M
 - CapEx: $25M
 
-Despite strong revenue growth, operating cash flow remains weak. Assess the quality of growth and whether it's sustainable. What risks or strengths can be inferred from this pattern?","The goal is for you to practice framing key questions to assess financial health."
+Despite strong revenue growth, operating cash flow remains weak. Assess the quality of growth and whether it's sustainable. What risks or strengths can be inferred from this pattern?",""
 "A company reported:
 
 - ROIC: 11.5%
@@ -84,112 +76,7 @@ Despite strong revenue growth, operating cash flow remains weak. Assess the qual
 - Net Operating Profit After Tax (NOPAT): $90M
 - Invested Capital: $780M
 
-Determine whether the company is creating or destroying shareholder value. Discuss how large the value spread is and what it implies for long-term investment potential.","Please use only these variables when calculating your answer:
-
- - NOPAT / ROC
- - WACC
- - Average Investment Value
- - Equity Value
-
-Do NOT use:
-
- - Book Value
- - Debt Value
- - Cash Balance
- - Any other balance sheet items
- - EBITDA
- - Free Cash Flow
- - Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA)
- - EBITDA / WACC
- - Enterprise Value
- - Stock Price
- - Market Cap
- - Current Ratio
- - Quick Ratio
- - Fixed Charge Coverage Ratio
- - Altman Z-Score
- - DuPont Analysis
- - Return on Assets
- - Return on Equity
- - Debt-to-Equity Ratio
- - Long Term Debt
- - Current Portion of Long Term Debt
- - Total Assets
- - Accounts Payable
- - Inventory
- - Short Term Investments
- - Deferred Taxes
- - Accumulated Other Comprehensive Income
- - Common Stock
- - Preferred Stock
- - Retained Earnings
- - Treasury Stock
- - Convertible Debt
- - Options
- - Warrants
- - Restricted Stock
- - Restricted Stock Units
- - Stock Appreciable Rights
- - Phantom Shares
- - Puts & Calls
- - Repurchase Agreements
- - Derivative Contracts
- - Commodity Forwards
- - Commodity Swaps
- - Interest Rate Swaps
- - Collateralized Debt Obligations
- - Synthetic CDOs
- - Credit Default Swaps
- - Currency Forwards
- - Currency Swaps
- - FX Futures
- - FX Options
- - Exotic Options
- - Multi-Currency Options
- - Barrier Options
- - Lookback Options
- - Range Forward Contracts
- - Asian Options
- - Rainbow Options
- - Multi-Asset Option
- - Multi-Event Options
- - Multi-Index Options
- - Multi-Strike Options
- - American Style Options
- - Bermudan Style Options
- - European Style Options
- - European Digital Options
- - European Quanto Options
- - European Quasi-American Options
- - European Quasi-Bermuda Options
- - European Quasi-European Options
- - European Quasi-Quasi-American Options
- - European Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-European Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-American Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Bermuda Options
- - European Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-Quasi-"
+Determine whether the company is creating or destroying shareholder value. Discuss how large the value spread is and what it implies for long-term investment potential.",""
 "The company reported:
 
 - Net Income: $60M
@@ -206,17 +93,7 @@ Evaluate the quality of earnings. Are profits being backed by real cash flow, or
 - Terminal Value Contribution to Total EV: 70%
 - Current Enterprise Value: $1.6B
 
-Assess whether the terminal value assumption is too aggressive. How sensitive is the valuation to the terminal multiple, and what would be a more conservative scenario?","The model should work for all scenarios.
-
-Assume that there will be no growth in EBITDA or capital expenditures after year 5.
-
-Solution: The formula for calculating terminal value (TV) is as follows:
-
-TV = EBITDA(5) / WACC
-
-Given the information provided, we can calculate TV as follows:
-
-TV = ($240M / 9%) = $2.67B This means that if the firm were sold at the end of year 5, its enterprise value would be equal to its current EV plus the terminal value. In other words, the total enterprise value would be $4.27B ($1.60B + $2.67B). Since this amount seems unrealistic given the industry context, it indicates that either the exit multiple or WACC used in the calculation was incorrect. Let us assume that the correct WACC is 11%, which makes sense considering higher risk associated with smaller companies. Then, we can recalculate TV: TV = ($240M / 11%) = $2.18B This reduces the total enterprise value to $3.78B, which appears more reasonable given the size of the company. Therefore, we conclude that while the original estimate may have been overestimating the firm's value, adjusting the inputs could lead to a more accurate result."
+Assess whether the terminal value assumption is too aggressive. How sensitive is the valuation to the terminal multiple, and what would be a more conservative scenario?",""
 "A logistics firm reports the following:
 
 - Total Assets: $2.4B
@@ -236,15 +113,7 @@ Assess the company’s capital efficiency. How well is it using its asset base t
 - Retention Rate: 80%
 - No Dividend
 
-Evaluate whether the valuation is justified using the PEG ratio. Is this growth priced reasonably, or does the stock appear overvalued relative to its fundamentals?","Assume no other information available.
-
----
-
-# Solution
-
-The PEG ratio is calculated by dividing the price-to-earnings ratio by the earnings growth rate. In this case, it would be 85 / 0.4 = 212.5. This indicates that the company's current P/E multiple reflects high growth expectations. However, given the relatively low retention rate and lack of dividends, there may be some uncertainty surrounding future cash flows. Additionally, while a PEG ratio above 1 could indicate potential overvaluation, it can also be due to differing methodologies in calculating earnings and P/E ratios across different industries. It's important to consider these factors when interpreting the results before making an investment decision.
-
-In conclusion, while the high PEG ratio suggests possible overvaluation, further analysis into other financial metrics such as retention rates and dividend policies should be conducted before reaching any firm conclusions about the company's value."
+Evaluate whether the valuation is justified using the PEG ratio. Is this growth priced reasonably, or does the stock appear overvalued relative to its fundamentals?",""
 "An industrial manufacturing company provided these figures:
 
 - EBITDA: $300M
@@ -253,7 +122,7 @@ In conclusion, while the high PEG ratio suggests possible overvaluation, further
 - Cash: $50M
 - EBIT: $220M
 
-Calculate the Debt Service Coverage Ratio (DSCR) and assess the firm's financial resilience in a downturn. Would a traditional DCF reflect this risk appropriately, or is scenario analysis more useful here?","For example, you cannot assume that accounts payable = $0."
+Calculate the Debt Service Coverage Ratio (DSCR) and assess the firm's financial resilience in a downturn. Would a traditional DCF reflect this risk appropriately, or is scenario analysis more useful here?",""
 "A regional bank reports:
 
 - Net Interest Income: $780M
@@ -262,17 +131,7 @@ Calculate the Debt Service Coverage Ratio (DSCR) and assess the firm's financial
 - Loan Loss Provisions: $120M
 - Tier 1 Capital Ratio: 10.5%
 
-Evaluate the bank’s earnings quality and credit risk exposure. Is the Net Interest Margin sustainable, and how does capital adequacy influence valuation under a residual income model?","If you use any external sources or websites for your research, include those sources in your answer.
-
-### Solution
-
-The key ratios that need to be calculated to evaluate the bank's earnings quality and credit risk exposure are:
-
-Net interest margin (NIM): This ratio measures the difference between average earning assets and total interest charges divided by average earning assets. It indicates the proportion of net interest income earned on earning assets. The higher the NIM, the more profitable the bank is likely to be. For this case, we calculate NIM as follows:
-
-Average earning assets = ($25 billion) / 2 = $12.5 billion Total interest charges = $780 million - $120 million (loan loss provision) = $660 million NIM = ($660 million) / $12.5 billion = 5.28% The calculated NIM of 5.28% indicates that the bank has a relatively low level of profitability compared to other banks. A lower NIM may indicate that the bank is charging less interest than its competitors, which could lead to lower profits. On the other hand, it could also mean that the bank has more reserves set aside for potential loan losses. To determine whether the bank has sufficient reserves to cover potential losses, we can look at its loan loss provisions. In this case, we see that the loan loss provision was only $120 million out of total interest charges of $780 million. This suggests that while there were some bad loans, they did not account for most of the bank's net interest income. However, if there had been significant write-offs due to high levels of non-performing loans (NPLs), then the bank would have reported lower total interest charges and a higher NIM. Thus, further analysis into the nature and composition of the bank's loan portfolio would be necessary to provide a complete picture. Tier 1 capital ratio: This ratio measures the amount of equity capital available to absorb losses relative to risk-weighted assets. Higher levels of capital imply greater financial stability and resilience against economic shocks. Here, we calculate the Tier 1 capital ratio as follows: Tier 1 capital ratio = (Tier 1 capital) / Risk-weighted assets Where Tier 1 capital includes common stockholders' equity plus retained earnings, surplus funds, general reserves, and tax-equivalent unrealized gains and losses on qualifying securities. In this case, we know that the bank had a Tier 1 capital ratio of 10.5%. This implies that the bank has enough regulatory capital to withstand moderate levels of economic stress without impairing its ability to meet customer demands. However, given the current macroeconomic conditions and the ongoing COVID-19 pandemic, the bank may want to consider increasing its capital cushion to maintain adequate liquidity during times of uncertainty. Residual income model: We can use the residual income model to estimate the fair value of the bank based on its current profitability and capital structure. The formula is: Fair value = Book value + Present value of expected future residual income Using the information provided above, we can estimate the present value of future residual income as follows: Expected future residual income = (Net profit after taxes) - (Interest paid) Present value of future residual income = Present value factor x Expected future residual income Assuming an appropriate discount rate and assuming no growth in future cash flows, we can estimate the fair value of the bank as follows: Fair value = Book value + Present value of future residual income = ($12.5 billion) + ($780 million - $120 million) x Present Value Factor = $13.32 billion
-
-In summary, based on the given information, we conclude that while the bank appears to have adequate reserves to cover potential losses and maintains an acceptable level of capitalization, its low Net Interest Margin and lack of transparency regarding the composition of its loan portfolio raise concerns about its overall health and sustainability. Further investigation is needed before drawing firm conclusions regarding its valuation or investment suitability."
+Evaluate the bank’s earnings quality and credit risk exposure. Is the Net Interest Margin sustainable, and how does capital adequacy influence valuation under a residual income model?",""
 "An oil and gas firm reports:
 
 - Free Cash Flow: $3.6B
@@ -282,31 +141,7 @@ In summary, based on the given information, we conclude that while the bank appe
 - Oil Price Assumption: $75/barrel
 - Terminal Value Contribution: 65% of DCF EV
 
-Analyze whether the FCF yield offers a margin of safety. Is the terminal value too sensitive to commodity price assumptions? Would a NAV-based valuation be more appropriate for this type of business?","You may use any calculations or formulas you want.
-
-I would recommend using the following formula when calculating the value of an asset using free cash flow:
-
-$$V = \frac{FCF_{1}}{(WACC - g)} + \sum_{t=2}^n\frac{FCF_t}{(1+r)^{t-1}}$$
-
-Where:
-
-$V$: Present Value of all future cash flows
-
-$FCF$: Future cash flow at time t
-
-$g$: Long-term growth rate
-
-$r$: Discount rate (equal to WACC)
-
-$n$: Number of years until terminal year
-
-In this case, we can calculate the present value of each year's cash flows by plugging in our known values into the equation:
-
-$$PV = \frac{FCF_1}{(WACC - g)} + \sum_{t=2}^{10}\frac{FCF_t}{(1+WACC)^{t-1}}$$
-
-$$= \frac{3.6B}{(0.09 - 0.04)} + \sum_{t=2}^{10}\frac{3.6B}{(1+0.09)^{t-1}}$$
-
-$$= 4.44B$$"
+Analyze whether the FCF yield offers a margin of safety. Is the terminal value too sensitive to commodity price assumptions? Would a NAV-based valuation be more appropriate for this type of business?",""
 "A nationwide retail chain reports the following:
 
 - Current Assets: $950M  
@@ -317,7 +152,7 @@ $$= 4.44B$$"
 - Total Liabilities: $2.6B  
 - Revenue: $5.2B
 
-Using the Altman Z-score framework, assess the likelihood of financial distress. Would a market-based valuation fairly reflect this liquidity risk, or should distressed asset methodologies be considered?","Be brief and precise in your response."
+Using the Altman Z-score framework, assess the likelihood of financial distress. Would a market-based valuation fairly reflect this liquidity risk, or should distressed asset methodologies be considered?",""
 "A B2B SaaS company disclosed:
 
 - Customer Acquisition Cost (CAC): $3,200  
@@ -327,37 +162,7 @@ Using the Altman Z-score framework, assess the likelihood of financial distress.
 - Retention Rate: 92%  
 - Revenue Growth: 28%
 
-Calculate the CAC payback period and LTV/CAC ratio. Based on these, assess the scalability and economic moat of the business. How should these metrics influence a DCF or rule-of-40 valuation?","*Note*: This is an advanced question for experienced professionals.
-
-Solution: The key assumptions here are as follows:
-
-    - Annual customer churn rate = 8%
-    - ARPU = 1100 / year
-    - Gross margin = 750% -> cost price per unit = 250%
-    
-    In order to calculate the lifetime value of each customer (LTV), we need to estimate how long they will continue paying us for our services. Let's assume that customers stay with us indefinitely but after some point their usage starts declining exponentially until they leave completely. We can use a simple formula like this to represent it: 
-
-    Lifetime Value = total revenue earned from customer ÷ average revenue per month
-    
-    Where, average revenue per month = annual revenue ÷ number of months in year (12)
-    
-    Hence, Lifetime Value = total revenue earned from customer ÷ monthly revenue x 12
-    
-    So let's put all these together now: 
-    
-    CAC Payback Period (CPP) = Total Costs incurred to acquire one new customer ÷ Monthly Revenue
-
-    CPP = ($3200) ÷ ($1100/12) = 27.73 months
-
-    Lifetime Value (LTV) = ($1100 x 12) ÷ ($1100/12) = $13200
-
-    LTV/CAC Ratio = $13,200 ÷ $32,000 = 0.41
-
-    Scalability Indicator (SI) = ($1100 * 12) / $32,000 = 3.50
-
-    Economic Moat (EM) = ($1100 * 12) / ($1100 * 12 + ($1100/12)) = 91.66%
-
-    Based on these calculations, we can say that while this company may have good short term prospects due to its high gross margins, it does not appear very scalable nor sustainable in terms of generating enough profits to cover its overhead costs over time. Furthermore, given such low ratios compared to other similar businesses in its space, we might conclude that there isn't much room for growth or expansion without significant investments being made into improving efficiency or finding ways to increase prices charged to end users. Finally, considering just how quickly these numbers drop off once past certain thresholds, I'd argue against using either dcf or roP valuations alone without additional context about industry dynamics etc.."
+Calculate the CAC payback period and LTV/CAC ratio. Based on these, assess the scalability and economic moat of the business. How should these metrics influence a DCF or rule-of-40 valuation?",""
 "A regulated utility company pays a stable dividend and reports:
 
 - Annual Dividend per Share: $2.10  
@@ -366,17 +171,7 @@ Solution: The key assumptions here are as follows:
 - Payout Ratio: 85%  
 - ROE: 7%
 
-Value the company using the Gordon Growth (DDM) model. Comment on whether the current payout is sustainable and how regulatory constraints influence valuation accuracy.","Your answer must be based only on the information provided in the question, so use it wisely!
-
-Solution: The key assumption here is that dividends can grow at a constant rate forever, which may not hold true for all companies but seems reasonable given these assumptions. We start by calculating intrinsic value using DDM formula:
-
-    V = D / r - g
-
-Where V is the stock price, D is the annual dividend, r is cost of equity, and g is growth rate. Substituting values gives:
-
-    V = 2.10 / 0.065 - 0.025 = $34.92
-
-This implies that investors require a return higher than average risk-free interest rates because they expect more upside potential beyond the forecasted future cash flows. However, there are several factors affecting this calculation such as tax advantages or subsidies offered by government entities that may increase value above computed level. Another point worth mentioning is that although payout ratio looks high (85%) compared to industry standards (40-60%), it might still be achievable due to strong balance sheet and predictable earnings profile. Overall, I believe current payout strategy appears sustainable while recognizing some limitations associated with perpetual growth models when applied to individual stocks."
+Value the company using the Gordon Growth (DDM) model. Comment on whether the current payout is sustainable and how regulatory constraints influence valuation accuracy.",""
 "An early-stage biotech firm expects:
 
 - Peak Sales Potential: $2.5B/year (if approved)  
@@ -385,9 +180,7 @@ This implies that investors require a return higher than average risk-free inter
 - Time to Approval: 5 years  
 - WACC: 14%
 
-Conduct a scenario-based NPV analysis. Given the binary nature of clinical trials, how should investors value this firm today? Is DCF or a decision-tree approach more appropriate?","The data you use must be directly from the prompt.
-
-Write your response in markdown format. Make sure it is clear and easy to read."
+Conduct a scenario-based NPV analysis. Given the binary nature of clinical trials, how should investors value this firm today? Is DCF or a decision-tree approach more appropriate?",""
 "A commercial REIT reports:
 
 - Net Operating Income (NOI): $650M  
@@ -398,4 +191,4 @@ Write your response in markdown format. Make sure it is clear and easy to read."
 - AFFO per Share: $2.35  
 - Stock Price: $21.50
 
-Value the REIT using both NAV and AFFO-based methods. Which valuation method is more appropriate in the current interest rate environment, and how should leverage be treated in your assessment?","Your Answer"
+Value the REIT using both NAV and AFFO-based methods. Which valuation method is more appropriate in the current interest rate environment, and how should leverage be treated in your assessment?",""
