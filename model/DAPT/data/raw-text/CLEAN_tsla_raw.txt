@@ -1,1112 +1,334 @@
 Tesla, Inc. (TSLA)
-Sell: $ 57.20 (-65.19%)
-Equity Research Division
-28th April 2022
+Sell: $57.20 (-65.19%)
+Equity Research Division – 28 April 2022
 Basic Information
-Last Closing Price
-Target Price
-+/- Potential
-Bloomberg Ticker
-GICS SECtor
-GICS Sub-Industry
-5Y Cumulative Returns
-$ 164.31
-$ 57.20
--65.19%
-TSLA:US
-Consumer Discretionary
-Automobiles & Components
-Market Cap
-Basic Shares O/S
-52-Wk High
-52-Wk Low
-Fiscal Year End
-570,977
-3,130
-314.67
-101.81
-31 Dec. 2022
-($million)
-Gross profit
-EBITDA
-EBIT
-Net Income
-FY19A
-4,069
-2,234
-80
--775
-FY20A
-6,630
-4,316
-1,994
-862
-F21A
-13,606
-9,407
-6,496
-5,644
-F22A
-20,853
-17,579
-13,832
-12,587
+Last Closing Price: $164.31
+Target Price: $57.20
+Potential: -65.19%
+Bloomberg Ticker: TSLA:US
+GICS Sector: Consumer Discretionary
+GICS Sub-Industry: Automobiles & Components
+5Y Cumulative Returns: —
+Market Cap ($million): 570,977
+Basic Shares Outstanding: 3,130M
+52-Wk High: $314.67
+52-Wk Low: $101.81
+Fiscal Year End: 31 Dec. 2022
+
+Financials (in $million)
+FY19A – Gross Profit: 4,069 | EBITDA: 2,234 | EBIT: 80 | Net Income: -775
+FY20A – Gross Profit: 6,630 | EBITDA: 4,316 | EBIT: 1,994 | Net Income: 862
+FY21A – Gross Profit: 13,606 | EBITDA: 9,407 | EBIT: 6,496 | Net Income: 5,644
+FY22A – Gross Profit: 20,853 | EBITDA: 17,579 | EBIT: 13,832 | Net Income: 12,587
+
 Key Executives
-Elon Musk
-Zach Kirkhorn
-Chief Executive Officer
-Chief Financial Officer
+Elon Musk – CEO
+Zach Kirkhorn – CFO
+
 Company Description
-Tesla Inc., based
-in Austin, Texas, designs, develops,
-manufactures, sells and leases high-PErformance fully electric
-vehicles and energy generation and storage systems, also offering
-ancillary services. The company generally sells its products
-directly to customers and continues to grow its customer-facing
-infrastructure through a global network of vehicle service centers,
-Mobile Service, body shops, SuPErcharger stations and
-Destination Chargers to accelerate the widespread adoption of its
-products. It emphasizes PErformance, attractive styling and safety
-in the design and manufacture of its products, and its continuing
-to develop full self-driving technology for improved safety.
-Tesla's mission is to accelerate the world's transition to
-sustainable energy, believing that this mission, along with its
-engineering exPErtise, vertically integrated business model and
-focus on user exPErience differentiate it from other companies.
+Tesla Inc., headquartered in Austin, TX, designs, develops, manufactures, sells, and leases high-performance electric vehicles and energy systems. The company sells directly to customers and maintains a growing global service infrastructure including service centers, mobile service, body shops, Superchargers, and Destination Chargers. Tesla emphasizes performance, styling, safety, and self-driving technology to drive adoption. Its mission is to accelerate the world’s transition to sustainable energy. Tesla believes its vertical integration, engineering, and user experience provide a competitive edge.
+
 Summary
-Tesla Inc. designs, develops, manufactures and markets high
-PErformance, technologically advanced electric cars and solar
-energy generation and energy storage products. It is a fastly
-growing company (55.92% Revenue CAGR over the last 5 years).
-The US customers generate about half of Tesla's sales. Tesla sells
-more than five fully electric models and has a growing global
-network of Tesla SuPErchargers. Moreover, it offers certain
-advanced driver assist systems under its Autopilot and Full SelfDriving options. From a valuation standpoint, we PErformed both
-ABSolute and relative valuation. For the ABSolute one, we used
-FCFF through 2032 plus TV, discounted at a WACC of 9.90%.
-The final price PEr share of the company resulting from the
-analysis is $60.04. A more PEssimistic result is obtained through
-the relative analysis: using the EV/Sales multiple, we obtained a
-final price PEr share of $48.67. Therefore, our recommendation is
-a SELL with a final target price of $57.20.
-Figure 1. Revenue Breakdown by Product
-Source: Minerva Investment Society
-Figure 2. Revenue Breakdown by Geographic reach
+Tesla designs and sells electric vehicles and solar energy products. With a 55.92% 5Y revenue CAGR, Tesla is a fast-growing company. Roughly 50% of sales are from the U.S. Tesla sells five EV models and operates a global Supercharger network. It also provides Autopilot and FSD systems. Valuation analysis yields a target price of $60.04 via FCFF discounted at 9.90% WACC and $48.67 using EV/Sales multiples. Final recommendation: SELL with a target price of $57.20.
+
 Company Overview
-Tesla is an American multinational automotive and clean energy
-company, founded in 2003 and controlled since 2004 by Elon
-Musk. As of 2022, it is the most valuable automaker in the world
-and retains the largest market share in sales of Battery Electric
-Vehicles. Through its energy division, although relatively small
-compared to its auto segment, Tesla installs photovoltaic systems
-and is one of the largest suppliers of battery storage systems in
-the United States.
-Revenues
-Tesla generates revenues from three main sources:
-* Automotive: making up the largest share of revenues for
-the company, automotive revenues include proceeds from
-sales of Tesla's five car models: Model S, Model X, Semi
-(a work-in progress semi-truck), Model 3, and Model Y.
-* Services: these revenues are related to after-sales vehicle
-services and parts, SuPErcharging revenues (Tesla's
-charging stations network), sales of used vehicles,
-merchandise, and vehicle insurance revenue.
-* Energy Generation and Storage: Tesla's revenues from
-the clean energy SECtor come from sales and leasing of solar
-panels and energy storage products, and services related to
-such products. These include solar panels, the Tesla Solar
-Roof, the Tesla Solar Inverter (solar energy systems), the
-Powerpack, the Powerwall, and the Megapack (energy
-storage systems).
-Tesla's main market is represented by the United States, making
-up approximately half of Tesla's revenues; the Chinese market
-follows, representing ca. 23% of sales; the rest of the revenues
-come from the rest of the world. In EuroPE, Tesla's market share
-is not as prominent as the one it retains in its home market, but
-as it stands, it is the fastest-growing automaker in the region.
-ExPEnses
-Costs are divided into:
-* Cost of automotive sales revenue includes direct and
-indirect materials, labor costs, manufacturing overhead,
-including depreciation costs of tooling and machinery,
-shiPPIng and logistic costs, vehicle connectivity costs,
-allocations of electricity and infrastructure costs related to
-free SuPErcharging programs and reserves for estimated
-warranty exPEnses.
-* Cost of automotive
-leasing revenue
-the
-depreciation of oPErating lease vehicles, cost of goods sold
-associated with direct sales-tyPE leases and warranty
-exPEnse related to leased vehicles.
-includes
-Source: Minerva Investment Society
-* Cost of services and other revenue includes costs
-associated with providing non-warranty after-sales services
-and parts, costs of paid SuPErcharging, cost of used
-vehicles including refurbishment costs, costs for retail
-merchandise, and costs to provide vehicle insurance.
-Tesla's Cost of Goods Sold primarily comes from the automotive
-SECtor. Tesla's gross margin has slightly increased from 2021 to
-2022, not budging in front of a sizable increase in revenues.
-SPEcifically, while the margins in the automotive and services
-segment have slightly decreased, exPEnses in the energy segment
-have not increased as much as revenues did (40% vs 24%),
-allowing Tesla to keep its gross margins far above the industry
-average.
+Tesla, founded in 2003, is the world’s most valuable automaker by market cap as of 2022. It leads the battery electric vehicle market and is among the largest U.S. battery storage suppliers.
+
+Revenue Sources
+Automotive: Tesla’s main revenue source, from sales of Model S, X, 3, Y, and Semi.
+Services: Includes after-sales, Supercharging, used vehicle sales, merchandise, and insurance.
+Energy: Revenues from solar panels, Tesla Solar Roof, Powerwall, Powerpack, Megapack, and services.
+
+Geographic Revenue Breakdown
+~50% U.S.
+~23% China
+~27% Rest of World
+Tesla is expanding rapidly in Europe.
+
+Expenses
+Automotive Sales Cost: Includes materials, labor, overhead, depreciation, logistics, connectivity, and warranty reserves.
+Automotive Leasing Cost: Depreciation, goods sold on leases, and warranty.
+Services Cost: Non-warranty services, paid Supercharging, used vehicle refurbishment, merchandise, and insurance.
+Energy expenses increased less than revenue (24% vs. 40%), improving gross margins above industry average.
+
 Industry Outlook
-The aim of this industry analysis is to understand the dynamics
-faced by the companies oPErating within the field of automotive.
-Automotive Industry
-The EV market's history is a recent and fascinating one. Analysts
-exPEct to see the number of global EV sales doubling by 2030.
-Such a young industry fits well the description of high growth
-but high risk, encompassing several opportunities and probably
-even more challenges. A brief overview of its recent history will
-help clariFY these dynamics. When odds were in favor of electric
-solutions, the pandemic and the subsequent crisis caused growth
-to slow down, not to mention the devastating effects supply
-chain disruption had for these companies. ComPEtition brings
-advantages for customers who now face relatively cheaPEr prices
-and enjoy a wider range of choice, while governments keep
-incentivizing both companies and privates to switch to these
-sustainable solutions. Environmental awareness has been a key
-driver in promoting the industry, with countries from the AsiaPacific taking the lead in sales (50.7%), followed by EuroPE
-(approximately 25%) and the US (close to 10%). The PErcentage
-of EV over total vehicles sold keEPS rising every year in every
-geographic area, with significant acceleration estimates mainly
-involving the major EuroPEan and American areas. New entrants
-struggled to keep up with investments and established firms in
-the automotive industry were forced to rapidly act to catch up
-with this worldwide movement. Catalysts worthy of mentioning
-are mainly related to the developments in the current
-macROEconomic situation and upcoming regulations from
-governments aimed at sPEeding up the transition. Other big stEPS
-taken towards the transition include technological advancements
-such as fast/smart chargers and improvements in connectivity.
-Political and regulatory actions include the loosening of caps on
-units sold eligible for government incentives and new consumerside encouragements which justiFY the recent increase in
-demand.
-Porter's 5 Forces
-Buyer Power: moderate. Tesla's customers are mainly wealthy
-individuals who value innovation, technology, luxury, and
-environmental responsibility. They have high exPEctations and
-standards for Tesla's products and services. However, they can
-easily switch to other brands if they are not satisfied with Tesla's
-offerings. Brand image, quality, and innovation are crucial to
-enhance customer loyalty, but Tesla is very well positioned from
-this PErsPEctive. Furthermore, bargaining power is related to
-geographical drivers such as availability of other luxury electric
-vehicles brands and government incentives.
-Supplier Power: moderate. The company relies on various
-suppliers for its raw materials, components, and parts. Tesla's
-suppliers include battery manufacturers, metal producers,
-software develoPErs, and solar panel makers. These suppliers
-have moderate bargaining power because of the importance of
-industry. Nonetheless, Tesla has
-cost-leadership
-the
-in
-diversified its supplier base, developing long-term relationships
-with strategic partners. Another possible strategy could be
-integrating vertically with some suppliers (exactly what
-Panasonic did for batteries). Another driver to highlight is
-learning curves: while in the short run this force is strongly
-adverse, due to agreement with suppliers, reduced waste in
-materials and automatization processes, the company can
-overcome these initial difficulties.
-Substitutes: low. Although it is true that Tesla's products can be
-substituted by conventional vehicles (gasoline or diesel), hybrid
-vehicles (gasoline-electric) and public transportation, it is also
-true that EV's are the real substitutes in these markets and not
-vice-versa. Environmental sustainability makes their product not
-only different but also more attractive. It is reasonable to assume
-that their choice of this sPEcific market mainly dePEnds on the
-weakness of this force, which is actually turned to an advantage:
-regulations and environmental efforts are slowly devastating all
-substitutes, allowing a fIRSt mover like Tesla to leverage on these
-changes to grow their market share. Timing is also crucial, as
-exactly when comPEtitors must fight substitutes such as electric
-vehicles by implementing new technology and converting their
-products to more eco-friendly solutions, Tesla already has a foot
-in this market and can cut exPEnses to gain comPEtitive
-advantage.
-requirements, economies of scale,
-Threat of New Entrants: low. Barriers to entry include high
-capital
-technological
-complexity, brand reputation, customer loyalty, and regulatory
-compliance. These barriers make it difficult for new entrants to
-enter and comPEte with Tesla in these markets. The main threat
-comes from big players in the automotive industry, who have the
-means and the resources to expand in these emerging markets,
-but the latter can't be deemed as new players as they represent
-existing comPEtitors. Therefore, new entrants mainly include
-smaller eastern companies (esPEcially Chinese) that have
-aggressively targeted these markets in the past years. The main
-difference lies in the markets themselves, as the two rarely
-oPErate in the same areas and, due to obvious factors, they aren't
-therefore comparable. As a matter of fact, the number of eastern
-companies that have already begun to sell their products in the
-US or in EuroPE is extremely low and often associated with
-disappointing results caused by brand weakness.
-Rivalry among Existing ComPEtitors: high. Tesla comPEtes
-with many established traditional automakers as well as other
-EV producers in the global market, such as NIO, Toyota, Li
-Auto, Volkswagen, Ford, GM, BMW, and Nissan. These
-comPEtitors have more resources, exPErience, brand recognition,
-and customer loyalty. They also offer a wider range of products
-and services, including hybrid and conventional vehicles. Tesla's
-comPEtitive advantage lies in its innovation, quality, design and
-environmental sustainability. Key drivers to outPErform the
-market are cost-leadership and differentiation. Nonetheless, we
-should consider that Tesla oPErates in a PEculiar market: it does
-not target traditional automotive customers, neither those
-looking for luxury cars or the simple EV customer but rather a
-combination of the above: its price and design make it part of the
-elite segment, esPEcially if adding autonomous drive as a niche
-feature. On top of that, it is among the only western companies
-only dealing with fully electric vehicles, making its product
-unique.
+EV industry expected to double global sales by 2030. High-growth, high-risk sector driven by environmental awareness, government incentives, and tech improvements. Asia-Pacific leads in EV sales (50.7%), followed by Europe (~25%) and U.S. (~10%). New tech and deregulation are accelerating adoption.
+
+Porter’s Five Forces
+Buyer Power: Moderate – Tesla buyers are wealthy, tech-savvy, loyal, but can switch easily.
+Supplier Power: Moderate – Tesla uses many suppliers but is diversifying and vertically integrating.
+Substitutes: Low – Traditional cars and hybrids are less appealing due to sustainability trends.
+New Entrants: Low – High barriers: capital, tech, branding, and compliance. Threat mainly from Chinese EV startups, but few succeed in U.S./Europe.
+Rivalry: High – Tesla competes with NIO, Toyota, VW, Ford, GM, BMW, and others. Its edge lies in being all-electric, high-tech, and premium positioned.
+
 SWOT Analysis
-Strengths:
-* Tesla is a leader in the electric vehicle (EV) market, with a
-strong brand image, loyal customer base, and innovative
-products that offer high PErformance, safety, and design.
-* Tesla's portfolio and products are very diverse.
-* Tesla has a strong research and development (R&D)
-capability that enables it to constantly innovate and
-improve its products and technologies, such as bringing
-battery production in-house, introducing new models
-(Cybertruck, Semi), and developing autonomous driving
-features.
+Strengths
+• Market leader in EVs with strong brand and innovation
+• Diverse product portfolio
+• Advanced R&D capabilities: vertical integration, new models (Cybertruck, Semi), and autonomy
+
 Weaknesses
-* Some challenges are faced in production and delivery
-processes, such as mechanical complications, supply chain
-disruptions, and high costs that affect its profitability.
-* Tesla has a reputation for being involved in legal disputes,
-regulatory issues, and ethical controversies that damage its
-public image and trustworthiness. For example, Tesla faces
-lawsuits over sexual misconduct, employee safety
-concerns, product liability claims, and product defects.
-* Tesla relies heavily on the charismatic leadership of Elon
-Musk, who is also the CEO of SpaceX and Neuralink. This
-poses a risk of losing focus, direction, and vision for Tesla
-if Musk is targeted by the media (think of the recent
-acquisition of Twitter).
+• Manufacturing and delivery challenges
+• Reputational risks from lawsuits and controversies
+• Heavy reliance on Elon Musk
+
 Opportunities
-* Tesla has an opportunity to expand its sales and presence
-in untapPEd or emerging markets, such as China, India,
-EuroPE, and Africa.
-* Tesla can leverage its market confidence and customer
-loyalty to increase its revenue streams and profitability by
-offering more value-added services, such as subscription
-insurance products, and
-plans,
-maintenance packages.
-software updates,
-* Tesla can collaborate with other players in the EV charging
-stations industry to create a more standardized and
-interoPErable network that can benefit all EV users and
-providers.
+• Expansion into China, India, Europe, Africa
+• Monetize services: subscriptions, insurance, updates
+• Charging network collaboration for standardization
+
 Threats
-* Tesla faces intense comPEtition from other established
-automakers that are entering or expanding in the EV
-market.
-* Tesla also faces comPEtition from other emerging players
-in the EV charging stations industry that offer alternative
-or cheaPEr solutions to SuPErchargers: ChargePoint is
-Tesla's main rival in the US.
-* Changes in consumer preferences or behaviors can reduce
-the demand for EVs or Tesla products. These could also be
-caused by changes in government policies or regulations
-that affect the EV market or Tesla oPErations.
-* Changes in economic conditions or exchange rates affect
-the cost of production or sales of EVs or Tesla products.
-* Changes in technological innovations or disruptions can
-render Tesla products obsolete or inferior.
-Figure 3. Liquidity Ratios
-Financial Analysis
+• Competition from legacy and new automakers
+• Emerging charging rivals like ChargePoint
+• Regulatory or preference shifts impacting EV demand
+• Economic and currency volatility
+• Tech disruption risks
+
 Liquidity
-In order to analyze Tesla's liquidity, we used three ratios: current,
-quick, and cash ratio. There has been a PEak in 2020, and,
-afterwards, the liquidity metrics of the company started to
-decrease. Although its cash flow from oPErating activities has
-been consistently positive and increasing over the 5-year PEriod,
-the cash balance of the company has been decreasing since 2020
-due to CAPEX (that almost tripled since 2020 up to 2022), and
-an important stock buyback in 2022 (while in 2020 a massive
-issue of stocks occurred).
+Current, quick, and cash ratios peaked in 2020, then declined. Cash flow from operations remains strong, but cash reserves fell due to tripled CAPEX and stock buybacks in 2022.
+
 Solvency
-In order to assess Tesla's ability to sustain its activity in the long
-term, we decided to look at its Interest Coverage Ratio and D/E
-ratio. We notice the company has decreased its financial leverage
-over time, esPEcially from 2020 on, passing from 5.76x in 2017
-to 0.84x in 2022 (Debt/Book Equity). At the same time, the
-Interest Coverage Ratio, which has been negative for many
-years, meaning that the debt position of Tesla would not have
-been sustainable, reached a PEak of 81.61 in 2022, a huge result
-that allows to say that the current financial position of Tesla is
-by far under control.
+Debt/Equity dropped from 5.76x in 2017 to 0.84x in 2022. Interest Coverage Ratio improved dramatically, peaking at 81.61 in 2022, showing strong financial health.
+
 Profitability
-Regarding the analysis of the profitability margins, revenue
-growth rate has always been positive, reaching the PEak in 2021;
-in particular, CAGR has declined in the last 5 years but overall
-it is still impressive, with a figure of 55.92%.
-Gross margin stands at constant values of around 30%, with a
-slightly increasing trend, while EBITDA margin has a strong
-uptrend, ranging from 7.68% in 2018 to 21.51% in 2022, with a
-5-year annual increase on average of 36%. This is not surprising
-given that Tesla is a growth car manufacturing company, and a
-huge growth in revenues, in comparison to a less than
-proportional growth of COGS, led to this increasing margins.
-Moreover, there has been a substantial increase in the quality of
-ROE, ROIC and ROA in the last 5 years, passing from a negative
-situation to positive margins; a quick comparison between Tesla
-and its main comPEtitors shows the quality of the profitability
-ratios of the company; only Ferrari come closer to this
-achievement, resPEctively with 15.73% of ROA, 35.84% of
-ROE and 24.34% of ROIC.
-It may be useful to investigate which are the main variables that
-impact on shareholder profitability through the 5-step Dupont
-model. Asset turnover settled in the PEriod 2018-2022 at values
-that were mostly constant until 2020 but with an increase up to
-0.99x in 2022. The OPErating Profit Margin has increased in all
-historical years considered, in particular from 2020 to 2022, and
-this justifies the positivity of the Return on Equity. Moreover,
-the positivity of this indicator was amplified above all in the 5year PEriod 2018-2022 by the financial leverage, but with a
-declining trend, passing from 4.71x in 2018 to 1.79x in 2022.
-Source: Minerva Investment Society
-Figure 4. Interest Coverage Ratio
-Source: Minerva Investment Society
-Figure 5. D/E Ratio
-Source: Minerva Investment Society
-Figure 6. Profitability Ratios
+Revenue growth remains strong. 5Y CAGR: 55.92%. Gross margin ~30%, rising slightly. EBITDA margin rose from 7.68% in 2018 to 21.51% in 2022 (36% average annual growth). ROE, ROIC, and ROA have all turned strongly positive. Only Ferrari has comparable profitability (ROA 15.73%, ROE 35.84%, ROIC 24.34%).
+
+DuPont Analysis
+Asset Turnover: Rose to 0.99x in 2022
+Operating Margin: Rising since 2020
+Financial Leverage: Fell from 4.71x (2018) to 1.79x (2022)
+These metrics support the rise in Tesla’s Return on Equity and profitability strength.
 Cash Conversion Cycle
-The Cash Conversion Cycle (CCC) for Tesla is determined by
-Day Sales Outstanding (DSO), Days of Inventory Outstanding
-(DIO), and Day Payables Outstanding (DPO). The CCC formula
-is used to understand how efficiently a company is managing its
-working capital: the shorter the cash conversion cycle is, the
-better the company is at selling inventories and recovering cash
-from these sales while paying suppliers. Furthermore, a short
-CCC has a positive impact on the investment flows of the
-company thanks to the faster and greater availability of cash.
-Tesla had a stable DPO and DSO, resPEctively around 67 and 13
-in 2022. The DIO, instead, had a decreasing trend until 2021,
-underlining the ability to sell its inventory, but in 2022 DIO
-increased +44.6% YoY. Consequently, the CCC after a strong
-decreasing trend faced a dramatic increase in 2022, passing from
-2 to 27. This fact weakened the liquidity availability of the
-company for FY2022. The rising
-intense
-comPEtition and the problems in supply chain were the main
-sources of this slow down, and neither the tactic move of cutting
-down the retail price of the best-selling vehicles like Tesla Model
-3 in the fourth quarter helPEd to increase the turnover of
-inventory. Moreover, the company showed a rise in working
-capital over the past 5 years. This is mainly due to the increase
-in inventories and accounts receivable that were more than
-proportional with resPEct to the increase in accounts payable (in
-particular 2022 inventory).
-inflation,
-the
+The Cash Conversion Cycle (CCC) for Tesla is determined by Day Sales Outstanding (DSO), Days of Inventory Outstanding (DIO), and Day Payables Outstanding (DPO). The CCC formula helps measure how efficiently a company manages its working capital: the shorter the CCC, the more effective the company is at turning inventory into cash and delaying outflows to suppliers. A short CCC improves liquidity by accelerating cash availability. In 2022, Tesla maintained stable DSO (~13 days) and DPO (~67 days). However, DIO, which had been declining, rose sharply by +44.6% YoY in 2022. As a result, CCC increased from 2 days in 2021 to 27 days in 2022, reflecting weakened liquidity. The increase in competition, inflation, and supply chain disruptions were the main contributors. Despite price cuts on popular models like the Tesla Model 3 in Q4, inventory turnover failed to improve. Tesla’s working capital rose over the last 5 years, primarily due to inventory and accounts receivable increasing more than accounts payable.
+
 Valuation
-Our analysis followed two main appROAches:
-*
-Intrinsic valuation regarding the DCF model (FCFF).
-* Relative valuation using comparable company analysis
-Source: Minerva Investment Society
-Figure 7. 5-Step Dupont
-2018
-2019
-2020
-2021
-2022
-Tax Burden
-Interest Burden
-0,97
-3,99
-OPErating Profit Margin
--0,01
-Asset turnover
-Leverage ratio
-0,72
-4,71
-1,30
-2,94
-0,01
-0,72
-4,23
-0,62
-0,55
-0,07
-0,60
-2,20
-0,87
-0,98
-0,12
-0,87
-1,97
-0,92
-1,00
-0,17
-0,99
-1,79
-Source: Minerva Investment Society
+We applied two valuation approaches:
+	•	Intrinsic valuation via Discounted Cash Flow (FCFF-based)
+	•	Relative valuation via comparable company analysis
+
+Figure 7. 5-Step Dupont (2018–2022)
+Tax Burden: 0.97 → 0.87
+Interest Burden: 3.99 → 1.97
+Operating Profit Margin: -0.01 → 0.17
+Asset Turnover: 0.72 → 0.99
+Leverage Ratio: 4.71 → 1.79
+
 Cost of Capital
-Figure 8. Cash Conversion Cycle
-Source: Minerva Investment Society
-Throughout the whole analysis, we used a constant cost of
-capital. We can therefore start looking at how we computed it
-through its different components.
-Risk-free rate
-The risk-free rate has been assumed to be equal to the 10-year
-Treasury bond yield (3.40%).
-ERP
-To compute the ERP, we followed a bottom-up appROAch.
-Differently from the computations carried out to get the
-measurement of beta, we used, instead of a business-segment
-division, a geographic division of revenues, as we concluded that
-this would be a better proxy of risk premium. We divided Tesla's
-revenues in three main geographic sources: the United States,
-China, and the rest of the world. By computing the weighted
-average of the single ERPs (Damodaran) with the proportional
-share of revenues, the ERP resulted to be equal to 6.70%.
-"
-ERP = %
-!#$
-Rev!
-Total	Rev
-ERP!
+We used a constant cost of capital across the model, computed from the following components:
+
+Risk-Free Rate
+Assumed as the 10-year U.S. Treasury bond yield = 3.40%
+
+Equity Risk Premium (ERP)
+Calculated via a bottom-up approach using a geographic revenue breakdown (U.S., China, RoW). By weighting country-specific ERPs (Damodaran) by their revenue share, ERP = 6.70%.
+ERP = Σ(Rev_i / Total Rev) * ERP_i
+
 Beta
-To compute the beta of Tesla, we used the bottom-up appROAch
-as well. In particular, we fIRSt divided Tesla's business into two
-main segments: Auto (95% of revenues) and Green and
-Renewable Energy (5% of revenues). Then, we took the
-unlevered beta for each segment (Damodaran), applied the
-Bloom adjustment, and computed a weighted average by the
-estimated value of business. The estimated value of business was
-in turn computed by multiplying sales PEr segment by the
-EV/sales factor for each segment (Damodaran). The unlevered
-beta, as a result, is equal to 0.9716.
+Computed using a bottom-up approach, splitting Tesla’s business into Auto (95%) and Renewable Energy (5%). Segment unlevered betas (Damodaran) were adjusted using Bloomberg methodology and weighted by EV/sales per segment.
+Unlevered Beta = 0.9716
+Levered Beta (using Hamada formula, marginal tax rate 23.01%) = 0.9804
 
-To compute the levered beta, we used the Hamada formula and
-a marginal tax rate of 23.01%, and the levered beta is therefore
-equal to 0.9804.
 Cost of Equity
-The cost of equity, therefore, is equal to:
-Cost	of	equity = k4 = r5 + 6 ERP = 9.97%
+Cost of equity (k_e) = r_f + β * ERP = 3.40% + 0.9804 * 6.70% = 9.97%
+
 Cost of Debt
-To compute the cost of debt, we added the risk-free rate to the
-spread of Tesla's debt:
-Pre - tax	cost	of	debt = rf	rate + debt	spread
-To compute Tesla's debt spread, we assumed that due to a very
-high level of interest coverage (which would put its synthetic
-rating at AAA/Aaa), the spread should be lower than the one
-commanded by its current debt rating (BBB-/Baa3); therefore,
-we assumed the correct spread was 1.42%, which corresponds to
-a debt rating of A/A2. Therefore, with the pre-tax cost of debt
-equaling 4.82%, using a marginal tax rate of 23.01%, we
-estimated that the cost of debt would be equal to 4.10%.
-Cost	of	debt = k7 = Pre - tax	cost	of	debt (1 - t)
+Pre-tax cost of debt = r_f + spread
+Due to Tesla’s strong interest coverage, a synthetic A/A2 rating was assigned with a 1.42% spread.
+Pre-tax cost of debt = 3.40% + 1.42% = 4.82%
+Cost of debt (after-tax) = 4.82% * (1 - 0.2301) = 4.10%
+
 Market Value of Debt
-To estimate the market value of debt, we fIRSt added up all of the
-interest-bearing debt Tesla was holding, which is approximately
-equal to $5,748 million. Then, we took last year's interest
-exPEnse, $191 million, and computed the present value of the
-interest exPEnse and of Tesla's current debt, using an average
-maturity of 3 years. As a result, the market value of debt is equal
-to $5,624.75 million.
+Interest-bearing debt ≈ $5,748M
+Interest expense in prior year: $191M
+Using a 3-year maturity and present value calculations, market value of debt = $5,624.75M
 
-The Terminal Value was computed by applying Gordon's growth
-model, assuming a long-term growth rate equal to the risk-free
-rate (3.40%):
+Terminal Value
+Calculated using Gordon Growth Model with long-term growth = r_f = 3.40%
 
-DCF Valuation and Sensitivity Analysis
-We calculated the estimated value PEr share by summing the
-present value of FCFF over the 10 years and the present value of
-the terminal value:
-Enterprise	value = PV(Terminal	value) + PV(FCFF)
-We then added cash, subtracted the market value of debt and the
-value of options, and divided the resulting Equity Value by the
-number of shares outstanding.
-The target price we derived is therefore equal to $60.04, with a
-downside of ca. 60% compared to the last closing price of
-$164.31 (28/04). This target price was derived forecasting
-revenues of 386 billion dollars in the terminal year (we should
-note that this implies that Tesla will generate almost 50% more
-revenues than what Toyota, the biggest carmaker in the world,
-did in 2022). At the same time, we exPEct margins to reach more
-than 13% in the terminal year, much higher than the automotive
-industry average (6%) and more similar to the software industry
-one, taking into account the possible expansion of the revenues
-deriving from the full self-driving technology.
-According to our sensitivity analysis, which we carried out by
-estimating the value PEr share by varying the terminal growth
-rate (range 2-4.5%) and the WACC (range 9-11.5%), the target
-price is almost symmetrically influenced by variations in TGR
-and WACC, with 50 bps variations
-in both variables
+DCF Valuation and Sensitivity
+Estimated enterprise value = PV(FCFF over 10 years) + PV(Terminal Value)
+Equity Value = EV + Cash - Debt - Options
+Divided by outstanding shares, the resulting price per share = $60.04
+This implies a ~60% downside from $164.31 (28 April).
+
+Assumptions:
+Terminal Year Revenue = $386B (≈50% more than Toyota’s 2022 revenue)
+Terminal EBIT Margin = >13% (vs industry average ~6%, reflecting software-like margin expectations due to FSD monetization)
+
+Sensitivity analysis tested values per share under TGR range (2%–4.5%) and WACC range (9%–11.5%). Results show nearly symmetric price sensitivity to both assumptions with 50 bps variation.
 approximately resulting in a 5-7% variation in share price.
 Multiples Analysis
-Tesla oPErates both in the electric vehicles and automotive
-industries. For the electric vehicles industry, the comparable
-companies selected are mainly located in China. However, after
-evaluating the multiples, we observed the incompatibility of
-most of them, given their negative values, and thus far from the
-Tesla target. Finally, we decided to consider 5 core comps
-oPErating in the automotive industry and mainly located in US
-and Japan, including BMW in EuroPE, and 2 comps oPErating in
-the electric vehicles industry. In order to check the results
-obtained through the DCF model, we have PErformed a market
-multiple analysis. The average EV/EBITDA and P/E multiples
-of the 7 companies were -6,14x and 7,59x resPEctively.
-However, these values could be compromised by the fact that
-some comps have negative EPS and EBITDA. Given the
-multiples, for the valuation of the final price we used average
-EV/Sales of the industry multiplied by the estimated sales of
-Tesla in the fifth year of our forecast.
+Tesla operates in both the electric vehicle and broader automotive industries. For the EV industry, comparable firms are primarily based in China. However, due to the negative multiples of most Chinese EV companies, which deviate significantly from Tesla’s valuation metrics, these were deemed unsuitable for comparison. Ultimately, we selected five core comparables from the automotive industry, primarily in the US and Japan, including BMW in Europe, and two EV-specific comparables. To cross-check the results from our DCF model, we conducted a market multiple analysis. The average EV/EBITDA and P/E ratios of the selected seven companies were -6.14x and 7.59x, respectively. These values may be distorted due to some firms having negative EBITDA or EPS. For the final valuation, we applied the average EV/Sales multiple of the peer group to Tesla’s projected sales in year five of our forecast.
+
 Final Valuation Methodology
-For deriving the price target, we computed a weighted average
-of the values obtained from the two analyses, attributing a higher
-weight to the DCF result because it captures both top-line
-revenue growth and profitability. This leads to a target price of
-$57.20/share, implying a 65.19% decrease from the last close
-price (28/04/2023).
+To determine the final price target, we calculated a weighted average of the values derived from both the DCF and relative valuation methods, assigning greater weight to the DCF because it incorporates both revenue growth and profitability. This led to a target price of $57.20 per share, implying a 65.19% downside from the closing price on April 28, 2023.
+
 Investment Risks
-ComPEtition and Margins Compression
-The latest news from Tesla's price list show continuous cutting
-prices, in order to increase the turnover of the inventory and to
-comPEte with a stronger comPEtition environment. From
-January to April 2023 there have been a total of 6 cuts, with a
-decline in prices of Tesla Model 3 by a cumulative 11% and
-Model Y by a cumulative 20% since the start of the year. But this
-hasn't led to the hoPEd growth on sales: This week Tesla reported
-Q1 deliveries of almost 423,000 vehicles, up just 4% from the
-Q4 2022 after price cuts in the United States, China and other
-markets aiming to spur demand. Moreover, to reach out the
-target of 2 Million deliveries for 2023, a further reduction in
-prices apPEars inevitable, leading to an important compression
-in profit margins for the next quarters and compromising future
-stock prices PErformance.
+
+Competition and Margin Compression
+Tesla’s recent pricing strategy has focused on reducing vehicle prices to increase inventory turnover and compete in an intensifying competitive environment. From January to April 2023, Tesla executed six price cuts, reducing the Model 3 price by 11% and Model Y by 20%. Despite this, Tesla only reported Q1 deliveries of approximately 423,000 vehicles, a 4% increase from Q4 2022, signaling limited demand elasticity. To meet the 2023 target of 2 million deliveries, additional price cuts may be necessary, further compressing profit margins and potentially pressuring the stock’s future performance.
+
 Restricted Model Range
-The range of Tesla models, at the MoMent, is limited to 4: Model
-S, Model X, Model 3 and Model Y. The Model Y was the latest
-model of Tesla since 2020, and from then no models came out.
-There was huge "hyPE" back in 2020 for the "Cybertruck", a
-pick-up vehicle, but its availability has continuously pushed
-back and might start in 2023. Analysts exPEct a start of full-scale
-production only in 2024, also considering that it would be mostly
-a vehicle for North America. Tesla also announced future release
-of the Semi, but the production year is still unclear. In
-comparison, Tesla's comPEtitors continuously announce new
-models with a higher frequency, so the risk is that Tesla's model
-range will soon became obsolete.
+Tesla currently offers four models: Model S, Model X, Model 3, and Model Y. The Model Y, launched in 2020, was the most recent addition. Anticipation for the Cybertruck, a pickup truck first announced in 2020, has faded due to multiple delays, and while limited production may begin in 2023, analysts expect full-scale production only in 2024. The Cybertruck is expected to primarily target North American markets. Tesla has also announced the Semi truck, though the start of production remains unclear. In contrast, competitors consistently introduce new models at a higher frequency, putting Tesla at risk of falling behind in product diversity and innovation.
+
 Political and Governance Risk Factors
-Tesla is affected by worldwide political factors, that differs from
-country to country, that can either boost or prevent its sales. For
-example, latest changes in Inflation Reduction Act (IRA), that
-provided a tax credit of 7.500$ under certain conditions, made
-Tesla Model 3 base model not eligible because the battery pack
-is produced and assembled in China (and not in USA as the IRA
-requires), while the previous drafts of the IRA boosted the sales
-of all Tesla models 3 versions, including the base version, in
-2022. Other problems may come from the trade tensions between
-USA and China, as recently the Chinese Government banned the
-use of Teslas in certain parts of the country, and Chinese officials
-are concerned about the data gathering from Tesla's software.
-Regarding governance, a 2020 quarterly filing included a note
-about Tesla's reliance on Elon Musk. Tesla is "highly dePEndent
-on the services of Elon Musk, Technoking of Tesla and our Chief
-Executive Officer," the company said. 2 years later, after the
-acquisition of Twitter, the correlation between Tesla's stock price
-PErformance and its CEO actions has been proven, and recently
-a shareholder of Tesla has submitted a resolution for Tesla
-investors to vote in May on whether the board should prepare
-and maintain a key-PErson risk report. Tesla lack a clear public
-succession plan or strategy to ameliorate the impacts of a
-charismatic leader's possible loss, without anyone challenging
-them.
-ApPEndix
-Figures in $ (millions)
+Tesla is exposed to political risk across various jurisdictions. For instance, revisions to the Inflation Reduction Act (IRA) in the U.S. removed eligibility for the $7,500 EV tax credit for the base Model 3 due to its battery pack being assembled in China, which violates IRA requirements. In 2022, prior versions of the IRA supported sales of all Model 3 variants, including the base model. Rising U.S.-China trade tensions also pose risks. Recently, China banned Tesla vehicles in certain regions due to data security concerns related to Tesla’s software.
+
+On the governance front, Tesla has long been highly dependent on Elon Musk. A 2020 filing highlighted this reliance, stating the company is “highly dependent on the services of Elon Musk.” Since Musk’s acquisition of Twitter in 2022, Tesla’s stock price has shown increased correlation with his personal decisions and media presence. In 2023, a Tesla shareholder submitted a resolution calling for a key-person risk report to be put to a vote in May. Tesla has no publicly disclosed succession plan, raising concerns about leadership continuity in the event of Musk’s absence or exit.
+Appendix
+Figures in $ millions
+
 Sales
 Automotive
-YoY growth
-Energy generation
-YoY growth
-Services and other
-YoY growth
-Total net sales
-YoY growth
+2022: 71,462 | YoY Growth: 51.30%
+2021: 47,232 | 2020: 27,236 | 2019: 20,821 | 2018: 18,515 | 2017: 11,759
+
+Energy Generation
+2022: 3,909 | YoY Growth: 40.16%
+2021: 2,789 | 2020: 1,994 | 2019: 1,531 | 2018: 1,555 | 2017: 1,001
+
+Services and Other
+2022: 6,091 | YoY Growth: 60.21%
+2021: 3,802 | 2020: 2,306 | 2019: 2,226 | 2018: 1,391 | 2017: 1,229
+
+Total Net Sales
+2022: 81,462 | YoY Growth: 51.35%
+2021: 53,823 | 2020: 31,536 | 2019: 24,578 | 2018: 21,461 | 2017: 14,174
+
 Cost of Goods Sold
-Automotive
-Automotive as a % of net sales
-Energy generation and storage
-Energy generation and storage as a % of sales
-Services excluding energy generation and storage
-Services excluding energy generation and storage as a % of sales
-Total cost of goods sold
-COGS as a % of net sales
-Gross profit
-Gross profit margin
-OPErating exPEnses
-Research and development
-As a % of net sales
-SG&A
-As a % of net sales
-Total oPErating exPEnses
-Plus: Depreciation and Amortization
-EBITDA
-EBITDA margin
-Minus: Depreciation and Amortization
-EBIT
-EBIT margin
-Net interest exPEnse
-Other income exPEnse, net
-Restructuring and other
-Income before taxes
-Tax exPEnse
-Net loss attributable to non-controlling interests
-Net income
-Income statement
-2021
-2022
-2020
-2019
-2018
-2017
-71.462
-51,30%
-3.909
-40,16%
-6.091
-60,21%
-81.462
-51,35%
-51.108
-62,74%
-3.621
-4,45%
-5.880
-7,22%
-60.609
-74,40%
-20.853
-25,60%
-3.075
-3,77%
-3.946
-4,84%
-7.021
-3.747
-17.579
-21,58%
-3.747
-13.832
-16,98%
--106
-43
-176
-13.719
-1.132
-31
-12.587
-47.232
-73,42%
-2.789
-39,87%
-3.802
-64,87%
-53.823
-70,67%
-33.393
-62,04%
-2.918
-5,42%
-3.906
-7,26%
-40.217
-74,72%
-13.606
-25,28%
-2.593
-4,82%
-4.517
-8,39%
-7.110
-2.911
-9.407
-17,48%
-2.911
-6.496
-12,07%
-315
--135
-27
-6.343
-699
-125
-5.644
--
-27.236
-30,81%
-1.994
-30,24%
-2.306
-3,59%
-31.536
-28,31%
-20.259
-64,24%
-1.976
-6,27%
-2.671
-8,47%
-24.906
-78,98%
-6.630
-21,02%
-1.491
-4,73%
-3.145
-9,97%
-4.636
-2.322
-4.316
-13,69%
-2.322
-1.994
-6,32%
-718
-122
--
-1.154
-292
-141
-862
-20.821
-12,45%
-1.531
--1,54%
-2.226
-60,03%
-24.578
-14,52%
-16.398
-66,72%
-1.341
-5,46%
-2.770
-11,27%
-20.509
-83,44%
-4.069
-16,56%
-18.515
-92,02%
-1.555
-39,34%
-1.391
-38,96%
-21.461
-82,51%
-14.174
-66,05%
-1.365
-6,36%
-1.880
-8,76%
-17.419
-81,17%
-4.042
-18,83%
-1.343
-5,46%
-2.646
-10,77%
-3.989
-2.154
-2.234
-9,09%
-2.154
-80
-0,33%
-641
--45
-149
-665
-110
-87
-775
-1.460
-6,80%
-2.835
-13,21%
-4.295
-1.901
-1.648
-7,68%
-1.901
-253
--1,18%
-639
--22
-135
-1.005
-58
--87
-1.063
--
--
--
--
--
-9.642
-1.116
-1.001
-11.759
-7.433
-874
-1.229
-9.536
-1.378
-2.477
-1.636
-125
--
-32
--279
-Figures in $ (millions)
+Automotive: 51,108 | 62.74% of net sales
+Energy: 3,621 | 4.45%
+Services: 5,880 | 7.22%
+Total COGS: 60,609 | 74.40%
+
+Gross Profit: 20,853
+Gross Margin: 25.60%
+
+Operating Expenses
+R&D: 3,075 | 3.77% of sales
+SG&A: 3,946 | 4.84%
+Total OPEX: 7,021
+Depreciation & Amortization: 3,747
+
+EBITDA: 17,579 | EBITDA Margin: 21.58%
+EBIT: 13,832 | EBIT Margin: 16.98%
+Net Interest Expense: -106
+Other Income/Expense: 43
+Restructuring & Other: 176
+Income Before Tax: 13,719
+Tax Expense: 1,132
+Non-controlling Interests: 31
+Net Income: 12,587
+
+Balance Sheet
+Figures in $ millions
+
 Assets
-Current assets
-Cash and cash equivalents
-Short-term marketable SECurities
-Accounts receivable
-Inventory
-Prepaid exPEnses and other current assets
-Total current assets
-Noncurrent assets
-OPErating lease vehicles, net
-Solar energy systems, leased and to be leased, net
-ProPErty, plant and equipment, net
-OPErating lease right-of-use assets
-Digital assets, net
-Intangibles and goodwill
-Other noncurrent assets
-Total noncurrent assets
-Total assets
-Liabilities
-Current liabilities
-Accounts payable
-Accrued liabilities
-Deferred revenue
-Resale value guarantees
-Customer deposits
-Current portion of long-term debt and capital leases
-Total current liabilities
-Long-term liabilities
-Long-term debt and capital leases, net of current portion
-Deferred revenue, less current portion
-Other long-term liabilities
-Total Long-term liabilities
-Total liabilities
-Shareholders' equity
-Common stock
-Additional paid-in capital
-Retained earnings
-Total Shareholders' equity
-Balance sheet
 2022
+Cash: 16,253
+Short-term Securities: 5,932
+Accounts Receivable: 2,952
+Inventory: 12,839
+Prepaid & Other: 2,941
+Total Current Assets: 40,917
+
+Operating Lease Vehicles: 5,035
+Solar Energy Systems: 5,489
+PPE: 23,548
+Operating Lease ROU Assets: 2,563
+Digital Assets: 184
+Intangibles & Goodwill: 409
+Other Noncurrent: 4,193
+Total Noncurrent Assets: 41,421
+Total Assets: 82,338
+
+Liabilities
+Accounts Payable: 15,255
+Accrued Liabilities: 7,142
+Deferred Revenue: 1,747
+Resale Value Guarantees: —
+Customer Deposits: 1,063
+Current LT Debt: 1,502
+Total Current Liabilities: 26,709
+
+LT Debt: 1,597
+Deferred Revenue LT: 2,804
+Other LT Liabilities: 5,330
+Total LT Liabilities: 9,731
+Total Liabilities: 36,440
+
+Shareholders’ Equity
+Common Stock: 3
+APIC: 32,177
+Retained Earnings: 12,524
+Total Equity: 44,704
+
 2021
+Cash: 17,576
+Securities: 131
+AR: 1,913
+Inventory: 5,757
+Prepaid: 1,723
+Current Assets: 27,100
+Noncurrent Assets: 35,031
+Total Assets: 62,131
+Current Liabilities: 19,705
+LT Liabilities: 10,843
+Total Liabilities: 30,548
+Equity: 31,583
+
 2020
+Cash: 19,384
+Securities: —
+AR: 1,886
+Inventory: 4,101
+Prepaid: 1,346
+Current Assets: 26,717
+Noncurrent Assets: 25,431
+Total Assets: 52,148
+Current Liabilities: 14,248
+LT Liabilities: 14,170
+Total Liabilities: 28,418
+Equity: 23,730
+
 2019
+Cash: 6,268
+Securities: —
+AR: 1,324
+Inventory: 3,552
+Prepaid: 959
+Current Assets: 12,103
+Noncurrent Assets: 22,206
+Total Assets: 34,309
+Current Liabilities: 10,667
+LT Liabilities: 15,532
+Total Liabilities: 26,199
+Equity: 8,110
+
 2018
+Cash: 3,686
+Securities: —
+AR: 949
+Inventory: 3,113
+Prepaid: 559
+Current Assets: 8,307
+Noncurrent Assets: 21,433
+Total Assets: 29,740
+Current Liabilities: 9,993
+LT Liabilities: 13,434
+Total Liabilities: 23,427
+Equity: 6,313
+
 2017
-16.253
-5.932
-2.952
-12.839
-2.941
-40.917
-5.035
-5.489
-23.548
-2.563
-184
-409
-4.193
-41.421
-82.338
-15.255
-7.142
-1.747
--
-1.063
-1.502
-26.709
-1.597
-2.804
-5.330
-9.731
-36.440
-3
-32.177
-12.524
-44.704
-17.576
-131
-1.913
-5.757
-1.723
-27.100
-4.511
-5.765
-18.884
-2.016
-1.260
-457
-2138
-35.031
-62.131
-10.025
-5.719
-1.447
--
-925
-1.589
-19.705
-5.245
-2.052
-3.546
-10.843
-30.548
-19.384
--
-1.886
-4.101
-1.346
-26.717
-3.091
-5.979
-12.747
-1.558
--
-520
-1536
-25.431
-52.148
-6.051
-3.855
-1.458
--
-752
-2.132
-14.248
-9.556
-1.284
-3.330
-14.170
-28.418
-6.268
--
-1.324
-3.552
-959
-12.103
-2.447
-6.138
-10.396
-1.218
--
-537
-1470
-22.206
-34.309
-3.771
-3.222
-1.163
--
-726
-1.785
-10.667
-11.634
-1.207
-2.691
-15.532
-26.199
-3.686
--
-949
-3.113
-559
-8.307
-2.090
-6.271
-11.330
--
--
-350
-1392
-21.433
-29.740
-3.405
-2.094
-630
-503
-793
-2.568
-9.993
-9.404
-991
-3.039
-13.434
-23.427
-3.368
--
-515
-2.264
-424
-4.117
-6.347
-10.028
--
--
-422
-1171,50
-2.390
-1.731
-1.015
-787
-854
-897
-7.675
-9.418
-1.178
-4.752
-15.348
-23.023
-3
-29.803
-383
-30.189
-1
-27.260
-5.036
-22.225
--
-1
-12.736
-6.119
-6.618
--
--
-10.249
-5.326
-4.923
--
-0
-9.178
-4.941
-4.237
--
+Cash: 3,368
+Securities: —
+AR: 515
+Inventory: 2,264
+Prepaid: 424
+Current Assets: 4,117
+Noncurrent Assets: 25,623
+Total Assets: 29,740
+Current Liabilities: 9,404
+LT Liabilities: 13,434
+Total Liabilities: 23,427
+Equity: 6,313

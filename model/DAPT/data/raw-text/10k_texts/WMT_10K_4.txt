@@ -1,0 +1,1701 @@
+Cautionary Statement Regarding Forward-Looking Statements
+This Annual Report on Form 10-K and other reports, statements, and information that Walmart Inc.
+(which individually or together with its subsidiaries, as the context otherwise requires, is referred
+to as "we," "Walmart" or the "Company") has filed with or furnished to the Securities and Exchange
+Commission ("SEC") or may file with or furnish to the SEC in the future, and prior or future public
+announcements and presentations that we or our management have made or may make, include or may
+include, or incorporate or may incorporate by reference, statements that may be deemed to be
+"forward-looking statements" within the meaning of Section 21E of the Securities Exchange Act of
+1934, as amended (the "Act"), that are intended to enjoy the protection of the safe harbor for
+forward-looking statements provided by the Act as well as protections afforded by other federal
+securities laws.
+Nature of Forward-Looking Statements
+Such forward-looking statements are not statements of historical facts, but instead express our
+estimates or expectations for our consolidated, or one of our segment's, economic performance or
+results of operations for future periods or as of future dates or events or developments that may
+occur in the future or discuss our plans, objectives or goals. These forward-looking statements may
+relate to:
+• the growth of our business or change in our competitive position in the future or in or over
+particular periods;
+• the amount, number, growth, increase, reduction or decrease in or over certain periods, of or in
+certain financial items or measures or operating measures, including our earnings per share, net
+sales, comparable store and club sales, our Walmart U.S. operating segment's eCommerce sales,
+liabilities, expenses of certain categories, expense leverage, operating income, returns, capital and
+operating investments or expenditures of particular types and new store openings;
+• investments and capital expenditures we will make and how certain of those investments and capital
+expenditures are expected to be financed;
+• our increasing investments in eCommerce, technology, supply chain, store remodels and other omni-
+channel customer initiatives, such as same day pickup and delivery;
+• our workforce strategy;
+• volatility in currency exchange rates affecting our or one of our segments' results of operations;
+• the Company continuing to provide returns to shareholders through share repurchases and dividends,
+the use of share repurchase authorization over a certain period or the source of funding of a certain
+portion of our share repurchases;
+• our sources of liquidity, including our cash, continuing to be adequate or sufficient to fund our
+operations, finance our global investment and expansion activities, pay dividends and fund share
+repurchases;
+• cash flows from operations, our current cash position and access to capital markets will continue
+to be sufficient to meet our anticipated operating cash needs;
+• the reclassification of amounts related to our derivatives;
+• our effective tax rate for certain periods and the realization of certain net deferred tax assets
+and the effects of resolutions of tax-related matters;
+• the effect of adverse decisions in, or settlement of, litigation or other proceedings or
+investigations to which we are subject;
+• the effect on the Company's results of operations or financial position of the Company's adoption
+of certain new, or amendments to existing, accounting standards; or
+• our commitments, intentions, plans or goals related to environmental, sustainability, and
+governance ("ESG") priorities, including, but not limited to, the sustainability of our environment
+and supply chains, the promotion of economic opportunity or other societal initiatives.
+Our forward-looking statements may also include statements of our strategies, plans and objectives
+for our operations, including areas of future focus in our operations, and the assumptions underlying
+any of the forward-looking statements we make. The forward-looking statements we make can typically
+be identified by the use therein of words and phrases such as "aim,"
+ 4 
+"anticipate," "believe," "could be," "could increase," "could occur," "could result," "continue,"
+"estimate," "expansion," "expect," "expectation," "expected to be," "focus," "forecast," "goal,"
+"grow," "guidance," "intend," "invest," "is expected," "may continue," "may fluctuate," "may grow,"
+"may impact," "may result," "objective," "plan," "priority," "project," "strategy," "to be," "we'll,"
+"we will," "will add," "will allow," "will be," "will benefit," "will change," "will come in at,"
+"will continue," "will decrease," "will grow," "will have," "will impact," "will include," "will
+increase," "will open," "will remain," "will result," "will stay," "will strengthen," "would be,"
+"would decrease" and "would increase," variations of such words or phrases, other phrases commencing
+with the word "will" or similar words and phrases denoting anticipated or expected occurrences or
+results.
+The forward-looking statements that we make or that are made by others on our behalf are based on our
+knowledge of our business and our operating environment and assumptions that we believe to be or will
+believe to be reasonable when such forward-looking statements were or are made. As a consequence of
+the factors described above, the other risks, uncertainties and factors we disclose below and in the
+other reports as mentioned above, other risks not known to us at this time, changes in facts,
+assumptions not being realized or other circumstances, our actual results may differ materially from
+those discussed in or implied or contemplated by our forward-looking statements. Consequently, this
+cautionary statement qualifies all forward-looking statements we make or that are made on our behalf,
+including those made herein and incorporated by reference herein. We cannot assure you that the
+results or developments expected or anticipated by us will be realized or, even if substantially
+realized, that those results or developments will result in the expected consequences for us or
+affect us, our business, our operations or our operating results in the manner or to the extent we
+expect. We caution readers not to place undue reliance on such forward-looking statements, which
+speak only as of their dates. We undertake no obligation to revise or update any of the forward-
+looking statements to reflect subsequent events or circumstances except to the extent required by
+applicable law.
+ 5 
+ ITEM 1. BUSINESS 
+ General 
+Walmart Inc. ("Walmart," the "Company" or "we") helps people around the world save money and live
+better – anytime and anywhere – by providing the opportunity to shop in both retail stores and
+through eCommerce, and to access our other service offerings. Through innovation, we strive to
+continuously improve a customer-centric experience that seamlessly integrates our eCommerce and
+retail stores in an omni-channel offering that saves time for our customers. Each week, we serve
+approximately 230 million customers who visit more than 10,500 stores and numerous eCommerce websites
+under 46 banners in 24 countries.
+Our strategy is to make every day easier for busy families, operate with discipline, sharpen our
+culture and become more digital, and make trust a competitive advantage. Making life easier for busy
+families includes our commitment to price leadership, which has been and will remain a cornerstone of
+our business, as well as increasing convenience to save our customers time. By leading on price, we
+earn the trust of our customers every day by providing a broad assortment of quality merchandise and
+services at everyday low prices ("EDLP"). EDLP is our pricing philosophy under which we price items
+at a low price every day so our customers trust that our prices will not change under frequent
+promotional activity. Everyday low cost ("EDLC") is our commitment to control expenses so our cost
+savings can be passed along to our customers.
+Our operations comprise three reportable segments: Walmart U.S., Walmart International and Sam's
+Club. Our fiscal year ends on January 31 for our United States ("U.S.") and Canadian operations. We
+consolidate all other operations generally using a one-month lag and on a calendar year basis. Our
+discussion is as of and for the fiscal years ended January 31, 2022 ("fiscal 2022"), January 31, 2021
+("fiscal 2021") and January 31, 2020 ("fiscal 2020"). During fiscal 2022, we generated total revenues
+of $572.8 billion, which was comprised primarily of net sales of $567.8 billion.
+We maintain our principal offices in Bentonville, Arkansas. Our common stock trades on the New York
+Stock Exchange under the symbol "WMT."
+ The Development of Our Company 
+The businesses conducted by our founders began in 1945 when Sam M. Walton opened a franchise Ben
+Franklin variety store in Newport, Arkansas. In 1946, his brother, James L. Walton, opened a similar
+store in Versailles, Missouri. Until 1962, our founders' business was devoted entirely to the
+operation of variety stores. In 1983, we opened our first Sam's Club, and in 1988, we opened our
+first supercenter. In 1998, we opened our first Walmart Neighborhood Market. In 1991, we began our
+first international initiative when we entered into a joint venture in Mexico and, as of January 31,
+2022, our Walmart International segment conducted business in 23 countries.
+In 2000, we began our first eCommerce initiative by creating both walmart.com and samsclub.com. Since
+then, our eCommerce presence has continued to grow. In 2007, leveraging our physical stores,
+walmart.com launched its Site to Store service, enabling customers to make a purchase online and pick
+up merchandise in stores. To date, we now have over 8,000 pickup and 6,000 delivery locations
+globally. In recent years, we have heavily invested in omni-channel and eCommerce innovation, as well
+as made several eCommerce acquisitions to better serve our customers. These investments have enabled
+us to leverage technology, talent and expertise, incubate digitally-native brands, and expand our
+assortment and service offerings. We have also continued to enhance our eCommerce initiatives
+internationally, such as with our acquisition of a majority stake of Flipkart Private Limited
+("Flipkart"), which is our ecosystem in India that includes eCommerce platforms of Flipkart and
+Myntra as well as PhonePe, a digital transaction platform.
+We are enhancing our ecosystem with our omni-channel capabilities, stores, service offerings,
+eCommerce websites and marketplaces as well as our supply chain combined with approximately 2.3
+million associates as of January 31, 2022 to better serve our customers. Together, we believe these
+elements produce a flywheel effect which creates relationships where customers view Walmart as their
+primary destination. In the U.S., our Walmart+ membership incorporates several service offerings
+which provide enhanced omni-channel shopping experiences and benefits for members. As we execute on
+our strategy, our flywheel is accelerating through offerings such as our Walmart Connect advertising
+business, Walmart Fulfillment Services, our health and wellness business, including Walmart Health,
+and our financial services business. These offerings represent mutually reinforcing pieces of our
+flywheel centered around our customers around the world who are increasingly seeking convenience.
+ 6 
+ Information About Our Segments 
+We are engaged in global operations of retail, wholesale and other units, as well as eCommerce,
+located throughout the U.S., Africa, Canada, Central America, Chile, China, India and Mexico. We also
+previously operated in Argentina prior to the sale of Walmart Argentina in fiscal 2021 and operated
+in the United Kingdom and Japan prior to the sale of those operations in the first quarter of fiscal
+2022. Refer to Note 12 to our Consolidated Financial Statements for information on these
+divestitures. Our operations are conducted in three reportable segments: Walmart U.S., Walmart
+International and Sam's Club, which are further described below. Each segment contributes to the
+Company's operating results differently. However, each has generally maintained a consistent
+contribution rate to the Company's net sales and operating income in recent years other than minor
+changes to the contribution rate for the Walmart International segment due to fluctuations in
+currency exchange rates. Additional information on our operating segments and geographic information
+is contained in Note 13 to our Consolidated Financial Statements.
+ Walmart U.S. Segment 
+Walmart U.S. is our largest segment and operates in the U.S., including in all 50 states, Washington
+D.C. and Puerto Rico. Walmart U.S. is a mass merchandiser of consumer products, operating under the
+"Walmart" and "Walmart Neighborhood Market" brands, as well as walmart.com and other eCommerce
+brands. Walmart U.S. had net sales of $393.2 billion for fiscal 2022, representing 69% of our fiscal
+2022 consolidated net sales, and had net sales of $370.0 billion and $341.0 billion for fiscal 2021
+and 2020, respectively. Of our three segments, Walmart U.S. has historically had the highest gross
+profit as a percentage of net sales ("gross profit rate"). In addition, Walmart U.S. has historically
+contributed the greatest amount to the Company's net sales and operating income.
+Omni-channel. Walmart U.S. provides an omni-channel experience to customers, integrating retail
+stores and eCommerce, through services such as pickup and delivery, ship-from-store, and digital
+pharmacy fulfillment options. As of January 31, 2022, we had approximately 4,600 pickup locations and
+more than 3,500 same-day delivery locations. Our Walmart+ membership offering provides enhanced omni-
+channel shopping benefits that currently include unlimited free shipping on eligible items with no
+order minimum, unlimited delivery from store, fuel and pharmacy discounts, and mobile scan & go for a
+streamlined in-store shopping experience. We have several eCommerce websites, the largest of which is
+walmart.com. We define eCommerce sales as sales initiated by customers digitally and fulfilled by a
+number of methods including our dedicated eCommerce fulfillment centers and leveraging our stores.
+The following table provides the approximate size of our retail stores as of January 31, 2022:
+ Minimum Square Feet Maximum Square Feet Average Square Feet 
+ Supercenters (general 
+ merchandise and 69,000 260,000 178,000 
+ grocery) 
+ Discount stores (general 
+ merchandise and 30,000 221,000 105,000 
+ limited grocery) 
+ Neighborhood 28,000 65,000 42,000 
+ markets(1)(grocery) 
+(1) Excludes other small formats.
+Merchandise. Walmart U.S. does business in three strategic merchandise units, listed below:
+• Grocery consists of a full line of grocery items, including dry grocery, snacks, dairy, meat,
+produce, deli & bakery, frozen foods, alcoholic and nonalcoholic beverages, as well as consumables
+such as health and beauty aids, pet supplies, household chemicals, paper goods and baby products;
+• General merchandise includes:
+◦ Entertainment (e.g., electronics, toys, seasonal merchandise, wireless, video games, movies, music
+and books);
+◦ Hardlines (e.g., automotive, hardware and paint, sporting goods, outdoor living and stationery);
+◦ Apparel (e.g., apparel for men, women, girls, boys and infants, as well as shoes, jewelry and
+accessories); and
+◦ Home (e.g., housewares and small appliances, bed & bath, furniture and home organization, home
+furnishings, home decor, fabrics and crafts).
+• Health and wellness includes pharmacy, over-the-counter drugs and other medical products, optical
+services and other clinical services.
+Brand name merchandise represents a significant portion of the merchandise sold in Walmart U.S. We
+also market lines of merchandise under our private brands, including brands such as: "Allswell,"
+"Athletic Works," "Bonobos Fielder," "Eloquii Elements," "Equate," "Free Assembly," "Freshness
+Guaranteed," "George," "Great Value," "Holiday Time," "Hyper Tough," "Mainstays," "Marketside," "No
+Boundaries," "onn.," "Ozark Trail," "Parent's Choice," "Sam's Choice," "Scoop," "Spring Valley,"
+"Time and Tru," "Way to Celebrate" and "Wonder Nation." The Company also markets lines of merchandise
+under licensed brands, some of which include: "Avia," "Better Homes & Gardens," "Pioneer Woman" and
+"Sofia Jeans by Sofia Vergara."
+ 7 
+Periodically, revisions are made to the categorization of the components comprising our strategic
+merchandise units. When revisions are made, the previous periods' presentation is adjusted to
+maintain comparability.
+The Walmart U.S. business also includes an in-house advertising offering via Walmart Connect, supply
+chain and fulfillment capabilities to online marketplace sellers via Walmart Fulfillment Services,
+and access to quality, affordable healthcare via Walmart Health. In Fiscal 2022, Walmart U.S.
+initiatives also included the launch of a B2B last mile delivery service platform via Walmart
+GoLocal, and Walmart Luminate which provides a suite of data products to merchants and suppliers.
+Additional service offerings include fuel, financial services and related products (including through
+our digital channels, stores and clubs as well as our previously announced fintech joint venture),
+such as money orders, prepaid access, money transfers, check cashing, bill payment, and certain types
+of installment lending. Combined, these offerings do not currently represent a significant portion of
+annual segment revenues.
+Operations. Walmart U.S. is available to customers through supercenters, discount stores and
+neighborhood markets, as well as online or through the mobile application 24 hours a day. Consistent
+with its strategy, Walmart U.S. continues to develop technology tools and services to better serve
+customers and help stores operate more efficiently, such as pickup and delivery, Walmart+, ship-from-
+store and other initiatives which provide convenient and seamless omni-channel shopping experiences.
+Seasonal Aspects of Operations. Walmart U.S.'s business is seasonal to a certain extent due to
+calendar events and national and religious holidays, as well as different weather patterns.
+Historically, its highest sales volume has occurred in the fiscal quarter ending January 31.
+Competition. Walmart U.S. competes with brick and mortar, eCommerce, and omni-channel retailers
+operating discount, department, retail and wholesale grocers, drug, dollar, variety and specialty
+stores, supermarkets, hypermarkets and supercenter-type stores, eCommerce retailers, as well as
+companies that offer services in digital advertising, fulfillment and delivery services, health and
+wellness, and financial services. Each of these landscapes is highly competitive and rapidly
+evolving, and new business models and the entry of new, well-funded competitors continue to intensify
+this competition. Some of our competitors have longer histories in these lines of business, more
+customers, and greater brand recognition. They may be able to obtain more favorable terms from
+suppliers and business partners and to devote greater resources to the development of these
+businesses. In addition, for eCommerce and other internet-based businesses, newer or smaller
+businesses may be better able to innovate and compete with us.
+Our ability to develop and operate units at the right locations and to deliver a customer-centric
+omni-channel experience largely determines our competitive position within the retail industry. We
+compete in a variety of ways, including the prices at which we sell our merchandise, merchandise
+selection availability, services offered to customers, location, store hours, in-store amenities, the
+shopping convenience and overall shopping experience we offer, the attractiveness and ease of use of
+our digital platforms, cost and speed of and options for delivery to customers of merchandise
+purchased through our digital platforms or through our omni-channel integration of our physical and
+digital operations. We employ many strategies and programs designed to meet competitive pressures
+within our industry. These strategies include the following:
+• EDLP: our pricing philosophy under which we price items at everyday low prices so our customers
+trust that our prices will not change under frequent promotional activity;
+• EDLC: everyday low cost is our commitment to control expenses so our cost savings can be passed
+along to our customers;
+• Omni-channel offerings such as pickup and delivery and our Walmart+ membership offering, all of
+which enhance convenience and seek to serve customers in the ways they want to be served; and
+• Expanding our flywheel and the products and services we offer in areas such as digital advertising,
+fulfillment services, health and wellness, and financial services.
+Distribution. We utilize a total of 157 distribution facilities which are located strategically
+throughout the U.S. For fiscal 2022, the majority of Walmart U.S.'s purchases of store merchandise
+were shipped through these facilities, while most of the remaining store merchandise we purchased was
+shipped directly from suppliers. General merchandise and dry grocery merchandise is transported
+primarily through the segment's private truck fleet; however, we contract with common carriers to
+transport the majority of our perishable grocery merchandise. We ship merchandise purchased by
+customers on our eCommerce platforms by a number of methods from multiple locations including from
+our 31 dedicated eCommerce fulfillment centers, as well as leveraging our ability to ship or deliver
+directly from more than 3,500 stores.
+ Walmart International Segment 
+Walmart International is our second largest segment and operated in 23 countries outside of the U.S.
+as of January 31, 2022. Walmart International operates through our wholly-owned subsidiaries in
+Canada, Chile, and China, and our majority-owned subsidiaries in Africa (which includes Botswana,
+Ghana, Kenya, Lesotho, Malawi, Mozambique, Namibia, Nigeria, South Africa, Swaziland, Tanzania,
+Uganda and Zambia), India, as well as Mexico and Central America (which includes Costa Rica, El
+Salvador, Guatemala, Honduras and Nicaragua). Walmart International previously operated in Argentina
+prior to the sale of
+ 8 
+Walmart Argentina in fiscal 2021 and operated in the United Kingdom and Japan prior to the sale of
+those operations in the first quarter of fiscal 2022. Refer to Note 12 to our Consolidated Financial
+Statements for discussion of recent divestitures.
+Walmart International includes numerous formats divided into two major categories: retail and
+wholesale. These categories consist of many formats, including: supercenters, supermarkets,
+hypermarkets, warehouse clubs (including Sam's Clubs) and cash & carry, as well as eCommerce through
+walmart.com.mx, walmart.ca, flipkart.com and other sites. Walmart International had net sales of
+$101.0 billion for fiscal 2022, representing 18% of our fiscal 2022 consolidated net sales, and had
+net sales of $121.4 billion and $120.1 billion for fiscal 2021 and 2020, respectively. The gross
+profit rate is lower than that of Walmart U.S. primarily because of its format mix.
+Walmart International's strategy is to create strong local businesses powered by Walmart which means
+being locally relevant and customer-focused in each of the markets it operates. We are being
+deliberate about where and how we choose to operate and continue to re-shape the portfolio to best
+enable long-term, sustainable and profitable growth. As such, we have taken certain strategic actions
+to strengthen our Walmart International portfolio for the long-term, which include the following
+highlights over the last three years:
+• Divestiture of Walmart Argentina in November 2020.
+• Divestiture of Asda Group Limited ("Asda"), our retail operations in the U.K., in February 2021.
+• Divestiture of a majority stake in Seiyu, our retail operations in Japan, in March 2021.
+Omni-channel. Walmart International provides an omni-channel experience to customers, integrating
+retail stores and eCommerce, such as through pickup and delivery services in most of our markets, our
+marketplaces such as Flipkart in India, and a digital transaction platform anchored in payments such
+as PhonePe in India. Same-day delivery capacity continues to expand in Mexico, including our recent
+launch of a membership model which provides unlimited same-day delivery from stores, and in China,
+our partnerships with JD.com and JD Daojia provide customers one-hour delivery by leveraging Walmart
+stores as fulfillment centers. A value-based internet and telephone service was recently launched in
+Mexico allowing customers to enjoy digital connectivity.
+Generally, retail units' selling areas range in size from 1,400 square feet to 186,000 square feet.
+Our wholesale stores' selling areas generally range in size from 24,000 square feet to 158,000 square
+feet. As of January 31, 2022, Walmart International had approximately 2,900 pickup and over 1,900
+delivery locations.
+Merchandise. The merchandising strategy for Walmart International is similar to that of our
+operations in the U.S. in terms of the breadth and scope of merchandise offered for sale. While brand
+name merchandise accounts for a majority of our sales, we have both leveraged U.S. private brands and
+developed market specific private brands to serve our customers with high quality, low priced items.
+Along with the private brands we market globally, such as "Equate," "George," "Great Value," "Holiday
+Time," "Mainstays," "Marketside" and "Parent's Choice," our international markets have developed
+market specific brands including "Aurrera," "Cambridge," "Extra Special," "Lider," "Myntra," and
+"PhonePe." In addition, we have developed and continue to grow our relationships with regional and
+local suppliers in each market to ensure reliable sources of quality merchandise that is equal to
+national brands at low prices.
+Walmart International also offers advertising, financial services and related products in various
+markets. Our businesses in Mexico and Canada, for example, offer prepaid cards and money transfers,
+and our PhonePe business in India provides a platform that offers mobile and bill payment, person-to-
+person (P2P) payment, investment and insurance solutions, financial services and advertising.
+Combined, these offerings did not represent a significant portion of annual segment revenues.
+Operations. The hours of operation for operating units in Walmart International vary by country and
+by individual markets within countries, depending upon local and national ordinances governing hours
+of operation. Consistent with its strategy, Walmart International continues to develop technology
+tools and services to better serve customers and help its various formats operate more efficiently,
+as well as to provide convenient and seamless omni-channel shopping experiences.
+Seasonal Aspects of Operations. Walmart International's business is seasonal to a certain extent.
+Historically, its highest sales volume has occurred in the fourth quarter of our fiscal year. The
+seasonality of the business varies by country due to different national and religious holidays,
+festivals and customs, as well as different weather patterns.
+Competition. Walmart International competes with brick and mortar, eCommerce, and omni-channel
+retailers who operate department, drug, discount, variety and specialty stores, supermarkets,
+hypermarkets and supercenter-type stores, wholesale clubs, home-improvement stores, specialty
+electronics stores, cash & carry operations and convenience stores, and eCommerce retailers, as well
+as catalog businesses. Our ability to develop and operate units at the right locations and to deliver
+a customer-centric omni-channel experience largely determines our competitive position within the
+retail industry. We believe price leadership is a critical part of our business model and we continue
+to focus on moving our markets towards an EDLP approach. Additionally, our ability to operate food
+departments effectively has a significant impact on our competitive position in the markets where we
+operate. Each of these landscapes is highly competitive and rapidly evolving, and new business models
+and the entry of new, well-funded competitors continue to intensify this competition. Some of our
+competitors have longer histories
+ 9 
+in these lines of business, more customers, and greater brand recognition. They may be able to obtain
+more favorable terms from suppliers and business partners and to devote greater resources to the
+development of these businesses. In addition, for eCommerce and other internet-based businesses,
+newer or smaller businesses may be better able to innovate and compete with us.
+Distribution. We utilize a total of 179 distribution facilities located in Canada, Central America,
+Chile, China, India, Mexico and South Africa. Through these facilities, we process and distribute
+both imported and domestic products to the operating units of the Walmart International segment.
+During fiscal 2022, the majority of Walmart International's purchases passed through these
+distribution facilities. Suppliers ship the remainder of Walmart International's purchases directly
+to our stores in the various markets in which we operate. Across the segment, we have efficient
+networks connecting physical stores and distribution and fulfillment centers which facilitate the
+movement of goods to where our customers live. We ship merchandise purchased by customers on our
+eCommerce platforms by a number of methods from multiple locations including from our 83 dedicated
+eCommerce fulfillment centers, more than 3,400 eCommerce sort centers and last-mile delivery
+facilities in India, as well as our physical retail stores.
+ Sam's Club Segment 
+Sam's Club operates in 44 states in the U.S. and in Puerto Rico. Sam's Club is a membership-only
+warehouse club that also operates samsclub.com. Sam's Club had net sales of $73.6 billion for fiscal
+2022, representing 13% of our consolidated fiscal 2022 net sales, and had net sales of $63.9 billion
+and $58.8 billion for fiscal 2021 and 2020, respectively. As a membership-only warehouse club,
+membership income is a significant component of the segment's operating income. Sam's Club operates
+with a lower gross profit rate and lower operating expenses as a percentage of net sales than our
+other segments.
+Membership. The following two options are available to members:
+ Plus Membership Club Membership 
+ Annual Membership Fee $100 $45 
+ Number of Add-on Memberships ($40 each) Up to 16 Up to 8 
+All memberships include a spouse/household card at no additional cost. Plus Members are also eligible
+for free shipping on the majority of merchandise, with no minimum order size, and receive discounts
+on prescriptions and glasses. Beginning in fiscal 2023, Sam's Club launched a single loyalty rewards
+currency called Sam's Cash which merges and replaces existing Cash Rewards for Plus members and Cash
+Back for Sam's Club Mastercard holders. Members may redeem Sam's Cash on purchases in the club and
+online, to pay for membership fees or for cash in clubs. Sam's Cash does not expire and is available
+for monthly redemption.
+Omni-channel. Sam's Club provides an omni-channel experience to customers, integrating retail stores
+and eCommerce through such services as Curbside Pickup, mobile Scan & Go, ship-from-club, and
+delivery-from-club. Members have access to a broad assortment of merchandise and services, including
+those not found in our clubs, online at samsclub.com and through our mobile commerce applications.
+The warehouse facility sizes generally range between 32,000 and 168,000 square feet, with an average
+size of approximately 134,000 square feet.
+Merchandise. Sam's Club offers merchandise in the following five merchandise categories:
+• Grocery and consumables includes dairy, meat, bakery, deli, produce, dry, chilled or frozen
+packaged foods, alcoholic and nonalcoholic beverages, floral, snack foods, candy, other grocery
+items, health and beauty aids, paper goods, laundry and home care, baby care, pet supplies and other
+consumable items;
+• Fuel, tobacco and other categories;
+• Home and apparel includes home improvement, outdoor living, gardening, furniture, apparel, jewelry,
+tools and power equipment, housewares, toys, seasonal items, mattresses, and tire and battery
+centers;
+• Technology, office and entertainment includes consumer electronics and accessories, software, video
+games, office supplies, appliances, and third-party gift cards; and
+• Health and wellness includes pharmacy, optical and hearing services and over-the-counter drugs.
+In addition, the Member's Mark private label brand continues to expand its assortment and deliver
+member value.
+Operations. Operating hours for Sam's Clubs are generally Monday through Friday from 10:00 a.m. to
+8:00 p.m., Saturday from 9:00 a.m. to 8:00 p.m. and Sunday from 10:00 a.m. to 6:00 p.m. Additionally,
+most club locations offer Plus Members the ability to shop before the regular operating hours Monday
+through Saturday, starting at 8:00 a.m. Consistent with its strategy, Sam's Club continues to develop
+technology tools to drive a great member experience. Curbside Pickup is available at all clubs to
+help provide fast, easy and contact-free shopping for members. Sam's Club also offers "Scan & Go," a
+mobile checkout and payment solution, which allows members to bypass the checkout line.
+ 10 
+Seasonal Aspects of Operations. Sam's Club's business is seasonal to a certain extent due to calendar
+events and national and religious holidays, as well as different weather patterns. Historically, its
+highest sales volume has occurred in the fiscal quarter ending January 31.
+Competition. Sam's Club competes with other membership-only warehouse clubs, the largest of which is
+Costco, as well as with discount retailers, retail and wholesale grocers, general merchandise
+wholesalers and distributors, gasoline stations as well as omni-channel and eCommerce retailers and
+catalog businesses. At Sam's Club, we provide value at members-only prices, a quality merchandise
+assortment, and bulk sizing to serve both our Plus and Club members. Our eCommerce website and mobile
+commerce applications have increasingly become important factors in our ability to compete.
+Distribution. We utilize 28 dedicated distribution facilities located strategically throughout the
+U.S., as well as some of the Walmart U.S. segment's distribution facilities which service the Sam's
+Club segment for certain items. During fiscal 2022, the majority of Sam's Club's non-fuel club
+purchases were shipped from these facilities, while the remainder of our purchases were shipped
+directly to Sam's Club locations by suppliers. Sam's Club ships merchandise purchased on samsclub.com
+and through its mobile commerce applications by a number of methods including shipments made directly
+from clubs, 12 dedicated eCommerce fulfillment centers and other distribution centers.
+Sam's Club uses a combination of our private truck fleet, as well as common carriers, to transport
+non-perishable merchandise from distribution facilities to clubs. The segment contracts with common
+carriers to transport perishable grocery merchandise from distribution facilities to clubs.
+ Intellectual Property 
+We regard our trademarks, service marks, copyrights, patents, domain names, trade dress, trade
+secrets, proprietary technologies, and similar intellectual property as important to our success, and
+with respect to our associates, customers and others, we rely on trademark, copyright, and patent
+law, trade-secret protection, and confidentiality and/or license agreements to protect our
+proprietary rights. We have registered, or applied for the registration of, a number of U.S. and
+international domain names, trademarks, service marks and copyrights. Additionally, we have filed
+U.S. and international patent applications covering certain of our proprietary technology. We have
+licensed in the past, and expect that we may license in the future, certain of our proprietary rights
+to third parties.
+ Suppliers and Supply Chain 
+As a retailer and warehouse club operator, we utilize a global supply chain that includes both U.S.
+and international suppliers from whom we purchase the merchandise that we sell in our stores, clubs
+and online. In many instances, we purchase merchandise from producers located near the stores and
+clubs in which such merchandise will be sold, particularly products in the "fresh" category. We offer
+our suppliers the opportunity to efficiently sell significant quantities of their products to us.
+These relationships enable us to obtain pricing that reflects the volume, certainty and cost-
+effectiveness these arrangements provide to such suppliers, which in turn enables us to provide low
+prices to our customers. Our suppliers are subject to standards of conduct, including requirements
+that they comply with local labor laws, local worker safety laws and other applicable laws. Our
+ability to acquire from our suppliers the assortment and volume of products we wish to offer to our
+customers, to receive those products within the required time through our supply chain and to
+distribute those products to our stores and clubs, determines, along with other supply chain
+logistics matters (such as containers or port access for example), in part, our in-stock levels in
+our stores and clubs and the attractiveness of our merchandise assortment we offer to our customers
+and members.
+ Government Regulation 
+As a company with global operations, we are subject to the laws of the United States and multiple
+foreign jurisdictions in which we operate and the rules and regulations of various governing bodies,
+which may differ among jurisdictions. For additional information, see the risk factors herein in "
+Item 1A. Risk Factors " under the sub-caption "Legal, Tax, Regulatory, Compliance, Reputational and
+Other Risks."
+Environmental, Social and Governance ("ESG") Priorities
+Our ESG strategy is centered on the concept of creating shared value: we believe we maximize long-
+term value and create competitive advantage for the Company by serving our stakeholders, including
+our customers, associates, shareholders, suppliers, business partners, and communities. We believe
+that addressing such societal needs builds the value of our business, including by enhancing customer
+and associate trust, creating new revenue streams, managing cost and risk, building capabilities for
+future advantage, and strengthening the underlying systems we all rely on.
+We prioritize the ESG issues that offer the greatest potential for Walmart to create shared value:
+issues that rank high in relevance to our business and stakeholders and which Walmart is positioned
+to make a positive impact. Our current ESG priorities are categorized into four broad themes:
+opportunity, sustainability, community, and ethics and integrity.
+ 11 
+• Opportunity . Retail can be a powerful engine for inclusive economic opportunity. We aim to advance
+diversity, equity, and inclusion, and to provide opportunity for Walmart associates (as further
+described in the Human Capital Management section below), our supply chain and the communities we're
+in to fulfill our customer mission, strengthen our business and help people build a better life for
+themselves and their families.
+• Sustainability . Walmart's sustainability efforts focus on our ability to create and preserve long-
+term value for both people and planet. With respect to people, our sustainability efforts focus on
+sourcing responsibly, helping prevent forced labor, empowering women, creating inclusive economic
+opportunity and selling safer, healthier products. With respect to the planet, our efforts aim to
+enhance the sustainability of product supply chains by reducing emissions, protecting and restoring
+nature, and reducing waste. To help address the effects of climate change, Walmart has set science-
+based targets for emissions reduction, including our goal to achieve zero emissions in our operations
+by 2040—without offsets—and to reduce or avoid one billion metric tons of emissions in our value
+chain by 2030 under our Project Gigaton™ initiative.
+• Community . Walmart aims to serve and strengthen communities by operating our business in a way
+that meets the needs of our customer and community stakeholder groups, including by providing safer,
+healthier and more affordable food and other products, disaster support, associate volunteerism,
+local grant programs and community cohesion initiatives.
+• Ethics and Integrity . At every level of our Company, we work to create a culture that inspires
+trust among our associates, with our customers, and in the communities we serve .
+We periodically publish information on our ESG priorities, strategies, and progress on our corporate
+website and may update those disclosures from time to time. Nothing on our website, including our ESG
+reporting, documents or sections thereof, shall be deemed incorporated by reference into this Annual
+Report on Form 10-K.
+ Human Capital Management 
+Our commitment to help people around the world save money and live better is delivered by our
+associates who make the difference for our customers every day. As of the end of fiscal 2022, we
+employed approximately 2.3 million associates worldwide, with approximately 1.7 million associates in
+the U.S. and approximately 0.6 million associates internationally. In the U.S., approximately 94% of
+these associates are hourly and approximately 69% are full-time.
+We believe the strength of our workforce, our associates, is a significant contributor to our
+success. Walmart is a place of opportunity, not only as a foundational entry point to develop
+critical skills that are relevant for a variety of careers, but also a place where people can grow in
+their careers across our global omni-channel business. As customer expectations and technology change
+the nature of work, we are focused on attracting, developing, rewarding, and retaining associates to
+thrive in an ever-changing environment. Approximately 75% of our U.S. salaried store, club and supply
+chain management started their careers in hourly positions. Our focus on providing a path of career
+opportunity for our associates through robust training, competitive wages and benefits, and
+opportunities for advancement creates a strong associate value proposition. The COVID-19 pandemic and
+the related reassessment taking place across the workforce had an impact on our retention of
+associates and as a result turnover in the U.S. increased compared to the previous fiscal year.
+Our workforce strategy includes the following strategic priorities:
+Inclusion - Build a Walmart for everyone: a diverse, equitable and inclusive company, where
+associates' ideas and opinions matter . We are focused on creating an inclusive culture and a diverse
+associate base. Creating an environment where all associates believe they belong and are empowered to
+be themselves, which we believe is essential in serving our customers now and in the future. We
+publish our diversity representation twice yearly, and hold ourselves accountable to providing
+recurring culture, diversity, equity, and inclusion updates to senior leadership, including our
+President and CEO, and members of the Board of Directors. Of the approximately 2.3 million associates
+employed worldwide, 53% identify as women. In the U.S., 49% of the approximately 1.7 million
+associates identify as people of color.
+We review our processes regarding our commitment to fair-pay practices. We are committed to creating
+a performance culture where associates are rewarded based on meaningful factors such as
+qualifications, experience, performance, and the work they do.
+To build a company where associates feel engaged, valued and heard, we gather and respond to
+associates' feedback in a variety of ways, including but not limited to an anonymous, periodic
+associate engagement survey, our Open Door process, and one-on-one interactions. Management reviews
+the results of feedback obtained from our formal associate engagement survey. Feedback and
+suggestions received through these channels have led to meaningful changes in our business.
+Well-being - Focus on the physical, emotional, and financial well-being of our associates. We invest
+in our associates by offering competitive wages, as well as a broad range of benefits that vary based
+on customary local practices and statutory requirements, and we believe these investments in our
+associates are important to our future. In the U.S., we offer affordable healthcare coverage to our
+full-time and eligible part-time associates as well as company paid benefits such as 401(k) match,
+ 12 
+maternity leave, a paid parental leave program to all full-time associates, paid time off, Associate
+Stock Purchase Plan match, life insurance, behavioral health services, and a store discount card or
+Sam's Club membership. Additional information about how we invest in our associates' well-being,
+including wage structure and pay, can be found in our Human Capital brief in our most recent ESG
+reporting, which is available on our corporate website. Nothing on our website, including our ESG
+reporting documents, or sections thereof, shall be deemed incorporated by reference into this Annual
+Report on Form 10-K or incorporated by reference into any of our other filings with the Securities
+and Exchange Commission. Certain information relating to retirement-related benefits we provide to
+our associates is included in Note 11 to our Consolidated Financial Statements.
+The health and safety of our associates remain our biggest priorities and we continue to focus on
+enabling access to vaccines, providing safeguards within facilities, and supporting associates. We
+encourage all associates to consider the COVID-19 vaccine and provide access to make the decision
+easier. Associates can become vaccinated while on the clock or receive paid time off to do so. Our
+COVID-leave policy, which was implemented in March 2020 to support associates during the pandemic,
+has been extended through March 31, 2022.
+Growth - Provide ongoing growth, development and learning opportunities for associates and continue
+to attract talent with new skills. We are invested in the growth of our associates in support of our
+business and their success. We invest in associate development – including new roles and career
+paths, cross-training, on-the-job learning and coaching, and formal, classroom-style training such as
+Walmart Academy in the U.S. We also provide access to educational opportunities for our eligible
+associates through our Live Better U program, which provides a pathway to earn a high school diploma
+or a college degree at no cost, as well as multiple digital learning opportunities.
+Digital - Accelerate digital transformation and ways of working to improve the associate experience
+and drive business results . To deliver a seamless customer and associate experience, we continue to
+invest in digital tools to improve associate productivity, engagement, and performance. As more
+customers shop digitally, we have adapted by adding more roles in eCommerce fulfillment and our home
+office associates have accelerated tech-based solutions that enhance the customer and associate
+experiences.
+ 13 
+ Information About Our Executive Officers 
+The following chart names the executive officers of the Company as of the date of the filing of this
+Annual Report on Form 10-K with the SEC, each of whom is elected by and serves at the pleasure of the
+Board of Directors. The business experience shown for each officer has been his or her principal
+occupation for at least the past five years, unless otherwise noted.
+ Current 
+ Name Business Experience Position Age 
+ Held Since 
+ Executive Vice President, Corporate Affairs, 
+ effective June 2013. From November 2007 to June 2013, 
+ Daniel J. Bartlett he served as the Chief Executive Officer and 2013 50 
+ President of U.S. Operations at Hill & Knowlton, 
+ Inc., a public relations company. 
+ Executive Vice President and Chief Financial Officer, 
+ M. Brett Biggs effective January 2016. From January 2014 to 2016 53 
+ December 2015, he served as Executive Vice President 
+ and Chief Financial Officer of Walmart International. 
+ Executive Vice President, Global Governance, Chief 
+ Legal Officer and Corporate Secretary, effective 
+ April 2018. From May 2017 to February 2018, she 
+ served as Associate Attorney General in the United 
+ Rachel Brand States Department of Justice. From January 2017 to 2018 48 
+ May 2017, Ms. Brand was an Associate Professor of Law 
+ at George Mason University Antonin Scalia Law School. 
+ From August 2012 to February 2017, she served as a 
+ board member on the Privacy and Civil Liberties 
+ Oversight Board of the U.S. government. 
+ Senior Vice President and Controller effective 
+ David M. Chojnowski January 2017. From October 2014 to January 2017, he 2017 52 
+ served as Vice President and Controller, Walmart U.S. 
+ Executive Vice President, President and Chief 
+ Executive Officer, Walmart U.S. effective November 
+ 2019. From February 2017 until November 2019, he 
+ John Furner served as President and Chief Executive Officer, 2019 47 
+ Sam's Club. From October 2015 to January 2017, he 
+ served as Executive Vice President and Chief 
+ Merchandising Officer of Sam's Club. 
+ Executive Vice President, Global Chief Technology 
+ Officer and Chief Development Officer effective July 
+ Suresh Kumar 2019. From February 2018 until June 2019, Mr. Kumar 2019 57 
+ was Vice President and General Manager at Google LLC. 
+ From May 2014 until February 2018, he was Corporate 
+ Vice President at Microsoft Corporation. 
+ Executive Vice President, President and Chief 
+ Executive Officer, Walmart International, effective 
+ Judith McKenna February 2018. From February 2015 to January 2018, 2018 55 
+ she served as Executive Vice President and Chief 
+ Operating Officer of Walmart U.S. 
+ Executive Vice President, President and Chief 
+ Executive Officer, Sam's Club effective November 15, 
+ 2019.From February 2019 to November 2019, she served 
+ as Executive Vice President, Walmart U.S. 
+ Kathryn McLay Neighborhood Markets. From December 2015 until 2019 48 
+ February 2019, she served as Senior Vice President, 
+ U.S. Supply Chain. Ms. McLay originally joined the 
+ Company in April 2015 as Vice President of U.S. 
+ Finance and Strategy. 
+ President and Chief Executive Officer, effective 
+ C. Douglas McMillon February 2014. From February 2009 to January 2014, he 2014 55 
+ served as Executive Vice President, President and 
+ Chief Executive Officer, Walmart International. 
+ Executive Vice President, Global People, and Chief 
+ People Officer, effective February 2020.  From April 
+ Donna Morris 2002 to January 2020, she worked at Adobe Inc. in 2020 54 
+ various roles, including most recently, Chief Human 
+ Resources Officer and Executive Vice President, 
+ Employee Experience. 
+ 14 
+Our Website and Availability of SEC Reports and Other Information
+Our corporate website is located at www.stock.walmart.com. We file with or furnish to the SEC Annual
+Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, amendments to
+those reports, proxy statements and annual reports to shareholders, and, from time to time, other
+documents. The reports and other documents filed with or furnished to the SEC are available to
+investors on or through our corporate website free of charge as soon as reasonably practicable after
+we electronically file them with or furnish them to the SEC. The SEC maintains a website that
+contains reports, proxy and information statements and other information regarding issuers, such as
+the Company, that file electronically with the SEC. The address of that website is www.sec.gov. Our
+SEC filings, our Reporting Protocols for Senior Financial Officers and our Code of Conduct can be
+found on our website at www.stock.walmart.com. These documents are available in print to any
+shareholder who requests a copy by writing or calling our Investor Relations Department, which is
+located at our principal offices.
+A description of any substantive amendment or waiver of Walmart's Reporting Protocols for Senior
+Financial Officers or our Code of Conduct for our chief executive officer, our chief financial
+officer and our controller, who is our principal accounting officer, will be disclosed on our website
+at www.stock.walmart.com under the Corporate Governance section. Any such description will be located
+on our website for a period of 12 months following the amendment or waiver.
+ ITEM 1A. RISK FACTORS 
+The risks described below could, in ways we may or may not be able to accurately predict, materially
+and adversely affect our business, results of operations, financial position and liquidity. Our
+business operations could also be affected by additional factors that apply to all companies
+operating in the U.S. and globally. The following risk factors do not identify all risks that we may
+face.
+ Strategic Risks 
+Failure to successfully execute our omni-channel strategy and the cost of our investments in
+eCommerce and technology may materially adversely affect our market position, net sales and financial
+performance.
+The retail business continues to rapidly evolve and consumers increasingly embrace digital shopping.
+As a result, the portion of total consumer expenditures with retailers and wholesale clubs occurring
+through digital platforms is increasing and the pace of this increase could continue to accelerate.
+Our strategy, which includes investments in eCommerce, technology, talent, supply chain automation,
+acquisitions, joint ventures, store remodels and other customer initiatives, may not adequately or
+effectively allow us to continue to grow our eCommerce business, increase comparable sales, maintain
+or grow our overall market position or otherwise offset the impact on the growth of our business of a
+moderated pace of new store and club openings. The success of this strategy will depend in large
+measure on our ability to continue building and delivering a seamless omni-channel shopping
+experience and interconnected ecosystem for our customers that deepens our relationships with our
+customers across our various businesses and partnerships and reinforces our overall flywheel
+strategy. The success of this strategy is further subject to the related risks discussed in this Item
+1A . With the interconnected components of this flywheel strategy and an increasing allocation of
+capital expenditures focused on these initiatives, our failure to successfully execute on individual
+components of this strategy may adversely affect our market position, net sales and financial
+performance which could also result in impairment charges to intangible assets or other long-lived
+assets. In addition, a greater concentration of eCommerce sales, including increasing online grocery
+sales, could result in a reduction in the amount of traffic in our stores and clubs, which would, in
+turn, reduce the opportunities for cross-store or cross-club sales of merchandise that such traffic
+creates and could reduce our sales within our stores and clubs and materially adversely affect our
+financial performance.
+Furthermore, the cost of certain investments in eCommerce, technology, talent, automation, including
+any operating losses incurred, will adversely impact our financial performance in the short-term and
+failure to realize the benefits of these investments may adversely impact our financial performance
+over the longer term.
+If we do not timely identify or effectively respond to consumer trends or preferences, it could
+negatively affect our relationship with our customers, demand for the products and services we sell,
+our market share and the growth of our business.
+It is difficult to predict consistently and successfully the products and services our customers will
+demand and changes in their shopping patterns. The success of our business depends in part on how
+accurately we predict consumer demand, availability of merchandise, the related impact on the demand
+for existing products and services and the competitive environment. Price transparency, assortment of
+products, customer experience, convenience, ease and the speed and cost of shipping are of primary
+importance to customers and continue to increase in importance, particularly as a result of digital
+tools and social media available to consumers and the choices available to consumers for purchasing
+products. Our failure to adequately or effectively respond to changing consumer tastes, preferences
+(including those related to ESG issues) and shopping patterns, or any other failure on our part to
+timely identify or effectively respond to changing consumer tastes, preferences and shopping patterns
+ 15 
+could negatively affect our reputation and relationship with our customers, the demand for the
+products we sell or services we offer, our market share and the growth of our business.
+We face strong competition from other retailers, wholesale club operators, omni-channel retailers,
+and other businesses which could materially adversely affect our financial performance.
+Each of our segments competes for customers, employees, digital prominence, products and services and
+in other important aspects of its business with many other local, regional, national and global
+physical, eCommerce and omni-channel retailers, wholesale club operators and retail intermediaries,
+as well as companies that offer services in digital advertising, fulfillment and delivery services,
+health and wellness, and financial services. The omni-channel retail landscape is highly competitive
+and rapidly evolving, and the entry of new, well-funded competitors may increase competitive
+pressures. In addition, for eCommerce and other internet-based businesses, newer or smaller
+businesses may be better able to innovate and compete with us.
+We compete in a variety of ways, including the prices at which we sell our merchandise, merchandise
+selection and availability, services offered to customers, location, store hours, in-store amenities,
+the shopping convenience and overall shopping experience we offer, the attractiveness and ease of use
+of our digital platforms, cost and speed of and options for delivery to customers of merchandise
+purchased through our digital platforms or through our omni-channel integration of our physical and
+digital operations.
+A failure to respond effectively to competitive pressures and changes in the retail and other markets
+in which we operate, omni-channel innovations and omni-channel ecosystems developed by our
+competitors or delays or failure in execution of our strategy could materially adversely affect our
+financial performance. See " Item 1. Business " above for additional discussion of the competitive
+situation of each of our reportable segments.
+Certain segments of the retail industry are undergoing consolidation or substantially reducing
+operations, whether due to bankruptcy, consolidation or other factors. Such consolidation, or other
+business combinations or alliances, competitive omni-channel ecosystems, or reductions in operations
+may result in competitors with greatly improved financial resources, improved access to merchandise,
+greater market penetration and other improvements in their competitive positions. Such business
+combinations or alliances could allow these companies to provide a wider variety of products and
+services at competitive prices, which could adversely affect our financial performance.
+General or macro-economic factors, both domestically and internationally, may materially adversely
+affect our financial performance.
+General economic conditions and other economic factors, globally or in one or more of the markets we
+serve, may adversely affect our financial performance. Higher interest rates, lower or higher prices
+of petroleum products, including crude oil, natural gas, gasoline, and diesel fuel, higher costs for
+electricity and other energy, weakness in the housing market, inflation, deflation, increased costs
+of essential services, such as medical care and utilities, higher levels of unemployment, decreases
+in consumer disposable income, unavailability of consumer credit, higher consumer debt levels,
+changes in consumer spending and shopping patterns, fluctuations in currency exchange rates, higher
+tax rates, imposition of new taxes or other changes in tax laws, changes in healthcare laws, other
+regulatory changes, the imposition of tariffs or other measures that create barriers to or increase
+the costs associated with international trade, overall economic slowdown or recession and other
+economic factors in the U.S. or in any of the other markets in which we operate could adversely
+affect consumer demand for the products and services we sell in the U.S. or such other markets,
+change the mix of products we sell to one with a lower average gross margin, cause a slowdown in
+discretionary purchases of goods, adversely affect our net sales and result in slower inventory
+turnover and greater markdowns of inventory, or otherwise materially adversely affect our operations
+and operating results and could result in impairment charges to intangible assets, goodwill or other
+long-lived assets.
+In addition, the economic factors listed above, any other economic factors or circumstances resulting
+in higher transportation, labor, insurance or healthcare costs or commodity prices, and other
+economic factors in the U.S. and other countries in which we operate can increase our cost of sales
+and operating, selling, general and administrative expenses and otherwise materially adversely affect
+our operations and operating results.
+The economic factors that affect our operations may also adversely affect the operations of our
+suppliers, which can result in an increase in the cost to us of the goods we sell to our customers
+or, in more extreme cases, in certain suppliers not producing goods in the volume typically available
+to us for sale.
+The performance of strategic alliances and other business relationships to support the expansion of
+our business could materially adversely affect our financial performance.
+We may enter into strategic alliances and other business relationships in the countries in which we
+have existing operations or in other markets to expand our business. These arrangements may not
+generate the level of sales we anticipate when entering into the arrangement or may otherwise
+adversely impact our business and competitive position relative to the results we could
+ 16 
+have achieved in the absence of such alliance. In addition, any investment we make in connection with
+a strategic alliance, business relationship or in certain of our recently divested markets, could
+materially adversely affect our financial performance.
+ Operational Risks 
+The impact of the COVID-19 pandemic on our business, financial position and results of operations
+continues to be unpredictable, and we may be unable to sustain our revenue growth rate in the future.
+The impacts of the COVID-19 pandemic continue to be highly unpredictable and volatile in light of the
+potential for a resurgence of infection rates or as a result of future mutations, variants, or
+related strains of the virus. Recent years have demonstrated the widespread and varying impacts of
+the pandemic on certain business operations, demand for our products and services, in-stock
+positions, costs of doing business, access to inventory, supply chain operations, the extent and
+duration of measures to try to contain the virus (such as travel bans and restrictions, quarantines,
+shelter-in-place orders, business and government shutdowns, and other restrictions on retailers), our
+ability to predict future performance, exposure to litigation, and our financial performance, among
+other things.
+Customer behaviors have changed rapidly during the course of the COVID-19 pandemic. In the event of a
+resurgence of infections or future mutations, variants or related strains of the virus become
+prevalent, customer demand for certain products may fluctuate and customer behaviors may change,
+which may challenge our ability to anticipate and/or adjust inventory levels to meet that demand.
+These factors may result in higher out-of-stock positions in certain products, as well as delays in
+delivering those products, and could impact inventory levels in the future.
+Other factors and uncertainties include, but are not limited to: the severity and duration of the
+pandemic, including whether there are additional outbreaks or spikes in the number of COVID-19 cases,
+future mutations or related strains of the virus in areas in which we and our suppliers operate;
+further increased operational costs associated with operating during a global pandemic; evolving
+macroeconomic factors, including general economic uncertainty, unemployment rates, and recessionary
+pressures; unknown consequences on our business performance and initiatives stemming from the
+substantial investment of time, capital and other resources to the pandemic response; the
+effectiveness and extent of administration of vaccinations and medical treatments for COVID-19 or
+other variants; the pace of recovery when the pandemic subsides; and the long-term impact of the
+COVID-19 pandemic on our business, including consumer behaviors. These risks and their impacts are
+difficult to predict and could otherwise disrupt and adversely affect our operations and our
+financial performance.
+The COVID-19 pandemic has led to increased revenue growth relative to historic trends, and has
+particularly accelerated our eCommerce growth. These results, as well as those of other metrics such
+as net income and other financial and operating data, may not be indicative of results for future
+periods. Once the impact of the COVID-19 pandemic subsides, particularly as vaccines become more
+widely available, and customers return to work or school or are otherwise no longer subject to the
+aforementioned containment directives and similar mandates, a failure by us to continue capitalizing
+on growth opportunities may result in declining revenue and future operating results may fall below
+expectations.
+To the extent that the COVID-19 pandemic continues to adversely affect the U.S. and the global
+economy, it may also heighten other risks described in this section, including but not limited to
+those related to consumer behavior and expectations, competition, our reputation, implementation of
+strategic initiatives, cybersecurity threats, payment-related risks, technology systems disruption,
+supply chain disruptions, labor availability and cost, litigation, and regulatory requirements.
+Natural disasters, climate change, geopolitical events, global health epidemics or pandemics and
+catastrophic events could materially adversely affect our financial performance.
+The occurrence of one or more natural disasters, such as hurricanes, tropical storms, floods, fires,
+earthquakes, tsunamis, cyclones, typhoons; weather conditions such as major or extended winter
+storms, droughts and tornadoes, whether as a result of climate change or otherwise; geopolitical
+events; global health epidemics or pandemics or other contagious outbreaks such as the ongoing
+COVID-19 pandemic; and catastrophic events, such as war, civil unrest, terrorist attacks or other
+acts of violence, including active shooter situations (such as those that have occurred in our U.S.
+stores), in countries in which we operate, in which our suppliers are located, or in other areas of
+the world (such as in Ukraine where armed hostilities currently exist between Ukraine and Russia)
+could adversely affect our operations and financial performance.
+Such events could result in physical damage to, or the complete loss of, one or more of our
+properties, the closure of one or more stores, clubs and distribution or fulfillment centers,
+limitations on store or club operating hours, the lack of an adequate work force in a market, the
+inability of customers and associates to reach or have transportation to our stores and clubs
+affected by such events, the evacuation of the populace from areas in which our stores, clubs and
+distribution and fulfillment centers are located, the unavailability of our digital platforms to our
+customers, changes in the purchasing patterns of consumers (including the frequency of visits by
+consumers to physical retail locations, whether as a result of limitations on large gatherings,
+travel and movement limitations or otherwise) and in consumers' disposable income, the temporary or
+long-term disruption in the supply of products from some suppliers, the disruption in the transport
+of goods from overseas, the disruption or delay in the delivery of goods to our distribution and
+fulfillment centers or stores within a country in which we are operating, the reduction in the
+availability of products in our stores, increases in the costs of procuring products as a result of
+either reduced availability
+ 17 
+or economic sanctions, increased transportation costs (whether due to fuel prices, fuel supply, or
+otherwise), the disruption (whether directly or indirectly) of critical infrastructure systems,
+banking systems, utility services or energy availability to our stores, clubs and our facilities, and
+the disruption in our communications with our stores, clubs and our other facilities.
+Furthermore, the long-term impacts of climate change, whether involving physical risks (such as
+extreme weather conditions, drought, or rising sea levels) or transition risks (such as regulatory or
+technology changes) are expected to be widespread and unpredictable. Certain impacts of physical risk
+may include: temperature changes that increase the heating and cooling costs at stores, clubs, and
+distribution or fulfillment centers; extreme weather patterns that affect the production or sourcing
+of certain commodities; flooding and extreme storms that damage or destroy our buildings and
+inventory; and heat and extreme weather events that cause long-term disruption or threats to the
+habitability of the communities in which Walmart operates. Relative to transition risk, certain
+impacts may include: changes in energy and commodity prices driven by climate-related weather events;
+prolonged climate-related events affecting macroeconomic conditions with related effects on consumer
+spending and confidence; stakeholder perception of our engagement in climate-related policies; and
+new regulatory requirements resulting in higher compliance risk and operational costs.
+We bear the risk of losses incurred as a result of physical damage to, or destruction of, any stores,
+clubs and distribution or fulfillment centers, loss or spoilage of inventory and business
+interruption caused by such events. These events and their impacts could otherwise disrupt and
+adversely affect our operations and could materially adversely affect our financial performance.
+Risks associated with our suppliers could materially adversely affect our financial performance.
+The products we sell are sourced from a wide variety of domestic and international suppliers. Global
+sourcing of many of the products we sell is an important factor in our financial performance. We
+expect our suppliers to comply with applicable laws, including labor, safety, anti-corruption and
+environmental laws, and to otherwise meet our required supplier standards of conduct. Our ability to
+find qualified suppliers who uphold our standards, and to access products in a timely and efficient
+manner and in the large volumes we may demand, is a significant challenge, especially with respect to
+suppliers located and goods sourced outside the U.S.
+Political and economic instability, as well as other impactful events and circumstances in the
+countries in which our suppliers and their manufacturers are located (such as the ongoing COVID-19
+pandemic), the financial instability of suppliers, suppliers' failure to meet our terms and
+conditions or our supplier standards (including our responsible sourcing standards), labor problems
+experienced by our suppliers and their manufacturers, the availability of raw materials to suppliers,
+merchandise safety and quality issues, disruption or delay in the transportation of merchandise from
+the suppliers and manufacturers to our stores, clubs, and other facilities, including as a result of
+labor slowdowns at any port at which a material amount of merchandise we purchase enters into the
+markets in which we operate, currency exchange rates, transport availability and cost, transport
+security, inflation and other factors relating to the suppliers and the countries in which they are
+located are beyond our control.
+In addition, the U.S. foreign trade policies, tariffs and other impositions on imported goods, trade
+sanctions imposed on certain countries and entities, the limitation on the importation of certain
+types of goods or of goods containing certain materials from other countries and other factors
+relating to foreign trade are beyond our control. These and other factors affecting our suppliers and
+our access to products could adversely affect our financial performance.
+If the products we sell are not safe or otherwise fail to meet our customers' expectations, we could
+lose customers, incur liability for any injuries suffered by customers using or consuming a product
+we sell or otherwise experience a material impact to our brand, reputation and financial performance.
+We are also subject to reputational and other risks related to third-party sales on our digital
+platforms.
+Our customers count on us to provide them with safe products. Concerns regarding the safety of food
+and non-food products that we source from our suppliers or that we prepare and then sell could cause
+customers to avoid purchasing certain products from us, or to seek alternative sources of supply for
+all of their food and non-food needs, even if the basis for the concern is outside of our control.
+Any lost confidence on the part of our customers would be difficult and costly to reestablish and
+such products also expose us to product liability or food safety claims. As such, any issue regarding
+the safety of any food or non-food items we sell, regardless of the cause, could adversely affect our
+brand, reputation and financial performance. In addition, third-parties sell goods on some of our
+digital platforms, which we refer to as marketplace transactions. Whether laws related to these
+marketplace transactions apply to us is currently unsettled and any unfavorable changes could expose
+us to loss of sales, reduction in transactions and deterioration of our competitive position. In
+addition, we may face reputational, financial and other risks, including liability, for third-party
+sales of goods that are controversial, counterfeit, pirated, or stolen, or otherwise fail to comply
+with applicable law or the proprietary rights of others. Although we impose contractual terms on
+sellers that are intended to prohibit sales of certain type of products, we may not be able to
+detect, enforce, or collect sufficient damages for breaches of such agreements. Any of these events
+could have a material adverse impact on our business and results of operations and impede the
+execution of our eCommerce growth and flywheel strategy.
+ 18 
+We rely extensively on information systems to process transactions, summarize results and manage our
+business. Disruptions in our systems could harm our ability to conduct our operations.
+Given the number of individual transactions we have each year, it is crucial that we maintain
+uninterrupted operation of our business-critical information systems. Our information systems are
+subject to damage or interruption from power outages, computer and telecommunications failures,
+computer viruses, worms, other malicious computer programs, denial-of-service attacks, security
+incidents and breaches (through cyberattacks, which may be from cybercriminals or sophisticated
+state-sponsored threat actors), catastrophic events such as fires, major or extended winter storms,
+tornadoes, earthquakes and hurricanes, usage errors by our associates or contractors, civil or
+political unrest, or armed hostilities. Our information systems are essential to our business
+operations, including the processing of transactions, management of our associates, facilities,
+logistics, inventories, physical stores and clubs and our online operations. Our information systems
+are not fully redundant and our disaster recovery planning cannot account for all eventualities. If
+our systems are damaged, breached, attacked, or cease to function properly, we may have to make a
+significant investment to repair or replace them, and may experience loss or corruption of critical
+data as well as suffer interruptions in our business operations in the interim. Any interruption to
+our information systems may have a material adverse effect on our business or results of operations.
+In addition, we frequently update our information technology hardware, software, processes and
+systems. The risk of system disruption is increased when significant system changes are undertaken.
+If we fail to timely integrate and update our information systems and processes, we may fail to
+realize the cost savings or operational benefits anticipated to be derived from these initiatives.
+If the technology-based systems that give our customers the ability to shop with us online do not
+function effectively, our operating results, as well as our ability to grow our omni-channel business
+globally, could be materially adversely affected.
+Increasingly, customers are using computers, tablets, and smart phones to shop with us and with our
+competitors and to do comparison shopping. We use social media, online advertising, and email to
+interact with our customers and as a means to enhance their shopping experience. As a part of our
+omni-channel sales strategy, we offer various pickup, delivery and shipping programs including
+options where many products available for purchase online can be picked up by the customer or member
+at a local Walmart store or Sam's Club, which provides additional customer traffic at such stores and
+clubs. Omni-channel retailing is a rapidly evolving part of the retail industry and of our operations
+around the world. We must anticipate and meet our customers' changing expectations while adjusting
+for technology investments and developments in our competitors' operations through focusing on the
+building and delivery of a seamless shopping experience across all channels by each operating
+segment. Any failure on our part to provide attractive, user-friendly secure digital platforms that
+offer a wide assortment of merchandise at competitive prices and with low cost and rapid delivery
+options and that continually meet the changing expectations of online shoppers and developments in
+online and digital platform merchandising and related technology could place us at a competitive
+disadvantage, result in the loss of eCommerce and other sales, harm our reputation with customers,
+have a material adverse impact on the growth of our eCommerce business globally and have a material
+adverse impact on our business and results of operations.
+Our digital platforms, which are increasingly important to our business and continue to grow in
+complexity and scope, and the systems on which they run, including those applications and systems in
+our acquired eCommerce businesses, are regularly subject to cyberattacks. Those attacks involve
+attempts to gain unauthorized access to our eCommerce websites (including marketplace platforms) or
+mobile commerce applications to obtain and misuse customers' or members' information including
+payment information and related risks discussed in this Item 1A . Such attacks, if successful, in
+addition to potential data misuse and/or loss, may also create denials of service or otherwise
+disable, degrade or sabotage one or more of our digital platforms or otherwise significantly disrupt
+our customers' and members' shopping experience, our supply chain integrity and continuity, and our
+ability to efficiently operate our business. If we are unable to maintain the security of our digital
+platforms and keep them operating within acceptable parameters, we could suffer loss of sales,
+reductions in transactions, reputational damage and deterioration of our competitive position and
+incur liability for any damage to customers or others whose personal or confidential information is
+unlawfully obtained and misused, any of which events could have a material adverse impact on our
+business and results of operations and impede the execution of our strategy for the growth of our
+business.
+Any failure to maintain the privacy or security of the information relating to our company,
+customers, members, associates and vendors, whether as a result of cyberattacks on our information
+systems or otherwise, could damage our reputation, result in litigation or other legal actions
+against us, cause us to incur substantial additional costs, and materially adversely affect our
+business and operating results.
+Like most retailers, we receive and store in our information systems personal information about our
+customers and members, and we receive and store information concerning our associates and vendors.
+Some of that information is stored digitally in connection with the digital platforms that we use to
+conduct and facilitate our various businesses. In addition, we and our third-party service providers
+store and maintain health-related personal information, pharmacy, and medical records in connection
+with our health and wellness and pharmacy business. We also utilize third-party service providers for
+a variety of reasons, including, without limitation, for digital storage technology, content delivery
+to customers and members, back-office support, and other functions. Such providers may have access to
+information we hold about our customers, members, associates or
+ 19 
+vendors. In addition, our eCommerce operations depend upon the secure transmission of confidential
+information over public networks, including information permitting cashless payments.
+Cyber threats are rapidly evolving and those threats and the means for obtaining access to
+information in digital and other storage media are becoming increasingly sophisticated and frequent.
+Attacks against information systems and devices, whether our own or those of our third-party service
+providers, create risk of cybersecurity incidents, including ransomware, malware, phishing incidents.
+We expect to continue to experience such attempted attacks in the future. Cyberattacks and threat
+actors can be sponsored by particular countries or sophisticated criminal organizations or be the
+work of hackers with a wide range of motives and expertise. We and the businesses with which we
+interact have experienced and continue to experience threats to data and systems, including by
+perpetrators of random or targeted malicious cyberattacks, computer viruses, phishing incidents,
+worms, bot attacks, ransomware or other destructive or disruptive software and attempts to
+misappropriate customer information, including credit card and payment information, and cause system
+failures and disruptions. Mitigation and remediation recommendations continue to evolve, and
+addressing vulnerabilities is a priority for us. The increased use of remote work infrastructure due
+to the COVID-19 pandemic has also increased the possible attack surfaces. Some of our systems and
+third-party service providers' systems have experienced security incidents or breaches and although
+they did not have a material adverse effect on our operating results, there can be no assurance of a
+similar result in the future.
+Associate error or malfeasance, faulty password management, social engineering or other
+vulnerabilities and irregularities may also result in a defeat of our or our third-party service
+providers' security measures and a compromise or breach of our or their information systems.
+Moreover, hardware, software or applications we use may have inherent vulnerabilities or defects of
+design, manufacture or operations or could be inadvertently or intentionally implemented or used in a
+manner that could compromise information security.
+Any compromise of our data security systems or of those of businesses with which we interact, which
+results in confidential information being accessed, obtained, damaged, disclosed, destroyed,
+modified, lost or used by unauthorized persons could harm our reputation and expose us to regulatory
+actions (including, with respect to health information, liability under the Health Insurance
+Portability and Accountability Act of 1996, or "HIPAA"), customer attrition, remediation expenses,
+and claims from customers, members, associates, vendors, financial institutions, payment card
+networks and other persons, any of which could materially and adversely affect our business
+operations, financial position and results of operations. Because the techniques used to obtain
+unauthorized access, disable or degrade service, or sabotage systems change frequently and may not
+immediately produce signs of a compromise, we may be unable to anticipate these techniques or to
+implement adequate preventative measures and we or our third-party service providers may not discover
+any security event, breach, vulnerability or compromise of information for a significant period of
+time after the security incident occurs. To the extent that any cyberattack, ransomware or incursion
+in our or one of our third-party service provider's information systems results in the loss, damage,
+misappropriation or other compromise of information, we may be materially adversely affected by
+claims from customers, financial institutions, regulatory authorities, payment card networks and
+others.
+Our compliance programs, information technology, and enterprise risk management efforts cannot
+eliminate all systemic risk. Disruptions in our systems caused by security incidents, breaches or
+cyberattacks – including attacks on those parties we do business with (such as strategic partners,
+suppliers, banks, or utility companies) – could harm our ability to conduct our operations, which may
+have a material effect on us, may result in losses that could have a material adverse effect on our
+financial position or results of operations, or may have a cascading effect that adversely impacts
+our partners, third-party service providers, customers, financial services firms, and other third
+parties that we interact with on a regular basis.
+In addition, such security-related events could be widely publicized and could materially adversely
+affect our reputation with our customers, members, associates, vendors and shareholders, could harm
+our competitive position particularly with respect to our eCommerce operations, and could result in a
+material reduction in our net sales in our eCommerce operations, as well as in our stores thereby
+materially adversely affecting our operations, net sales, results of operations, financial position,
+cash flows and liquidity. Such events could also result in the release to the public of confidential
+information about our operations and financial position and performance and could result in
+litigation or other legal actions against us or the imposition of penalties, fines, fees or
+liabilities, which may not be covered by our insurance policies. Moreover, a security compromise or
+ransomware event could require us to devote significant management resources to address the problems
+created by the issue and to expend significant additional resources to upgrade further the security
+measures we employ to guard personal and confidential information against cyberattacks and other
+attempts to access or otherwise compromise such information and could result in a disruption of our
+operations, particularly our digital operations.
+We accept payments using a variety of methods, including cash, checks, credit and debit cards, and
+our private label credit cards and gift cards, and we may offer new payment options over time, which
+may have information security risk implications. As a retailer accepting debit and credit cards for
+payment, we are subject to various industry data protection standards and protocols, such as payment
+network security operating guidelines and the Payment Card Industry Data Security Standard. We cannot
+be certain that the security measures we maintain to protect all of our information technology
+systems are able to prevent, contain or detect cyberattacks, cyberterrorism, security incidents,
+breaches, or other compromises from known malware or ransomware or other threats that may be
+developed in the future. In certain circumstances, our contracts with
+ 20 
+payment card processors and payment card networks (such as Visa, Mastercard, American Express and
+Discover) generally require us to adhere to payment card network rules which could make us liable to
+payment card issuers and others if information in connection with payment cards and payment card
+transactions that we process is compromised, which liabilities could be substantial.
+Additionally, through various financial service partners, we offer money transfers, digital payment
+platforms, bill payment, money orders, check cashing, prepaid access, co-branded credits cards,
+installment lending, and earned wage access. These products and services require us to comply with
+legal and regulatory requirements, including global anti-money laundering and sanctions laws and
+regulations as well as international, federal and state consumer financial laws and regulations.
+Failure to comply with these laws and regulations could result in fines, sanctions, penalties and
+harm to our reputation.
+The Company also has compliance obligations associated with privacy laws enacted to protect and
+regulate the collection, use, retention, disclosure and transfer of personal information, which
+include liability for security and privacy breaches. Among other obligations, breaches may trigger
+obligations under federal and state laws to notify affected individuals, government agencies and the
+media. Consequently, cybersecurity attacks that cause a data breach could subject us to fines,
+sanctions and other legal liability and harm our reputation.
+Changes in the results of our health and wellness business could adversely affect our overall results
+of operations, cash flows and liquidity.
+Walmart has retail pharmacy operations in our Walmart U.S. and Sam's Club segments, as well as the
+recent addition of Walmart Health locations in a number of states which offer medical, dental,
+optometry, immunizations, and other health services. A large majority of our retail pharmacy net
+sales are generated by filling prescriptions for which we receive payment through established
+contractual relationships with third-party payers and payment administrators, such as private
+insurers, governmental agencies and pharmacy benefit managers ("PBMs").
+These operations are subject to numerous risks, including: reductions in the third-party
+reimbursement rates for drugs; changes in our payer mix (i.e., shifts in the relative distribution of
+our pharmacy customers across drug insurance plans and programs toward plans and programs with less
+favorable reimbursement terms); changes in third-party payer drug formularies (i.e., the schedule of
+prescription drugs approved for reimbursement or which otherwise receive preferential coverage
+treatment); growth in, and our participation in or exclusion from, pharmacy payer network
+arrangements including exclusive and preferred pharmacy network arrangements operated by PBMs and/or
+any insurance plan or program; increases in the prices we pay for brand name and generic prescription
+drugs we sell; increases in the administrative burdens associated with seeking third-party
+reimbursement; changes in the frequency with which new brand name pharmaceuticals become available to
+consumers; introduction of lower cost generic drugs as substitutes for existing brand name drugs for
+which there was no prior generic drug competition; changes in drug mix (i.e., the relative
+distribution of drugs customers purchase at our pharmacies between brands and generics); changes in
+the health insurance market generally; changes in the scope of or the elimination of Medicare Part D
+or Medicaid drug programs; increased competition from other retail pharmacy operations including
+competitors offering online retail pharmacy options with or without home delivery options; further
+consolidation and strategic alliances among third-party payers, PBMs or purchasers of drugs; overall
+economic conditions and the ability of our pharmacy customers to pay for drugs prescribed for them to
+the extent the costs are not reimbursed by a third-party; failure to meet any performance or
+incentive thresholds to which our level of third-party reimbursement may be subject; changes in laws
+or regulations or the practices of third-party payers and PBMs related to the use of third-party
+financial assistance to assist our pharmacy customers with paying for drugs prescribed for them; and
+any additional changes in the regulatory environment for the retail pharmacy industry and the
+pharmaceutical industry, including as a result of restrictions on the further implementation of or
+the repeal of the Patient Protection and Affordable Care Act or the enactment and implementation of a
+law replacing such act, and other changes in laws, rules and regulations that affect our retail
+pharmacy business.
+If the supply of certain pharmaceuticals provided by one or more of our vendors were to be disrupted
+for any reason, our pharmacy operations could be severely affected until at least such time as we
+could obtain a new supplier for such pharmaceuticals. Any such disruption could cause reputational
+damage and result in a significant number of our pharmacy customers transferring their prescriptions
+to other pharmacies.
+One or a combination of such factors may adversely affect the volumes of brand name and generic
+pharmaceuticals we sell, our cost of sales associated with our retail pharmacy operations, and the
+net sales and gross margin of those operations or result in the loss of cross-store or cross-club
+selling opportunities and, in turn, adversely affect our overall net sales, other results of
+operations, cash flows and liquidity.
+Our failure to attract and retain qualified associates, increases in wage and benefit costs, changes
+in laws and other labor issues could materially adversely affect our financial performance.
+Our ability to continue to conduct and expand our operations depends on our ability to attract and
+retain a large and growing number of qualified associates globally. Our ability to meet our labor
+needs, including our ability to find qualified personnel to fill positions that become vacant at our
+existing stores, clubs, distribution and fulfillment centers and corporate offices, while
+ 21 
+controlling our associate wage and related labor costs, is generally subject to numerous external
+factors, including the availability of a sufficient number of qualified persons in the work force of
+the markets in which we operate, unemployment levels within those markets, prevailing wage rates,
+changing demographics, health and other insurance costs and adoption of new or revised employment and
+labor laws and regulations. Additionally, our ability to successfully execute organizational changes,
+including management transitions within the Company's senior leadership, and to effectively motivate
+and retain associates are critical to our business success. If we are unable to locate, attract or
+retain qualified personnel, or manage leadership transition successfully, the quality of service we
+provide to our customers may decrease and our financial performance may be adversely affected.
+In addition, if our costs of labor or related costs increase for other reasons or if new or revised
+labor laws, rules or regulations or healthcare laws are adopted or implemented that further increase
+our labor costs, our financial performance could be materially adversely affected.
+ Financial Risks 
+Failure to meet market expectations for our financial performance could adversely affect the market
+price and volatility of our stock.
+We believe that the price of our stock generally reflects high market expectations for our future
+operating results. Any failure to meet or delay in meeting these expectations, including our
+consolidated net sales, consolidated operating income, capital expenditures, comparable store and
+club sales growth rates, eCommerce growth rates, gross margin, or earnings and adjusted earnings per
+share could cause the market price of our stock to decline, as could changes in our dividend or stock
+repurchase programs or policies, changes in our effective tax rates, changes in our financial
+estimates and recommendations by securities analysts or, failure of Walmart's performance to compare
+favorably to that of other retailers may have a negative effect on the price of our stock.
+Fluctuations in foreign exchange rates may materially adversely affect our financial performance and
+our reported results of operations.
+Our operations in countries other than the U.S. are conducted primarily in the local currencies of
+those countries. Our Consolidated Financial Statements are denominated in U.S. dollars, and to
+prepare those financial statements we must translate the amounts of the assets, liabilities, net
+sales, other revenues and expenses of our operations outside of the U.S. from local currencies into
+U.S. dollars using exchange rates for the current period. In recent years, fluctuations in currency
+exchange rates that were unfavorable have had adverse effects on our reported results of operations.
+As a result of such translations, fluctuations in currency exchange rates from period-to-period that
+are unfavorable to us may also result in our Consolidated Financial Statements reflecting significant
+adverse period-over-period changes in our financial performance or reflecting a period-over-period
+improvement in our financial performance that is not as robust as it would be without such
+fluctuations in the currency exchange rates. Such unfavorable currency exchange rate fluctuations
+will adversely affect the reported performance of our Walmart International operating segment and
+have a corresponding adverse effect on our reported consolidated results of operations.
+We may pay for products we purchase for sale in our stores and clubs around the world with a currency
+other than the local currency of the country in which the goods will be sold. When we must acquire
+the currency to pay for such products and the exchange rates for the payment currency fluctuate in a
+manner unfavorable to us, our cost of sales may increase and we may be unable or unwilling to change
+the prices at which we sell those goods to address that increase in our costs, with a corresponding
+adverse effect on our gross profit. Consequently, unfavorable fluctuations in currency exchange rates
+have and may continue to adversely affect our results of operations.
+Legal, Tax, Regulatory, Compliance, Reputational and Other Risks
+Our international operations subject us to legislative, judicial, accounting, legal, regulatory, tax,
+political and economic risks and conditions specific to the countries or regions in which we operate,
+which could materially adversely affect our business or financial performance.
+In addition to our U.S. operations, we operate our retail business in Africa, Canada, Central
+America, Chile, China, India and Mexico.
+During fiscal 2022, our Walmart International operations generated approximately 18% of our
+consolidated net sales. Walmart International's operations in various countries also source goods and
+services from other countries. Our future operating results in these countries could be negatively
+affected by a variety of factors, most of which are beyond our control. These factors include
+political conditions, including political instability, local and global economic conditions, legal
+and regulatory constraints (such as regulation of product and service offerings including regulatory
+restrictions (such as foreign ownership restrictions) on eCommerce and retail operations in
+international markets, such as India), restrictive governmental actions (such as trade protection
+measures), antitrust and competition law regulatory matters (such as the competition investigations
+currently
+ 22 
+underway in Mexico related to our subsidiary Wal-Mart de Mexico, in Canada related to our subsidiary
+Wal-Mart Canada and competition proceedings in India related to our Flipkart subsidiary), local
+product safety and environmental laws, tax regulations, local labor laws, anti-money laundering laws
+and regulations, trade policies, currency regulations, laws and regulations regarding consumer and
+data protection, and other matters in any of the countries or regions in which we operate, now or in
+the future.
+The economies of some of the countries in which we have operations have in the past suffered from
+high rates of inflation and currency devaluations, which, if they occurred again, could adversely
+affect our financial performance. Other factors which may impact our international operations include
+foreign trade, monetary and fiscal policies of the U.S. and of other countries, laws, regulations and
+other activities of foreign governments, agencies and similar organizations, and risks associated
+with having numerous facilities located in countries that have historically been less stable than the
+U.S. Additional risks inherent in our international operations generally include, among others, the
+costs and difficulties of managing international operations, adverse tax consequences and greater
+difficulty in enforcing intellectual property rights in countries other than the U.S. The various
+risks inherent in doing business in the U.S. generally also exist when doing business outside of the
+U.S., and may be exaggerated by the difficulty of doing business in numerous sovereign jurisdictions
+due to differences in culture, laws and regulations.
+In foreign countries in which we have operations, a risk exists that our associates, contractors or
+agents could, in contravention of our policies, engage in business practices prohibited by U.S. laws
+and regulations applicable to us, such as the Foreign Corrupt Practices Act or the laws and
+regulations of other countries. We maintain a global policy prohibiting such business practices and
+have in place a global anti-corruption compliance program designed to ensure compliance with these
+laws and regulations. Nevertheless, we remain subject to the risk that one or more of our associates,
+contractors or agents, including those based in or from countries where practices that violate such
+U.S. laws and regulations or the laws and regulations of other countries may be customary, will
+engage in business practices that are prohibited by our policies, circumvent our compliance programs
+and, by doing so, violate such laws and regulations. Any such violations, even if prohibited by our
+internal policies, could adversely affect our business or financial performance and our reputation.
+Changes in tax and trade laws and regulations could materially adversely affect our financial
+performance.
+In fiscal 2022, our Walmart U.S. and Sam's Club operating segments generated approximately 82% of our
+consolidated net sales. Significant changes in tax and trade policies, including tariffs and
+government regulations affecting trade between the U.S. and other countries where we source many of
+the products we sell in our stores and clubs could have an adverse effect on our business and
+financial performance. A significant portion of the general merchandise we sell in our U.S. stores
+and clubs is manufactured in other countries. Any such actions including the imposition of further
+tariffs on imports could increase the cost to us of such merchandise (whether imported directly or
+indirectly) and cause increases in the prices at which we sell such merchandise to our customers,
+which could materially adversely affect the financial performance of our U.S. operations and our
+business.
+We are subject to income taxes and other taxes in both the U.S. and the foreign jurisdictions in
+which we currently operate or have historically operated. The determination of our worldwide
+provision for income taxes and current and deferred tax assets and liabilities requires judgment and
+estimation. Our income taxes could be materially adversely affected by earnings being lower than
+anticipated in jurisdictions that have lower statutory tax rates and higher than anticipated in
+jurisdictions that have higher statutory tax rates, by changes in the valuation of our deferred tax
+assets and liabilities, or by changes in worldwide tax laws, tax rates, regulations or accounting
+principles.
+We are also exposed to future tax legislation, as well as the issuance of future regulations and
+changes in administrative interpretations of existing tax laws, any of which can impact our current
+and future years' tax provision. The effect of such changes in tax law could have a material effect
+on our business, financial position and results of operations. In the U.S., the Tax Cuts and Jobs Act
+of 2017 (the "Tax Act") significantly changed federal income tax laws that affect U.S. corporations.
+As further guidance is issued by the U.S. Treasury Department, the IRS, and other standard-setting
+bodies, any resulting changes in our estimates will be treated in accordance with the relevant
+accounting guidance. Compliance with the Tax Act and any other new tax rules, regulations, guidance,
+and interpretations, including collecting information not regularly produced by the Company or
+unexpected changes in our estimates, may require us to incur additional costs and could affect our
+results of operations.
+In addition, legislatures and taxing authorities in many jurisdictions in which we operate may enact
+changes to their tax rules. These changes could include modifications that have temporary effect and
+more permanent changes. The impact of these potential new rules as well as any other changes in
+domestic and international tax rules and regulations could have a material effect on our effective
+tax rate.
+Furthermore, we are subject to regular review and audit by both domestic and foreign tax authorities
+as well as subject to the prospective and retrospective effects of changing tax regulations and
+legislation. Although we believe our tax estimates are reasonable, the ultimate tax outcome may
+materially differ from the tax amounts recorded in our Consolidated Financial
+ 23 
+Statements and may materially affect our income tax provision, net income, or cash flows in the
+period or periods for which such determination and settlement is made.
+Changes in and/or failure to comply with other laws, regulations, and interpretations of such laws
+and regulations specific to the businesses and jurisdictions in which we operate could materially
+adversely affect our reputation, market position, or our business and financial performance.
+We operate in complex regulated environments in the U.S. and in the other countries in which we
+operate and could be adversely affected by changes to existing legal requirements including the
+related interpretations and enforcement practices, new legal requirements and/or any failure to
+comply with applicable regulations.
+Our operations in the U.S. are subject to numerous federal, state and local regulations including
+licensing and other requirements and reimbursement arrangements affecting our health and wellness
+operations. The laws and regulations to which we are subject include, but are not limited to: federal
+and state registration and regulation of pharmacies; dispensing and sale of controlled substances and
+products containing pseudoephedrine; applicable governmental payer regulations including Medicare and
+Medicaid; data privacy and security laws and regulations including the Health Insurance Portability
+and Accountability Act and the Affordable Care Act; laws and regulations relating to the protection
+of the environment and health and safety matters, including those governing exposure to, and the
+management and disposal of, hazardous substances; regulations regarding food and drug safety
+including those of the U.S. Food and Drug Administration (the "FDA") and the Drug Enforcement
+Administration (the "DEA"); trade regulations including those of the U.S. Federal Trade Commission,
+the U.S. Department of the Treasury, and consumer protection and safety regulations including those
+of the Consumer Product Safety Commission, as well as state regulatory authorities, governing the
+availability, sale, advertisement and promotion of products we sell and the financial services we
+offer (including through our digital channels and stores and clubs as well as our previously
+announced fintech joint venture); anti-kickback laws; anti-money laundering laws; consumer financial
+protection laws; the Office of Foreign Assets Control regulations; false claims laws; patient
+inducement regulations; and federal and state laws governing health care fraud and abuse, quality and
+standards of medical equipment, and the qualifications and practice of the professions of medical,
+pharmacy, optical care and health care services.
+For example, in the U.S., the DEA and various other regulatory authorities regulate the purchase,
+distribution, maintenance and dispensing of pharmaceuticals and controlled substances. We are
+required to hold valid DEA and state-level licenses, meet various security and operating standards
+and comply with the federal and various state controlled substance acts and related regulations
+governing the sale, dispensing, disposal and holding of controlled substances. The DEA, the FDA and
+state regulatory authorities have broad enforcement powers, including the ability to seize or recall
+products and impose significant criminal, civil and administrative sanctions for violations of these
+laws and regulations. In addition, other health-related legislation at the federal and state level
+may have an adverse effect on our business or require us to modify certain aspects of our operations.
+Also, upon the successful completion of the previously announced pending acquisitions by our fintech
+joint venture, there may be an increased degree of scrutiny by financial regulatory authorities over
+the newly acquired fintech related businesses, which may result in higher operational costs and an
+increased possibility for fines and penalties if there is non-compliance with the applicable laws and
+regulations.
+We are also governed by foreign, national and state laws and regulations of general applicability,
+including laws and regulations related to working conditions, health and safety, equal employment
+opportunity, employee benefit and other labor and employment matters, laws and regulations related to
+competition and antitrust matters, and health and wellness related regulations for our pharmacy
+operations outside of the U.S. Increasing governmental and societal attention to ESG matters,
+including expanding mandatory and voluntary reporting diligence, and disclosure topics such as
+climate change, sustainability (including with respect to our supply chain), natural resources, waste
+reduction, energy, human capital, and risk oversight could expand the nature, scope, and complexity
+of matters that we are required to control, assess, and report. In addition, certain financial
+services we offer or make available are subject to legal and regulatory requirements, including those
+intended to help detect and prevent money laundering, fraud and other illicit activity as well as
+consumer financial protections laws and U.S. sanctions. We are also subject to data privacy and
+protection laws regulating the collection, use, retention, disclosure, transfer and processing of
+personal information, such as the California Consumer Privacy Act ("CCPA"), which was significantly
+modified by the California Privacy Rights Act ("CPRA"), new comprehensive privacy legislation passed
+in 2021 in Virginia and Colorado, as well as the European Union's General Data Protection Regulation
+("GDPR") and China's Personal Information Protection Act. The potential effects of these laws are
+far-reaching and may require us to modify our data processing practices and policies and to incur
+substantial costs and expenses to comply. In the case of non-compliance with a material provision of
+the GDPR (such as non-adherence to the core principles of processing personal data), regulators have
+the authority to levy a fine in an amount that is up to the greater of €20 million or 4% of global
+annual turnover in the prior year. These administrative fines are discretionary and based, in each
+case, on a multi-factored approach. Residents in jurisdictions with comprehensive privacy laws have
+expanded rights to access, correct and require deletion of their personal information, opt out of
+certain personal information sharing and receive detailed information about how their personal
+information is used. The CCPA and CPRA provide for civil penalties for violations, as well as a
+private right of action for data breaches. Furthermore, our marketing and customer engagement
+activities are subject to communications privacy laws such as the Telephone Consumer
+ 24 
+Protection Act. We may be subjected to penalties and other consequences for noncompliance, including
+changing some portions of our business. Even an unsuccessful challenge by customer or regulatory
+authorities of our activities could result in adverse publicity and could require a costly response
+from and defense by us.
+The impact of new laws, regulations and policies and the related interpretations, as well as changes
+in enforcement practices or regulatory scrutiny generally cannot be predicted, and changes in
+applicable laws, regulations and policies and the related interpretations and enforcement practices
+may require extensive system and operational changes, be difficult to implement, increase our
+operating costs, require significant capital expenditures, or adversely impact the cost or
+attractiveness of the products or services we offer, or result in adverse publicity and harm our
+reputation. If we fail to respond adequately to changes, including by implementing strategic and
+operational initiatives, or do not respond as effectively as our competitors, our business,
+operations, and financial performance may be adversely affected.
+While we strive to adhere our practices and procedures to these laws, they are subject to evolving
+regulations, interpretations, enforcement priorities of regulatory authorities, and regulator
+discretion. The regulatory, political, and media scrutiny we face, which may continue, amplifies
+these risks. We may face audits or investigations by one or more government agencies relating to our
+compliance with applicable laws and regulations. To the extent a regulator or court disagrees with
+our interpretation of these laws and determines that our practices are not in compliance with
+applicable laws and regulations, we could be subject to civil and criminal penalties that could
+adversely affect the continued operation of our businesses, including: suspension of payments from
+government programs; loss of required government certifications; loss of authorizations to
+participate in or exclusion from government programs, including the Medicare and Medicaid programs in
+the U.S.; loss of licenses; termination from contractual relationships, including those with our drug
+suppliers and third-party payers; and significant fines or monetary damages and/or criminal and civil
+penalties. Failure to comply with applicable legal or regulatory requirements in the U.S. or in any
+of the countries in which we operate could result in significant legal and financial exposure, damage
+to our reputation, and have a material adverse effect on our business operations, financial position
+and results of operations.
+We are subject to risks related to litigation and other legal proceedings that may materially
+adversely affect our results of operations, financial position and liquidity.
+We operate in a highly regulated and litigious environment. We are involved in legal proceedings,
+including litigation, arbitration and other claims, and investigations, inspections, audits, claims,
+inquiries and similar actions by pharmacy, healthcare, tax, environmental and other governmental
+authorities. We may also have indemnification obligations for legal commitments of certain businesses
+we have divested. Legal proceedings, in general, and securities, derivative action and class action
+and multi-district litigation, in particular, can be expensive and disruptive. Some of these suits
+may purport or may be determined to be class actions and/or involve parties seeking large and/or
+indeterminate amounts, including punitive or exemplary damages, and may remain unresolved for several
+years. For example, we are currently a defendant in a number of cases containing class or collective-
+action allegations, or both, in which the plaintiffs have brought claims under federal and state wage
+and hour laws, as well as a number of cases containing class-action allegations in which the
+plaintiffs have brought claims under federal and state consumer laws.
+The Company has also been responding to subpoenas, information requests and investigations from
+governmental entities related to nationwide controlled substance dispensing and distribution
+practices involving opioids and is also a defendant in numerous litigation proceedings related to
+opioids, including the consolidated multidistrict litigation entitled In re National Prescription
+Opiate Litigation (MDL No. 2804) currently pending in the U.S. District Court for the Northern
+District of Ohio. Similar cases that name the Company have also been filed in state courts by state,
+local and tribal governments, health care providers and other plaintiffs. Plaintiffs are seeking
+compensatory and punitive damages, as well as injunctive relief including abatement. On October 22,
+2020, the Company filed a declaratory judgment action in the U.S. District Court for the Eastern
+District of Texas against the U.S. Department of Justice (the "DOJ") and the U.S. Drug Enforcement
+Administration, asking a federal court to clarify the roles and responsibilities of pharmacists and
+pharmacies as to the dispensing and distribution of opioids under the Controlled Substances Act (the
+"CSA"). The Company's action was dismissed. The Company appealed this decision to the Fifth Circuit.
+On December 22, 2021, the Fifth Circuit affirmed the dismissal of the action. On December 22, 2020,
+the DOJ filed a civil complaint against the Company in the U.S. District Court for the District of
+Delaware alleging that the Company unlawfully dispensed controlled substances from its pharmacies and
+unlawfully distributed controlled substances to those pharmacies in violation of the CSA. The DOJ is
+seeking civil penalties and injunctive relief. The Company filed a motion to dismiss the DOJ
+complaint on February 22, 2021. Since that time, the District Court stayed further proceedings in the
+DOJ complaint pending the decision of the United States Supreme Court in two other cases interpreting
+the CSA, which have been consolidated into Ruan v. United States , 142 S. Ct. 457 (2021).
+In addition, the Company is the subject of a consolidated securities class action alleging violations
+of the federal securities laws regarding the Company's disclosures with respect to opioids filed in
+the U.S. District Court for the District of Delaware on January 20, 2021 purportedly on behalf of a
+class of investors who acquired Walmart stock from March 30, 2016 through December 22, 2020. On May
+11, 2021 the U.S. District Court in Delaware consolidated the class actions and appointed a lead
+plaintiff and lead counsel. The defendants filed a motion to dismiss the consolidated securities
+class action on October 8, 2021; the lead plaintiff responded to the motion on January 10, 2022; and
+the defendants filed their reply brief on February 10, 2022.
+ 25 
+Two derivative actions were also filed by certain of the Company's shareholders in the U.S. District
+Court for the District of Delaware on February 9, 2021 and April 16, 2021 alleging breach of
+fiduciary duties against certain of the Company's current and former directors with respect to
+oversight of the Company's distribution and dispensing of opioids, and those suits have been stayed
+pending further developments in other Opioids litigation matters.
+Other shareholders filed a third derivative action making similar allegations in the Delaware Court
+of Chancery on September 27, 2021. The defendants in this derivative suit filed the opening brief on
+their motion to dismiss that case on December 21, 2021; and the plaintiffs responded by filing an
+amended complaint on February 22, 2022.
+The Company cannot predict the number of such claims that may be filed, and cannot reasonably
+estimate any loss or range of loss that may arise from such claims and the related opioid matters.
+We discuss these cases and other litigation to which we are party below under the caption " Item 3.
+Legal Proceedings " and in Note 10 in the " Notes to our Consolidated Financial Statements ," which
+are part of this Annual Report on Form 10-K.
+Our amended and restated bylaws designate the Court of Chancery of the State of Delaware as the sole
+and exclusive forum for certain types of actions and proceedings that may be initiated by our
+shareholders, which could increase the costs for our shareholders to bring claims, discourage our
+shareholders from bringing claims, or limit our shareholders' ability to obtain a favorable judicial
+forum for disputes with us or our directors, officers, associates or shareholders in such capacity.
+Our bylaws provide that, unless we consent in writing to the selection of an alternative forum, the
+Court of Chancery of the State of Delaware will, to the fullest extent permitted by law, be the sole
+and exclusive forum for claims, including derivative claims that are based upon a violation of a duty
+by a current or former director, officer, associate or shareholder in such capacity or as to which
+the Delaware General Corporation Law confers jurisdiction upon the Court of Chancery. The exclusive
+forum provision may increase the costs for a shareholder to bring a claim or limit a shareholder's
+ability to bring a claim in a judicial forum that the shareholder finds favorable for disputes with
+us or our directors, officers, associates or shareholders in such capacity, which may discourage such
+lawsuits against us and such persons. Alternatively, if a court were to find these provisions of our
+bylaws inapplicable to, or unenforceable in respect of, the claims as to which they are intended to
+apply, then we may incur additional costs associated with resolving such matters in other
+jurisdictions, which could adversely affect our business, financial position or results of
+operations. While the exclusive forum provision applies to state and federal law claims, our
+shareholders will not be deemed to have waived our compliance with, and the exclusive forum provision
+will not preclude or contract the scope of exclusive federal or concurrent jurisdiction for actions
+brought under, the federal securities laws, including the Securities Exchange Act of 1934, as
+amended, or the Securities Act of 1933, as amended, and the rules and regulations promulgated
+thereunder.
+Our reputation may be adversely affected if we are not able to achieve our ESG goals.
+We strive to deliver shared value through our business and our diverse stakeholders expect us to make
+significant progress in certain ESG priority issue areas. From time to time, we announce certain
+aspirations and goals relevant to our priority ESG issues. We periodically publish information about
+our ESG priorities, strategies, and progress on our corporate website and update our ESG reporting
+from time to time. Achievement of these aspirations and goals is subject to risks and uncertainties,
+many of which are outside of our control, and it is possible that we may fail, or be perceived to
+have failed, in the achievement of our ESG goals or certain of our customers, associates,
+shareholders, investors, suppliers, business partners, government agencies, and non-governmental
+organizations might not be satisfied with our efforts. Certain challenges we face in the achievement
+of our ESG objectives are also captured within our ESG reporting, which is not incorporated by
+reference into and does not form any part of this Annual Report on Form 10-K. A failure or perceived
+failure to meet our goals could adversely affect public perception of our business, associate morale
+or customer or shareholder support.
+ ITEM 1B. UNRESOLVED STAFF COMMENTS 
+None.
+ 26 
+ ITEM 2. PROPERTIES 
+ United States 
+The Walmart U.S. and Sam's Club segments comprise the Company's operations in the U.S. As of January
+31, 2022, unit counts for Walmart U.S. and Sam's Club are summarized by format for each state and
+territory as follows:
+ Walmart U.S. Sam's Club 
+ Neighborhood 
+ State or Supercenters Discount Stores Markets and Clubs Grand Total 
+ Territory other small 
+ formats 
+ Alabama 101 1 29 13 144 
+ Alaska 7 2 — — 9 
+ Arizona 83 2 28 12 125 
+ Arkansas 76 5 37 9 127 
+ California 144 68 79 30 321 
+ Colorado 70 4 18 17 109 
+ Connecticut 12 21 1 1 35 
+ Delaware 6 3 — 1 10 
+ Florida 233 9 98 46 386 
+ Georgia 154 2 35 24 215 
+ Hawaii — 10 — 2 12 
+ Idaho 23 — 3 1 27 
+ Illinois 139 15 11 25 190 
+ Indiana 97 6 11 13 127 
+ Iowa 58 2 — 9 69 
+ Kansas 58 2 15 9 84 
+ Kentucky 78 7 9 9 103 
+ Louisiana 88 2 34 14 138 
+ Maine 19 3 — 3 25 
+ Maryland 30 17 3 11 61 
+ Massachusetts 27 21 4 — 52 
+ Michigan 90 3 9 23 125 
+ Minnesota 65 3 1 12 81 
+ Mississippi 65 3 11 7 86 
+ Missouri 112 9 18 19 158 
+ Montana 14 — — 2 16 
+ Nebraska 35 — 7 5 47 
+ Nevada 30 2 11 7 50 
+ New Hampshire 19 7 — 2 28 
+ New Jersey 35 27 1 8 71 
+ New Mexico 35 2 9 7 53 
+ New York 81 17 10 12 120 
+ North Carolina 143 6 45 22 216 
+ North Dakota 14 — — 3 17 
+ Ohio 139 6 2 27 174 
+ Oklahoma 81 7 35 13 136 
+ Oregon 29 7 10 — 46 
+ Pennsylvania 116 20 3 24 163 
+ Puerto Rico 13 5 12 7 37 
+ Rhode Island 5 4 — — 9 
+ South Carolina 84 — 26 13 123 
+ South Dakota 15 — — 2 17 
+ Tennessee 117 1 19 14 151 
+ Texas 391 18 110 82 601 
+ Utah 41 — 13 8 62 
+ Vermont 3 3 — — 6 
+ Virginia 110 4 22 15 151 
+ Washington 52 10 5 — 67 
+ Washington 3 — 2 — 5 
+ D.C. 
+ West Virginia 38 — 1 5 44 
+ Wisconsin 83 4 2 10 99 
+ Wyoming 12 — — 2 14 
+ U.S. total 3,573 370 799 600 5,342 
+ Square feet(in 634,754 38,947 29,295 80,351 783,347 
+ thousands) 
+ 27 
+ International 
+The Walmart International segment comprises the Company's operations outside of the U.S. Unit counts
+as of January 31, 2022 (1) for Walmart International are summarized by major category for each
+geographic market as follows:
+ Geographic Market Retail Wholesale Total Square feet(2) 
+ Africa(3) 324 90 414 22,863 
+ Canada 408 — 408 52,976 
+ Central America(4) 864 — 864 13,767 
+ Chile 373 11 384 17,152 
+ China 361 36 397 64,530 
+ India — 29 29 1,570 
+ Mexico 2,589 166 2,755 104,267 
+ International total 4,919 332 5,251 277,125 
+(1) Walmart International unit counts, with the exception of Canada, are as of December 31, 2021, to
+correspond with the balance sheet date of the related geographic market. Canada unit counts are as of
+January 31, 2022.
+(2) Square feet reported in thousands.
+(3) Africa unit counts primarily reside in South Africa, with other locations in Botswana, Ghana,
+Kenya, Lesotho, Malawi, Mozambique, Namibia, Nigeria, Swaziland, Tanzania, Uganda and Zambia.
+(4) Central America unit counts reside in Costa Rica, El Salvador, Guatemala, Honduras and Nicaragua.
+ Owned and Leased Properties 
+The following table provides further details of our retail units and distribution facilities,
+including return facilities and dedicated eCommerce fulfillment centers, as of January 31, 2022 (1) :
+ Owned Leased(2) Total 
+ U.S. properties 
+ Walmart U.S. retail units 4,065 677 4,742 
+ Sam's Club retail units 513 87 600 
+ Total U.S. retail units 4,578 764 5,342 
+ Walmart U.S. distribution facilities 110 47 157 
+ Sam's Club distribution facilities 11 17 28 
+ Total U.S. distribution facilities 121 64 185 
+ Total U.S. properties 4,699 828 5,527 
+ International properties 
+ Africa 36 378 414 
+ Canada 124 284 408 
+ Central America 367 497 864 
+ Chile 205 179 384 
+ China 2 395 397 
+ India 2 27 29 
+ Mexico 704 2,051 2,755 
+ Total International retail units 1,440 3,811 5,251 
+ International distribution facilities 22 157 179 
+ Total International properties 1,462 3,968 5,430 
+ Total properties 6,161 4,796 10,957 
+ Total retail units 6,018 4,575 10,593 
+ Total distribution facilities 143 221 364 
+ Total properties 6,161 4,796 10,957 
+(1) Walmart International properties, with the exception of Canada, are as of December 31, 2021, to
+correspond with the balance sheet date of the related geographic market. Canada unit counts are as of
+January 31, 2022.
+(2) Also includes U.S. and international distribution facilities which are third-party owned and
+operated.
+ 28 
+We own office facilities in Bentonville, Arkansas, that serve as our principal office and own and
+lease office facilities throughout the U.S. and internationally for operations as well as for field
+and market management. The land on which our stores are located is either owned or leased by the
+Company. We use independent contractors to construct our buildings. All store leases provide for
+annual rentals, some of which escalate during the original lease or provide for additional rent based
+on sales volume. Substantially all of the Company's store and club leases have renewal options, some
+of which include rent escalation clauses. For further information on our distribution centers, see
+the caption "Distribution" provided for each of our segments under " Item 1. Business ."
+ 29 
+ ITEM 3. LEGAL PROCEEDINGS 
+I. SUPPLEMENTAL INFORMATION: We discuss certain legal proceedings in Note 10 to our Consolidated
+Financial Statements included in " Item 8. Financial Statements and Supplementary Data ," which is
+captioned "Contingencies," under the sub-caption "Legal Proceedings." We refer you to that discussion
+for important information concerning those legal proceedings, including the basis for such actions
+and, where known, the relief sought. We provide the following additional information concerning those
+legal proceedings, including the name of the lawsuit, the court in which the lawsuit is pending, and
+the date on which the petition commencing the lawsuit was filed.
+Prescription Opiate Litigation: In re National Prescription Opiate Litigation (MDL No. 2804) (the
+"MDL"). The MDL is pending in the U.S. District Court for the Northern District of Ohio and includes
+over 2,150 cases as of March 4, 2022. The liability phase of a trial in one of the MDL cases began on
+October 4, 2021 against a number of parties, including the Company, regarding opioid dispensing
+claims. On November 23, 2021, the jury found in favor of the plaintiffs as to the liability of all
+defendants, including the Company. The abatement phase of the trial, which will determine amounts
+owed by the defendants, is currently scheduled to begin on May 10, 2022. The Company intends to
+appeal the jury verdict from the liability phase upon completion of the abatement phase of the trial.
+There is one case in which the Company is named as a defendant that was remanded from the MDL court
+to the U.S. District Court for the Eastern District of Oklahoma ( The Cherokee Nation v. CVS
+Pharmacy, Inc., et al. , Case No. CIV-18-56-RAW-SPS (E.D. Okla.)). This case was brought by the
+Cherokee Nation. Certain motions have been filed by the parties to this case, and the case is
+currently stayed pending a ruling on those motions. In addition, there are over 225 state court cases
+pending as of March 4, 2022, some of which may be removed to federal court to seek MDL transfer. The
+case citations for the state cases are listed on Exhibit 99.1 to this Form 10-K.
+DOJ Opioid Civil Litigation: On October 22, 2020, the Company filed a declaratory judgment action in
+the U.S. District Court for the Eastern District of Texas against the U.S. Department of Justice (the
+"DOJ") and the U.S. Drug Enforcement Administration, asking a federal court to clarify the roles and
+responsibilities of pharmacists and pharmacies as to the dispensing and distribution of opioids under
+the Controlled Substances Act (the "CSA") . The Company's action, Walmart Inc. v. U.S. Department of
+Justice et al., USDC, Eastern Dist. of Texas, 10/22/20, was dismissed. The Company had appealed this
+decision to the Fifth Circuit. On December 22, 2021, the Fifth Circuit affirmed the dismissal of the
+action. A civil complaint pending in the U.S. District Court for the District of Delaware has been
+filed by the DOJ against the Company, in which the DOJ alleges violations of the CSA related to
+nationwide distribution and dispensing of opioids. U.S. v. Walmart Inc., et al ., USDC, Dist. of DE,
+12/22/20. The Company filed a motion to dismiss the DOJ complaint on February 22, 2021. The DOJ filed
+its opposition brief on April 23, 2021 and the Company filed its reply brief on May 24, 2021. On
+November 19, 2021, the District Court stayed further proceedings in the DOJ complaint pending the
+decision of the United States Supreme Court in two other cases interpreting the CSA, which have been
+consolidated into Ruan v. United States , 142 S. Ct. 457 (2021).
+Opioids Related Securities Class Actions and Derivative Litigation : Three derivative complaints and
+two securities class actions drawing heavily on the allegations of the DOJ complaint have been filed
+in Delaware naming the Company and various current and former directors and certain current and
+former officers as defendants. The plaintiffs in the derivative suits (in which the Company is a
+nominal defendant) allege, among other things, that the defendants breached their fiduciary duties in
+connection with oversight of opioids dispensing and distribution and that the defendants violated
+Section 14(a) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), and are liable
+for contribution under Section 10(b) of the Exchange Act in connection with the Company's disclosures
+about opioids. Two of the derivative suits have been filed in the U.S. District Court in Delaware and
+those suits have been stayed pending further developments in other Opioids litigation matters. The
+other derivative suit has been filed in the Chancery Court in Delaware. The securities class actions,
+alleging violations of Sections 10(b) and 20(a) of the Exchange Act regarding the Company's
+disclosures with respect to opioids, were purportedly filed on behalf of a class of investors who
+acquired Walmart stock from March 30, 2016 through December 22, 2020. On May 11, 2021, the U.S.
+District Court in Delaware consolidated the class actions and appointed a lead plaintiff and lead
+counsel. The defendants filed a motion to dismiss the consolidated securities class action on October
+8, 2021; the lead plaintiff responded to the motion on January 10, 2022; and the defendants filed
+their reply brief on February 10, 2022. The defendants in the derivative suit pending in Delaware
+Chancery Court filed the opening brief on their motion to dismiss that case on December 21, 2021; and
+the plaintiffs responded by filing an amended complaint on February 22, 2022.
+Derivative Lawsuits: Abt v. Alvarez et al. , USDC, Dist. of DE, 2/9/21; Nguyen v. McMillon et al.,
+USDC, Dist. of DE, 4/16/21: Ontario Provincial Council of Carpenters' Pension Trust Fund et al. v.
+Walton et al., DE Court of Chancery, 9/27/21.
+Securities Class Actions: Stanton v. Walmart Inc. et al. , USDC, Dist. of DE, 1/20/21 and Martin v.
+Walmart Inc. et al., USDC , Dist. of DE, 3/5/21, consolidated into In re Walmart Inc. Securities
+Litigation , USDC, Dist. of DE, 5/11/21.
+ 30 
+II. CERTAIN OTHER MATTERS:
+Asda Equal Value Claims: Ms S Brierley & Others v ASDA Stores Ltd (2406372/2008 & Others - Manchester
+Employment Tribunal); ASDA Stores Ltd v Brierley & Ors (A2/2016/0973 - United Kingdom Court of
+Appeal); ASDA Stores Ltd v Ms S Brierley & Others (UKEAT/0059/16/DM - United Kingdom Employment
+Appeal Tribunal); ASDA Stores Ltd v Ms S Brierley & Others (UKEAT/0009/16/JOJ - United Kingdom
+Employment Appeal Tribunal).
+Money Transfer Agent Services Proceedings: The Company has received grand jury subpoenas issued by
+the United States Attorney's Office for the Middle District of Pennsylvania seeking documents
+regarding the Company's consumer fraud program and anti-money laundering compliance related to the
+Company's money transfer services, where Walmart is an agent. The most recent subpoena was issued in
+August 2020. The Company has been responding to these subpoenas and is cooperating with the
+government's investigation. The Company has also responded to civil investigative demands from the
+United States Federal Trade Commission (the "FTC") in connection with the FTC's investigation related
+to money transfers and the Company's anti-fraud program in its capacity as an agent. While the
+Company had been engaged in discussions with the FTC regarding a potential resolution of this matter,
+the parties have not been able to reach a resolution. In November 2021, the FTC Bureau of Consumer
+Protection forwarded a draft civil complaint to the FTC seeking authority to file a complaint against
+the Company seeking various forms of monetary and injunctive relief. The FTC is currently considering
+whether to grant such authorization. The Company is unable to predict the outcome of the
+investigations or any related actions by the governmental entities regarding these matters at this
+time. While the Company does not currently believe that the outcome of these matters will have a
+material adverse effect on its business, financial position, results of operations or cash flows, the
+Company can provide no assurance as to the scope and outcome of these matters and whether its
+business, financial position, results of operations or cash flows will not be materially adversely
+affected.
+Foreign Direct Investment Matters: In July 2021, the Directorate of Enforcement in India issued a
+show cause notice to Flipkart Private Limited and one of its subsidiaries ("Flipkart"), and to
+unrelated companies and individuals, including certain current and former shareholders and directors
+of Flipkart. The notice requests the recipients to show cause as to why further proceedings under
+India's Foreign Direct Investment rules and regulations (the "Rules") should not be initiated against
+them based on alleged violations during the period from 2009 to 2015, prior to the Company's
+acquisition of a majority stake in Flipkart in 2018. The notice is an initial stage of proceedings
+under the Rules which could, depending upon the conclusions at the end of the initial stage, lead to
+a hearing to consider the merits of the allegations described in the notice. If a hearing is
+initiated and if it is determined that violations of the Rules occurred, the regulatory authority has
+the authority to impose monetary and/or non-monetary relief. Flipkart has begun the process of
+responding to the notice and, if the matter progresses to a consideration of the merits of the
+allegations described in the notice is initiated, Flipkart intends to defend against the allegations
+vigorously. Due to the fact that this process is in an early stage, the Company is unable to predict
+whether the notice will lead to a hearing on the merits or, if it does, the final outcome of the
+resulting proceedings. While the Company does not currently believe that this matter will have a
+material adverse effect on its business, financial condition, results of operations or cash flows,
+the Company can provide no assurance as to the scope or outcome of any proceeding that might result
+from the notice, the amount of the proceeds the Company may receive in indemnification from
+individuals and entities that sold shares to the Company under the 2018 agreement pursuant to which
+the Company acquired its majority stake in Flipkart, or whether the Company's business, financial
+position, results of operations or cash flows will not be materially adversely affected.
+III. ENVIRONMENTAL MATTERS: Item 103 of SEC Regulation S-K requires disclosure of certain
+environmental matters when a governmental authority is a party to the proceedings and such
+proceedings involve potential monetary sanctions that the Company reasonably believes will exceed an
+applied threshold not to exceed $1 million.
+In June 2021, the Company signed a tolling agreement with the Office of the Attorney General of the
+State of California to toll the statute of limitations for potential claims regarding Walmart's
+management of waste consumer products at its California facilities that are alleged to be hazardous.
+In December 2021, the Office of the Attorney General of the State of California filed suit against
+the Company, bringing enforcement claims regarding Walmart's management of waste consumer products at
+its California facilities that are alleged to be hazardous. The Company believes the suit is without
+merit and is vigorously defending this litigation matter. While the Company cannot predict the
+ultimate outcome of this matter, the potential for penalties or settlement costs could exceed $1
+million. Although the Company does not believe that this matter will have a material adverse effect
+on its business, financial position, results of operations, or cash flows, the Company can provide no
+assurance as to the scope and outcome of these matters and whether its business, financial position,
+results of operations or cash flows will not be materially adversely affected.
+ ITEM 4. MINE SAFETY DISCLOSURES 
+Not applicable.
+ 31

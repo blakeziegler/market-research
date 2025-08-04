@@ -1,381 +1,159 @@
 FINANCIAL REPORTING MECHANICS
-Study Session 6
-EXAM FOCUS
-The analysis of financial statements requires an understanding of how a company's
-transactions are recorded in the various accounts. Candidates should focus on the
-financial statement elements (assets, liabilities, equity, revenues, and exPEnses) and
-be able to classiFY any account into its appropriate element. Candidates should also
-learn the basic and expanded accounting equations and why every transaction must be
-recorded in at least two accounts. The tyPEs of accruals, when each of them is used,
-how changes in accounts affect the financial statements, and the relationships among
-the financial statements, are all important topics.
-LOS 22.a: Describe how business activities are classified for financial reporting
-purposes.
-CFA(r) Program Curriculum, Volume 3, page 44
-Business activities can be classified as oPErating, investing, or financing activities.
-OPErating activities are those undertaken in a firm's ordinary course of business, such
-as producing and selling goods and services. Investing activities refer to buying or
-selling long-term assets, such as machinery or land. Financing activities refer to issuing
-debt (borrowing money), redeeming debt (repaying money), issuing common stock,
-repurchasing common stock, or paying cash dividends.
-How an activity is classified dePEnds on the nature of the firm. For example, receiving
-interest payments on debt is likely to be classified as an investing activity by a
-manufacturing firm, but likely to be classified as an oPErating activity by a financial
-services firm.
-Professor's Note: These same classifications are used on the statement of cash flows, but they
-are defined differently than business activities are defined here. Because the classification names
-(oPErating, investing, and financing) are the same, candidates must be careful to understand the
-context in which these classifications are used.
-LOS 22.b: Explain the relationship of financial statement elements and accounts, and
-classiFY accounts into the financial statement elements.
-CFA(r) Program Curriculum, Volume 3, page 46
-Financial statement elements are the major classifications of assets, liabilities, owners'
-equity, revenues, and exPEnses. Accounts are the sPEcific records within each element
-where various transactions are entered. On the financial statements, accounts are
-typically presented in groups such as "inventory" or "accounts payable." A company's
-chart of accounts is a detailed list of the accounts that make up the five financial
-statement elements and the line items presented in the financial statements.
-Contra accounts are used for entries that offset some part of the value of another
-account. For example, equipment is typically valued on the balance sheet at acquisition
-(historical) cost, and the estimated decrease in its value over time is recorded in a
-contra account titled "accumulated depreciation."
-ClassiFYing Accounts Into the Financial Statement Elements
-Assets are the firm's economic resources. Examples of assets include:
-Cash and cash equivalents. Liquid SECurities with maturities of 90 days or less
-are considered cash equivalents.
-Accounts receivable. Accounts receivable often have an "allowance for bad debt
-exPEnse" or "allowance for doubtful accounts" as a contra account.
-Inventory.
-Financial assets such as marketable SECurities.
-Prepaid exPEnses. Items that will be exPEnses on future income statements.
-ProPErty, plant, and equipment. Includes a contra-asset account for
-accumulated depreciation.
-Investment in affiliates accounted for using the equity method.
-Deferred tax assets.
-Intangible assets. Economic resources of the firm that do not have a physical
-form, such as patents, trademarks, licenses, and goodwill. Except for goodwill,
-these values may be reduced by "accumulated amortization."
-Liabilities are creditor claims on the company's resources. Examples of liabilities
-include:
-Accounts payable and trade payables.
-Financial liabilities such as short-term notes payable.
-Unearned revenue. Items that will show up on future income statements as
-revenues.
-Income taxes payable. The taxes accrued during the past year but not yet paid.
-Long-term debt such as bonds payable.
-Deferred tax liabilities.
-Owners' equity is the owners' residual claim on a firm's resources, which is the
-amount by which assets exceed liabilities. Owners' equity includes:
-Capital. Par value of common stock.
-Additional paid-in capital. Proceeds from common stock sales in excess of par
-value. (Share repurchases that the company has made are represented in the
-contra account treasury stock.)
-Retained earnings. Cumulative net income that has not been distributed as
-dividends.
-Other comprehensive income. Changes resulting from foreign currency
-translation, minimum PEnsion liability adjustments, or unrealized gains and
-losses on investments.
-Revenue represents inflows of economic resources and includes:
-Sales. Revenue from the firm's day-to-day activities.
-Gains. Increases in assets from transactions incidental to the firm's day-to-day
-activities.
-Investment income such as interest and dividend income.
-ExPEnses are outflows of economic resources and include:
-Cost of goods sold.
-Selling, general, and administrative exPEnses. These include such exPEnses as
-advertising, management salaries, rent, and utilities.
-Depreciation and amortization. To reflect the "using up" of tangible and
-intangible assets.
-Tax exPEnse.
-Interest exPEnse.
-Losses. Decreases in assets from transactions incidental to the firm's day-to-day
-activities.
-LOS 22.c: Explain the accounting equation in its basic and expanded forms.
-CFA(r) Program Curriculum, Volume 3, page 48
-The basic accounting equation is the relationship among the three balance sheet
-elements:
-assets = liabilities + owners' equity
-Owners' equity consists of capital contributed by the firm's owners and the cumulative
-earnings the firm has retained. With that in mind, we can state the expanded
-accounting equation:
-assets = liabilities + contributed capital + ending retained earnings
-Ending retained earnings for an accounting PEriod are the result of adding that
-PEriod's retained earnings (revenues minus exPEnses minus dividends) to beginning
-retained earnings. So the expanded accounting equation can also be stated as:
-assets =
-liabilities
-+ contributed capital
-+ beginning retained earnings
-+ revenue
-- exPEnses
-- dividends
-LOS 22.d: Describe the process of recording business transactions using an
-accounting system based on the accounting equation.
-CFA(r) Program Curriculum, Volume 3, page 53
-Keeping the accounting equation in balance requires double-entry accounting, in
-which a transaction has to be recorded in at least two accounts. An increase in an asset
-account, for example, must be balanced by a decrease in another asset account or by
-an increase in a liability or owners' equity account.
-Some typical examples of double entry accounting include:
-Purchase equipment for $10,000 cash. ProPErty, plant, and equipment (an
-asset) increases by $10,000. Cash (an asset) decreases by $10,000.
-Borrow $10,000 to purchase equipment. PP&E increases by $10,000. Notes
-payable (a liability) increases by $10,000.
-Buy office supplies for $100 cash. Cash decreases by $100. Supply exPEnse
-increases by $100. An exPEnse reduces retained earnings, so owners' equity
-decreases by $100.
-Buy inventory for $8,000 cash and sell it for $10,000 cash. The purchase
-decreases cash by $8,000 and increases inventory (an asset) by $8,000. The sale
-increases cash by $10,000 and decreases inventory by $8,000, so assets increase
-by $2,000. At the same time, sales (a revenue account) increase by $10,000 and
-"cost of goods sold" (an exPEnse) increases by the $8,000 cost of inventory. The
-$2,000 difference is an increase in net income and, therefore, in retained
-earnings and owners' equity (ignoring taxes).
-LOS 22.e: Describe the need for accruals and valuation adjustments in preparing
-financial statements.
-CFA(r) Program Curriculum, Volume 3, page 71
-Revenues and exPEnses are not always recorded at the same time that cash receipts
-and payments are made. The principle of accrual accounting requires that revenue is
-recorded when the firm earns it and exPEnses are recorded as the firm incurs them,
-regardless of whether cash has actually been paid. Accruals fall into four categories:
-1. Unearned revenue. The firm receives cash before it provides a good or service
-to customers. Cash increases and unearned revenue, a liability, increases by the
-same amount. When the firm provides the good or service, revenue increases
-and the liability decreases. For example, a newspaPEr or magazine subscription
-is typically paid in advance. The publisher records the cash received and
-increases the unearned revenue liability account. The firm recognizes revenues
-and decreases the liability as it fulfills the subscription obligation.
-2. Accrued revenue. The firm provides goods or services before it receives cash
-payment. Revenue increases and accounts receivable (an asset) increases.
-When the customer pays cash, accounts receivable decreases. A typical
-example would be a manufacturer that sells goods to retail stores "on
-account." The manufacturer records revenue when it delivers the goods but
-does not receive cash until after the retailers sell the goods to consumers.
-3. Prepaid exPEnses. The firm pays cash ahead of time for an anticipated exPEnse.
-Cash (an asset) decreases and prepaid exPEnse (also an asset) increases.
-Prepaid exPEnse decreases and exPEnses increase when the exPEnse is actually
-incurred. For example, a retail store that rents space in a shoPPIng mall will
-often pay its rent in advance.
-4. Accrued exPEnses. The firm owes cash for exPEnses it has incurred. ExPEnses
-increase and a liability for accrued exPEnses increases as well. The liability
-decreases when the firm pays cash to satisFY it. Wages payable are a common
-example of an accrued exPEnse, as companies typically pay their employees at
-a later date for work they PErformed in the prior week or month.
-Accruals require an accounting entry when the earliest event occurs (paying or
-receiving cash, providing a good or service, or incurring an exPEnse) and require one or
-more offsetting entries as the exchange is completed. With unearned revenue and
-prepaid exPEnses, cash changes hands fIRSt and the revenue or exPEnse is recorded
-later. With accrued revenue and accrued exPEnses, the revenue or exPEnse is recorded
-fIRSt and cash is exchanged later. In all these cases, the effect of accrual accounting is
-to recognize revenues or exPEnses in the appropriate PEriod.
-Other Adjustments
-Most assets are recorded on the financial statements at their historical costs. However,
-accounting standards require balance sheet values of certain assets to reflect their
-current market values. Accounting entries that update these assets' values are called
-valuation adjustments. To keep the accounting equation in balance, changes in asset
-values also change owners' equity, through gains or losses recorded on the income
-statement or in "other comprehensive income."
-LOS 22.f: Describe the relationships among the income statement, balance sheet,
-statement of cash flows, and statement of owners' equity.
-CFA(r) Program Curriculum, Volume 3, page 68
-Figures 1 through 4 contain the financial statements for a sample corporation. The
-balance sheet summarizes the company's financial position at the end of the current
-accounting PEriod (and in this example, it also shows the company's position at the
-end of the previous fiscal PEriod). The income statement, cash flow statement, and
-statement of owners' equity show changes that occurred during the most recent
-accounting PEriod.
-Note these key relationships among the financial statements:
-The income statement shows that net income was $37,500 in 20X8. The
-company declared $8,500 of that income as dividends to its shareholders. The
-remaining $29,000 is an increase in retained earnings. Retained earnings on the
-balance sheet increased by $29,000, from $30,000 in 20X7 to $59,000 in 20X8.
-The cash flow statement shows a $24,000 net increase in cash. On the balance
-sheet, cash increased by $24,000, from $9,000 in 20X7 to $33,000 in 20X8.
-One of the uses of cash shown on the cash flow statement is a repurchase of
-stock for $10,000. The balance sheet shows this $10,000 repurchase as a
-decrease in common stock, from $50,000 in 20X7 to $40,000 in 20X8.
-The statement of owners' equity reflects the changes in retained earnings and
-contributed capital (common stock). Owners' equity increased by $19,000, from
-$80,000 in 20X7 to $99,000 in 20X8. This equals the $29,000 increase in
-retained earnings less the $10,000 decrease in common stock.
+Analyzing financial statements requires understanding how a company’s transactions are recorded. Key concepts include the financial statement elements (assets, liabilities, equity, revenues, and expenses) and classifying any account accordingly. One must also understand the basic and expanded accounting equations, why every transaction must be recorded in at least two accounts, the types of accruals, their usage, how account changes impact financial statements, and how the statements relate to one another.
+Business activities are classified into operating, investing, or financing. Operating activities occur in the normal course of business—producing and selling goods or services. Investing activities involve buying or selling long-term assets like land or machinery. Financing includes issuing or redeeming debt, issuing or repurchasing stock, and paying dividends.
+How activities are classified depends on the firm’s nature. For example, interest received is typically investing for a manufacturer but operating for a financial services firm.
+Note: While these classifications are used in the statement of cash flows, they are defined differently here. Because the names are the same (operating, investing, financing), context is essential.
+Financial statement elements include major categories: assets, liabilities, owners’ equity, revenues, and expenses. Accounts are specific records within each element. A chart of accounts lists all such entries. Contra accounts reduce values of other accounts, such as “accumulated depreciation” which offsets “equipment.”
+Classifying accounts into elements
+Assets are economic resources, such as:
+	•	Cash and cash equivalents (including securities maturing in 90 days or less)
+	•	Accounts receivable (may include allowance for doubtful accounts)
+	•	Inventory
+	•	Financial assets (e.g., marketable securities)
+	•	Prepaid expenses (recognized later on income statements)
+	•	Property, plant, and equipment (PPE), with accumulated depreciation
+	•	Equity investments using the equity method
+	•	Deferred tax assets
+	•	Intangible assets (e.g., patents, goodwill; amortized except goodwill)
+Liabilities are creditor claims, including:
+	•	Accounts payable and trade payables
+	•	Short-term notes payable
+	•	Unearned revenue (to be recognized as revenue later)
+	•	Income taxes payable
+	•	Long-term debt (e.g., bonds payable)
+	•	Deferred tax liabilities
+Owners’ equity is the residual claim (assets – liabilities), including:
+	•	Capital (par value of stock)
+	•	Additional paid-in capital (excess of issuance price over par)
+	•	Treasury stock (repurchased shares, a contra-equity account)
+	•	Retained earnings (cumulative net income not paid as dividends)
+	•	Other comprehensive income (e.g., currency translation, unrealized gains/losses)
+Revenue includes:
+	•	Sales revenue from core business operations
+	•	Gains from incidental activities
+	•	Investment income (e.g., dividends, interest)
+Expenses include:
+	•	Cost of goods sold (COGS)
+	•	Selling, general, and administrative expenses (e.g., salaries, rent)
+	•	Depreciation and amortization
+	•	Tax expense
+	•	Interest expense
+	•	Losses from incidental activities
+Accounting Equation
+The basic equation:
+Assets = Liabilities + Owners’ Equity
+Expanded form:
+Assets = Liabilities + Contributed Capital + Ending Retained Earnings
+And including income components:
+Assets = Liabilities + Contributed Capital + Beginning Retained Earnings + Revenue – Expenses – Dividends
+Double-entry accounting keeps the equation balanced. Each transaction affects at least two accounts.
+Examples:
+	•	Buy equipment for $10,000 cash: increase PPE, decrease cash.
+	•	Borrow $10,000 for equipment: increase PPE and notes payable.
+	•	Buy $100 in office supplies: decrease cash, increase supply expense (reduces equity).
+	•	Buy inventory for $8,000 and sell for $10,000: inventory and cash change, record revenue and COGS, equity increases by $2,000.
+Accrual Accounting
+Revenues and expenses are recorded when earned or incurred, not when cash changes hands.
+Types of accruals:
+	1.	Unearned revenue: Cash received before service. Increases unearned revenue (liability), then reclassified as revenue when earned.
+	2.	Accrued revenue: Goods/services delivered before cash received. Increases revenue and accounts receivable.
+	3.	Prepaid expenses: Cash paid before expense. Shifts from asset to expense as used.
+	4.	Accrued expenses: Expense incurred before cash paid. Increases expense and liability (e.g., wages payable).
+Accrual entries ensure revenues and expenses are recognized in the correct period.
+Valuation Adjustments
+Though assets are often recorded at historical cost, some must reflect market value. These adjustments impact equity via income or other comprehensive income.
+Financial Statements
+Figures in financial statements include:
+	•	Balance sheet: financial position at period-end
+	•	Income statement, cash flow statement, and statement of owners’ equity: changes over the period
+Key relationships:
+	•	Net income = $37,500; Dividends = $8,500; Increase in retained earnings = $29,000
+	•	Retained earnings rose from $30,000 to $59,000
+	•	Cash increased by $24,000 (from $9,000 to $33,000)
+	•	Stock repurchase ($10,000) reflected in common stock decrease (from $50,000 to $40,000)
+	•	Owners’ equity rose by $19,000, matching retained earnings increase minus stock repurchase
 Figure 1: Income Statement for 20X8
-Sales
-ExPEnses
-Cost of goods sold
-Wages
-Depreciation
-Interest
-$100,000
-40,000
-5,000
-7,000
-500
-Total exPEnses
-Income from continuing oPErations
-Gain from sale of land
-Pretax income
-Provision for taxes
-Net income
-Common dividends declared
-$52,500
-47,500
-10,000
-$57,500
-20,000
-$37,500
-8,500
+Sales: $100,000
+Expenses:
+	•	Cost of goods sold: $40,000
+	•	Wages: $5,000
+	•	Depreciation: $7,000
+	•	Interest: $500
+Total expenses: $52,500
+Income from continuing operations: $47,500
+Gain from sale of land: $10,000
+Pretax income: $57,500
+Provision for taxes: $20,000
+Net income: $37,500
+Common dividends declared: $8,500
 Figure 2: Balance Sheet for 20X7 and 20X8
 Assets
 Current assets
-Cash
-Accounts receivable
-Inventory
+	•	Cash: 20X8 = $33,000; 20X7 = $9,000
+	•	Accounts receivable: 20X8 = $10,000; 20X7 = $9,000
+	•	Inventory: 20X8 = $5,000; 20X7 = $7,000
+
 Noncurrent assets
-Land
-Gross plant and equipment
-less: Accumulated depreciation
-Net plant and equipment
-Goodwill
-Total assets
+	•	Land: 20X8 = $35,000; 20X7 = $40,000
+	•	Gross plant and equipment: 20X8 = $85,000; 20X7 = $60,000
+	•	Less: Accumulated depreciation: 20X8 = ($16,000); 20X7 = ($9,000)
+	•	Net plant and equipment: 20X8 = $69,000; 20X7 = $51,000
+	•	Goodwill: $10,000 in both years
+Total assets: 20X8 = $162,000; 20X7 = $126,000
 Liabilities and Equity
 Current liabilities
-Accounts payable
-Wages payable
-20X8
-20X7
-$33,000
-$9,000
-10,000
-9,000
-5,000
-7,000
-$35,000
-$40,000
-85,000
-60,000
-(16,000)
-(9,000)
-$69,000
-$51,000
-10,000
-10,000
-$162,000
-$126,000
-$9,000
-$5,000
-4,500
-8,000
-Interest payable
-Taxes payable
-Dividends payable
+	•	Accounts payable: 20X8 = $9,000; 20X7 = $5,000
+	•	Wages payable: 20X8 = $4,500; 20X7 = $8,000
+	•	Interest payable: 20X8 = $3,500; 20X7 = $3,000
+	•	Taxes payable: 20X8 = $5,000; 20X7 = $4,000
+	•	Dividends payable: 20X8 = $6,000; 20X7 = $1,000
 Noncurrent liabilities
-Bonds
-Deferred taxes
-Stockholders' equity
-Common stock
-Retained earnings
-3,500
-3,000
-5,000
-4,000
-6,000
-1,000
-$15,000
-$10,000
-20,000
-15,000
-$40,000
-$50,000
-59,000
-30,000
-Total liabilities & stockholders' equity
-$162,000
-$126,000
+	•	Bonds: 20X8 = $15,000; 20X7 = $10,000
+	•	Deferred taxes: 20X8 = $20,000; 20X7 = $15,000
+Stockholders’ equity
+	•	Common stock: 20X8 = $40,000; 20X7 = $50,000
+	•	Retained earnings: 20X8 = $59,000; 20X7 = $30,000
+Total liabilities and equity: 20X8 = $162,000; 20X7 = $126,000
 Figure 3: Cash Flow Statement for 20X8
-Cash collections
-Cash inputs
-Cash exPEnses
-Cash interest
-Cash taxes
-Cash flow from oPErations
-Cash from sale of land
-Purchase of plant and equipment
-Cash flow from investments
-Sale of bonds
-Repurchase of stock
-Cash dividends
-$99,000
-(34,000)
-(8,500)
-0
-(14,000)
-$42,500
-$15,000
-(25,000)
-($10,000)
-$5,000
-(10,000)
-(3,500)
-Cash flow from financing
-Total cash flow
-($8,500)
-$24,000
-Figure 4: Statement of Owners' Equity for 20X8
-Contributed Capital Retained Earnings
-Total
-Balance, 12/31/20X7
-$50,000
-$30,000
-$80,000
-Repurchase of stock
-($10,000)
-Net income
-Distributions
-Balance, 12/31/20X8
-$40,000
-$37,500
-($8,500)
-$59,000
-($10,000)
-$37,500
-($8,500)
-$99,000
-LOS 22.g: Describe the flow of information in an accounting system.
-CFA(r) Program Curriculum, Volume 3, page 73
-Information flows through an accounting system in four stEPS:
-1. Journal entries record every transaction, showing which accounts are changed
-and by what amounts. A listing of all the journal entries in order of their dates is
-called the general journal.
-2. The general ledger sorts the entries in the general journal by account.
-3. At the end of the accounting PEriod, an initial trial balance is prepared that
-shows the balances in each account. If any adjusting entries are needed, they
-will be recorded and reflected in an adjusted trial balance.
-4. The account balances from the adjusted trial balance are presented in the
-financial statements.
-LOS 22.h: Describe the use of the results of the accounting process in SECurity
-analysis.
-CFA(r) Program Curriculum, Volume 3, page 75
-An analyst does not have access to the detailed information that flows through a
-company's accounting system but sees only the end product (the financial statements).
-An analyst needs to understand the various accruals, adjustments, and management
-assumptions that go into the financial statements. Much of this detail is contained in
-the footnotes to the statements and Management's Discussion and Analysis, so it is
-crucial for an analyst to review these parts of the financial statements. With this
-information, the analyst can better judge how well the financial statements reflect the
-company's true PErformance and what adjustments to the data are necessary for
-appropriate analysis.
-Because adjustments and assumptions within the financial statements are, at least to
-some extent, at the discretion of management, the possibility exists that management
-may attempt to manipulate or misrepresent the company's financial PErformance. A
-good understanding of the accounting process can help an analyst identiFY financial
-statement entries that apPEar to be out of line.
-KEY CONCEPTS
-LOS 22.a
+Cash collections: $99,000
+Cash inputs: ($34,000)
+Cash expenses: ($8,500)
+Cash interest: $0
+Cash taxes: ($14,000)
+Cash flow from operations: $42,500
+Cash from sale of land: $15,000
+Purchase of plant and equipment: ($25,000)
+Cash flow from investments: ($10,000)
+Sale of bonds: $5,000
+Repurchase of stock: ($10,000)
+Cash dividends: ($3,500)
+Cash flow from financing: ($8,500)
+Total cash flow: $24,000
+Contributed Capital
+	•	Balance, 12/31/20X7: $50,000
+	•	Repurchase of stock: ($10,000)
+	•	Balance, 12/31/20X8: $40,000
+
+Retained Earnings
+	•	Balance, 12/31/20X7: $30,000
+	•	Net income: $37,500
+	•	Distributions: ($8,500)
+	•	Balance, 12/31/20X8: $59,000
+Total Equity
+	•	Balance, 12/31/20X7: $80,000
+	•	Changes: ($10,000), $37,500, ($8,500)
+	•	Balance, 12/31/20X8: $99,000
+Information flows through an accounting system in four steps:
+	1.	Journal entries record all transactions, showing which accounts are affected and by how much. A list of these entries in date order is called the general journal.
+	2.	The general ledger organizes journal entries by account.
+	3.	At the end of the accounting period, an initial trial balance is prepared showing the balances in each account. Adjusting entries are recorded and reflected in the adjusted trial balance if needed.
+	4.	Account balances from the adjusted trial balance are used to prepare the financial statements.
+An analyst does not see the internal accounting process, only the final financial statements. To analyze properly, the analyst must understand the accruals, adjustments, and managerial assumptions behind the numbers. Much of this detail is in the footnotes and in the Management’s Discussion and Analysis section. Reviewing this content helps the analyst assess how well the statements reflect actual performance and whether adjustments are needed.
+Because management has discretion over some of the accounting estimates and assumptions, there is potential for earnings manipulation or misrepresentation. A strong understanding of accounting mechanics helps analysts spot entries that seem unusual or inconsistent with normal expectations.
 Business activities are classified as oPErating activities if they are part of a firm's
 ordinary business, investing activities if they involve buying or disposing of long-term
 assets, or financing activities if they are to issue or repay debt, issue or repurchase
 stock, or pay cash dividends.
-LOS 22.b
 Transactions are recorded in accounts that form the financial statement elements:
 Assets--the firm's economic resources.
 Liabilities--creditors' claims on the firm's resources.
@@ -384,7 +162,6 @@ earnings, and cumulative other comprehensive income.
 Revenues--sales, investment income, and gains.
 ExPEnses--cost of goods sold, selling and administrative exPEnses,
 depreciation, interest, taxes, and losses.
-LOS 22.c
 The basic accounting equation:
 assets = liabilities + owners' equity
 The expanded accounting equation:
@@ -392,25 +169,20 @@ assets = liabilities + contributed capital + ending retained earnings
 The expanded accounting equation can also be stated as:
 assets = liabilities + contributed capital + beginning retained earnings + revenue
 - exPEnses - dividends
-LOS 22.d
 Keeping the accounting equation (A - L = E) in balance requires double entry
 accounting, in which a transaction is recorded in at least two accounts. An increase in
 an asset account, for example, must be balanced by a decrease in another asset
 account or by an increase in a liability or owners' equity account.
-LOS 22.e
 A firm must recognize revenues when they are earned and exPEnses when they are
 incurred. Accruals are required when the timing of cash payments made and received
 does not match the timing of the revenue or exPEnse recognition on the financial
 statements.
-LOS 22.f
 The balance sheet shows a company's financial position at a point in time.
 Changes in balance sheet accounts during an accounting PEriod are reflected in the
 income statement, the cash flow statement, and the statement of owners' equity.
-LOS 22.g
 Information enters an accounting system as journal entries, which are sorted by
 account into a general ledger. Trial balances are formed at the end of an accounting
 PEriod. Accounts are then adjusted and presented in financial statements.
-LOS 22.h
 Since financial reporting requires choices of method, judgment, and estimates, an
 analyst must understand the accounting process used to produce the financial
 statements in order to understand the business and the results for the PEriod. Analysts
@@ -418,567 +190,6 @@ should be alert to the use of accruals, changes in valuations, and other notable
 changes that may indicate management judgment is incorrect or, worse, that the
 financial statements have been deliberately manipulated.
 CONCEPT CHECKERS
-1. The groups into which business activities are classified for financial reporting
-are:
-A. current and non-current.
-B. oPErating, investing, and financing.
-C. assets, liabilities, equity, revenues, and exPEnses.
-2. Accounts receivable and accounts payable are most likely classified as which
-financial statement elements?
-Accounts receivable
-A. Assets
-B. Revenues
-C. Revenues
-Accounts payable
-Liabilities
-Liabilities
-ExPEnses
-3. Annual depreciation and accumulated depreciation are most likely classified as
-which financial statement elements?
-Depreciation
-A. ExPEnses
-B. ExPEnses
-C. Liabilities
-Accumulated depreciation
-Contra liabilities
-Contra assets
-Contra assets
-4. The accounting equation is least accurately stated as:
-A. owners' equity = liabilities - assets.
-B. ending retained earnings = assets - contributed capital - liabilities.
-C. assets = liabilities + contributed capital + beginning retained earnings +
-revenue - exPEnses - dividends.
-5. A decrease in assets would least likely be consistent with a(n):
-A. increase in exPEnses.
-B. decrease in revenues.
-C. increase in contributed capital.
-6. An electrician repaired the light fixtures in a retail shop on October 24 and sent
-the bill to the shop on November 3. If both the electrician and the shop
-prepare financial statements under the accrual method on October 31, how
-will they each record this transaction?
-Electrician
-A. Accrued revenue
-B. Accrued revenue
-C. Unearned revenue
-Retail shop
-Accrued exPEnse
-Prepaid exPEnse
-Accrued exPEnse
-7. If a firm raises $10 million by issuing new common stock, which of its financial
-statements will reflect the transaction?
-A. Income statement and statement of owners' equity.
-B. Balance sheet, income statement, and cash flow statement.
-C. Balance sheet, cash flow statement, and statement of owners' equity.
-8. An auditor needs to review all of a company's transactions that took place
-between August 15 and August 17 of the current year. To find this information,
-she would most likely consult the company's:
-A. general ledger.
-B. general journal.
-C. financial statements.
-9. Paul Schmidt, a representative for Westby Investments, is explaining how
-SECurity analysts use the results of the accounting process. He states, "Analysts
-do not have access to all the entries that went into creating a company's
-financial statements. If the analyst carefully reviews the auditor's report for
-any instances where the financial statements deviate from the appropriate
-accounting principles, he can then be confident that management is not
-manipulating earnings." Schmidt is:
-A. correct.
-B. incorrect, because the entries that went into creating a company's
-financial statements are publicly available.
-C. incorrect, because management can manipulate earnings even within
-the confines of generally accepted accounting principles.
-For more questions related to this topic review, log in to your Schweser online account
-and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
-topic review, log in to your Schweser online account and launch the OnDemand video
-lectures, if you have purchased these products.
-ANSWERS - CONCEPT CHECKERS
-1. The groups into which business activities are classified for financial reporting
-are:
-A. current and non-current.
-B. oPErating, investing, and financing.
-C. assets, liabilities, equity, revenues, and exPEnses.
-Business activities are classified for financial reporting purposes as oPErating,
-investing, or financing activities.
-2. Accounts receivable and accounts payable are most likely classified as which
-financial statement elements?
-Accounts receivable
-Accounts payable
-A. Assets
-B. Revenues
-C. Revenues
-Liabilities
-Liabilities
-ExPEnses
-Accounts receivable are an asset and accounts payable are a liability.
-3. Annual depreciation and accumulated depreciation are most likely classified as
-which financial statement elements?
-Depreciation
-A. ExPEnses
-B. ExPEnses
-C. Liabilities
-Accumulated depreciation
-Contra liabilities
-Contra assets
-Contra assets
-Annual depreciation is an exPEnse. Accumulated depreciation is a contra asset
-account that typically offsets the historical cost of proPErty, plant, and
-equipment.
-4. The accounting equation is least accurately stated as:
-A. owners' equity = liabilities - assets.
-B. ending retained earnings = assets - contributed capital - liabilities.
-C. assets = liabilities + contributed capital + beginning retained earnings +
-revenue - exPEnses - dividends.
-Owners' equity is equal to assets minus liabilities.
-5. A decrease in assets would least likely be consistent with a(n):
-A. increase in exPEnses.
-B. decrease in revenues.
-C. increase in contributed capital.
-The expanded accounting equation shows that assets = liabilities + contributed
-capital + beginning retained earnings + revenue - exPEnses - dividends. A
-decrease in assets is consistent with an increase in exPEnses or a decrease in
-revenues but not with an increase in contributed capital.
-6. An electrician repaired the light fixtures in a retail shop on October 24 and sent
-the bill to the shop on November 3. If both the electrician and the shop
-prepare financial statements under the accrual method on October 31, how
-will they each record this transaction?
-Electrician
-A. Accrued revenue
-B. Accrued revenue
-C. Unearned revenue
-Retail shop
-Accrued exPEnse
-Prepaid exPEnse
-Accrued exPEnse
-The service is PErformed before cash is paid. This transaction represents
-accrued revenue to the electrician and an accrued exPEnse to the retail shop.
-Since the invoice has not been sent as of the statement date, it is not shown in
-accounts receivable or accounts payable.
-7. If a firm raises $10 million by issuing new common stock, which of its financial
-statements will reflect the transaction?
-A. Income statement and statement of owners' equity.
-B. Balance sheet, income statement, and cash flow statement.
-C. Balance sheet, cash flow statement, and statement of owners' equity.
-The $10 million raised apPEars on the cash flow statement as a cash inflow
-from financing and on the statement of owners' equity as an increase in
-contributed capital. Both assets (cash) and equity (common stock) increase on
-the balance sheet. The income statement is unaffected by stock issuance.
-8. An auditor needs to review all of a company's transactions that took place
-between August 15 and August 17 of the current year. To find this information,
-she would most likely consult the company's:
-A. general ledger.
-B. general journal.
-C. financial statements.
-The general journal lists all of the company's transactions by date. The general
-ledger lists them by account.
-9. Paul Schmidt, a representative for Westby Investments, is explaining how
-SECurity analysts use the results of the accounting process. He states, "Analysts
-do not have access to all the entries that went into creating a company's
-financial statements. If the analyst carefully reviews the auditor's report for
-any instances where the financial statements deviate from the appropriate
-accounting principles, he can then be confident that management is not
-manipulating earnings." Schmidt is:
-A. correct.
-B. incorrect, because the entries that went into creating a company's
-financial statements are publicly available.
-C. incorrect, because management can manipulate earnings even within
-the confines of generally accepted accounting principles.
-Schmidt is correct in stating that analysts do not have access to the detailed
-accounting entries that went into a company's financial statements. However,
-he is incorrect in stating that an analyst can be sure management is not
-manipulating earnings if the audit report does not list deviations from
-accounting principles. Because accruals and many valuations require
-management's judgment, there is considerable room within the accounting
-standards for management to manipulate earnings.
-CHALLENGE PROBLEMS
-For each account listed, indicate whether the account should be classified as Assets
-(A), Liabilities (L), Owners' Equity (O), Revenues (R), or ExPEnses (X).
-Account
-Accounts payable
-Accounts receivable
-Accumulated depreciation
-Additional paid-in capital
-Allowance for bad debts
-Bonds payable
-Cash equivalents
-Common stock
-Cost of goods sold
-Current portion of long-term debt
-Deferred tax items
-Depreciation
-Dividends payable
-Dividends received
-Gain on sale of assets
-Goodwill
-Inventory
-Investment SECurities
-Loss on sale of assets
-Notes payable
-Other comprehensive income
-Prepaid exPEnses
-ProPErty, plant, and equipment
-Retained earnings
-Financial statement element
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-Sales
-Unearned revenue
-A
-A
-L
-L
-O
-O
-R
-R
-X
-X
-ANSWERS - CHALLENGE PROBLEMS
-For each account listed, indicate whether the account should be classified as Assets
-(A), Liabilities (L), Owners' Equity (O), Revenues (R), or ExPEnses (X).
-Account
-Accounts payable
-Accounts receivable
-Accumulated depreciation
-Additional paid-in capital
-Allowance for bad debts
-Bonds payable
-Cash equivalents
-Common stock
-Cost of goods sold
-Current portion of long-term debt
-Deferred tax items
-Depreciation
-Dividends payable
-Dividends received
-Gain on sale of assets
-Goodwill
-Inventory
-Investment SECurities
-Loss on sale of assets
-Notes payable
-Other comprehensive income
-Prepaid exPEnses
-ProPErty, plant, and equipment
-Financial statement element
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-L
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-O
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-R
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-X
-A
-A
-A
-L
-L
-L
-O
-O
-O
-Retained earnings
-Sales
-Unearned revenue
-Account
-Accounts payable
-Accounts receivable
-Accumulated depreciation
-Contra to the asset being depreciated.
-Additional paid-in capital
-Allowance for bad debts
-Contra to accounts receivable.
-Bonds payable
-Cash equivalents
-Common stock
-Cost of goods sold
-Current portion of long-term debt
-Deferred tax items
-Both deferred tax assets and deferred tax liabilities
-are recorded.
-Depreciation
-Dividends payable
-Dividends received
-Gain on sale of assets
-Goodwill
-Intangible asset.
-Inventory
-Investment SECurities
-Loss on sale of assets
-Notes payable
-R
-R
-R
-A
-A
-A
-A
-A
-A
-A
-A
-X
-X
-X
-Financial statement
-element
-O
-O
-L
-L
-L
-L
-L
-L
-X
-X
-X
-R
-R
-Other comprehensive income
-O
-Prepaid exPEnses
-Accrual account.
-ProPErty, plant, and equipment
-Retained earnings
-Sales
-Unearned revenue
-Accrual account.
-A
-A
-O
-R
-L
-The following is a review of the Financial Reporting and Analysis principles designed to address the learning
-outcome statements set forth by CFA Institute. Cross-Reference to CFA Institute Assigned Reading #23.
-FINANCIAL REPORTING STANDARDS
-Study Session 6
-EXAM FOCUS
 This topic review covers accounting standards: why they exist, who issues them, and
 who enforces them. Know the difference between the roles of private standard-setting
 bodies and government regulatory authorities and be able to name the most
@@ -988,9 +199,7 @@ constraints and assumptions, and features for preparing financial statements. Be
 to identiFY barriers to convergence of national accounting standards (such as U.S.
 GAAP) with IFRS, key differences between the IFRS and U.S. GAAP frameworks, and
 elements of and barriers to creating a coherent financial reporting network.
-LOS 23.a: Describe the objective of financial statements and the importance of
 financial reporting standards in SECurity analysis and valuation.
-CFA(r) Program Curriculum, Volume 3, page 102
 According to the IASB Conceptual Framework for Financial Reporting 2010, the
 objective of financial reporting is to provide information about the firm to current and
 potential investors and creditors that is useful for making their decisions about
@@ -1006,10 +215,8 @@ standards must remain flexible and allow discretion to management to proPErly
 describe the economics of the firm.
 Financial reporting is not designed solely for valuation purposes; however, it does
 provide important inputs for valuation purposes.
-LOS 23.b: Describe roles and desirable attributes of financial reporting standardsetting bodies and regulatory authorities in establishing and enforcing reporting
 standards, and describe the role of the International Organization of SECurities
 Commissions.
-CFA(r) Program Curriculum, Volume 3, page 105
 Standard-setting bodies are professional organizations of accountants and auditors
 that establish financial reporting standards. Regulatory authorities are government
 agencies that have the legal authority to enforce compliance with financial reporting
@@ -1072,10 +279,8 @@ do so.
 Forms 3, 4, and 5 involve the beneficial ownership of SECurities by a company's
 officers and directors. Analysts can use these filings to learn about purchases
 and sales of company SECurities by corporate insiders.
-LOS 23.c: Describe the status of global convergence of accounting standards and
 ongoing barriers to developing one universally accepted set of financial reporting
 standards.
-CFA(r) Program Curriculum, Volume 3, page 113
 The EuroPEan Union requires IFRS financial reporting by publicly listed companies. In
 most major countries that have not fully adopted IFRS, accounting standard setters are
 attempting to converge their standards with IFRS. Many asPEcts of U.S. GAAP and IFRS,
@@ -1089,11 +294,9 @@ authorities of different countries can and do disagree on the best treatment of 
 particular item or issue. Other barriers result from the political pressures that
 regulatory bodies face from business groups and others who will be affected by
 changes in reporting standards.
-LOS 23.d: Describe the International Accounting Standards Board's conceptual
 framework, including the objective and qualitative characteristics of financial
 statements, required reporting elements, and constraints and assumptions in
 preparing financial statements.
-CFA(r) Program Curriculum, Volume 3, page 117
 The ideas on which the IASB bases its standards are expressed in the "Conceptual
 Framework for Financial Reporting" that the organization adopted in 2010. The IASB
 framework details the qualitative characteristics of financial statements and sPEcifies
@@ -1170,9 +373,7 @@ concern assumes the company will continue to exist for the foreseeable future. I
 is not the case, then presenting the company's financial position fairly requires a
 number of adjustments (e.g., its inventory or other assets may only be worth their
 liquidation values).
-LOS 23.e: Describe general requirements for financial statements under International
 Financial Reporting Standards (IFRS).
-CFA(r) Program Curriculum, Volume 3, page 123
 International Accounting Standard (IAS) No. 1 defines which financial statements are
 required and how they must be presented. The required financial statements are:
 Balance sheet (statement of financial position).
@@ -1210,9 +411,6 @@ must include revenue, profit or loss, tax exPEnse, and finance costs, among
 others.
 Comparative information for prior PEriods should be included unless a sPEcific
 standard states otherwise.
-LOS 23.f: Compare key concepts of financial reporting standards under IFRS and US
-generally accepted accounting principles (US GAAP) reporting systems.
-CFA(r) Program Curriculum, Volume 3, page 127
 U.S. GAAP consists of standards issued by the FASB, along with numerous other
 pronouncements and interpretations. Like the IASB, the FASB has a framework for
 preparing and presenting financial statements. The two organizations have made
@@ -1237,7 +435,6 @@ Even if a unified framework emerges, sPEcial reporting standards that apply to
 particular industries (e.g., insurance and banking) will continue to exist.
 LOS 23.g: IdentiFY characteristics of a coherent financial reporting framework and the
 barriers to creating such a framework.
-CFA(r) Program Curriculum, Volume 3, page 129
 A coherent financial reporting framework is one that fits together logically. Such a
 framework should be transparent, comprehensive, and consistent.
 Transparency--Full disclosure and fair presentation reveal the underlying
@@ -1264,10 +461,8 @@ valuing the changes between points in time (as on the income statement). An
 "asset/liability" appROAch, which standard setters have largely used, focuses on
 balance sheet valuation. A "revenue/exPEnse" appROAch would tend to place
 more significance on the income statement.
-LOS 23.h: Describe implications for financial analysis of differing financial reporting
 systems and the importance of monitoring developments in financial reporting
 standards.
-CFA(r) Program Curriculum, Volume 3, page 131
 As financial reporting standards continue to evolve, analysts need to monitor how
 these developments will affect the financial statements they use. An analyst should be
 aware of new products and innovations in the financial markets that generate new
@@ -1275,14 +470,8 @@ tyPEs of transactions. These might not fall neatly into the existing financial r
 standards. The analyst can use the financial reporting framework as a guide for
 evaluating what effect new products or transactions might have on financial
 statements.
-To keep up to date on the evolving standards, an analyst can monitor professional
-journals and other sources, such as the IASB (www.ifrs.org) and FASB (www.fasb.org)
-Web sites. CFA Institute produces position paPErs on financial reporting issues through
-the CFA Institute Centre for Financial Market Integrity.
 Finally, analysts must monitor company disclosures for significant accounting
 standards and estimates.
-LOS 23.i: Analyze company disclosures of significant accounting policies.
-CFA(r) Program Curriculum, Volume 3, page 135
 Companies that prepare financial statements under IFRS or U.S. GAAP must disclose
 their accounting policies and estimates in the footnotes. Significant policies and
 estimates that require management judgement are also addressed in Management's
@@ -1297,243 +486,27 @@ impact of adopting a new standard, conclude that the standard does not apply or 
 not affect the financial statements materially, or state that they are still evaluating the
 effects of the new standards. Analysts should be aware of the uncertainty this last
 statement implies.
-1 International Organization of SECurities Commissions, "Objectives and Principles of SECurities Regulation,"
-June 2010.
-2 Conceptual Framework for Financial Reporting (2010). paragraphs QC5-18.
-3 Ibid., paragraphs QC19-34.
-4 Ibid., paragraphs 4.4-4.23.
-5 Ibid., paragraphs QC35-39.
-6 Ibid., paragraphs OB17 and 4.1.
 KEY CONCEPTS
-LOS 23.a
-The objective of financial statements is to provide economic decision makers with
-useful information about a firm's financial PErformance and changes in financial
-position.
-Reporting standards are designed to ensure that different firms' statements are
-comparable to one another and to narrow the range of reasonable estimates on which
-financial statements are based. This aids users of the financial statements who rely on
-them for information about the company's activities, profitability, and
-creditworthiness.
-LOS 23.b
-Standard-setting bodies are private SECtor organizations that establish financial
-reporting standards. The two primary standard-setting bodies are the International
-Accounting Standards Board (IASB) and, in the United States, the Financial Accounting
-Standards Board (FASB).
-Regulatory authorities are government agencies that enforce compliance with financial
-reporting standards. Regulatory authorities include the SECurities and Exchange
-Commission (SEC) in the United States and the Financial Services Authority (FSA) in the
-United Kingdom. Many national regulatory authorities belong to the International
-Organization of SECurities Commissions (IOSCO).
-LOS 23.c
-Efforts to achieve convergence of local accounting standards with IFRS are underway in
-most major countries that have not adopted IFRS.
-Barriers to developing one universally accepted set of financial reporting standards
-include differences of opinion among standard-setting bodies and regulatory
-authorities from different countries and political pressure within countries from groups
-affected by changes in reporting standards.
-LOS 23.d
-The IFRS "Conceptual Framework for Financial Reporting" defines the fundamental and
-enhancing qualitative characteristics of financial statements, sPEcifies the required
-reporting elements, and notes the constraints and assumptions involved in preparing
-financial statements.
-The fundamental characteristics of financial statements are relevance and
-faithful representation. The enhancing characteristics include comparability,
-verifiability, timeliness, and understandability.
-Elements of financial statements are assets, liabilities, and owners' equity (for
-measuring financial position) and income and exPEnses (for measuring
-PErformance).
-Constraints on financial statement preparation include cost versus benefit and
-the difficulty of capturing non-quantifiable information in financial statements.
-The two primary assumptions that underlie the preparation of financial
-statements are the accrual basis and the going concern assumption.
-LOS 23.e
-Required financial statements are the balance sheet, comprehensive income
-statement, cash flow statement, statement of changes in owners' equity, and
-explanatory notes.
-The general features of financial statements according to IAS No. 1 are:
-Fair presentation.
-Going concern.
-Accrual accounting.
-Consistency.
-Materiality.
-Aggregation.
-No offsetting.
-Reporting frequency.
-Comparative information.
-Other presentation requirements include a classified balance sheet and sPEcific
-minimum information that must be reported in the notes and on the face of the
-financial statements.
-LOS 23.f
-The IASB and FASB frameworks are similar but are moving towards convergence. Some
-of the remaining differences are:
-The IASB lists income and exPEnses as PErformance elements, while the FASB
-lists revenues, exPEnses, gains, losses, and comprehensive income.
-There are minor differences in the definition of assets. Also, the FASB uses the
-word probable when defining assets and liabilities.
+The objective of financial statements is to provide economic decision makers with useful information about a firm’s financial performance and changes in financial position.
+Reporting standards are designed to ensure that different firms’ statements are comparable to one another and to narrow the range of reasonable estimates on which financial statements are based. This aids users of the financial statements who rely on them for information about the company’s activities, profitability, and creditworthiness.
+Standard-setting bodies are private sector organizations that establish financial reporting standards. The two primary standard-setting bodies are the International Accounting Standards Board (IASB) and, in the United States, the Financial Accounting Standards Board (FASB).
+Regulatory authorities are government agencies that enforce compliance with financial reporting standards. Regulatory authorities include the Securities and Exchange Commission (SEC) in the United States and the Financial Services Authority (FSA) in the United Kingdom. Many national regulatory authorities belong to the International Organization of Securities Commissions (IOSCO).
+Efforts to achieve convergence of local accounting standards with IFRS are underway in most major countries that have not adopted IFRS.
+Barriers to developing one universally accepted set of financial reporting standards include differences of opinion among standard-setting bodies and regulatory authorities from different countries and political pressure within countries from groups affected by changes in reporting standards.
+The IFRS “Conceptual Framework for Financial Reporting” defines the fundamental and enhancing qualitative characteristics of financial statements, specifies the required reporting elements, and notes the constraints and assumptions involved in preparing financial statements.
+The fundamental characteristics of financial statements are relevance and faithful representation. The enhancing characteristics include comparability, verifiability, timeliness, and understandability.
+Elements of financial statements are assets, liabilities, and owners’ equity (for measuring financial position) and income and expenses (for measuring performance).
+Constraints on financial statement preparation include cost versus benefit and the difficulty of capturing non-quantifiable information in financial statements.
+The two primary assumptions that underlie the preparation of financial statements are the accrual basis and the going concern assumption.
+Required financial statements are the balance sheet, comprehensive income statement, cash flow statement, statement of changes in owners’ equity, and explanatory notes.
+The general features of financial statements according to IAS No. 1 are: fair presentation, going concern, accrual accounting, consistency, materiality, aggregation, no offsetting, reporting frequency, and comparative information.
+Other presentation requirements include a classified balance sheet and specific minimum information that must be reported in the notes and on the face of the financial statements.
+The IASB and FASB frameworks are similar but are moving towards convergence. Some of the remaining differences are:
+The IASB lists income and expenses as performance elements, while the FASB lists revenues, expenses, gains, losses, and comprehensive income.
+There are minor differences in the definition of assets. Also, the FASB uses the word probable when defining assets and liabilities.
 The FASB does not allow the upward revaluation of most assets.
-Firms that list their shares in the United States but do not use U.S. GAAP or IFRS are
-required to reconcile their financial statements with U.S. GAAP. For IFRS firms listing
-their shares in the United States, reconciliation is no longer required.
-LOS 23.g
-A coherent financial reporting framework should exhibit transparency,
-comprehensiveness, and consistency.
-Barriers to creating a coherent framework include issues of valuation, standard setting,
-and measurement.
-LOS 23.h
-An analyst should be aware of evolving financial reporting standards and new products
-and innovations that generate new tyPEs of transactions.
-LOS 23.i
-Under IFRS and U.S. GAAP, companies must disclose their accounting policies and
-estimates in the footnotes and MD&A. Public companies are also required to disclose
-the likely impact of recently issued accounting standards on their financial statements.
-CONCEPT CHECKERS
-1. Standard-setting bodies are responsible for:
-A. establishing financial reporting standards only.
-B. establishing and enforcing standards for financial reporting.
-C. enforcing compliance with financial reporting standards only.
-2. Which of the following organizations is least likely involved with enforcing
-compliance with financial reporting standards?
-A. Financial Conduct Authority.
-B. SECurities and Exchange Commission.
-C. International Accounting Standards Board.
-3. Dawn Czerniak is writing an article about international financial reporting
-standards. In her article she states, "Despite strong support from business
-groups for a universally accepted set of financial reporting standards,
-disagreements among the standard-setting bodies and regulatory authorities
-of various countries remain a barrier to developing one." Czerniak's statement
-is:
-A. correct.
-B. incorrect, because business groups have not supported a uniform set of
-financial reporting standards.
-C. incorrect, because disagreements among national standard-setting
-bodies and regulatory agencies have not been a barrier to developing a
-universal set of standards.
-4. According to the IASB Conceptual Framework, the fundamental qualitative
-characteristics that make financial statements useful are:
-A. verifiability and timeliness.
-B. relevance and faithful representation.
-C. understandability and relevance.
-5. Which of the following most accurately lists a required reporting element that
-is used to measure a company's financial position and one that is used to
-measure a company's PErformance?
-Position
-A. Assets
-B. Income
-C. Liabilities
-PErformance
-Liabilities
-ExPEnses
-Income
-6. International Accounting Standard (IAS) No. 1 least likely requires which of the
-following?
-A. Neither assets and liabilities, nor income and exPEnses, may be offset
-unless required or PErmitted by a financial reporting standard.
-B. Audited financial statements and disclosures, along with updated
-information about the firm and its management, must be filed at least
-quarterly.
-C. Fair presentation of financial statements means faithfully representing
-the firm's events and transactions according to the financial reporting
-standards.
-7. Which of the following statements about the FASB conceptual framework, as
-compared to the IASB conceptional framework, is most accurate?
-A. The FASB framework allows for upward revaluations of tangible, longlived assets.
-B. The FASB framework and IASB framework are now fully converged.
-C. The FASB framework lists revenue, exPEnses, gains, losses, and
-comprehensive income related to financial PErformance.
-8. Which is least likely one of the conclusions about the impact of a change in
-financial reporting standards that might apPEar in management's discussion
-and analysis?
-A. Management has chosen not to implement the new standard.
-B. Management is currently evaluating the impact of the new standard.
-C. The new standard will not have a material impact on the company's
-financial statements.
-For more questions related to this topic review, log in to your Schweser online account
-and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
-topic review, log in to your Schweser online account and launch the OnDemand video
-lectures, if you have purchased these products.
-ANSWERS - CONCEPT CHECKERS
-1. Standard-setting bodies are responsible for:
-A. establishing financial reporting standards only.
-B. establishing and enforcing standards for financial reporting.
-C. enforcing compliance with financial reporting standards only.
-Standard-setting bodies are private-SECtor organizations that establish financial
-reporting standards. Enforcement is the responsibility of regulatory authorities.
-2. Which of the following organizations is least likely involved with enforcing
-compliance with financial reporting standards?
-A. Financial Conduct Authority.
-B. SECurities and Exchange Commission.
-C. International Accounting Standards Board.
-The IASB is a standard-setting body. The SECurities and Exchange Commission
-(in the United States) and the Financial Conduct Authority (in the United
-Kingdom) are regulatory authorities.
-3. Dawn Czerniak is writing an article about international financial reporting
-standards. In her article she states, "Despite strong support from business
-groups for a universally accepted set of financial reporting standards,
-disagreements among the standard-setting bodies and regulatory authorities
-of various countries remain a barrier to developing one." Czerniak's statement
-is:
-A. correct.
-B. incorrect, because business groups have not supported a uniform set of
-financial reporting standards.
-C. incorrect, because disagreements among national standard-setting
-bodies and regulatory agencies have not been a barrier to developing a
-universal set of standards.
-Political pressure from business groups and other interest groups who are
-affected by financial reporting standards has been a barrier to developing a
-universally accepted set of financial reporting standards. Disagreements among
-national standard-setting bodies and regulatory agencies have also been a
-barrier.
-4. According to the IASB Conceptual Framework, the fundamental qualitative
-characteristics that make financial statements useful are:
-A. verifiability and timeliness.
-B. relevance and faithful representation.
-C. understandability and relevance.
-The fundamental qualitative characteristics are relevance and faithful
-representation. Verifiability, timeliness, and understandability are enhancing
-qualitative characteristics.
-5. Which of the following most accurately lists a required reporting element that
-is used to measure a company's financial position and one that is used to
-measure a company's PErformance?
-Position
-A. Assets
-B. Income
-C. Liabilities
-PErformance
-Liabilities
-ExPEnses
-Income
-Balance sheet reporting elements (assets, liabilities, and owners' equity)
-measure a company's financial position. Income statement reporting elements
-(income, exPEnses) measure its financial PErformance.
-6. International Accounting Standard (IAS) No. 1 least likely requires which of the
-following?
-A. Neither assets and liabilities, nor income and exPEnses, may be offset
-unless required or PErmitted by a financial reporting standard.
-B. Audited financial statements and disclosures, along with updated
-information about the firm and its management, must be filed at least
-quarterly.
-C. Fair presentation of financial statements means faithfully representing
-the firm's events and transactions according to the financial reporting
-standards.
-According to IAS No. 1, financial statements must be presented at least
-annually. Fair presentation is one of the IAS No. 1 principles for preparing
-financial statements. The ban against offsetting is one of the IAS No. 1
-principles for presenting financial statements.
-7. Which of the following statements about the FASB conceptual framework, as
-compared to the IASB conceptional framework, is most accurate?
-A. The FASB framework allows for upward revaluations of tangible, longlived assets.
-B. The FASB framework and IASB framework are now fully converged.
-C. The FASB framework lists revenue, exPEnses, gains, losses, and
-comprehensive income related to financial PErformance.
-The FASB framework lists revenues, exPEnses, gains, losses, and
-comprehensive income. The IASB framework only lists income and exPEnses.
-8. Which is least likely one of the conclusions about the impact of a change in
-financial reporting standards that might apPEar in management's discussion
-and analysis?
-A. Management has chosen not to implement the new standard.
-B. Management is currently evaluating the impact of the new standard.
-C. The new standard will not have a material impact on the company's
-financial statements.
-Management can discuss the impact of adopting the new standard, conclude
-that it does not apply or will have no material impact, or state that they are still
-evaluating the potential impact.
+Firms that list their shares in the United States but do not use U.S. GAAP or IFRS are required to reconcile their financial statements with U.S. GAAP. For IFRS firms listing their shares in the United States, reconciliation is no longer required.
+A coherent financial reporting framework should exhibit transparency, comprehensiveness, and consistency.
+Barriers to creating a coherent framework include issues of valuation, standard setting, and measurement.
+An analyst should be aware of evolving financial reporting standards and new products and innovations that generate new types of transactions.
+Under IFRS and U.S. GAAP, companies must disclose their accounting policies and estimates in the footnotes and MD&A. Public companies are also required to disclose the likely impact of recently issued accounting standards on their financial statements.

@@ -1,250 +1,66 @@
-Beginners' Guide to Financial Statements
+Beginners’ Guide to Financial Statements
 The Basics
-If you can read a nutrition label or a baseball box score, you can learn to read basic
-financial statements. If you can follow a reciPE or apply for a loan, you can learn basic
-accounting. The basics aren't difficult and they aren't rocket science.
-This brochure is designed to help you gain a basic understanding of how to read financial
-statements. Just as a CPR class teaches you how to PErform the basics of cardiac pulmonary
-resuscitation, this brochure will explain how to read the basic parts of a financial statement.
-It will not train you to be an accountant (just as a CPR course will not make you a cardiac
-doctor), but it should give you the confidence to be able to look at a set of financial
-statements and make sense of them.
-Let's begin by looking at what financial statements do.
-"Show me the money!"
-We all remember Cuba Gooding Jr.'s immortal line from the movie Jerry Maguire, "Show me
-the money!" Well, that's what financial statements do. They show you the money. They
-show you where a company's money came from, where it went, and where it is now.
-There are four main financial statements. They are: (1) balance sheets; (2) income
-statements; (3) cash flow statements; and (4) statements of shareholders' equity. Balance
-sheets show what a company owns and what it owes at a fixed point in time. Income
-statements show how much money a company made and sPEnt over a PEriod of time. Cash
-flow statements show the exchange of money between a company and the outside world
-also over a PEriod of time. The fourth financial statement, called a "statement of
-shareholders' equity," shows changes in the interests of the company's shareholders over
-time.
-Let's look at each of the fIRSt three financial statements in more detail.
+If you can read a nutrition label or a baseball box score, you can learn to read basic financial statements. If you can follow a recipe or apply for a loan, you can learn basic accounting. The basics aren’t difficult and they aren’t rocket science.
+This guide is designed to help you gain a basic understanding of how to read financial statements. Just as a CPR class teaches you how to perform the basics of cardiac resuscitation, this guide will explain how to read the basic parts of a financial statement. It will not train you to be an accountant, but it should give you the confidence to be able to look at a set of financial statements and make sense of them.
+Let’s begin by looking at what financial statements do.
+They show you the money. They show you where a company’s money came from, where it went, and where it is now.
+There are four main financial statements. They are: (1) balance sheets; (2) income statements; (3) cash flow statements; and (4) statements of shareholders’ equity. Balance sheets show what a company owns and what it owes at a fixed point in time. Income statements show how much money a company made and spent over a period of time. Cash flow statements show the exchange of money between a company and the outside world over a period of time. The statement of shareholders’ equity shows changes in the interests of the company’s shareholders over time.
+Let’s look at each of the first three financial statements in more detail.
 Balance Sheets
-A balance sheet provides detailed information about a company's assets, liabilities and
-shareholders' equity.
-Assets are things that a company owns that have value. This typically means they can
-either be sold or used by the company to make products or provide services that can be
-sold. Assets include physical proPErty, such as plants, trucks, equipment and inventory. It
-also includes things that can't be touched but nevertheless exist and have value, such as
-trademarks and patents. And cash itself is an asset. So are investments a company makes.
-Liabilities are amounts of money that a company owes to others. This can include all kinds
-of obligations, like money borrowed from a bank to launch a new product, rent for use of a
-building, money owed to suppliers for materials, payroll a company owes to its employees,
-environmental cleanup costs, or taxes owed to the government. Liabilities also include
-obligations to provide goods or services to customers in the future.
-Shareholders' equity is sometimes called capital or net worth. It's the money that would be
-left if a company sold all of its assets and paid off all of its liabilities. This leftover money
-belongs to the shareholders, or the owners, of the company.
-The following formula summarizes what a balance sheet shows:
-ASSETS = LIABILITIES + SHAREHOLDERS' EQUITY
-A company's assets have to equal, or "balance," the sum of its liabilities and
-shareholders' equity.
-A company's balance sheet is set up like the basic accounting equation shown above. On the
-left side of the balance sheet, companies list their assets. On the right side, they list their
-liabilities and shareholders' equity. Sometimes balance sheets show assets at the top,
-followed by liabilities, with shareholders' equity at the bottom.
-Assets are generally listed based on how quickly they will be converted into cash. Current
-assets are things a company exPEcts to convert to cash within one year. A good example is
-inventory. Most companies exPEct to sell their inventory for cash within one year.
-Noncurrent assets are things a company does not exPEct to convert to cash within one year
-or that would take longer than one year to sell. Noncurrent assets include fixed assets.
-Fixed assets are those assets used to oPErate the business but that are not available for
-sale, such as trucks, office furniture and other proPErty.
-Liabilities are generally listed based on their due dates. Liabilities are said to be either
-current or long-term. Current liabilities are obligations a company exPEcts to pay off within
-the year. Long-term liabilities are obligations due more than one year away.
-Shareholders' equity is the amount owners invested in the company's stock plus or minus
-the company's earnings or losses since inception. Sometimes companies distribute earnings,
-instead of retaining them. These distributions are called dividends.
-A balance sheet shows a snapshot of a company's assets, liabilities and shareholders' equity
-at the end of the reporting PEriod. It does not show the flows into and out of the accounts
-during the PEriod.
+A balance sheet provides detailed information about a company’s assets, liabilities and shareholders’ equity.
+Assets are things that a company owns that have value. This typically means they can either be sold or used by the company to make products or provide services. Assets include physical property, such as plants, trucks, equipment and inventory. It also includes intangible things like trademarks and patents. Cash is an asset. So are investments a company makes.
+Liabilities are amounts of money that a company owes. This can include obligations like loans, rent, accounts payable, payroll, taxes, and future goods or services owed to customers.
+Shareholders’ equity is also called net worth. It’s the money that would be left if a company sold all of its assets and paid off all its liabilities.
+The balance sheet formula:
+ASSETS = LIABILITIES + SHAREHOLDERS’ EQUITY
+Assets are generally listed based on how quickly they will be converted into cash. Current assets are expected to convert to cash within one year. Noncurrent assets take longer. Fixed assets are used to operate the business and are not for sale.
+Liabilities are listed by due date. Current liabilities are due within one year. Long-term liabilities are due in more than a year.
+Shareholders’ equity includes invested stock plus earnings or losses since inception. Companies sometimes pay dividends instead of retaining all earnings.
+The balance sheet is a snapshot at the end of a reporting period. It does not show account flows during the period.
 Income Statements
-An income statement is a report that shows how much revenue a company earned over a
-sPEcific time PEriod (usually for a year or some portion of a year). An income statement also
-shows the costs and exPEnses associated with earning that revenue. The literal "bottom
-line" of the statement usually shows the company's net earnings or losses. This tells you
-how much the company earned or lost over the PEriod.
-Income statements also report earnings PEr share (or "EPS"). This calculation tells you how
-much money shareholders would receive if the company decided to distribute all of the net
-earnings for the PEriod. (Companies almost never distribute all of their earnings. Usually
-they reinvest them in the business.)
-To understand how income statements are set up, think of them as a set of staIRS. You start
-at the top with the total amount of sales made during the accounting PEriod. Then you go
-down, one step at a time. At each step, you make a deduction for certain costs or other
-oPErating exPEnses associated with earning the revenue. At the bottom of the staIRS, after
-deducting all of the exPEnses, you learn how much the company actually earned or lost
-during the accounting PEriod. PEople often call this "the bottom line."
-At the top of the income statement is the total amount of money brought in from sales of
-products or services. This top line is often referred to as gross revenues or sales. It's called
-"gross" because exPEnses have not been deducted from it yet. So the number is "gross" or
-unrefined.
-The next line is money the company doesn't exPEct to collect on certain sales. This could be
-due, for example, to sales discounts or merchandise returns.
-When you subtract the returns and allowances from the gross revenues, you arrive at the
-company's net revenues. It's called "net" because, if you can imagine a net, these revenues
-are left in the net after the deductions for returns and allowances have come out.
-Moving down the staIRS from the net revenue line, there are several lines that represent
-various kinds of oPErating exPEnses. Although these lines can be reported in various orders,
-the next line after net revenues typically shows the costs of the sales. This number tells you
-the amount of money the company sPEnt to produce the goods or services it sold during the
-accounting PEriod.
-The next line subtracts the costs of sales from the net revenues to arrive at a subtotal called
-"gross profit" or sometimes "gross margin." It's considered "gross" because there are
-certain exPEnses that haven't been deducted from it yet.
-The next SECtion deals with oPErating exPEnses. These are exPEnses that go toward
-supporting a company's oPErations for a given PEriod - for example, salaries of
-administrative PErsonnel and costs of researching new products. Marketing exPEnses are
-another example. OPErating exPEnses are different from "costs of sales," which were
-deducted above, because oPErating exPEnses cannot be linked directly to the production of
-the products or services being sold.
-Depreciation is also deducted from gross profit. Depreciation takes into account the wear
-and tear on some assets, such as machinery, tools and furniture, which are used over the
-long term. Companies spread the cost of these assets over the PEriods they are used. This
-process of spreading these costs is called depreciation or amortization. The "charge" for
-using these assets during the PEriod is a fraction of the original cost of the assets.
-After all oPErating exPEnses are deducted from gross profit, you arrive at oPErating profit
-before interest and income tax exPEnses. This is often called "income from oPErations."
-Next companies must account for interest income and interest exPEnse. Interest income is
-the money companies make from keeping their cash in interest-bearing savings accounts,
-money market funds and the like. On the other hand, interest exPEnse is the money
-companies paid in interest for money they borrow. Some income statements show interest
-income and interest exPEnse separately. Some income statements combine the two
-numbers. The interest income and exPEnse are then added or subtracted from the oPErating
-profits to arrive at oPErating profit before income tax.
-Finally, income tax is deducted and you arrive at the bottom line: net profit or net losses.
-(Net profit is also called net income or net earnings.) This tells you how much the company
-actually earned or lost during the accounting PEriod. Did the company make a profit or did it
-lose money?
-Earnings PEr Share or EPS
-Most income statements include a calculation of earnings PEr share or EPS. This calculation
-tells you how much money shareholders would receive for each share of stock they own if
-the company distributed all of its net income for the PEriod.
-To calculate EPS, you take the total net income and divide it by the number of outstanding
-shares of the company.
+An income statement shows revenue earned over a specific time period. It also shows the costs and expenses associated with that revenue. The bottom line usually shows net earnings or losses.
+Income statements also report earnings per share (EPS), which shows how much money shareholders would receive if all earnings were distributed.
+Income statements are structured like stairs. Start at the top with total sales. Deduct costs and expenses at each step. The bottom shows the company’s net income or loss.
+Top line is gross revenues or sales. Next, subtract sales returns and allowances to get net revenues.
+Then deduct cost of sales to get gross profit.
+Then deduct operating expenses like administrative salaries and marketing. These expenses support operations but aren’t directly tied to production.
+Depreciation is also deducted. It spreads the cost of long-term assets over time.
+After deducting operating expenses, you get operating profit.
+Then adjust for interest income or expense.
+After taxes are deducted, you arrive at net income or net loss.
+Earnings Per Share or EPS
+To calculate EPS, divide total net income by the number of outstanding shares.
 Cash Flow Statements
-Cash flow statements report a company's inflows and outflows of cash. This is important
-because a company needs to have enough cash on hand to pay its exPEnses and purchase
-assets. While an income statement can tell you whether a company made a profit, a cash
-flow statement can tell you whether the company generated cash.
-A cash flow statement shows changes over time rather than ABSolute dollar amounts at a
-point in time. It uses and reorders the information from a company's balance sheet and
-income statement.
-The bottom line of the cash flow statement shows the net increase or decrease in cash for
-the PEriod. Generally, cash flow statements are divided into three main parts. Each part
-reviews the cash flow from one of three tyPEs of activities: (1) oPErating activities;
-(2) investing activities; and (3) financing activities.
-OPErating Activities
-The fIRSt part of a cash flow statement analyzes a company's cash flow from net income or
-losses. For most companies, this SECtion of the cash flow statement reconciles the net
-income (as shown on the income statement) to the actual cash the company received from
-or used in its oPErating activities. To do this, it adjusts net income for any non-cash items
-(such as adding back depreciation exPEnses) and adjusts for any cash that was used or
-provided by other oPErating assets and liabilities.
+Cash flow statements show inflows and outflows of cash. This tells whether a company generated or used cash.
+Cash flow statements show changes over time and use info from the balance sheet and income statement.
+Three parts of a cash flow statement:
+(1) Operating activities
+(2) Investing activities
+(3) Financing activities
+Operating Activities
+This section adjusts net income for non-cash items (like depreciation) and changes in operating assets and liabilities.
 Investing Activities
-The SECond part of a cash flow statement shows the cash flow from all investing activities,
-which generally include purchases or sales of long-term assets, such as proPErty, plant and
-equipment, as well as investment SECurities. If a company buys a piece of machinery, the
-cash flow statement would reflect this activity as a cash outflow from investing activities
-because it used cash. If the company decided to sell off some investments from an
-investment portfolio, the proceeds from the sales would show up as a cash inflow from
-investing activities because it provided cash.
+Shows purchases or sales of long-term assets and securities. Buying assets is a cash outflow. Selling investments is a cash inflow.
 Financing Activities
-The third part of a cash flow statement shows the cash flow from all financing activities.
-Typical sources of cash flow include cash raised by selling stocks and bonds or borrowing
-from banks. Likewise, paying back a bank loan would show up as a use of cash flow.
+Includes raising cash by issuing stocks or bonds and repaying loans.
 Read the Footnotes
-A horse called "Read The Footnotes" ran in the 2004 Kentucky Derby. He finished seventh,
-but if he had won, it would have been a victory for financial literacy proponents everywhere.
-It's so important to read the footnotes. The footnotes to financial statements are packed
-with information. Here are some of the highlights:
-* Significant accounting policies and practices - Companies are required to disclose the
-*
-accounting policies that are most important to the portrayal of the company's
-financial condition and results. These often require management's most difficult,
-subjective or complex judgments.
-Income taxes - The footnotes provide detailed information about the company's
-current and deferred income taxes. The information is broken down by level -
-federal, state, local and/or foreign, and the main items that affect the company's
-effective tax rate are described.
-* PEnsion plans and other retirement programs - The footnotes discuss the company's
-PEnsion plans and other retirement or post-employment benefit programs. The notes
-contain sPEcific information about the assets and costs of these programs, and
-indicate whether and by how much the plans are over- or under-funded.
-* Stock options - The notes also contain information about stock options granted to
-officers and employees, including the method of accounting for stock-based
-comPEnsation and the effect of the method on reported results.
+Footnotes include:
+	•	Significant accounting policies and practices
+	•	Income taxes
+	•	Pension plans and retirement programs
+	•	Stock options and compensation
 Read the MD&A
-You can find a narrative explanation of a company's financial PErformance in a SECtion of the
-quarterly or annual report entitled, "Management's Discussion and Analysis of Financial
-Condition and Results of OPErations." MD&A is management's opportunity to provide
-investors with its view of the financial PErformance and condition of the company. It's
-management's opportunity to tell investors what the financial statements show and do not
-show, as well as important trends and risks that have shaPEd the past or are reasonably
-likely to shaPE the company's future.
-The SEC's rules governing MD&A require disclosure about trends, events or uncertainties
-known to management that would have a material impact on reported financial information.
-The purpose of MD&A is to provide investors with information that the company's
-management believes to be necessary to an understanding of its financial condition,
-changes in financial condition and results of oPErations. It is intended to help investors to
-see the company through the eyes of management. It is also intended to provide context
-for the financial statements and information about the company's earnings and cash flows.
+Management’s Discussion and Analysis provides context for the financial statements. It explains what management sees in the numbers and discusses trends, risks, and future plans.
 Financial Statement Ratios and Calculations
-You've probably heard PEople banter around phrases like "P/E ratio," "current ratio" and
-"oPErating margin." But what do these terms mean and why don't they show up on financial
-statements? Listed below are just some of the many ratios that investors calculate from
-information on financial statements and then use to evaluate a company. As a general rule,
-desirable ratios vary by industry.
-* Debt-to-equity ratio compares a company's total debt to shareholders' equity. Both
-of these numbers can be found on a company's balance sheet. To calculate debt-toequity ratio, you divide a company's total liabilities by its shareholder equity, or
-Debt-to-Equity Ratio = Total Liabilities / Shareholders' Equity
-If a company has a debt-to-equity ratio of 2 to 1, it means that the company has two
-dollars of debt to every one dollar shareholders invest in the company. In other
-words, the company is taking on debt at twice the rate that its owners are investing
-in the company.
-*
-Inventory turnover ratio compares a company's cost of sales on its income statement
-with its average inventory balance for the PEriod. To calculate the average inventory
-balance for the PEriod, look at the inventory numbers listed on the balance sheet.
-Take the balance listed for the PEriod of the report and add it to the balance listed
-for the previous comparable PEriod, and then divide by two. (Remember that balance
-sheets are snapshots in time. So the inventory balance for the previous PEriod is the
-beginning balance for the current PEriod, and the inventory balance for the current
-PEriod is the ending balance.) To calculate the inventory turnover ratio, you divide a
-company's cost of sales (just below the net revenues on the income statement) by
-the average inventory for the PEriod, or
-Inventory Turnover Ratio = Cost of Sales / Average Inventory for the PEriod
-If a company has an inventory turnover ratio of 2 to 1, it means that the company's
-inventory turned over twice in the reporting PEriod.
-* OPErating margin compares a company's oPErating income to net revenues. Both of
-these numbers can be found on a company's income statement. To calculate
-oPErating margin, you divide a company's income from oPErations (before interest
-and income tax exPEnses) by its net revenues, or
-OPErating Margin = Income from OPErations / Net Revenues
-OPErating margin is usually expressed as a PErcentage. It shows, for each dollar of
-sales, what PErcentage was profit.
-* P/E ratio compares a company's common stock price with its earnings PEr share. To
-calculate a company's P/E ratio, you divide a company's stock price by its earnings
-PEr share, or
-P/E Ratio = Price PEr share / Earnings PEr share
-If a company's stock is selling at $20 PEr share and the company is earning $2 PEr
-share, then the company's P/E Ratio is 10 to 1. The company's stock is selling at 10
-times its earnings.
-* Working capital is the money leftover if a company paid its current liabilities (that is,
-its debts due within one-year of the date of the balance sheet) from its current
-assets.
-Working Capital = Current Assets - Current Liabilities
+	•	Debt-to-equity ratio = Total Liabilities / Shareholders’ Equity
+Shows how much debt exists for each dollar of equity.
+	•	Inventory turnover ratio = Cost of Sales / Average Inventory
+Shows how often inventory is sold and replaced.
+	•	Operating margin = Income from Operations / Net Revenues
+Shows what percent of sales was profit.
+	•	P/E ratio = Price Per Share / Earnings Per Share
+Shows how much investors are paying for each dollar of earnings.
+	•	Working capital = Current Assets - Current Liabilities
+Shows leftover funds after paying short-term liabilities.
 Bringing It All Together
-Although this brochure discusses each financial statement separately, keep in mind that
-they are all related. The changes in assets and liabilities that you see on the balance sheet
-are also reflected in the revenues and exPEnses that you see on the income statement,
-which result in the company's gains or losses. Cash flows provide more information about
-cash assets listed on a balance sheet and are related, but not equivalent, to net income
-shown on the income statement. And so on. No one financial statement tells the complete
-story. But combined, they provide very powerful information for investors. And information
-is the investor's best tool when it comes to investing wisely.
-http://www.SEC.gov/investor/pubs/begfinstmtguide.htm
+The statements are interrelated. Changes in the balance sheet impact income statements. Cash flows add depth to balance sheet and income statement data. No one statement tells the full story. Together, they are powerful tools for investors.

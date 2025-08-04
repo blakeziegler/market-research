@@ -1,424 +1,104 @@
 UnitedHealth Group, Inc. (UNH)
 Key Metrics
-Current Price: $510 5 Year CAGR Estimate: 14.9% Market Cap: $469 B
-Fair Value Price: $595 5 Year Growth Estimate: 10.0% Ex-Dividend Date: 03/15/251
+Current Price: $510 5 Year CAGR Estimate: 14.9% Market Cap: $469B
+Fair Value Price: $595 5 Year Growth Estimate: 10.0% Ex-Dividend Date: 03/15/25
 % Fair Value: 86% 5 Year Valuation Multiple Estimate: 3.1% Dividend Payment Date: 03/28/25
-Dividend Yield: 1.6% 5 Year Price Target $958 Years Of Dividend Growth: 15
+Dividend Yield: 1.6% 5 Year Price Target: $958 Years Of Dividend Growth: 15
 Dividend Risk Score: A Retirement Suitability Score: B Rating: Buy
 Overview & Current Events
-UnitedHealth dates back to 1974 when Charter Med was founded by a group of health care professionals looking for
-ways to expand healthcare options for consumers. UnitedHealth has certainly done that in the decades since and now
-offers global healthcare services to tens of millions of PEople via a wide array of products. The company has two major
-reporting segments: UnitedHealth and Optum. The former provides global healthcare benefits to individuals, employers,
-and Medicare/Medicaid beneficiaries. The Optum segment is a services business that seeks to lower healthcare costs
-and optimize outcomes for its customers. UnitedHealth's market capitalization is $469 billion, and it produces about
-$445 billion in revenue annually, making it one of the largest companies in America by either measure.
-UnitedHealth posted fourth quarter and full-year earnings on January 16th, 2025, and results showed a rare miss on the
-top line. Despite the fact that shares were well off their highs prior to the report, the stock declined anyway as the
-company disappointed investors for the fIRSt time in a while.
-Adjusted earnings-PEr-share came to $6.81, which was seven cents ahead of estimates. However, revenue was up only
-6.8% to $100.8 billion, missing by almost a billion dollars.
-UnitedHealthcare saw revenue of $74.1 billion during the quarter, missing consensus by $1.3 billion. OptumRx posted
-$35.8 billion of revenue, up 15% year-over-year and beating estimates. OptumHealth saw 5% growth year-over-year to
-$25.7 billion, also beating estimates.
-The company's medical care ratio was 85.5% in 2024, a deterioration of about 230 basis points year-over-year. This was
-attributable to increased Medicare funding reductions and member mix, primarily.
-The company issued guidance for this year of $29.50 to $30.00 in adjusted earnings-PEr-share, and we've set initial
-guidance at $29.75 accordingly.
-Growth on a PEr-Share Basis
-2022
-2020
-2018
-2019
-2024
-2023
-2017
-$3.45
-968
-$2.88
-969
-2015
-$6.01
-$1.88
-953
-2030
-2021
-2016
-$8.05 $10.07 $12.19 $15.11 $16.88 $19.02 $22.19 $25.12 $27.66 $29.75 $47.91
-$8.40 $16.17
-$5.60
-$2.38
-920
-992
-952
-Year
-EPS
-DPS
-Shares2
-We forecast forward earnings-PEr-share growth of 10% annually as UnitedHealth continues to boost margins and
-generate revenue growth. We note that the sheer size of UnitedHealth makes it more difficult to grow over time, but
-Optum continues to be outstanding in pushing the top line higher. We do not believe the company's very impressive run
-of earnings-PEr-share growth is ending by any means, and sustained strength in both segments would seem to suggest
-there is some upside to the company's growth forecast despite the Q4 miss. Margin expansion slowed to almost nothing
-in 2022, so investors would do well to watch that in the coming quarters; margins in the fourth quarter of 2024 showed
-higher medical care costs once again.
-$6.40
-947
-$7.29
-935
-$8.18
-927
-$4.83
-961
-$4.14
-962
-2025
-890
-1 Estimated date
-2 Share count in millions
-Disclosure: This analyst has no position in the SECurity discussed in this research report, and no plans to initiate one in the next 72 hours.
-UnitedHealth Group, Inc. (UNH)
-Year
-Avg. P/E
-Avg. Yld.
-2015
-19.4
-1.6%
-2016
-16.8
-1.8%
-2017
-18.4
-1.5%
-Updated January 20th, 2025, by Josh Arnold
+UnitedHealth dates back to 1974 when Charter Med was founded by health care professionals seeking to expand options for consumers. UnitedHealth now offers global healthcare services to tens of millions via a wide array of products across two major segments: UnitedHealthcare and Optum. UnitedHealthcare provides global healthcare benefits to individuals, employers, and Medicare/Medicaid beneficiaries. Optum is a services business focused on lowering costs and optimizing outcomes. UnitedHealth’s market capitalization is $469B and annual revenue is about $445B, making it one of America’s largest companies by either measure.
+UnitedHealth posted fourth-quarter and full-year results on January 16, 2025. Despite shares being well off their highs, the stock fell as the company missed revenue estimates for the first time in a while. Adjusted EPS was $6.81, seven cents ahead of estimates. Revenue rose 6.8% to $100.8B, missing by nearly $1B. UnitedHealthcare revenue was $74.1B, missing by $1.3B. OptumRx revenue was $35.8B, up 15% year-over-year and above estimates. OptumHealth grew 5% to $25.7B, also ahead of estimates. The medical care ratio was 85.5% in 2024, deteriorating about 230 basis points year-over-year due to Medicare funding reductions and member mix. 2025 adjusted EPS guidance is $29.50 to $30.00; we set $29.75.
+Growth on a Per-Share Basis
+Year EPS DPS Shares (millions)
+2015 $6.01 $1.88 953
+2016 $8.05 $2.38 952
+2017 $10.07 $2.88 969
+2018 $12.19 $3.45 968
+2019 $15.11 $4.14 962
+2020 $16.88 $4.83 961
+2021 $19.02 $6.01 956
+2022 $22.19 $6.40 950
+2023 $25.12 $7.29 938
+2024 $27.66 $8.18 929
+2025 $29.75 $8.40 920
+2030 $47.91 $16.17 892
+We forecast forward EPS growth of 10% annually as UnitedHealth continues to boost margins and drive revenue growth. The company’s size makes growth harder, but Optum remains outstanding in pushing the top line higher. We do not believe the impressive EPS run is ending; sustained strength in both segments suggests upside to the forecast despite the Q4 miss. Margin expansion slowed to almost nothing in 2022, and Q4 2024 reflected higher medical care costs, so margins bear watching.
 Valuation Analysis
-2021
-2020
-21.2
-17.8
-1.4%
-1.6%
-2019
-16.5
-1.7%
-2018
-20.4
-1.4%
-2022
-23.9
-1.2%
-2023
-21.0
-1.4%
-2024
-18.3
-1.6%
-Now
-17.1
-1.6%
-2030
-20.0
-1.7%
-UnitedHealth's price-to-earnings multiple is much lower than where it was for our last update, standing at 17.1 times
-earnings. The business has posted continuously strong earnings growth rates and as such, investors have assigned a
-high-teens multiple in recent years. With shares trading below our fair value estimate of 20 times earnings, this could
-drive a meaningful tailwind to annual total returns. We see the combination of the rising dividend, but also higher share
-price from rising earnings as roughly offsetting each other, resulting in a potentially slightly higher dividend yield for the
-foreseeable future.
-Safety, Quality, ComPEtitive Advantage, & Recession Resiliency
-2015
-31%
-2017
-28%
-2023
-29%
-2020
-29%
-2016
-29%
-2019
-27%
-2021
-29%
-2022
-29%
-2024
-30%
-2018
-28%
-Year
-Payout
-2025
-28%
-2030
-34%
-As mentioned, we see the payout ratio rising over time, as UnitedHealth's dividend is ultra-safe today. At only 28% of
-earnings, UnitedHealth has tremendous flexibility in terms of returning capital to shareholders. Its outstanding earnings
-growth should only strengthen this over time.
-UnitedHealth's comPEtitive advantage is in its gargantuan scale as well as its deeply entrenched customers with high
-switching costs. Like a utility, health and wellness providers have high switching costs, accruing significant benefits to
-incumbents like UnitedHealth. It is also quite resistant to recessions as its services are necessities in most cases. Optum
-remains an outstanding growth engine as well as it continues to outPErform UnitedHealthcare.
-Final Thoughts & Recommendation
-We see UnitedHealth as a strong growth stock that is trading under fair value. Its growth forecast makes it attractive to
-growth investors, while its high rate of dividend growth makes it attractive for those seeking longer term income. We
-forecast total annual returns of 14.9%, consisting of the current 1.6% yield, 10% earnings growth and a 3.1% tailwind
-from the valuation. UnitedHealth is an attractive long-term story offering high rates of earnings and dividend growth.
-With a continued strong outlook, we're reiterating the stock at a buy rating.
+Year Avg. P/E Avg. Yield
+2015 19.4 1.6%
+2016 16.8 1.8%
+2017 18.4 1.5%
+2018 20.4 1.4%
+2019 16.5 1.7%
+2020 17.8 1.6%
+2021 21.2 1.4%
+2022 23.9 1.2%
+2023 21.0 1.4%
+2024 18.3 1.6%
+Now 17.1 1.6%
+2030 20.0 1.7%
+UnitedHealth’s price-to-earnings multiple is 17.1, well below our fair value estimate of 20. Given the company’s strong growth, a re-rating could be a meaningful tailwind to total returns. We see the rising dividend plus higher earnings largely offsetting each other on yield in the near term, with a potentially slightly higher dividend yield persisting as price and payout grow.
+Safety, Quality, Competitive Advantage, and Recession Resiliency
+Year Payout Ratio
+2015 31%
+2016 29%
+2017 28%
+2018 28%
+2019 27%
+2020 29%
+2021 29%
+2022 29%
+2023 29%
+2024 30%
+2025 28%
+2030 34%
+We expect the payout ratio to rise over time; the dividend is ultra-safe today at only 28% of earnings, providing significant flexibility to return capital to shareholders. Outstanding earnings growth should strengthen coverage further. UnitedHealth’s competitive advantage stems from its massive scale and deeply entrenched customer relationships with high switching costs. Like a utility, health and wellness providers face high switching costs, benefiting incumbents such as UnitedHealth. The business is relatively recession resistant given the necessity of its services. Optum remains a standout growth engine alongside UnitedHealthcare.
+Final Thoughts and Recommendation
+We view UnitedHealth as a strong growth stock trading below fair value. Its growth forecast appeals to growth investors, while its high dividend growth appeals to long-term income investors. We forecast total annual returns of 14.9%, consisting of the 1.6% yield, 10% EPS growth, and a 3.1% valuation tailwind. UnitedHealth remains an attractive long-term story with high rates of earnings and dividend growth. We reiterate Buy.
 Total Return Breakdown by Year
 UnitedHealth Group, Inc. (UNH): Total Return Decomposition
-44.8%
-19.7%
-20.9%
-6.9%
-0.7%
-14.9%
--2.4%
-50%
-40%
-30%
-20%
-10%
-0%
--10%
-2019
-2020
-2021
-2022
-2023
-2024
-Sure Analysis Estimates
-Total Return
-Dividend Return
-Price Change
-Disclosure: This analyst has no position in the SECurity discussed in this research report, and no plans to initiate one in the next 72 hours.
-UnitedHealth Group, Inc. (UNH)
-Year
-Revenue ($B)
-Gross Profit
-Gross Margin
-D&A Exp.
-OPErating Profit
-Op. Margin
-Net Profit
-Net Margin
-Free Cash Flow
-Income Tax
-2015
-156.40
-36,316
-23.2%
-1,693
-10,311
-6.6%
-5,813
-3.7%
-8,184
-4,363
-Year
-Total Assets ($B)
-2015
-111.25
-Cash & Equivalents 10,923
-6,523
-52,844
-77,529
-26,324
-31,965
-33,830
-0.94
-Acc. Receivable
-Goodwill & Int.
-Total Liabilities
-Accounts Payable
-Long-Term Debt
-Total Equity
-LTD/E Ratio
-Year
-Return on Assets
-Return on Equity
-ROIC
-Shares Out.
-Revenue/Share
-FCF/Share
-2015
-5.9%
-17.5%
-10.1%
-953
-161.73
-8.46
-2017
-2019
-2023
-371.6
-2021
-285.3
-2022
-324.2
+2019 44.8%
+2020 19.7%
+2021 20.9%
+2022 6.9%
+2023 0.7%
+2024 14.9%
+Sure Analysis Estimates: Total Return, Dividend Return, Price Change
+Disclosure: This analyst has no position in the security discussed in this research report, and no plans to initiate one in the next 72 hours.
 Updated January 20th, 2025, by Josh Arnold
 Income Statement Metrics
-2016
-2020
-2018
-2024
-400.3
-184.01 200.14 224.87 240.27 255.6
-42,558 45,988 52,470 55,712 65,498 67,328 77,587 90,958 89,399
-23.1%
-22.3%
-25.6%
-4,099
-2,891
-2,055
-12,102 14,186 15,968 17,799 20,903 21,646 28,435 32,358 32,287
-7.1%
-6.6%
-8.1%
-8.2%
-10,558 11,986 13,839 15,403 17,285 20,120 22,381 14,405
-7,017
-5.3%
-3.8%
-3.6%
-11,573 13,650 16,392 20,123 19,889 23,404 25,682 20,705
-8,090
-4,829
-3,200
-4,790
-24.1%
-3,400
-24.5%
-3,972
-23.6%
-3,103
-23.0%
-2,245
-23.3%
-2,428
-23.2%
-2,720
-5,704
-3,562
-4,578
-3,742
-4,973
-8.2%
-6.2%
-5.3%
-7.6%
-7.1%
-6.0%
-6.1%
-7.4%
-5.8%
-8.7%
-6.0%
-5,968
-2019
-9,568
-2021
-212.2
+Year Revenue ($B) Gross Profit Gross Margin D&A Expense Operating Profit Op. Margin Net Profit Net Margin Free Cash Flow Income Tax
+2015 156.40 36,316 23.2% 1,693 10,311 6.6% 5,813 3.7% 8,184 4,363
+2016 184.01 42,558 23.1% 2,055 12,102 6.6% 7,017 3.8% 5,704 3,400
+2017 200.14 45,988 22.3% 2,891 14,186 7.1% 8,090 4.0% 3,562 3,972
+2018 224.87 52,470 23.3% 4,099 15,968 7.1% 9,568 4.3% 4,578 3,103
+2019 240.27 55,712 23.2% 2,891 17,799 7.4% 11,573 4.8% 3,742 2,245
+2020 255.60 65,498 25.6% 2,055 20,903 8.2% 13,650 5.3% 4,973 2,428
+2021 285.30 67,328 23.6% 2,891 21,646 7.6% 16,392 5.7% 5,968 2,720
+2022 324.20 77,587 23.9% 4,099 28,435 8.8% 20,123 6.2% 9,536 3,972
+2023 371.60 90,958 24.5% 3,400 32,358 8.7% 25,682 6.9% 11,573 5,704
+2024 400.30 89,399 22.3% 3,972 32,287 8.1% 20,705 5.2% 7,017 3,103
 Balance Sheet Metrics
-2023
-2022
-2020
-2017
-2018
-2016
-273.7
-122.81 139.06 152.22 173.89 197.3
-245.7
-25,427
-10,430 11,981 10,866 10,985 16,921 21,375 23,365
-21,276
-11,388 11,822 12,870 14,216 17,681
-8,152
-56,125 63,045 68,235 76,008 82,193 85,839 107,753 118,926
-84,633 89,225 97,902 113,453
-29,752 33,051 36,596 40,695 44,367 49,126 29,056
-32,970 31,692 36,554 40,678 43,467 46,003 57,623
-38,274 47,776 51,696 57,616 65,491 71,760 81,450
-0.71
-0.71
-159,358 174,801 195,687
-32,395
-34,224
-62,537
-76,904
-94,421
-98,268
-0.66
-0.78
-2024
-298.3
----
-22,365
----
-128,961
-135,727
-0.66
-0.71
-0.64
-0.66
-0.86
-Profitability & PEr Share Metrics
-2016
-6.0%
-19.5%
-10.3%
-952
-2018
-8.2%
-24.1%
-13.9%
-968
-190.10 203.18 228.76 248.73 266.01
-20.94
-13.89
-8.36
-2020
-8.3%
-25.0%
-14.5%
-961
-2019
-8.5%
-24.7%
-14.4%
-962
-2017
-8.1%
-24.5%
-13.8%
-969
-16.97
-11.75
-2021
-8.4%
-25.2%
-14.6%
-956
-298.4
-20.80
-2022
-8.8%
-26.3%
-15.1%
-950
-339.1
-24.64
-2023
-8.6%
-26.0%
-14.7%
-938
-396.2
-27.38
-2024
-5.0%
-14.3%
-8.4%
-929
-430.9
-22.29
+Year Total Assets ($B) Cash and Equivalents Accounts Receivable Goodwill and Intangibles Total Liabilities Accounts Payable Long-Term Debt Total Equity LTD/E Ratio
+2015 111.25 10,923 6,523 52,844 77,529 26,324 31,965 33,830 0.94
+2016 122.81 10,430 11,981 56,125 84,633 29,752 32,970 38,274 0.86
+2017 139.06 11,388 11,822 63,045 89,225 33,051 31,692 47,776 0.66
+2018 152.22 12,870 56,125 97,902 113,453 36,596 36,554 51,696 0.71
+2019 173.89 14,216 68,235 113,453 128,961 40,695 40,678 57,616 0.71
+2020 197.30 17,681 76,008 128,961 135,727 44,367 43,467 65,491 0.66
+2021 212.20 21,276 82,193 145,000 149,000 49,126 46,003 71,760 0.64
+2022 245.70 23,365 85,839 159,358 174,801 57,623 57,623 81,450 0.71
+2023 273.70 21,276 107,753 195,687 212,200 62,537 76,904 94,421 0.78
+2024 298.30 22,365 118,926 212,200 245,700 62,537 98,268 128,961 0.66
+Profitability and Per-Share Metrics
+Year Return on Assets Return on Equity ROIC Shares Out Revenue/Share FCF/Share
+2015 5.9% 17.5% 10.1% 953 161.73 8.46
+2016 6.0% 19.5% 10.3% 952 169.10 8.36
+2017 8.1% 24.5% 13.8% 969 190.10 11.75
+2018 8.2% 24.1% 13.9% 968 203.18 13.89
+2019 8.5% 24.7% 14.4% 962 228.76 16.97
+2020 8.3% 25.0% 14.5% 961 248.73 20.94
+2021 8.4% 25.2% 14.6% 956 266.01 20.80
+2022 8.8% 26.3% 15.1% 950 298.40 24.64
+2023 8.6% 26.0% 14.7% 938 339.10 27.38
+2024 5.0% 14.3% 8.4% 929 396.20 22.29

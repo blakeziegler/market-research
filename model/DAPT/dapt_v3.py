@@ -39,7 +39,7 @@ dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["tra
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
 # === Tokenization ===
-MAX_LENGTH = 4096
+MAX_LENGTH = 8192
 STRIDE = 256
 
 def chunk_with_tokenizer(batch):

@@ -1,184 +1,47 @@
 INVENTORIES
-EXAM FOCUS
-Study Session 8
-This topic review discusses the different inventory cost flow methods: FIFO, LIFO, and
-weighted average cost. You must understand how to calculate COGS, ending inventory,
-and gross profit under each of these methods. Also, you must understand the effects
-of each method on a firm's liquidity, profitability, activity, and solvency ratios. Be able
-to apply the appropriate inventory valuation method under IFRS (lower of cost or net
-realizable value) and U.S. GAAP (lower of cost or market), and calculate inventory
-losses and loss reversals, if allowed. Finally, be able to evaluate a firm's effectiveness in
-managing its inventory.
-INTRODUCTION TO INVENTORY ACCOUNTING
-Merchandising firms, such as wholesalers and retailers, purchase inventory that is
-ready for sale. In this case, inventory is reported in one account on the balance sheet.
-Manufacturing firms normally report inventory using three separate accounts: raw
-materials, work-in-process, and finished goods.
-Cost of goods sold (COGS), also referred to as cost of sales (COS) under IFRS, is related
-to the beginning balance of inventory, purchases, and the ending balance of inventory.
-The relationship is summarized in the following equation:
-COGS = beginning inventory + purchases - ending inventory
+This topic review discusses the different inventory cost flow methods: FIFO, LIFO, and weighted average cost. You must understand how to calculate COGS, ending inventory, and gross profit under each of these methods. Also, you must understand the effects of each method on a firm’s liquidity, profitability, activity, and solvency ratios. Be able to apply the appropriate inventory valuation method under IFRS (lower of cost or net realizable value) and U.S. GAAP (lower of cost or market), and calculate inventory losses and loss reversals, if allowed. Finally, be able to evaluate a firm’s effectiveness in managing its inventory.
+Introduction to Inventory Accounting
+Merchandising firms, such as wholesalers and retailers, purchase inventory that is ready for sale. In this case, inventory is reported in one account on the balance sheet. Manufacturing firms normally report inventory using three separate accounts: raw materials, work-in-process, and finished goods.
+Cost of goods sold (COGS), also referred to as cost of sales (COS) under IFRS, is related to the beginning balance of inventory, purchases, and the ending balance of inventory. The relationship is summarized in the following equation:
+Cost of goods sold (COGS), also referred to as cost of sales (COS) under IFRS, is related to the beginning balance of inventory, purchases, and the ending balance of inventory. The relationship is summarized in the following equation:
+COGS = beginning inventory + purchases − ending inventory
 This equation can be rearranged to solve for any of the four variables:
-purchases = ending inventory - beginning inventory + COGS
-beginning inventory = COGS - purchases + ending inventory
-ending inventory = beginning inventory + purchases - COGS
-Professor's Note: Many candidates find the inventory equation easiest to remember in this last
-form. If you start with beginning inventory, add the goods that came in (purchases), and subtract
-the goods that went out (COGS), the result must be ending inventory.
-LOS 28.a: Distinguish between costs included in inventories and costs recognised as
-exPEnses in the PEriod in which they are incurred.
-CFA(r) Program Curriculum, Volume 3, page 405
-Cost is the basis for most inventory valuation. The main issue involves determining the
-amounts that should be included in cost.
-The costs included in inventory are similar under IFRS and U.S. GAAP. These costs,
-known as product costs, are capitalized in the Inventories account on the balance
-sheet and include:
-Purchase cost less trade discounts and rebates.
-Conversion (manufacturing) costs including labor and overhead.
-Other costs necessary to bring the inventory to its present location and
-condition.
-By capitalizing inventory cost as an asset, exPEnse recognition is delayed until the
-inventory is sold and revenue is recognized.
-Not all inventory costs are capitalized; some costs are exPEnsed in the PEriod incurred.
-These costs, known as PEriod costs, include:
-Abnormal waste of materials, labor, or overhead.
-Storage costs (unless required as part of production).
-Administrative overhead.
-Selling costs.
+purchases = ending inventory − beginning inventory + COGS
+beginning inventory = COGS − purchases + ending inventory
+ending inventory = beginning inventory + purchases − COGS
+Professor’s Note: Many candidates find the inventory equation easiest to remember in this last form. If you start with beginning inventory, add the goods that came in (purchases), and subtract the goods that went out (COGS), the result must be ending inventory.
+Professor’s Note: Many candidates find the inventory equation easiest to remember in this last form. If you start with beginning inventory, add the goods that came in (purchases), and subtract the goods that went out (COGS), the result must be ending inventory.
+Cost is the basis for most inventory valuation. The main issue involves determining the amounts that should be included in cost.
+The costs included in inventory are similar under IFRS and U.S. GAAP. These costs, known as product costs, are capitalized in the Inventories account on the balance sheet and include:
+	•	Purchase cost less trade discounts and rebates
+	•	Conversion (manufacturing) costs including labor and overhead
+	•	Other costs necessary to bring the inventory to its present location and condition
+By capitalizing inventory cost as an asset, expense recognition is delayed until the inventory is sold and revenue is recognized.
+Not all inventory costs are capitalized; some costs are expensed in the period incurred. These costs, known as period costs, include:
+	•	Abnormal waste of materials, labor, or overhead
+	•	Storage costs (unless required as part of production)
+	•	Administrative overhead
+	•	Selling costs
 Example: Costs included in inventory
-Vindaloo Company manufactures a single product. The following information was taken from the
-company's production and cost records last year:
+Vindaloo Company manufactures a single product. The following information was taken from the company’s production and cost records last year:
 Assuming no abnormal waste is included in conversion cost, calculate the capitalized cost of one unit.
 Answer:
-Capitalized inventory cost includes the raw materials cost, conversion cost, and freight-in to plant, as
-follows:
-The storage cost, abnormal waste, and the freight-out to customers are exPEnsed as incurred.
-LOS 28.b: Describe different inventory valuation methods (cost formulas).
-CFA(r) Program Curriculum, Volume 3, page 406
-If the cost of inventory remains constant over time, determining the firm's COGS and
-ending inventory is simple. To compute COGS, simply multiply the number of units sold
-by the cost PEr unit. Similarly, to compute ending inventory, multiply the number of
-units remaining by the cost PEr unit.
-However, it is likely that the cost of purchasing or producing inventory will change over
-time. As a result, firms must select a cost flow method (known as the cost flow
-assumption under U.S. GAAP and cost flow formula under IFRS) to allocate the
-inventory cost to the income statement (COGS) and the balance sheet (ending
-inventory).
-Under IFRS, the PErmissible methods are:
-SPEcific identification.
-FIRSt-in, fIRSt-out.
-Weighted average cost.
-U.S. GAAP PErmits these same cost flow methods, as well as the last-in, fIRSt-out (LIFO)
-method. LIFO is not allowed under IFRS.
-A firm can use one or more of the inventory cost flow methods. However, the firm
-must employ the same cost flow method for inventories of similar nature and use.
-Under the sPEcific identification method, each unit sold is matched with the unit's
-actual cost. SPEcific identification is appropriate when inventory items are not
-interchangeable and is commonly used by firms with a small number of costly and
-easily distinguishable items such as jewelry. SPEcific identification is also appropriate
-for sPEcial orders or projects outside a firm's normal course of business.
-Under the fIRSt-in, fIRSt-out (FIFO) method, the fIRSt item purchased is assumed to be
-the fIRSt item sold. The advantage of FIFO is that ending inventory is valued based on
-the most recent purchases, arguably the best approximation of current cost.
-Conversely, FIFO COGS is based on the earliest purchase costs. In an inflationary
-environment, COGS will be understated compared to current cost. As a result, earnings
-will be overstated.
-Under the last-in, fIRSt-out (LIFO) method, the item purchased most recently is
-assumed to be the fIRSt item sold. In an inflationary environment, LIFO COGS will be
-higher than FIFO COGS, and earnings will be lower. Lower earnings translate into lower
-income taxes, which increase cash flow. Under LIFO, ending inventory on the balance
-sheet is valued using the earliest costs. Therefore, in an inflationary environment, LIFO
-ending inventory is less than current cost.
-Professor's Note: The income tax advantages of using last in, fIRSt out (LIFO)LIFO explain its
-popularity among U.S. firms. The tax savings result in the PEculiar situation where lower reported
-earnings are associated with higher cash flow from oPErations.
-Weighted average cost is a simple and objective method. The average cost PEr unit of
-inventory is computed by dividing the total cost of goods available for sale (beginning
-inventory + purchases) by the total quantity available for sale. To compute COGS, the
-average cost PEr unit is multiplied by the number of units sold. Similarly, to compute
-ending inventory, the average cost PEr unit is multiplied by the number of units that
-remain.
-During inflationary or deflationary PEriods, the weighted average cost method will
-produce an inventory value between those produced by FIFO and LIFO.
-Figure 1: Inventory Cost Flow Comparison
-Method
-Assumption
-Cost of Goods
-Sold Consists
-of...
-Ending
-Inventory
-Consists of...
-FIFO (U.S. and
-IFRS)
-The items fIRSt
-purchased are the fIRSt
-to be sold.
-fIRSt
-purchased
-most recent
-purchases
-LIFO (U.S. only)
-The items last
-purchased are the fIRSt
-to be sold.
-last
-purchased
-earliest
-purchases
-Weighted
-average cost (U.S.
-and IFRS)
-Items sold are a mix of
-purchases.
-average cost
-of all items
-average cost
-of all items
-LOS 28.c: Calculate and compare cost of sales, gross profit, and ending inventory
-using different inventory valuation methods and using PErPEtual and PEriodic
-inventory systems.
-CFA(r) Program Curriculum, Volume 3, page 408
-The following example demonstrates how to calculate COGS and ending inventory
-using the FIFO, LIFO, and weighted average cost flow methods.
-Example: Inventory cost flow methods
-Use the inventory data in the following figure to calculate the cost of goods sold and ending inventory
-under the FIFO, LIFO, and weighted average cost methods.
-Inventory Data
-Answer:
-FIFO cost of goods sold. Value the seven units sold at the unit cost of the fIRSt units purchased. Start with
-the earliest units purchased and work down, as illustrated in the following figure.
-FIFO COGS Calculation
-LIFO cost of goods sold. Value the seven units sold at the unit cost of the last units purchased. Start with
-the most recently purchased units and work up, as illustrated in the following figure.
-LIFO COGS Calculation
-Average cost of goods sold. Value the seven units sold at the average unit cost of goods available.
-Weighted Average COGS Calculation
-Summary
-Note that prices and inventory levels were rising over the PEriod and that purchases during the PEriod
-were the same for all cost flow methods.
-PErPEtual and PEriodic Inventory Systems
-Firms account for changes in inventory using either a PEriodic or PErPEtual system. In a
-PEriodic inventory system, inventory values and COGS are determined at the end of
-the accounting PEriod. No detailed records of inventory are maintained; rather,
-inventory acquired during the PEriod is reported in a Purchases account. At the end of
-the PEriod, purchases are added to beginning inventory to arrive at cost of goods
-available for sale. To calculate COGS, ending inventory is subtracted from goods
-available for sale.
-In a PErPEtual inventory system, inventory values and COGS are updated
-continuously. Inventory purchased and sold is recorded directly in inventory when the
-transactions occur. Thus, a Purchases account is not necessary.
-For the FIFO and sPEcific identification methods, ending inventory values and COGS are
-the same whether a PEriodic or PErPEtual system is used. However, PEriodic and
-PErPEtual inventory systems can produce different values for inventory and COGS
-under the LIFO and weighted average cost methods.
-The following example illustrates the differences.
-Example: PEriodic vs. PErPEtual inventory system
-Our earlier cost flow illustration was actually an example of a PEriodic system. Accordingly, we waited
-until the end of January to calculate COGS and ending inventory. Now assume the purchases and sales
-occurred as follows:
-Recalculate COGS and ending inventory under the FIFO and LIFO cost flow methods using a PErPEtual
-inventory system.
+Capitalized inventory cost includes the raw materials cost, conversion cost, and freight-in to plant, as follows:
+The storage cost, abnormal waste, and the freight-out to customers are expensed as incurred.
+If the cost of inventory remains constant over time, determining the firm’s COGS and ending inventory is simple. To compute COGS, simply multiply the number of units sold by the cost per unit. Similarly, to compute ending inventory, multiply the number of units remaining by the cost per unit.
+However, it is likely that the cost of purchasing or producing inventory will change over time. As a result, firms must select a cost flow method (known as the cost flow assumption under U.S. GAAP and cost flow formula under IFRS) to allocate the inventory cost to the income statement (COGS) and the balance sheet (ending inventory).
+Under IFRS, the permissible methods are:
+	•	Specific identification
+	•	First-in, first-out (FIFO)
+	•	Weighted average cost
+U.S. GAAP permits these same cost flow methods, as well as the last-in, first-out (LIFO) method. LIFO is not allowed under IFRS.
+A firm can use one or more of the inventory cost flow methods. However, the firm must employ the same cost flow method for inventories of similar nature and use.
+Under the specific identification method, each unit sold is matched with the unit’s actual cost. Specific identification is appropriate when inventory items are not interchangeable and is commonly used by firms with a small number of costly and easily distinguishable items, such as jewelry. Specific identification is also appropriate for special orders or projects outside a firm’s normal course of business.
+Under the first-in, first-out (FIFO) method, the first item purchased is assumed to be the first item sold. The advantage of FIFO is that ending inventory is valued based on the most recent purchases, arguably the best approximation of current cost. Conversely, FIFO COGS is based on the earliest purchase costs. In an inflationary environment, COGS will be understated compared to current cost. As a result, earnings will be overstated.
+Under the last-in, first-out (LIFO) method, the item purchased most recently is assumed to be the first item sold. In an inflationary environment, LIFO COGS will be higher than FIFO COGS, and earnings will be lower. Lower earnings translate into lower income taxes, which increase cash flow. Under LIFO, ending inventory on the balance sheet is valued using the earliest costs. Therefore, in an inflationary environment, LIFO ending inventory is less than current cost.
+Professor’s Note: The income tax advantages of using LIFO explain its popularity among U.S. firms. The tax savings result in the peculiar situation where lower reported earnings are associated with higher cash flow from operations.
+Weighted average cost is a simple and objective method. The average cost per unit of inventory is computed by dividing the total cost of goods available for sale (beginning inventory + purchases) by the total quantity available for sale. To compute COGS, the average cost per unit is multiplied by the number of units sold. Similarly, to compute ending inventory, the average cost per unit is multiplied by the number of units that remain.
+During inflationary or deflationary periods, the weighted average cost method will produce an inventory value between those produced by FIFO and LIFO.
 Answer:
 In the case of FIFO, ending inventory and COGS will be the same as with the PEriodic system illustrated in
 the earlier example.
@@ -201,10 +64,6 @@ Notice the relationship of higher COGS under LIFO and lower ending inventory und
 inflation) still holds whether the firm uses a PEriodic or PErPEtual inventory system. The point of this
 example is that under a PErPEtual system, LIFO COGS and ending inventory will differ from those
 calculated under a PEriodic system.
-LOS 28.d: Calculate and explain how inflation and deflation of inventory costs affect
-the financial statements and ratios of companies that use different inventory
-valuation methods.
-CFA(r) Program Curriculum, Volume 3, page 412
 During inflationary PEriods and with stable or increasing inventory quantities, LIFO
 COGS is higher than FIFO COGS. This is because the last units purchased have a higher
 cost than the fIRSt units purchased. Under LIFO, the more costly last units purchased
@@ -826,335 +685,3 @@ LOS 28.l
 Comparison of company financial statements may require statements to be adjusted
 to reflect the same inventory costing methods for both firms, or for the subject firm
 and any industry or PEer group of firms used for comparison.
-CONCEPT CHECKERS
-1. Which of the following is most likely included in a firm's ending inventory?
-A. Storage costs of finished goods.
-B. Variable production overhead.
-C. Selling and administrative costs.
-2. Under which inventory cost flow assumption does inventory on the balance
-sheet best approximate its current cost?
-A. FIRSt-in, fIRSt-out.
-B. Weighted average cost.
-C. Last-in, fIRSt-out.
-3. During the year, a firm's inventory purchases were as follows:
-Quarter Units Purchased Cost PEr Unit
-Total
-1
-2
-3
-4
-400
-100
-200
-50
-750
-$3.30
-$1,320
-3.60
-3.90
-4.20
-360
-780
-210
-$2,670
-The firm uses a PEriodic inventory system and calculates inventory and
-COGS at the end of the year.
-Beginning inventory was 200 units at $3 PEr unit = $600.
-Sales for the year were 600 units.
-Compute COGS for the year under FIFO and LIFO.
-FIFO
-A. $1,920
-B. $1,920
-C. $2,070
-LIFO
-$2,175
-$1,850
-$2,175
-4. During May, a firm's inventory account included the following transactions:
-May 1
-Inventory
-25 units @ $4.00
-May 12
-Purchased
-60 units @ $4.20
-May 16
-Sold
-40 units @ $6.00
-May 27
-Purchased
-30 units @ $4.25
-May 29
-Sold
-40 units @ $6.10
-Assuming PEriodic FIFO inventory costing, gross profit for May was:
-A. $132.
-B. $147.
-C. $153.
-5. In PEriods of rising prices and stable inventory quantities, which of the
-following best describes the effect on gross profit of using LIFO as compared to
-using FIFO?
-A. Lower.
-B. Higher.
-C. The same.
-6. Kamp, Inc., sells sPEcialized bicycle shoes. At year-end, due to a sudden
-increase in manufacturing costs, the replacement cost PEr pair of shoes is $55.
-The original cost is $43, and the current selling price is $50. The normal profit
-margin is 10% of the selling price, and the selling costs are $3 PEr pair. Using
-the lower of cost or market method under U.S. GAAP, which of the following
-amounts should each pair of shoes be reported on Kamp's year-end balance
-sheet?
-A. $42.
-B. $43.
-C. $47.
-7. Which of the following inventory disclosures would least likely be found in the
-footnotes of a firm following IFRS?
-A. The amount of loss reversals, from previously written-down inventory,
-recognized during the PEriod.
-B. The carrying value of inventories that collateralize a short-term loan.
-C. The separate carrying values of raw materials, work-in-process, and
-finished goods computed under the LIFO cost flow method.
-8. Which of the following is most likely for a firm with high inventory turnover and
-lower sales growth than the industry average? The firm:
-A. is managing its inventory effectively.
-B. may have obsolete inventory that requires a writedown.
-C. may be losing sales by not carrying enough inventory.
-9. In an inflationary environment, a LIFO liquidation will most likely result in an
-increase in:
-A. inventory.
-B. accounts payable.
-C. oPErating profit margin.
-10. In a PEriod of falling prices, a firm reporting under LIFO, compared to reporting
-under FIFO, will have a higher:
-A. cost of sales.
-B. gross profit margin.
-C. inventory turnover ratio.
-11. A firm that uses LIFO for inventory accounting reported COGS of $300,000 and
-ending inventory of $200,000 for the current PEriod, and a LIFO reserve that
-decreased from $40,000 to $35,000 over the PEriod. If the firm had reported
-using FIFO, its gross profit would have been:
-A. the same.
-B. $5,000 higher.
-C. $5,000 lower.
-12. Poulter Products reports under IFRS and wrote its inventory value down from
-cost of $400,000 to net realizable value of $380,000. The most likely financial
-statement effect of this change is a(n):
-A. increase in cost of sales.
-B. decrease in depreciation charges.
-C. loss reported as other comprehensive income.
-13. During a PEriod of increasing prices, compared to reporting under LIFO, a firm
-that reports using average cost for inventory will have a:
-A. lower gross margin.
-B. higher current ratio.
-C. higher asset turnover.
-14. Compared to reporting under FIFO for both tax and financial statements, a firm
-that chooses to report under LIFO during a PEriod of falling prices would be
-most likely to report a lower:
-A. inventory.
-B. gross profit.
-C. cash balance.
-For more questions related to this topic review, log in to your Schweser online account
-and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
-topic review, log in to your Schweser online account and launch the OnDemand video
-lectures, if you have purchased these products.
-ANSWERS - CONCEPT CHECKERS
-1. Which of the following is most likely included in a firm's ending inventory?
-A. Storage costs of finished goods.
-B. Variable production overhead.
-C. Selling and administrative costs.
-Variable production overhead is capitalized as a part of inventory. Storage
-costs not related to the production process, and selling and administrative
-costs are exPEnsed as incurred.
-2. Under which inventory cost flow assumption does inventory on the balance
-sheet best approximate its current cost?
-A. FIRSt-in, fIRSt-out.
-B. Weighted average cost.
-C. Last-in, fIRSt-out.
-Under FIFO, ending inventory is made up of the most recent purchases,
-thereby providing a closer approximation of current cost.
-3. During the year, a firm's inventory purchases were as follows:
-Quarter Units Purchased Cost PEr Unit
-Total
-1
-2
-3
-4
-400
-100
-200
-50
-750
-$3.30
-$1,320
-3.60
-3.90
-4.20
-360
-780
-210
-$2,670
-The firm uses a PEriodic inventory system and calculates inventory and
-COGS at the end of the year.
-Beginning inventory was 200 units at $3 PEr unit = $600.
-Sales for the year were 600 units.
-Compute COGS for the year under FIFO and LIFO.
-LIFO
-$2,175
-$1,850
-$2,175
-FIFO
-A. $1,920
-B. $1,920
-C. $2,070
-FIFO COGS
-200 units from beginning inventory x $3.00
-400 units from 1st quarter x $3.30
-=
-=
-$600
-1,320
-$1,920
-LIFO COGS
-50 units from 4th quarter x $4.20
-200 units from 3rd quarter x $3.90
-100 units from 2nd quarter x $3.60
-250 units from 1st quarter x $3.30
-=
-=
-=
-=
-$210
-780
-360
-825
-$2,175
-Note the shortcut. Once FIFO COGS of $1,920 is calculated, look at the LIFO
-column. We know that during inflation and stable or increasing inventory
-quantities, LIFO COGS is higher than FIFO. Only LIFO COGS of $2,175 meets this
-condition.
-4. During May, a firm's inventory account included the following transactions:
-May 1
-Inventory
-25 units @ $4.00
-May 12
-Purchased
-60 units @ $4.20
-May 16
-Sold
-40 units @ $6.00
-May 27
-Purchased
-30 units @ $4.25
-May 29
-Sold
-40 units @ $6.10
-Assuming PEriodic FIFO inventory costing, gross profit for May was:
-A. $132.
-B. $147.
-C. $153.
-Under FIFO, the fIRSt units purchased are the fIRSt units sold. FIFO COGS is the
-same under a PEriodic system and a PErPEtual system.
-Revenue $484 (40 units x $6.00) + (40 units x $6.10)
-COGS $331 (25 units x $4.00) + (55 units x $4.20)
-Gross profit $153
-5. In PEriods of rising prices and stable inventory quantities, which of the
-following best describes the effect on gross profit of using LIFO as compared to
-using FIFO?
-A. Lower.
-B. Higher.
-C. The same.
-Compared to FIFO, COGS calculated under LIFO will be higher because the most
-recent, higher cost units are assumed to be the fIRSt units sold. Higher COGS
-under LIFO will result in lower gross profit (revenue - COGS).
-6. Kamp, Inc., sells sPEcialized bicycle shoes. At year-end, due to a sudden
-increase in manufacturing costs, the replacement cost PEr pair of shoes is $55.
-The original cost is $43, and the current selling price is $50. The normal profit
-margin is 10% of the selling price, and the selling costs are $3 PEr pair. Using
-the lower of cost or market method under U.S. GAAP, which of the following
-amounts should each pair of shoes be reported on Kamp's year-end balance
-sheet?
-A. $42.
-B. $43.
-C. $47.
-Market is equal to the replacement cost as long as replacement cost is within a
-sPEcific range. The upPEr bound is net realizable value (NRV) which is equal to
-the selling price ($50) less selling costs ($3) for a NRV of $47. The lower bound
-is NRV ($47) less normal profit margin (10% of selling price = $5) for a net
-amount of $42. Because replacement cost is greater than NRV ($47), market
-equals NRV ($47). Additionally, we have to use the lower of cost ($43) or
-market ($47) principle, so the shoes should be recorded at a cost of $43.
-7. Which of the following inventory disclosures would least likely be found in the
-footnotes of a firm following IFRS?
-A. The amount of loss reversals, from previously written-down inventory,
-recognized during the PEriod.
-B. The carrying value of inventories that collateralize a short-term loan.
-C. The separate carrying values of raw materials, work-in-process, and
-finished goods computed under the LIFO cost flow method.
-While the separate carrying values of raw materials, work-in-process, and
-finished goods are required disclosure for some firms, LIFO is not PErmitted
-under IFRS.
-8. Which of the following is most likely for a firm with high inventory turnover and
-lower sales growth than the industry average? The firm:
-A. is managing its inventory effectively.
-B. may have obsolete inventory that requires a writedown.
-C. may be losing sales by not carrying enough inventory.
-High inventory turnover coupled with low sales growth relative to the industry
-may be an indication of inadequate inventory levels. In this case, the firm may
-be losing sales by not carrying enough inventory.
-9. In an inflationary environment, a LIFO liquidation will most likely result in an
-increase in:
-A. inventory.
-B. accounts payable.
-C. oPErating profit margin.
-In a LIFO liquidation, older and lower costs are included in cost of sales. Thus,
-cost of sales PEr unit decreases and profit margins increase.
-10. In a PEriod of falling prices, a firm reporting under LIFO, compared to reporting
-under FIFO, will have a higher:
-A. cost of sales.
-B. gross profit margin.
-C. inventory turnover ratio.
-With falling prices, LIFO COGS will include the cost of lower priced inventory
-and COGS will be less when compared to FIFO COGS. Because of this, the firm
-would report a higher gross profit margin under LIFO than under FIFO, while
-LIFO inventory will be higher and inventory turnover lower.
-11. A firm that uses LIFO for inventory accounting reported COGS of $300,000 and
-ending inventory of $200,000 for the current PEriod, and a LIFO reserve that
-decreased from $40,000 to $35,000 over the PEriod. If the firm had reported
-using FIFO, its gross profit would have been:
-A. the same.
-B. $5,000 higher.
-C. $5,000 lower.
-FIFO COGS = LIFO COGS - (ending LIFO reserve - beginning LIFO reserve)
-Ending LIFO reserve - beginning LIFO reserve = $35,000 - $ 40,000 = -$5,000
-With FIFO COGS $5,000 greater than LIFO COGS, gross profit under FIFO would
-be $5,000 lower than under LIFO.
-12. Poulter Products reports under IFRS and wrote its inventory value down from
-cost of $400,000 to net realizable value of $380,000. The most likely financial
-statement effect of this change is a(n):
-A. increase in cost of sales.
-B. decrease in depreciation charges.
-C. loss reported as other comprehensive income.
-The writedown in inventory value from cost to net realizable value is reported
-on the income statement either as an addition to cost of sales or as a separate
-line item, not as other comprehensive income. Depreciation will not be
-affected as inventory is not depreciated.
-13. During a PEriod of increasing prices, compared to reporting under LIFO, a firm
-that reports using average cost for inventory will have a:
-A. lower gross margin.
-B. higher current ratio.
-C. higher asset turnover.
-Compared to using LIFO, using average cost would produce lower COGS, higher
-gross oPErating income, and higher ending inventory, so current assets and the
-current ratio would be higher. Consequently, gross margin would be higher and
-asset turnover would be lower under the average cost inventory method.
-14. Compared to reporting under FIFO for both tax and financial statements, a firm
-that chooses to report under LIFO during a PEriod of falling prices would be
-most likely to report a lower:
-A. inventory.
-B. gross profit.
-C. cash balance.
-When prices are falling, LIFO would result in lower COGS (higher gross profit)
-and higher ending inventory than FIFO. Higher gross profit with LIFO would
-result in higher taxes payable which would reduce cash balances (as long they
-pay their taxes).
-The following is a review of the Financial Reporting and Analysis principles designed to address the learning
-outcome statements set forth by CFA Institute. Cross-Reference to CFA Institute Assigned Reading #29.

@@ -1,6 +1,4 @@
 FINANCIAL ANALYSIS TECHNIQUES
-Study Session 7
-EXAM FOCUS
 This topic review presents a "tool box" for an analyst. It would be nice if you could
 calculate all these ratios, but it is imPErative that you understand what firm
 characteristic each one is measuring, and even more important, that you know
@@ -16,9 +14,7 @@ changes in a particular ratio. The DuPont formulas have been with us a long time
 were in the curriculum when I took the exams back in the 1980s. Decomposing ROE
 into its components is an important analytic technique and it should definitely be in
 your tool box.
-LOS 27.a: Describe tools and techniques used in financial analysis, including their
 uses and limitations.
-CFA(r) Program Curriculum, Volume 3, page 330
 Various tools and techniques are used to convert financial statement data into formats
 that facilitate analysis. These include ratio analysis, common-size analysis, graphical
 analysis, and regression analysis.
@@ -281,19 +277,14 @@ financial statement elements over time.
 A stacked column graph (also called a stacked bar graph) shows the changes in items
 from year to year in graphical form. Figure 3 presents such data for a hypothetical
 corporation.
-Figure 3: Stacked Column (Stacked Bar) Graph
 Another alternative for graphic presentation of data is a line graph. Figure 4 presents
 the same data as Figure 3, but as a line graph. The increase in trade payables and the
 decrease in cash are evident in either format and would alert the analyst to potential
 liquidity problems that require further investigation and analysis.
-Figure 4: Line Graph
 Regression Analysis
 Regression analysis can be used to identiFY relationships between variables. The results
 are often used for forecasting. For example, an analyst might use the relationship
 between GDP and sales to prepare a sales forecast.
-LOS 27.b: ClassiFY, calculate, and interpret activity, liquidity, solvency, profitability,
-and valuation ratios.
-CFA(r) Program Program Curriculum, Volume 3, page 347
 Financial ratios can be segregated into different classifications by the tyPE of
 information about the company they provide. One such classification scheme is:
 Activity ratios. This category includes several ratios also referred to asset
@@ -318,7 +309,6 @@ Different analysts use different ratios and different calculation methods for si
 ratios. Some ratios are so commonly used that there is very little variation in how they
 are defined and calculated. We will note some alternative treatments and alternative
 terms for single ratios as we detail the commonly used ratios in each category.
-ACTIVITY RATIOS
 Activity ratios (also known as asset utilization ratios or oPErating efficiency ratios)
 measure how efficiently the firm is managing its assets.
 A measure of accounts receivable turnover is receivables turnover:
@@ -481,10 +471,6 @@ liabilities, such as accounts payable. Some analysts consider these liabilities 
 for a firm and include them in total capital. Other analysts view total capital as the sum of a
 firm's debt and equity.
 How they relate in the income statement:
--
--
--
--
 Net sales
 Cost of goods sold
 Gross profit
@@ -497,7 +483,6 @@ Earnings after taxes (EAT)
 +/-
 Below the line items adjusted for tax
 Net income
--
 Preferred dividends
 Income available to common
 The gross profit margin is the ratio of gross profit (sales less cost of goods sold)
@@ -551,9 +536,6 @@ preferred dividends are deducted from net income in the numerator. Analysts
 should be concerned if this ratio is too low.
 The return on common equity is often more thoroughly analyzed using the
 DuPont decomposition, which is described later in this topic review.
-LOS 27.c: Describe relationships among ratios and evaluate a company using ratio
-analysis.
-CFA(r) Program Program Curriculum, Volume 3, page 368
 Example: Using ratios to evaluate a company
 A balance sheet and income statement for a hypothetical company are shown below for this year and the
 previous year.
@@ -734,9 +716,6 @@ interest coverage =
 interest coverage =
 The interest coverage is better than last year but still worse than the industry average. This,
 along with the slip in profit margin and return on assets, might cause some concern.
-LOS 27.d: Demonstrate the application of DuPont analysis of return on equity and
-calculate and interpret effects of changes in its components.
-CFA(r) Program Program Curriculum, Volume 3, page 370
 The DuPont system of analysis is an appROAch that can be used to analyze return on
 equity (ROE). It uses basic algebra to break down ROE into a function of different
 ratios, so an analyst can see the impact of leverage, profit margins, and turnover on
@@ -805,10 +784,7 @@ levels of ROE. However, this version of the formula shows that more leverage doe
 always lead to higher ROE. As leverage rises, so does the interest burden. Hence, the
 positive effects of leverage can be offset by the higher interest payments that
 accompany more debt. Note that higher taxes will always lead to lower levels of ROE.
-Example: Extended DuPont analysis
-An analyst has gathered data from two companies in the same industry. Calculate the ROE for both
-companies and use the extended DuPont analysis to explain the critical factors that account for the
-differences in the two companies' ROEs.
+An analyst has gathered data from two companies in the same industry. Calculation: 
 Selected Income and Balance Sheet Data
 Answer:
 EBIT = EBIT / revenue
@@ -833,8 +809,6 @@ Company B has better EBIT margins and better asset utilization (PErhaps manageme
 receivables, or payables, or a lower cost basis in its fixed assets due to their age), and less leverage. Its
 higher EBIT margins and asset turnover are the main factors leading to its significantly higher ROE, which it
 achieves with less leverage than Company A.
-LOS 27.e: Calculate and interpret ratios used in equity analysis and credit analysis.
-CFA(r) Program Program Curriculum, Volume 3, page 376
 Valuation ratios are used in analysis for investment in common equity. The most
 widely used valuation ratio is theprice-to-earnings (P/E) ratio, the ratio of the current
 market price of a share of stock divided by the company's earnings PEr share. Related
@@ -934,9 +908,6 @@ to assets, retained earnings to assets, EBIT to assets, market to book value of 
 of stock, and revenues to assets.
 Professor's Note: Credit analysis is covered in more detail in the Study Session on fixed income
 risk analysis.
-LOS 27.f: Explain the requirements for segment reporting and calculate and interpret
-segment ratios.
-CFA(r) Program Program Curriculum, Volume 3, page 385
 A business segment is a portion of a larger company that accounts for more than 10%
 of the company's revenues or assets, and is distinguishable from the company's other
 lines of business in terms of the risk and return characteristics of the segment.
@@ -954,9 +925,6 @@ determine the changes in company characteristics over time.
 Figure 5 illustrates how Boeing broke down its results into business segments in its
 2013 annual report (source: Boeing.com).
 Figure 5: Boeing, Inc. Segment Reporting
-LOS 27.g: Describe how ratio analysis and other techniques can be used to model and
-forecast earnings.
-CFA(r) Program Program Curriculum, Volume 3, page 388
 Ratio analysis can be used in preparing pro forma financial statements that provide
 estimates of financial statement items for one or more future PEriods. The preparation
 of pro forma financial statements and related forecasts is covered in some detail in the
@@ -985,10 +953,6 @@ values for financial statement items. Simulation is a technique in which probabi
 distributions for key variables are selected and a computer is used to generate a
 distribution of values for outcomes based on rePEated random selection of values for
 the key variables.
-1 Edward I. ALTMan, "Predicting Financial Distress of Companies: Revisiting the Z-Score and Zeta(r) Models," July
-2000.
-KEY CONCEPTS
-LOS 27.a
 Ratios can be used to project earnings and future cash flow, evaluate a firm's flexibility,
 assess management's PErformance, evaluate changes in the firm and industry over
 time, and compare the firm with industry comPEtitors.
@@ -1000,7 +964,6 @@ require adjustments when different companies use different accounting treatments
 Comparable ratios may be hard to find for companies that oPErate in multiple
 industries. Ratios must be analyzed relative to one another, and determining the range
 of acceptable values for a ratio can be difficult.
-LOS 27.b
 Activity ratios indicate how well a firm uses its assets. They include receivables
 turnover, days of sales outstanding, inventory turnover, days of inventory on hand,
 payables turnover, payables payment PEriod, and turnover ratios for total assets, fixed
@@ -1017,454 +980,26 @@ on assets, oPErating return on assets, return on total capital, return on total 
 and return on common equity.
 Valuation ratios are used to compare the relative values of stocks. They include
 earnings PEr share and price-to-earnings, price-to-sales, price-to-book value, and priceto-cash-flow ratios.
-LOS 27.c
 An analyst should use an appropriate combination of different ratios to evaluate a
 company over time and relative to comparable companies. The interpretation of an
 increase in ROE, for example, may be quite different for a firm that has significantly
 increased its financial leverage compared to one that has maintained or decreased its
 financial leverage.
-LOS 27.d
 Basic DuPont equation:
 ROE =
 Extended DuPont equation:
 ROE =
-LOS 27.e
 Ratios used in equity analysis include price-to-earnings, price-to-cash flow, price-tosales, and price-to-book value ratios, and basic and diluted earnings PEr share. Other
 ratios are relevant to sPEcific industries such as retail and financial services.
 Credit analysis emphasizes interest coverage ratios, return on capital, debt-to-assets
 ratios, and cash flow to total debt.
-LOS 27.f
 A business or geographic segment is a portion of a firm that has risk and return
 characteristics distinguishable from the rest of the firm and accounts for more than
 10% of the firm's sales or assets.
 Firms are required to report some items for significant business and geographic
 segments. Profitability, leverage, and turnover ratios by segment can give the analyst a
 better understanding of the PErformance of the overall business.
-LOS 27.g
 Ratio analysis in conjunction with other techniques can be used to construct pro forma
 financial statements based on a forecast of sales growth and assumptions about the
 relation of changes in key income statement and balance sheet items to growth of
 sales.
-CONCEPT CHECKERS
-1. To study trends in a firm's cost of goods sold (COGS), the analyst should
-standardize the cost of goods sold numbers to a common-sized basis by
-dividing COGS by:
-A. assets.
-B. sales.
-C. net income.
-2. Which of the following is least likely a limitation of financial ratios?
-A. Data on comparable firms are difficult to acquire.
-B. Determining the target or comparison value for a ratio requires
-judgment.
-C. Different accounting treatments require the analyst to adjust the data
-before comparing ratios.
-3. An analyst who is interested in a company's long-term solvency would most
-likely examine the:
-A. return on total capital.
-B. defensive interval ratio.
-C. fixed charge coverage ratio.
-4. RGB, Inc.'s purchases during the year were $100,000. The balance sheet shows
-an average accounts payable balance of $12,000. RGB's payables payment
-PEriod is closest to:
-A. 37 days.
-B. 44 days.
-C. 52 days.
-5. RGB, Inc. has a gross profit of $45,000 on sales of $150,000. The balance sheet
-shows average total assets of $75,000 with an average inventory balance of
-$15,000. RGB's total asset turnover and inventory turnover are closest to:
-Asset turnover
-A. 7.00 times
-B. 2.00 times
-C. 0.50 times
-Inventory turnover
-2.00 times
-7.00 times
-0.33 times
-6. If RGB, Inc. has annual sales of $100,000, average accounts payable of $30,000,
-and average accounts receivable of $25,000, RGB's receivables turnover and
-average collection PEriod are closest to:
-Receivables turnover
-A. 2.1 times
-B. 3.3 times
-Average collection PEriod
-174 days
-111 days
-C. 4.0 times
-91 days
-7. A company's current ratio is 1.9. If some of the accounts payable are paid off
-from the cash account, the:
-A. numerator would decrease by a greater PErcentage than the
-denominator, resulting in a lower current ratio.
-B. denominator would decrease by a greater PErcentage than the
-numerator, resulting in a higher current ratio.
-C. numerator and denominator would decrease proportionally, leaving the
-current ratio unchanged.
-8. A company's quick ratio is 1.2. If inventory were purchased for cash, the:
-A. numerator would decrease more than the denominator, resulting in a
-lower quick ratio.
-B. denominator would decrease more than the numerator, resulting in a
-higher current ratio.
-C. numerator and denominator would decrease proportionally, leaving the
-current ratio unchanged.
-9. All other things held constant, which of the following transactions will increase
-a firm's current ratio if the ratio is greater than one?
-A. Accounts receivable are collected and the funds received are deposited
-in the firm's cash account.
-B. Fixed assets are purchased from the cash account.
-C. Accounts payable are paid with funds from the cash account.
-10. RGB, Inc.'s receivable turnover is ten times, the inventory turnover is five
-times, and the payables turnover is nine times. RGB's cash conversion cycle is
-closest to:
-A. 69 days.
-B. 104 days.
-C. 150 days.
-11. RGB, Inc.'s income statement shows sales of $1,000, cost of goods sold of $400,
-pre-interest oPErating exPEnse of $300, and interest exPEnse of $100. RGB's
-interest coverage ratio is closest to:
-A. 2 times.
-B. 3 times.
-C. 4 times.
-12. Return on equity using the traditional DuPont formula equals:
-A. (net profit margin) (interest component) (solvency ratio).
-B. (net profit margin) (total asset turnover) (tax retention rate).
-C. (net profit margin) (total asset turnover) (financial leverage multiplier).
-13. RGB, Inc. has a net profit margin of 12%, a total asset turnover of 1.2 times,
-and a financial leverage multiplier of 1.2 times. RGB's return on equity is closest
-to:
-A. 12.0%.
-B. 14.2%.
-C. 17.3%.
-14. Use the following information for RGB, Inc.:
-EBIT / revenue = 10%
-Tax retention rate = 60%
-Revenue / assets = 1.8 times
-Current ratio = 2 times
-EBT / EBIT = 0.9 times
-Assets / equity = 1.9 times
-RGB, Inc.'s return on equity is closest to:
-A. 10.5%.
-B. 14.0%.
-C. 18.5%.
-15. Which of the following equations least accurately represents return on equity?
-A. (net profit margin)(equity turnover).
-B. (net profit margin)(total asset turnover)(assets / equity).
-C. (ROA)(interest burden)(tax retention rate).
-16. Paragon Co. has an oPErating profit margin (EBIT / revenue) of 11%; an asset
-turnover ratio of 1.2; a financial leverage multiplier of 1.5 times; an average tax
-rate of 35%; and an interest burden of 0.7. Paragon's return on equity is closest
-to:
-A. 9%.
-B. 10%.
-C. 11%.
-17. A firm has a dividend payout ratio of 40%, a net profit margin of 10%, an asset
-turnover of 0.9 times, and a financial leverage multiplier of 1.2 times. The
-firm's sustainable growth rate is closest to:
-A. 4.3%.
-B. 6.5%.
-C. 8.0%.
-18. An analyst who needs to model and forecast a company's earnings for the next
-three years would be least likely to:
-A. assume that key financial ratios will remain unchanged for the forecast
-PEriod.
-B. use common-size financial statements to estimate exPEnses as a
-PErcentage of net income.
-C. examine the variability of the predicted outcomes by PErforming a
-sensitivity or scenario analysis.
-For more questions related to this topic review, log in to your Schweser online account
-and launch SchweserPro(tm) QBank; and for video instruction covering each LOS in this
-topic review, log in to your Schweser online account and launch the OnDemand video
-lectures, if you have purchased these products.
-ANSWERS - CONCEPT CHECKERS
-1. To study trends in a firm's cost of goods sold (COGS), the analyst should
-standardize the cost of goods sold numbers to a common-sized basis by
-dividing COGS by:
-A. assets.
-B. sales.
-C. net income.
-With a vertical common-size income statement, all income statement accounts
-are divided by sales.
-2. Which of the following is least likely a limitation of financial ratios?
-A. Data on comparable firms are difficult to acquire.
-B. Determining the target or comparison value for a ratio requires
-judgment.
-C. Different accounting treatments require the analyst to adjust the data
-before comparing ratios.
-Company and industry data are widely available from numerous private and
-public sources. The other statements describe limitations of financial ratios.
-3. An analyst who is interested in a company's long-term solvency would most
-likely examine the:
-A. return on total capital.
-B. defensive interval ratio.
-C. fixed charge coverage ratio.
-Fixed charge coverage is a solvency ratio. Return on total capital is a measure
-of profitability and the defensive interval ratio is a liquidity measure.
-4. RGB, Inc.'s purchases during the year were $100,000. The balance sheet shows
-an average accounts payable balance of $12,000. RGB's payables payment
-PEriod is closest to:
-A. 37 days.
-B. 44 days.
-C. 52 days.
-payables turnover = (purchases / avg. AP) = 100 / 12 = 8.33
-payables payment PEriod = 365 / 8.33 = 43.8 days
-5. RGB, Inc. has a gross profit of $45,000 on sales of $150,000. The balance sheet
-shows average total assets of $75,000 with an average inventory balance of
-$15,000. RGB's total asset turnover and inventory turnover are closest to:
-Asset turnover
-A. 7.00 times
-B. 2.00 times
-C. 0.50 times
-Inventory turnover
-2.00 times
-7.00 times
-0.33 times
-total asset turnover = (sales / total assets) = 150 / 75 = 2 times
-inventory turnover = (COGS / avg. inventory) = (150 - 45) / 15 = 7 times
-6. If RGB, Inc. has annual sales of $100,000, average accounts payable of $30,000,
-and average accounts receivable of $25,000, RGB's receivables turnover and
-average collection PEriod are closest to:
-Receivables turnover
-A. 2.1 times
-B. 3.3 times
-C. 4.0 times
-Average collection PEriod
-174 days
-111 days
-91 days
-receivables turnover = (S / avg. AR) = 100 / 25 = 4
-average collection PEriod = 365 / 4 = 91.25 days
-7. A company's current ratio is 1.9. If some of the accounts payable are paid off
-from the cash account, the:
-A. numerator would decrease by a greater PErcentage than the
-denominator, resulting in a lower current ratio.
-B. denominator would decrease by a greater PErcentage than the
-numerator, resulting in a higher current ratio.
-C. numerator and denominator would decrease proportionally, leaving the
-current ratio unchanged.
-Current ratio = current assets / current liabilities. If cash (a current asset) and
-AP (a current liability) decrease by the same amount and the current ratio is
-greater than 1, then the numerator decreases less in PErcentage terms than
-the denominator, and the current ratio increases.
-8. A company's quick ratio is 1.2. If inventory were purchased for cash, the:
-A. numerator would decrease more than the denominator, resulting in a
-lower quick ratio.
-B. denominator would decrease more than the numerator, resulting in a
-higher current ratio.
-C. numerator and denominator would decrease proportionally, leaving the
-current ratio unchanged.
-Quick ratio = (cash + marketable SECurities + AR) / current liabilities. If cash
-decreases, the quick ratio will also decrease. The denominator is unchanged.
-9. All other things held constant, which of the following transactions will increase
-a firm's current ratio if the ratio is greater than one?
-A. Accounts receivable are collected and the funds received are deposited
-in the firm's cash account.
-B. Fixed assets are purchased from the cash account.
-C. Accounts payable are paid with funds from the cash account.
-Current ratio = current assets / current liabilities. If CR is > 1, then if CA and CL
-both fall, the overall ratio will increase.
-10. RGB, Inc.'s receivable turnover is ten times, the inventory turnover is five
-times, and the payables turnover is nine times. RGB's cash conversion cycle is
-closest to:
-A. 69 days.
-B. 104 days.
-C. 150 days.
-(365 / 10 + 365 / 5 - 365 / 9) = 69 days
-11. RGB, Inc.'s income statement shows sales of $1,000, cost of goods sold of $400,
-pre-interest oPErating exPEnse of $300, and interest exPEnse of $100. RGB's
-interest coverage ratio is closest to:
-A. 2 times.
-B. 3 times.
-C. 4 times.
-Interest coverage ratio = EBIT / I = (1,000 - 400 - 300) / 100 = 3 times
-12. Return on equity using the traditional DuPont formula equals:
-A. (net profit margin) (interest component) (solvency ratio).
-B. (net profit margin) (total asset turnover) (tax retention rate).
-C. (net profit margin) (total asset turnover) (financial leverage multiplier).
-This is the correct formula for the three-ratio DuPont model for ROE.
-13. RGB, Inc. has a net profit margin of 12%, a total asset turnover of 1.2 times,
-and a financial leverage multiplier of 1.2 times. RGB's return on equity is closest
-to:
-A. 12.0%.
-B. 14.2%.
-C. 17.3%.
-return on equity =
-= (0.12)(1.2)(1.2) = 0.1728 =
-return on equity =
-17.28%
-14. Use the following information for RGB, Inc.:
-= (0.12)(1.2)(1.2) = 0.1728 =
-EBIT / revenue = 10%
-Tax retention rate = 60%
-Revenue / assets = 1.8 times
-Current ratio = 2 times
-EBT / EBIT = 0.9 times
-Assets / equity = 1.9 times
-RGB, Inc.'s return on equity is closest to:
-A. 10.5%.
-B. 14.0%.
-C. 18.5%.
-Tax burden = (1 - tax rate) = tax retention rate = 0.6.
-ROE = 0.6 x 0.9 x 0.1 x 1.8 x 1.9 = 0.1847 = 18.47%.
-15. Which of the following equations least accurately represents return on equity?
-A. (net profit margin)(equity turnover).
-B. (net profit margin)(total asset turnover)(assets / equity).
-C. (ROA)(interest burden)(tax retention rate).
-(ROA)(interest burden)(tax retention rate) is not one of the DuPont models for
-calculating ROE.
-16. Paragon Co. has an oPErating profit margin (EBIT / revenue) of 11%; an asset
-turnover ratio of 1.2; a financial leverage multiplier of 1.5 times; an average tax
-rate of 35%; and an interest burden of 0.7. Paragon's return on equity is closest
-to:
-A. 9%.
-B. 10%.
-C. 11%.
-Tax burden = 1 - 0.35 = 0.65.
-ROE = 0.65 x 0.7 x 0.11 x 1.2 x 1.5 = 0.0901.
-17. A firm has a dividend payout ratio of 40%, a net profit margin of 10%, an asset
-turnover of 0.9 times, and a financial leverage multiplier of 1.2 times. The
-firm's sustainable growth rate is closest to:
-A. 4.3%.
-B. 6.5%.
-C. 8.0%.
-g = (retention rate)(ROE)
-ROE = net profit margin x asset turnover x equity multiplier = (0.1)(0.9)(1.2) =
-0.108
-g = (1 - 0.4)(0.108) = 6.5%
-18. An analyst who needs to model and forecast a company's earnings for the next
-three years would be least likely to:
-A. assume that key financial ratios will remain unchanged for the forecast
-PEriod.
-B. use common-size financial statements to estimate exPEnses as a
-PErcentage of net income.
-C. examine the variability of the predicted outcomes by PErforming a
-sensitivity or scenario analysis.
-An earnings forecast model would typically estimate exPEnses as a PErcentage
-of sales.
-CHALLENGE PROBLEMS
-A. The following table lists partial financial statement data for Alpha Company:
-Alpha Company
-Sales
-Cost of goods sold
-Average
-Inventories
-Accounts receivable
-Working capital
-Cash
-Accounts payable
-Fixed assets
-Total assets
-Annual purchases
-$5,000
-2,500
-$600
-450
-750
-200
-500
-4,750
-$6,000
-$2,400
-Calculate the following ratios for Alpha Company:
-Inventory turnover.
-Days of inventory on hand.
-Receivables turnover.
-Days of sales outstanding.
-Payables turnover.
-Number of days of payables.
-Cash conversion cycle.
-Use the following information for problems B through E.
-Beta Co. has a loan covenant requiring it to maintain a current ratio of 1.5 or better. As
-Beta appROAches year-end, current assets are $20 million ($1 million in cash, $9 million
-in accounts receivable, and $10 million in inventory) and current liabilities are $13.5
-million.
-B. Calculate Beta's current ratio and quick ratio.
-C. Which of the following transactions would Beta Co. most likely enter to meet
-its loan covenant?
-Sell $1 million in inventory and deposit the proceeds in the company's
-checking account.
-Borrow $1 million short term and deposit the funds in their checking
-account.
-Sell $1 million in inventory and pay off some of its short-term creditors.
-D. If Beta sells $2 million in inventory on credit, how will this affect its current
-ratio?
-E. If Beta sells $1 million in inventory and pays off accounts payable, how will
-this affect its quick ratio?
-ANSWERS - CHALLENGE PROBLEMS
-A. The following table lists partial financial statement data for Alpha Company:
-Alpha Company
-Sales
-Cost of goods sold
-Average
-Inventories
-Accounts receivable
-Working capital
-Cash
-Accounts payable
-Fixed assets
-Total assets
-Annual purchases
-$5,000
-2,500
-$600
-450
-750
-200
-500
-4,750
-$6,000
-$2,400
-Calculate the following ratios for Alpha Company:
-Inventory turnover.
-Days of inventory on hand.
-Receivables turnover.
-Days of sales outstanding.
-Payables turnover.
-Number of days of payables.
-Cash conversion cycle.
-inventory turnover = COGS / avg. inventory = 2500 / 600 = 4.167 times
-days of inventory on hand = 365 / inventory turnover = 365 / 4.167 = 87.6
-days
-receivables turnover = sales / avg. account receivable = 5,000 / 450 = 11.11
-times
-days of sales outstanding = 365 / receivables turnover = 365 / 11.11 = 32.85
-days
-payables turnover = purchases / avg. payables = 2,400 / 500 = 4.8 times
-number of days of payables = 365 / payables turnover = 365 / 4.8 = 76 days
-cash conversion cycle = days of inventory on hand + days of sales outstanding
-- number of days of payables
-= 33 + 88 - 76 = 45 days
-Use the following information for problems B through E.
-Beta Co. has a loan covenant requiring it to maintain a current ratio of 1.5 or better. As
-Beta appROAches year-end, current assets are $20 million ($1 million in cash, $9 million
-in accounts receivable, and $10 million in inventory) and current liabilities are $13.5
-million.
-B. Calculate Beta's current ratio and quick ratio.
-current ratio = current assets / current liabilities
-= [(1 + 9 + 10) / 13.5] = 20 / 13.5 = 1.48 times
-Quick ratio = (cash + marketable SECurities + receivables) / current liabilities
-= (1 + 9) / 13.5 = 10 / 13.5 = 0.74 times
-C. Which of the following transactions would Beta Co. most likely enter to meet
-its loan covenant?
-Sell $1 million in inventory and deposit the proceeds in the company's
-checking account.
-Borrow $1 million short term and deposit the funds in their checking
-account.
-Sell $1 million in inventory and pay off some of its short-term creditors.
-Selling $1 million in inventory and pay off some of its short-term creditors
-would increase the current ratio: (20 - 1) / (13.5 - 1) = 19 / 12.5 = 1.52.
-Selling $1 million in inventory and depositing the proceeds in the company's
-checking account would leave the ratio unchanged: (20 + 1 - 1) / 13.5 = 1.48.
-Borrowing $1 million short term and depositing the funds in their checking
-account would decrease the current ratio: (20 + 1) / (13.5 + 1) = 21 / 14.5 =
-1.45.
-D. If Beta sells $2 million in inventory on credit, how will this affect its current
-ratio?
-If Beta sells the inventory at a profit, receivables increase by more than
-inventory decreases, and current assets increase. If Beta sells the inventory
-for its carrying value, inventory decreases and receivables increase by the
-same amount, and current assets are unchanged.
-E. If Beta sells $1 million in inventory and pays off accounts payable, how will
-this affect its quick ratio?
-QR = (cash + AR) / AP. AP will decrease without any change to the numerator,
-thus increasing the overall ratio.
-The following is a review of the Financial Reporting and Analysis principles designed to address the learning
-outcome statements set forth by CFA Institute. Cross-Reference to CFA Institute Assigned Reading #28.
