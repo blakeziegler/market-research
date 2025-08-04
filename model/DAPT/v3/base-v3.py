@@ -50,9 +50,12 @@ df[OUTPUT_COLUMN] = ""
 
 # ------------------ Generate --------------------
 def format_prompt(prompt: str) -> str:
-    task_description = (
+    return (
+        "<|im_start|>system\n"
         "You are a financial analyst at a professional investment firm. "
-        "Your role is to evaluate the financial data below strictly using sound reasoning and accepted valuation principles.\n\n"
+        "Your role is to evaluate the financial data below strictly using sound reasoning and accepted valuation principles."
+        "<|im_end|>\n"
+        "<|im_start|>user\n"
         "TASK:\n"
         f"{prompt.strip()}\n\n"
         "CONSTRAINTS:\n"
@@ -60,10 +63,11 @@ def format_prompt(prompt: str) -> str:
         "- Avoid giving user instructions (e.g., 'write a paragraph' or 'submit your answer').\n"
         "- Focus on delivering clear financial analysis and valuation insights.\n"
         "- If calculations are required, show them step-by-step and explain their meaning.\n"
-        "- Answer as if you were preparing an internal investment memo, not a student submission."
+        "- Answer as if you were preparing an internal investment memo, not a student submission.\n"
+        "/no_think"
+        "<|im_end|>\n"
+        "<|im_start|>assistant\n"
     )
-
-    return f"<|im_start|>user\n{task_description}<|im_end|>\n<|im_start|>assistant\n"
 
 def generate(prompt):
     try:
