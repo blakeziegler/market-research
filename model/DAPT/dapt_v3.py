@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import torch
 
 # === Config ===
-model_name = "Josephgflowers/Phinance-Phi-3.5-mini-instruct-finance-v0.3"
+model_name = "Dev9124/qwen3-finance-model"
 output_dir = "v3"
 
 # === Load tokenizer and FP16 base model ===
