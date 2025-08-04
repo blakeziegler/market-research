@@ -8,72 +8,188 @@ USER_AGENT = "zieglerblake2@gmail.com"
 set_identity(USER_AGENT)
 
 TICKERS = [
-    "AAPL", "MSFT", "GOOGL", "AMZN", "META",
-    "JPM", "V", "JNJ", "WMT", "PG",
-    "NVDA", "TSLA", "DIS", "BAC", "XOM",
-    "KO", "VZ", "PEP", "CSCO", "NFLX"
+    "MSFT", "NVDA", "COST", "BRK.B", "V", "JPM", "PG", "MCD", "T",
+    "UBER", "IBM", "TXN", "PFE", "COF", "PANW", "GOOG", "SHW", "APO", "CMG"
 ]
 
 OUT_DIR = "10k_texts"
 os.makedirs(OUT_DIR, exist_ok=True)
 
-def clean_10k_text(raw_text: str) -> str:
+def extract_10k_sections(raw_text: str) -> dict:
     """
-    Clean 10-K text for optimal domain adaptive pre-training by removing
-    useless sections, headers, footers, and metadata. Start from PART I.
+    Extract critical sections from 10-K text for domain adaptive pre-training.
+    Returns a dictionary with Items 1, 1A, 7, 7A, and 8 as keys.
     """
-    text = raw_text
+    # Normalize text for consistent processing
+    text = raw_text.replace('\r\n', '\n').replace('\r', '\n')
     
-    # Find the start of PART I section (handles both "PART I" and "Part I")
-    part_i_pattern = r"║\s*(?:PART I|Part I)\s*║"
-    part_i_match = re.search(part_i_pattern, text)
+    # Define the sections we want to extract with more flexible patterns
+    target_sections = {
+        'item_1': [
+            r'Item 1\.?\s*Business',
+            r'ITEM 1\.?\s*Business',
+            r'Item 1\.?\s*$',
+            r'ITEM 1\.?\s*$',
+            r'Item 1\s*[:\-—]',
+            r'ITEM 1\s*[:\-—]'
+        ],
+        'item_1a': [
+            r'Item 1A\.?\s*Risk Factors',
+            r'ITEM 1A\.?\s*Risk Factors',
+            r'Item 1A\.?\s*$',
+            r'ITEM 1A\.?\s*$',
+            r'Item 1A\s*[:\-—]',
+            r'ITEM 1A\s*[:\-—]'
+        ],
+        'item_7': [
+            r'Item 7\.?\s*Management',
+            r'ITEM 7\.?\s*Management',
+            r'Item 7\.?\s*$',
+            r'ITEM 7\.?\s*$',
+            r'Item 7\s*[:\-—]',
+            r'ITEM 7\s*[:\-—]'
+        ],
+        'item_7a': [
+            r'Item 7A\.?\s*Quantitative',
+            r'ITEM 7A\.?\s*Quantitative',
+            r'Item 7A\.?\s*$',
+            r'ITEM 7A\.?\s*$',
+            r'Item 7A\s*[:\-—]',
+            r'ITEM 7A\s*[:\-—]'
+        ],
+        'item_8': [
+            r'Item 8\.?\s*Financial',
+            r'ITEM 8\.?\s*Financial',
+            r'Item 8\.?\s*$',
+            r'ITEM 8\.?\s*$',
+            r'Item 8\s*[:\-—]',
+            r'ITEM 8\s*[:\-—]'
+        ]
+    }
     
-    if part_i_match:
-        # Start from the beginning of the PART I section
-        start_pos = part_i_match.start()
-        text = text[start_pos:]
+    # Define the next items that mark the end of each section
+    section_end_markers = {
+        'item_1': ['Item 1A', 'ITEM 1A', 'Item 2', 'ITEM 2'],
+        'item_1a': ['Item 1B', 'ITEM 1B', 'Item 2', 'ITEM 2'],
+        'item_7': ['Item 7A', 'ITEM 7A', 'Item 8', 'ITEM 8'],
+        'item_7a': ['Item 8', 'ITEM 8'],
+        'item_8': ['Item 9', 'ITEM 9', 'Item 9A', 'ITEM 9A']
+    }
+    
+    extracted_sections = {}
+    
+    for section_key, patterns in target_sections.items():
+        section_content = None
         
-        # Find the end of PART I (start of PART II or end of document)
-        part_ii_pattern = r"║\s*(?:PART II|Part II)\s*║"
-        part_ii_match = re.search(part_ii_pattern, text)
+        # Try to find the section start with any of the patterns
+        section_start = None
+        for pattern in patterns:
+            match = re.search(pattern, text, re.MULTILINE | re.IGNORECASE)
+            if match:
+                section_start = match.start()
+                break
         
-        if part_ii_match:
-            # End at the start of PART II
-            end_pos = part_ii_match.start()
-            text = text[:end_pos]
+        if section_start is not None:
+            # Find the end of this section by looking for the next item
+            section_end = len(text)
+            end_markers = section_end_markers[section_key]
+            
+            for end_marker in end_markers:
+                # Look for the next item after the current section start
+                end_pattern = rf"(?:^|\n)\s*{re.escape(end_marker)}\s*[:\-—\.]?\s*(?:[A-Za-z\s]+)?\s*(?:\n|$)"
+                end_match = re.search(end_pattern, text[section_start + 100:], re.MULTILINE | re.IGNORECASE)
+                if end_match:
+                    potential_end = section_start + 100 + end_match.start()
+                    if potential_end < section_end:
+                        section_end = potential_end
+                    break
+            
+            # Extract the section content
+            section_content = text[section_start:section_end].strip()
+            
+            # Clean the extracted content
+            if section_content:
+                section_content = clean_section_content(section_content)
+        
+        extracted_sections[section_key] = section_content
     
-    # Remove excessive whitespace and normalize
-    text = re.sub(r"\n{2,}", "\n", text)
-    text = re.sub(r"[ \t]{2,}", " ", text)
+    return extracted_sections
+
+def clean_section_content(content: str) -> str:
+    """
+    Clean extracted section content by removing excessive whitespace and formatting artifacts.
+    """
+    # Remove excessive whitespace
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    content = re.sub(r'[ \t]{2,}', ' ', content)
     
-    # Remove decorative boxes and borders around PART I
-    text = re.sub(r"╔═ § ═══════════════════════════════════════════════════════════════════════════════════════════════╗", "", text)
-    text = re.sub(r"║ ║", "", text)
-    text = re.sub(r"╚═══════════════════════════════════════════════════════════════════════════════════════════════════╝", "", text)
-    text = re.sub(r"╭─  ───────────────────────────────────────────────────────────────────────────────────────────────╮", "", text)
-    text = re.sub(r"│ │", "", text)
-    text = re.sub(r"╰───────────────────────────────────────────────────────────────────────────────────────────────────╯", "", text)
+    # Remove Table of Contents sections
+    content = re.sub(r'(?i)table of contents.*?(?=\n\n|\n[A-Z]|\nItem|\nITEM)', '', content, flags=re.DOTALL | re.MULTILINE)
+    content = re.sub(r'(?i)contents.*?(?=\n\n|\n[A-Z]|\nItem|\nITEM)', '', content, flags=re.DOTALL | re.MULTILINE)
+    content = re.sub(r'(?i)index.*?(?=\n\n|\n[A-Z]|\nItem|\nITEM)', '', content, flags=re.DOTALL | re.MULTILINE)
     
-    # Remove the PART I header itself (handles both variations)
-    text = re.sub(r"║\s*(?:PART I|Part I)\s*║", "", text)
+    # Remove decorative borders and boxes
+    content = re.sub(r'╔═.*╗', '', content, flags=re.MULTILINE)
+    content = re.sub(r'║.*║', '', content, flags=re.MULTILINE)
+    content = re.sub(r'╚═.*╝', '', content, flags=re.MULTILINE)
+    content = re.sub(r'╭─.*╮', '', content, flags=re.MULTILINE)
+    content = re.sub(r'│.*│', '', content, flags=re.MULTILINE)
+    content = re.sub(r'╰─.*╯', '', content, flags=re.MULTILINE)
     
-    # Remove any remaining decorative lines and borders
-    text = re.sub(r"^[─_=]{10,}$", "", text, flags=re.MULTILINE)
-    text = re.sub(r"^[─_=]{3,}.*[─_=]{3,}$", "", text, flags=re.MULTILINE)
+    # Remove page headers/footers
+    content = re.sub(r'(?i)page \d+ of \d+', '', content)
+    content = re.sub(r'(?i)united states securities and exchange commission.*', '', content, flags=re.MULTILINE)
+    content = re.sub(r'(?i)washington, d\.c\. 20549.*', '', content, flags=re.MULTILINE)
+    
+    # Remove company name headers that appear throughout
+    content = re.sub(r'^\s*[A-Za-z\s&.,]+ \| \d{4} Form 10-K \| \d+\s*$', '', content, flags=re.MULTILINE)
+    content = re.sub(r'^\s*[A-Za-z\s&.,]+ \| \d{4} Form 10-K/A \| \d+\s*$', '', content, flags=re.MULTILINE)
+    
+    # Remove decorative lines
+    content = re.sub(r'^[─_=]{10,}$', '', content, flags=re.MULTILINE)
+    content = re.sub(r'^[─_=]{3,}.*[─_=]{3,}$', '', content, flags=re.MULTILINE)
     
     # Remove empty lines and excessive spacing
-    text = re.sub(r"\n\s*\n", "\n", text)
-    text = re.sub(r"^\s+$", "", text, flags=re.MULTILINE)
+    content = re.sub(r'\n\s*\n', '\n', content)
+    content = re.sub(r'^\s+$', '', content, flags=re.MULTILINE)
     
     # Remove lines that are just numbers or single characters
-    text = re.sub(r"^\d+$", "", text, flags=re.MULTILINE)
-    text = re.sub(r"^[A-Za-z]\s*$", "", text, flags=re.MULTILINE)
+    content = re.sub(r'^\d+$', '', content, flags=re.MULTILINE)
+    content = re.sub(r'^[A-Za-z]\s*$', '', content, flags=re.MULTILINE)
     
     # Final cleanup
-    text = re.sub(r"\n{3,}", "\n\n", text)  # Max 2 consecutive newlines
-    text = text.strip()
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    content = content.strip()
     
-    return text
+    return content
+
+def clean_10k_text(raw_text: str) -> str:
+    """
+    Extract and combine critical 10-K sections for domain adaptive pre-training.
+    """
+    # Extract the target sections
+    sections = extract_10k_sections(raw_text)
+    
+    # Combine all found sections into a single text
+    combined_text = ""
+    
+    # Define the order and labels for the sections
+    section_order = [
+        ('item_1', 'ITEM 1: BUSINESS'),
+        ('item_1a', 'ITEM 1A: RISK FACTORS'),
+        ('item_7', 'ITEM 7: MANAGEMENT\'S DISCUSSION AND ANALYSIS'),
+        ('item_7a', 'ITEM 7A: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK'),
+        ('item_8', 'ITEM 8: FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA')
+    ]
+    
+    for section_key, section_label in section_order:
+        if sections[section_key]:
+            combined_text += f"\n\n{section_label}\n"
+            combined_text += "=" * len(section_label) + "\n\n"
+            combined_text += sections[section_key]
+            combined_text += "\n"
+    
+    return combined_text.strip()
 
 def fetch_10k_texts_for_ticker(ticker):
     print(f"Processing {ticker} …")
@@ -81,7 +197,7 @@ def fetch_10k_texts_for_ticker(ticker):
     filings = c.get_filings(form="10-K")
     
     # Get the 5 most recent filings
-    recent_filings = list(filings.head(5))
+    recent_filings = list(filings.head(1))
     
     for idx, filing in enumerate(recent_filings, start=1):
         try:

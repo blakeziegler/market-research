@@ -1,0 +1,39 @@
+Overview
+This is a simple thesis, and we will keep this write-up simple as well. Airbus is three years into a period of strong orders, a growing backlog, and a complex supply chain that has resulted in stairstep improvements in production. Airbus is working to match supply with demand, but it has not been able to ramp up fast enough, and production is still vastly below end-market demand. One just has to read an AerCap transcript to see that the market is extremely tight for aircraft today. A bet on Airbus is a bet that the market inevitably reaches equilibrium.
+
+Airbus is net cash and cash flow is ramping faster than earnings growth that is ramping faster than double-digit revenue growth. Production needs to ramp up 50% to meet end market demand and this should drive more than 20% earnings growth for at least the next several years. Meanwhile, the stock trades at a discount to the market on near-term estimates and at a much wider discount to Boeing than historical norms.
+
+While many are fixated on both the ability for Airbus to achieve a 75 per month production run-rate of A320 family aircraft and Pratt’s engine issues, the fact of the matter is that production needs to increase materially to meet end market demand. Over the next several years, we expect a roughly 50% increase in narrowbody A320 production to get to 70 per month and for A350 widebody production to nearly double to 9 per month.  Notably, we expect A320 deliveries to remain roughly steady over the next several years, while higher margin A321 should increase from 63% of A320 family revenue mix today to around 75% in several years. The A350 should go from roughly breakeven to meaningfully profitable over the same time period. This will clearly be additive to margins and, bottom line, we think earnings growth will be high and enduring – at about double the rate of low double-digit topline growth.
+
+Per our work, we actually do not think that Airbus will get to 75 per month in A320 family production over the next several years and that 70 per month is a more sustainable level for all vested parties. 70 versus 75 is only about EUR 9/share of equity value - or roughly 5% of where we value Airbus in a couple years. It is a nice to have, but not worth getting fixated on given the potential upside without it. We also think that Pratt’s engine issues likely push the production ramp slightly to the right, but the fixes are in place to solve the issue and it is simply a matter of “when” and not “if”. Again, we think this is more of a temporary suppressor of stock price than something lasting.
+
+ 
+
+Valuation
+Recent Street EPS estimates on Airbus in 2027 and 2028 seem to be around the EUR 9-12 per share range. We think that Airbus could do around EUR 14 per share based on a simple and conservative build-up of the A320, A321 and A350. While we think Street estimates are too low, even the mid-to-higher end of the Street range results in a 20% earnings CAGR for the next four years on a stock that is trading at 16x.
+
+Airbus typically trades tight with the S&P 500 and it is trading at 16x 2-year forward EPS versus the S&P 500 at 17x. Airbus traded around 16x 2-year forward EPS in 2018 and 2019 before COVID. This is not a call on multiples being wrong – multiples on Street actually look fair. This is largely a call on high earnings growth durability and a stock that should roughly track this earnings growth going forward.
+
+Modeling out to our 2027 and 2028 estimates, we see EUR 12/share of earnings power in a very conservative case and EUR 14/share assuming our delivery mix estimates are correct (70 per month on A320 family and 9 per month on the A350 – both roughly 10% below guidance). On historical multiples – absolute and relative to the S&P 500 – this provides a 3-year IRR of 22%-29%. Utilizing multiples 10% below historical absolute and relative levels, we arrive at a 3-year IRR of 14%-20%. For downside, we assume that current nearer term Street EPS estimates (ie next 1-2 years) are 10% too high and we use historical trough multiples of 14x to get a EUR 110/share stock price. The result is EUR 25/share downside versus EUR 100/share upside over the next few years, or a 4:1 3-year up:down skew.
+
+ 
+
+Airbus Overview
+Airbus generates roughly 70% of revenue from commercial aerospace, 12% from helicopters and 18% from defense & space. We expect the mix to move further to commercial aerospace going forward. In several years, we expect nearly 80% of revenue coming from commercial aerospace, 9% from helicopters, and 13% from defense & space. Profit contribution is even more skewed to commercial aerospace, with 81% of today’s profits coming from the division and our expectation for 88% of profits to come from the division by 2027.
+
+Revenue growth. We expect the inevitable production builds in commercial aerospace will drive 15% segment revenue growth over the next several years, which should in turn drive total company revenue growth of 12% per year over the same time period.
+
+Margin growth. 70% of the commercial aerospace profit growth improvement over the next several years comes from ramping A320 family production and deliveries and 15% from ramping wide-body (A350) production and deliveries. A321 increasingly represents a larger portion of the A320 family mix, contributing to expanding profit margins.
+
+Earnings growth. We expect earnings this year of EUR 5.50 per share to ramp to around EUR 13 per share in four years as Airbus approaches 70 per month of A320 family production, or a 24% annualized growth rate.
+
+Free cash flow growth. FCF growth should grow in excess of earnings. While the inventory build in 2023 will not reverse, it will not persist. As a result, we expect FCF to grow at a 36% annualized growth rate over the next several years and exceed EUR 10 billion (roughly matching net income). We do not think that this inevitable 50%-plus production ramp to 70 per month requires much in the way of incremental investment from Airbus, as it is only about 10 per month higher from where the company was producing in 2019.
+
+ 
+
+Other Thoughts
+This path to equilibrium will not be an overnight phenomenon and the duration of earnings growth should be long and strong, providing opportunities to buy on market weakness for some time.
+
+Why not buy Boeing as well? We do not like their inferior balance sheet, inferior narrow-body competitive positioning, and based on our 2027/2028 modeling - their 50%+ P/E premium to Airbus versus around 10% historically.
+
+We like the aerospace industry. It is a duopoly in larger commercial aircraft. Passenger growth tends to grow at roughly 5% per year over time and the commercial fleet is expected to roughly double over the next couple decades from nearly 25,000 to nearly 50,000. Narrowbody, where Airbus excels, tends to grow at 2x-3x the growth of widebody (although the outlook for widebody is quite good right now as well, with Airbus just increasing its A350 production targets from 9 to 10 per month in 2026). 

@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import torch
 
 # === Config ===
-model_name = "WiroAI/WiroAI-Finance-Llama-8B"
+model_name = "Josephgflowers/Phinance-Phi-3.5-mini-instruct-finance-v0.3"
 output_dir = "v3"
 
 # === Load tokenizer and FP16 base model ===
@@ -39,8 +39,8 @@ dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["tra
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
 # === Tokenization ===
-MAX_LENGTH = 8192
-STRIDE = 256
+MAX_LENGTH = 16384
+STRIDE = 8192
 
 def chunk_with_tokenizer(batch):
     tokenized = tokenizer(
@@ -88,8 +88,8 @@ training_args = TrainingArguments(
     output_dir=output_dir,
     per_device_train_batch_size=1,
     gradient_accumulation_steps=16,
-    num_train_epochs=2,
-    learning_rate=5e-5,
+    num_train_epochs=1,
+    learning_rate=2e-5,
     fp16=True,
     save_steps=500,
     logging_steps=10,

@@ -4,7 +4,7 @@
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-base_model = "WiroAI/WiroAI-Finance-Llama-8B"
+base_model = "Josephgflowers/Phinance-Phi-3.5-mini-instruct-finance-v0.3"
 adapter_path = "checkpoint-XXXX"  # <- replace with final checkpoint directory
 
 # Load base model in FP16
@@ -20,7 +20,7 @@ model = PeftModel.from_pretrained(model, adapter_path)
 model = model.merge_and_unload()
 
 # Save final merged model in FP16
-output_path = "llama_8b_dapt-600k_v3"
+output_path = "phinance_3.5_mini_dapt-600k_v3"
 model.save_pretrained(output_path, safe_serialization=True)
 tokenizer = AutoTokenizer.from_pretrained(base_model, trust_remote_code=True)
 tokenizer.save_pretrained(output_path)
