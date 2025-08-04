@@ -1,194 +1,41 @@
-ï»¿prompt
-"A company reported the following for the most recent fiscal year:
-
-- Revenue: $980M
-- Net Income: $125M
-- Operating Cash Flow: $160M
-- Capital Expenditures: $95M
-- Free Cash Flow: $65M
-- Shares Outstanding: 50M
-- Market Cap: $3.5B
-
-Evaluate the financial health of the company based on its cash generation and valuation. Discuss any red or green flags, especially in relation to free cash flow and earnings quality."
-"Analyze the income statement trend for this company over the past three years:
-
-Year 1:
-- Revenue: $600M
-- Gross Margin: 48%
-- Operating Margin: 12%
-- Net Income: $40M
-
-Year 2:
-- Revenue: $690M
-- Gross Margin: 46%
-- Operating Margin: 10%
-- Net Income: $38M
-
-Year 3:
-- Revenue: $780M
-- Gross Margin: 43%
-- Operating Margin: 8%
-- Net Income: $36M
-
-Is the company improving or deteriorating in terms of profitability and efficiency? What concerns would you raise?"
-"A companyâ€™s latest results show:
-
-- Net Income: $90M
-- Operating Cash Flow: $35M
-- Capital Expenditures: $25M
-- Free Cash Flow: $10M
-
-Despite reporting strong net income, the companyâ€™s cash flow is significantly lower. Explain the possible causes of this discrepancy and whether it raises any red flags about earnings quality."
-"You are evaluating a firm with the following data:
-
-- Return on Equity (ROE): 18%
-- Retention Ratio: 60%
-- Return on Invested Capital (ROIC): 14%
-- Weighted Average Cost of Capital (WACC): 9%
-- CapEx / Revenue: 10%
-
-Estimate the sustainable growth rate and evaluate whether the firm is reinvesting efficiently. Comment on whether the company is likely to create or destroy value over time."
-"A retail company posted the following results:
-
-- Revenue: $2.1B
-- COGS: $1.55B
-- Operating Expenses: $400M
-- Net Income: $75M
-- EBITDA: $180M
-- Gross Margin: 26%
-- Operating Margin: 6.2% (down from 9% last year)
-
-Evaluate how margin compression is affecting profitability. Should investors be concerned? What underlying causes might explain this change?"
-"A SaaS firm has shown impressive top-line growth over the last two years:
-
-- Year 1 Revenue: $120M
-- Year 2 Revenue: $180M
-- Net Income (Year 2): $12M
-- Operating Cash Flow (Year 2): $8M
-- Deferred Revenue: $50M
-- CapEx: $25M
-
-Despite strong revenue growth, operating cash flow remains weak. Assess the quality of growth and whether it's sustainable. What risks or strengths can be inferred from this pattern?"
-"A company reported:
-
-- ROIC: 11.5%
-- WACC: 8.5%
-- Net Operating Profit After Tax (NOPAT): $90M
-- Invested Capital: $780M
-
-Determine whether the company is creating or destroying shareholder value. Discuss how large the value spread is and what it implies for long-term investment potential."
-"The company reported:
-
-- Net Income: $60M
-- Operating Cash Flow: $20M
-- Changes in Working Capital: -$5M
-- Depreciation & Amortization: $10M
-
-Evaluate the quality of earnings. Are profits being backed by real cash flow, or do accruals dominate? How should this influence investor confidence in the reported figures?"
-"A company is being valued using a DCF model with these assumptions:
-
-- Year 5 EBITDA: $240M
-- Exit Multiple: 10x
-- WACC: 9%
-- Terminal Value Contribution to Total EV: 70%
-- Current Enterprise Value: $1.6B
-
-Assess whether the terminal value assumption is too aggressive. How sensitive is the valuation to the terminal multiple, and what would be a more conservative scenario?"
-"A logistics firm reports the following:
-
-- Total Assets: $2.4B
-- Revenue: $1.1B
-- Net Income: $90M
-- CapEx: $300M
-- Asset Turnover: 0.46
-- ROA: 3.75%
-
-Assess the companyâ€™s capital efficiency. How well is it using its asset base to generate returns? Would a DCF or EVA model better capture its value drivers?"
-"A consumer tech startup has the following metrics:
-
-- P/E Ratio: 85x
-- EPS (TTM): $0.40
-- YoY Earnings Growth: 35%
-- ROE: 19%
-- Retention Rate: 80%
-- No Dividend
-
-Evaluate whether the valuation is justified using the PEG ratio. Is this growth priced reasonably, or does the stock appear overvalued relative to its fundamentals?"
-"An industrial manufacturing company provided these figures:
-
-- EBITDA: $300M
-- Interest Expense: $80M
-- Principal Repayments (Next 12 months): $120M
-- Cash: $50M
-- EBIT: $220M
-
-Calculate the Debt Service Coverage Ratio (DSCR) and assess the firm's financial resilience in a downturn. Would a traditional DCF reflect this risk appropriately, or is scenario analysis more useful here?"
-"A regional bank reports:
-
-- Net Interest Income: $780M
-- Average Earning Assets: $25B
-- Net Interest Margin: 3.12%
-- Loan Loss Provisions: $120M
-- Tier 1 Capital Ratio: 10.5%
-
-Evaluate the bankâ€™s earnings quality and credit risk exposure. Is the Net Interest Margin sustainable, and how does capital adequacy influence valuation under a residual income model?"
-"An oil and gas firm reports:
-
-- Free Cash Flow: $3.6B
-- Market Cap: $40B
-- FCF Yield: 9%
-- Production Growth Forecast: Flat
-- Oil Price Assumption: $75/barrel
-- Terminal Value Contribution: 65% of DCF EV
-
-Analyze whether the FCF yield offers a margin of safety. Is the terminal value too sensitive to commodity price assumptions? Would a NAV-based valuation be more appropriate for this type of business?"
-"A nationwide retail chain reports the following:
-
-- Current Assets: $950M  
-- Current Liabilities: $1.2B  
-- EBIT: $310M  
-- Total Assets: $3.4B  
-- Market Value of Equity: $2B  
-- Total Liabilities: $2.6B  
-- Revenue: $5.2B
-
-Using the Altman Z-score framework, assess the likelihood of financial distress. Would a market-based valuation fairly reflect this liquidity risk, or should distressed asset methodologies be considered?"
-"A B2B SaaS company disclosed:
-
-- Customer Acquisition Cost (CAC): $3,200  
-- Average Revenue Per User (ARPU): $1,100/year  
-- Gross Margin: 75%  
-- Churn Rate: 8% annually  
-- Retention Rate: 92%  
-- Revenue Growth: 28%
-
-Calculate the CAC payback period and LTV/CAC ratio. Based on these, assess the scalability and economic moat of the business. How should these metrics influence a DCF or rule-of-40 valuation?"
-"A regulated utility company pays a stable dividend and reports:
-
-- Annual Dividend per Share: $2.10  
-- Dividend Growth Rate: 2.5%  
-- Cost of Equity: 6.5%  
-- Payout Ratio: 85%  
-- ROE: 7%
-
-Value the company using the Gordon Growth (DDM) model. Comment on whether the current payout is sustainable and how regulatory constraints influence valuation accuracy."
-"An early-stage biotech firm expects:
-
-- Peak Sales Potential: $2.5B/year (if approved)  
-- Probability of Approval: 12%  
-- R&D Burn Rate: $180M/year  
-- Time to Approval: 5 years  
-- WACC: 14%
-
-Conduct a scenario-based NPV analysis. Given the binary nature of clinical trials, how should investors value this firm today? Is DCF or a decision-tree approach more appropriate?"
-"A commercial REIT reports:
-
-- Net Operating Income (NOI): $650M  
-- Cap Rate: 6%  
-- Debt: $2.8B  
-- Cash: $200M  
-- Shares Outstanding: 300M  
-- AFFO per Share: $2.35  
-- Stock Price: $21.50
-
-Value the REIT using both NAV and AFFO-based methods. Which valuation method is more appropriate in the current interest rate environment, and how should leverage be treated in your assessment?"
+prompt
+"""An upstream oil & gas firm reports a free cash flow yield of 11%, with 65% of its enterprise value derived from terminal value in a DCF. Analyze whether the FCF yield offers a margin of safety. Is the terminal value too sensitive to commodity price assumptions? Would a NAV-based valuation be more appropriate for this type of business?"""
+"""An upstream oil & gas firm reports a free cash flow yield of 11%, with 65% of its enterprise value derived from terminal value in a DCF. Analyze whether the FCF yield offers a margin of safety. Is the terminal value too sensitive to commodity price assumptions? Would a NAV-based valuation be more appropriate for this type of business?"""
+"""A B2B SaaS company has CAC of $3,200, ARPU of $1,100/year, a gross margin of 75%, and an annual churn rate of 8%. Calculate the CAC payback period and LTV/CAC ratio. Assess the firm's scalability, customer lifetime value, and whether it has a defensible economic moat."""
+"""A regulated utility earns an ROE of 7.8% against an allowed ROE of 9.2%, with a dividend payout ratio of 85%. Evaluate whether the firm is under-earning relative to regulatory expectations. How might this affect long-term capital investment, rate base growth, and investor sentiment?"""
+"""A semiconductor company spends 17% of revenue on R&D and maintains capex at 21% of revenue, with free cash flow flat year-over-year. Evaluate whether innovation and reinvestment spending are translating into competitive advantage or masking structural inefficiencies."""
+"""A commercial bank reports a net interest margin of 3.1%, loan loss provisions of $120M, and Tier 1 capital ratio of 10.8%. Analyze whether the bank is adequately reserved and capitalized given current macroeconomic risk. How would you assess its earnings quality relative to credit exposure?"""
+"""A consumer staples firm shows revenue growth of 2.1% over three years while gross margin has compressed from 45% to 39%. SG&A has risen as a percentage of sales. Evaluate whether inflation-driven input costs or poor operational leverage are eroding profitability. Should cost structure or pricing strategy be adjusted?"""
+"""A biotech firm has a pipeline of five Phase II drugs and reports a burn rate of $80M per quarter, with no revenue and 18 months of cash runway. Discuss the appropriateness of using a risk-adjusted NPV model versus comparables for valuation. What key assumptions should be stress-tested?"""
+"""A telecom company with 3.5x net debt/EBITDA is trading at 6x EV/EBITDA. FCF yield is 8.5% but capex intensity is 26% of revenue. Analyze whether the leverage and capital intensity justify a valuation discount, or if the market is underestimating long-term infrastructure ROI."""
+"""A global industrial firm reports EBITDA margin decline from 18% to 14% over four years, despite steady revenue growth. Working capital has also increased as a percentage of revenue. Assess whether operational inefficiencies or inventory buildup are reducing cash conversion and enterprise value."""
+"""A private equity-backed real estate investment trust (REIT) has a debt-to-equity ratio of 2.8x, FFO payout ratio of 95%, and cap rate compression in its core markets. Evaluate the sustainability of its dividend. Should a NAV approach be preferred over a multiple-based valuation?"""
+"""A digital payments firm trades at 9x EV/Revenue and 55x forward earnings, with revenue growth of 38% and declining take rates. Assess whether the valuation implies durable network effects or overly optimistic monetization assumptions. How would you incorporate customer cohort analysis into valuation?"""
+"""A specialty chemicals company has expanded EBITDA margins from 14% to 18% following a restructuring, yet ROIC remains below WACC. Evaluate whether improved operating metrics are creating shareholder value or merely masking inefficient capital deployment."""
+"""A pharmaceutical firmÕs flagship drug faces patent expiration in two years. Pipeline assets are in early-stage trials and revenue has plateaued. How would you adjust a DCF model to reflect declining cash flows and uncertain R&D success? Would a real options valuation be more appropriate?"""
+"""An e-commerce platform shows consistent GMV growth but negative operating margins and rising fulfillment costs. Sales/Marketing expense is 42% of revenue. Evaluate whether scale economics are taking hold. Should valuation rely on EV/GMV multiples or adjusted EBITDA forecasts?"""
+"""A publicly traded insurer has a combined ratio of 96%, investment income yielding 3.2%, and reserve redundancy concerns. Assess underwriting profitability and embedded risk in book value. Would a price-to-book approach overstate true franchise value?"""
+"""A toll-road operator has revenue indexed to inflation, 85% EBITDA margins, and net debt/EBITDA of 4.2x. Evaluate whether a DCF with explicit traffic assumptions or an infrastructure multiple-based model better captures valuation under rising interest rate scenarios."""
+"""A vertical SaaS company serving construction firms has net retention of 112%, ARR growth of 27%, and gross margin of 82%. Discuss how the companyÕs pricing power and niche positioning affect valuation. Should a rule-of-40 framework or LTV/CAC-driven DCF be applied?"""
+"""A manufacturing firm shows increasing ROA but declining asset turnover. Gross margins are flat. Assess whether capital allocation decisions are driving quality earnings or just compressing invested capital. Should EVA or ROIC-based valuation take precedence?"""
+"""A logistics company is transitioning from asset-heavy to asset-light, selling off owned trucks and leasing instead. EBIT margins have expanded but FCF is volatile. Evaluate the quality of earnings post-transition and whether EV/EBITDA comparables remain appropriate."""
+"""An electric vehicle manufacturer with negative EBITDA and gross margin of 9% is valued at 12x forward revenue. Cash runway is 14 months. Evaluate whether current valuation reflects future production scale or speculative growth. Should probability-weighted scenario analysis be used instead of conventional DCF?"""
+"""A large-cap energy firm has declining reserve replacement ratio, a dividend yield of 6.2%, and trades at 4.7x EV/EBITDA. Assess whether the market is signaling terminal value risk. Would reserve-based NAV or forward EV/DACF offer a clearer valuation signal?"""
+"""A neobank reports user growth of 55% YoY, NIM of 2.2%, and cost-to-income ratio of 88%. Discuss whether path to profitability should factor into valuation today. Should a revenue multiple be replaced by a projected earnings yield approach or residual income model?"""
+"""An aerospace OEM has an order backlog 4.2x its trailing twelve-month revenue, negative FCF due to advance payments, and net debt/EBITDA of 3.9x. Evaluate how backlog risk, customer concentration, and deferred revenue treatment affect EV and equity value estimates."""
+"""A luxury apparel brand has gross margins of 68%, SG&A rising at 1.8x revenue, and inventory turnover slowing. ROIC remains 23%. Analyze whether brand equity justifies premium valuation multiples. Should brand valuation be isolated through sum-of-the-parts analysis?"""
+"""A coal producer trades at 2.1x EBITDA, with 93% of revenue from thermal coal and limited hedging. Discuss terminal value estimation challenges in DCF models for ESG-sensitive sectors. Would liquidation NAV or real asset valuation be more appropriate?"""
+"""A mobile gaming company shows DAUs flat, ARPU up 22%, and 64% of revenue from one title. SBC is 28% of revenue and net income is negative. Evaluate whether user engagement or content concentration is the key valuation risk. How should EV/Bookings be adjusted in this context?"""
+"""A global shipping company has reduced capex but still maintains fleet ownership at 70%. EBITDAR margins are 38%, and lease liabilities are increasing. Assess the implications of fleet strategy on capital efficiency. Should valuation normalize for cyclical spot rates or include charter rate hedging?"""
+"""A fintech lender discloses a 6.8% NPL ratio, average yield of 18.2%, and a leverage ratio of 9x equity. Evaluate the embedded credit risk in a DCF forecast. Is a forward loss-adjusted net income forecast or a loan book-based valuation more reliable?"""
+"""A data center REIT shows FFO growth of 11%, AFFO payout ratio of 98%, and trades at 19x AFFO. Power costs are up 26% year-over-year. Analyze sensitivity of valuation to energy cost inputs. Would an EV/EBITDA multiple or long-term FFO CAGR better reflect intrinsic value?"""
+"""A telecom operator with 5G rollout capex representing 34% of revenue reports declining ARPU and rising customer churn. Evaluate whether the firmÕs investment is value-accretive or margin-dilutive. Should valuation rely on forward EV/EBITDA or real options modeling of spectrum deployment?"""
+"""A biotech firm with a market cap of $2.5B has no revenue, a $250M burn rate, and multiple pipeline assets in Phase III trials. Discuss how probability-adjusted NPV should be used in valuation and which assumptions most critically affect implied equity value."""
+"""A global hotel chain reports occupancy at 67%, RevPAR up 11%, but FCF is flat due to rising maintenance capex. Leverage is 4.1x net debt/EBITDA. Assess whether the firm is structurally FCF-constrained and whether a normalized EBITDA multiple or DCF offers better valuation insight."""
+"""A commercial bank shows a loan-to-deposit ratio of 94%, rising unrealized losses in its bond portfolio, and Tier 1 capital of 9.1%. Evaluate balance sheet resilience and interest rate risk. Should equity be valued via earnings power or adjusted book value?"""
+"""An agri-business with 72% of revenue from corn and soy reports high working capital volatility and negative FCF during planting season. Should valuation emphasize normalized cash flow or commodity-linked NAV? How do seasonal cash cycles impact equity duration?"""
+"""A pipeline operator with a take-or-pay contract structure and 88% capacity utilization trades at 7x EV/EBITDA. FCF yield is 6.5%, and debt amortization begins in 18 months. Discuss whether the valuation reflects cash flow predictability or underappreciated refinancing risk."""
+"""A global insurer has reserve strength concerns, a combined ratio of 102%, and trades at 0.92x book. ROE is 6.5% and cost of equity is estimated at 9%. Should the firm be valued using excess returns or residual income? Is price-to-book misleading in this case?"""
+"""A luxury cruise line trades at 13x forward EV/EBITDA, with occupancy at 91% and high variable labor cost exposure. Net debt/EBITDA is 5.8x. Evaluate whether the firm's valuation fairly reflects cyclicality and operating leverage. Is scenario-weighted valuation preferable to standard comps?"""
+"""An industrial conglomerate operates in five segments with widely different capital intensities. ROIC ranges from 5% to 17% across units. Discuss whether sum-of-the-parts valuation would yield a higher implied equity value than blended EV/EBITDA multiples."""
+"""A regulated water utility earns 7.5% ROE on a 9% allowed return, with limited rate base growth. Dividend payout is 90%. Evaluate long-term intrinsic value under DDM vs. adjusted book methods. Does regulatory drag justify a discount to peers with higher reinvestment runways?"""

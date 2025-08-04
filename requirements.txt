@@ -11,6 +11,7 @@ nltk>=3.8.1
 matplotlib>=3.7.0
 llama-cpp-python>=0.1.49
 edgartools>=0.1.0
+openai>=1.0.0
 
 # PDF Processing
 pdfminer.six>=20221105
