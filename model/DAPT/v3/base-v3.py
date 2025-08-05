@@ -21,7 +21,7 @@ logging.basicConfig(
 )
 
 # ------------------ Load Model ------------------
-logging.info("🔄 Loading tokenizer and base model...")
+logging.info("Loading tokenizer and base model...")
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, trust_remote_code=True)
 pad_token_id = tokenizer.pad_token_id or tokenizer.eos_token_id
@@ -83,7 +83,7 @@ def generate(prompt):
         return "[ERROR]"
 
 # ------------------ Inference -------------------
-logging.info("🚀 Starting inference...")
+logging.info("Starting inference...")
 
 for idx, row in tqdm(df.iterrows(), total=len(df)):
     prompt = str(row.get("prompt", "")).strip()
@@ -91,7 +91,7 @@ for idx, row in tqdm(df.iterrows(), total=len(df)):
         continue
 
     if not row[OUTPUT_COLUMN] or row[OUTPUT_COLUMN] == "[ERROR]":
-        logging.info(f"📝 [{idx+1}] Generating base output...")
+        logging.info(f"[{idx+1}] Generating base output...")
         result = generate(prompt)
         df.at[idx, OUTPUT_COLUMN] = result
 
@@ -100,4 +100,4 @@ for idx, row in tqdm(df.iterrows(), total=len(df)):
 
 # ------------------ Final Save ------------------
 df.to_csv(OUTPUT_CSV, index=False, quoting=csv.QUOTE_ALL)
-logging.info(f"✅ Base model responses saved to {OUTPUT_CSV}")
+logging.info(f"Base model responses saved to {OUTPUT_CSV}")

@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-PDF to Text Converter for Finance Valuation Book
-"""
 
 import os
 import sys
@@ -28,14 +24,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 def setup_directories() -> tuple[Path, Path, Path]:
-    """
-    Setup input and output directories.
-    """
+
     # script directory
     script_dir = Path(__file__).parent
     project_root = script_dir.parent.parent
     
-    # input and output directories
     input_dir = project_root / "DAPT" / "data" / "valuation"
     chunking_input_dir = project_root / "DAPT" / "data" / "raw-text"
     output_dir = project_root / "DAPT" / "data" / "raw-text"
@@ -44,9 +37,7 @@ def setup_directories() -> tuple[Path, Path, Path]:
     return input_dir, chunking_input_dir, output_dir
 
 def get_pdf_file(input_dir: Path) -> Optional[Path]:
-    """
-    Get the finance valuation book PDF file from the input directory.
-    """
+
     pdf_file = input_dir / "finance_val_book.pdf"
     
     if pdf_file.exists():
@@ -151,9 +142,6 @@ def get_chunking_input_file(chunking_input_dir: Path) -> Optional[Path]:
         return None
 
 def split_text_into_chunks(input_file: Path, output_dir: Path, base_filename: str) -> bool:
-    """
-    Split text from existing file into chunks based on !BREAK! markers and save each chunk as a separate file.
-    """
     try:
         # Read the existing cleaned text file
         with open(input_file, 'r', encoding='utf-8') as f:

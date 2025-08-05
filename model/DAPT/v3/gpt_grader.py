@@ -19,12 +19,17 @@ client = OpenAI(api_key=openai_api_key)
 def evaluate_output(output_text):
     """
     Evaluate a single output using OpenAI API
-    Returns a dictionary with tone, accuracy, and structure scores
+    Returns a dictionary with tone, accuracy, structure, hallucinated, and justification
     """
-    system_prompt = """You are an expert financial writing evaluator. You will receive one financial analysis response, and must rate it in three dimensions from 1 to 10: tone (how clear and professional it sounds), accuracy (how factually correct and logically sound it is), and structure (how well-organized and easy to follow it is). Be strict, do not give 10s unless it's flawless."""
+    system_prompt = """You are an expert financial writing evaluator. You will receive one financial analysis 
+    response, and must rate it in four dimensions: tone (how clear and professional it sounds), accuracy 
+    (how factually correct and logically sound it is), structure (how well-organized and easy to follow it is), 
+    and hallucination detection (whether the response contains made-up facts, numbers, or claims not supported by 
+    the prompt). Be strict, do not give 10s unless it's flawless. For hallucination, use 1 if any facts/numbers are 
+    made up, 0 if everything appears factual."""
 
     user_prompt = f"""Evaluate the following financial analysis response. Return your answer in JSON format as:
-{{"tone": X, "accuracy": Y, "structure": Z}}
+{{"tone": X, "accuracy": Y, "structure": Z, "hallucinated": W, "justification": "Brief explanation of what was hallucinated (max 2 sentences, or 'No hallucinations detected' if W=0)"}}
 
 Response:
 {output_text}"""
@@ -39,12 +44,10 @@ Response:
             temperature=0.1
         )
         
-        # Extract and parse JSON response
         content = response.choices[0].message.content.strip()
         
         # Try to extract JSON from the response
         try:
-            # Look for JSON in the response
             start_idx = content.find('{')
             end_idx = content.rfind('}') + 1
             if start_idx != -1 and end_idx != 0:
@@ -53,22 +56,18 @@ Response:
                 return result
             else:
                 print(f"Could not find JSON in response: {content}")
-                return {"tone": 5, "accuracy": 5, "structure": 5}
+                return {"tone": 5, "accuracy": 5, "structure": 5, "hallucinated": 0, "justification": "Error parsing response"}
         except json.JSONDecodeError:
             print(f"Failed to parse JSON from response: {content}")
-            return {"tone": 5, "accuracy": 5, "structure": 5}
+            return {"tone": 5, "accuracy": 5, "structure": 5, "hallucinated": 0, "justification": "Error parsing response"}
             
     except Exception as e:
         print(f"Error evaluating output: {e}")
-        return {"tone": 5, "accuracy": 5, "structure": 5}
+        return {"tone": 5, "accuracy": 5, "structure": 5, "hallucinated": 0, "justification": "Error during evaluation"}
 
 def process_csv_file(file_path, output_column):
-    """
-    Process a CSV file and add grading columns
-    """
     print(f"Processing {file_path}...")
     
-    # Read the CSV file
     df = pd.read_csv(file_path)
     
     # Initialize new columns
@@ -76,12 +75,15 @@ def process_csv_file(file_path, output_column):
     tone_col = f"{prefix}_tone"
     accuracy_col = f"{prefix}_accuracy"
     structure_col = f"{prefix}_structure"
+    hallucinated_col = f"{prefix}_hallucinated"
+    justification_col = f"{prefix}_justification"
     
     df[tone_col] = None
     df[accuracy_col] = None
     df[structure_col] = None
+    df[hallucinated_col] = None
+    df[justification_col] = None
     
-    # Process each row
     for idx, row in df.iterrows():
         print(f"Processing row {idx + 1}/{len(df)}")
         
@@ -97,6 +99,8 @@ def process_csv_file(file_path, output_column):
         df.at[idx, tone_col] = evaluation.get("tone", 5)
         df.at[idx, accuracy_col] = evaluation.get("accuracy", 5)
         df.at[idx, structure_col] = evaluation.get("structure", 5)
+        df.at[idx, hallucinated_col] = evaluation.get("hallucinated", 0)
+        df.at[idx, justification_col] = evaluation.get("justification", "No justification provided")
         
         # Add a small delay to avoid rate limiting
         time.sleep(0.5)
@@ -108,14 +112,9 @@ def process_csv_file(file_path, output_column):
     return df
 
 def main():
-    """
-    Main function to process both CSV files
-    """
-    # File paths
     base_file = "results_base_v3.csv"
     dapt_file = "results_dapt_v3.csv"
     
-    # Check if files exist
     if not os.path.exists(base_file):
         print(f"Error: {base_file} not found")
         return
@@ -124,32 +123,44 @@ def main():
         print(f"Error: {dapt_file} not found")
         return
     
-    # Process base results
     print("=" * 50)
     print("Processing base results...")
     print("=" * 50)
     base_df = process_csv_file(base_file, "base_output")
     
-    # Process DAPT results
     print("=" * 50)
     print("Processing DAPT results...")
     print("=" * 50)
     dapt_df = process_csv_file(dapt_file, "dapt_output")
-    
-    print("=" * 50)
-    print("All processing completed!")
-    print("=" * 50)
     
     # Print summary statistics
     print("\nBase Results Summary:")
     print(f"Tone: {base_df['base_tone'].mean():.2f} ± {base_df['base_tone'].std():.2f}")
     print(f"Accuracy: {base_df['base_accuracy'].mean():.2f} ± {base_df['base_accuracy'].std():.2f}")
     print(f"Structure: {base_df['base_structure'].mean():.2f} ± {base_df['base_structure'].std():.2f}")
+    base_hallucinations = base_df['base_hallucinated'].sum()
+    base_total = len(base_df)
+    print(f"Total hallucinations: {base_hallucinations}/{base_total} ({base_hallucinations/base_total*100:.1f}%)")
     
     print("\nDAPT Results Summary:")
     print(f"Tone: {dapt_df['dapt_tone'].mean():.2f} ± {dapt_df['dapt_tone'].std():.2f}")
     print(f"Accuracy: {dapt_df['dapt_accuracy'].mean():.2f} ± {dapt_df['dapt_accuracy'].std():.2f}")
     print(f"Structure: {dapt_df['dapt_structure'].mean():.2f} ± {dapt_df['dapt_structure'].std():.2f}")
+    dapt_hallucinations = dapt_df['dapt_hallucinated'].sum()
+    dapt_total = len(dapt_df)
+    print(f"Total hallucinations: {dapt_hallucinations}/{dapt_total} ({dapt_hallucinations/dapt_total*100:.1f}%)")
+    
+    print("\nHallucination Comparison:")
+    print(f"Base model: {base_hallucinations} hallucinations")
+    print(f"DAPT model: {dapt_hallucinations} hallucinations")
+    if base_hallucinations > 0 or dapt_hallucinations > 0:
+        improvement = base_hallucinations - dapt_hallucinations
+        if improvement > 0:
+            print(f"Improvement: {improvement} fewer hallucinations with DAPT model")
+        elif improvement < 0:
+            print(f"Regression: {abs(improvement)} more hallucinations with DAPT model")
+        else:
+            print("No change in hallucination count")
 
 if __name__ == "__main__":
     main()

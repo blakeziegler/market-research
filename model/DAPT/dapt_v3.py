@@ -10,11 +10,11 @@ from peft import LoraConfig, get_peft_model
 import matplotlib.pyplot as plt
 import torch
 
-# === Config ===
+# Config
 model_name = "Dev9124/qwen3-finance-model"
 output_dir = "v3"
 
-# === Load tokenizer and FP16 base model ===
+# Load tokenizer and FP16 base model
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
@@ -23,7 +23,7 @@ model = AutoModelForCausalLM.from_pretrained(
     trust_remote_code=True,
 )
 
-# === Apply LoRA ===
+# Apply LoRA
 lora_config = LoraConfig(
     r=16,
     lora_alpha=32,
@@ -34,11 +34,10 @@ lora_config = LoraConfig(
 model = get_peft_model(model, lora_config)
 model.print_trainable_parameters()
 
-# === Load Dataset ===
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
-# === Tokenization ===
+# Tokenization
 MAX_LENGTH = 16384
 STRIDE = 8192
 
@@ -63,7 +62,7 @@ tokenized_dataset = dataset.map(
     num_proc=4
 ).flatten_indices()
 
-# === Validate ===
+# Validate
 def check_token_types(dataset, num_batches=5):
     for i, example in enumerate(dataset):
         if i >= num_batches:
@@ -74,7 +73,7 @@ def check_token_types(dataset, num_batches=5):
 
 check_token_types(tokenized_dataset)
 
-# === Histogram ===
+# Histogram
 lengths = [len(x["input_ids"]) for x in tokenized_dataset]
 plt.hist(lengths, bins=50)
 plt.title("Token Length Distribution")
@@ -83,7 +82,7 @@ plt.ylabel("Frequency")
 plt.grid(True)
 plt.show()
 
-# === Training Arguments ===
+# Training Arguments
 training_args = TrainingArguments(
     output_dir=output_dir,
     per_device_train_batch_size=1,
@@ -96,7 +95,7 @@ training_args = TrainingArguments(
     save_total_limit=2,
 )
 
-# === Data Collator ===
+# Data Collator
 class SafeDataCollator(DataCollatorForLanguageModeling):
     def __call__(self, features):
         batch = super().__call__(features)
@@ -106,7 +105,7 @@ class SafeDataCollator(DataCollatorForLanguageModeling):
 
 data_collator = SafeDataCollator(tokenizer=tokenizer, mlm=False)
 
-# === Train ===
+# Train
 trainer = Trainer(
     model=model,
     args=training_args,

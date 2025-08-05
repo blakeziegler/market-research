@@ -1,22 +1,15 @@
 #!/usr/bin/env python3
-"""
-Script to clean CSV files with encoding issues
-"""
 
 import pandas as pd
 import os
 
 def clean_csv_file(input_file, output_file=None):
-    """
-    Clean a CSV file by handling encoding issues and problematic characters
-    """
     if output_file is None:
         output_file = input_file
     
     print(f"Cleaning {input_file}...")
     
     try:
-        # Try to read with ISO-8859-1 encoding first
         df = pd.read_csv(input_file, encoding='iso-8859-1')
         print("Successfully read with ISO-8859-1 encoding")
     except Exception as e:

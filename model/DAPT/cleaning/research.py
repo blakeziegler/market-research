@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-"""
-PDF to Text Converter for Analyst Reports
-"""
 
 import os
 import sys
@@ -29,14 +25,10 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 def setup_directories() -> tuple[Path, Path]:
-    """
-    Setup input and output directories.
-    """
-    # script directory
+
     script_dir = Path(__file__).parent
     project_root = script_dir.parent.parent
     
-    # input and output directories
     input_dir = project_root / "DAPT" / "data" / "research-3"
     output_dir = project_root / "DAPT" / "data" / "raw-text"
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -44,10 +36,6 @@ def setup_directories() -> tuple[Path, Path]:
     return input_dir, output_dir
 
 def get_pdf_files(input_dir: Path) -> List[Path]:
-    """
-    Get all PDF files from the input directory.
-    """
-
     pdf_files = list(input_dir.glob("*.pdf"))
     logger.info(f"PDF's found {len(pdf_files)} in directory:{input_dir}")
     return pdf_files
