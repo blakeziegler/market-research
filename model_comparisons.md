@@ -96,7 +96,9 @@ We believe the hallucinations were the main cause of lackluster scores (as it sh
 - Not enough DAPT tokens causing memorization, not generalization
 - No additional SFT post-DAPT to redirect model behavior and vocabulary.
 
-We hope SFT on 500 - 1000 I/O pairs will help mitigate hallucinations. If not, we will go back to the drawing board and add an additional 500k - 1M tokens and perform DAPT again. 
+We hope SFT on 500 - 1000 I/O pairs will help mitigate hallucinations. If not, we will go back to the drawing board and add an additional 500k - 1M tokens and perform DAPT again.
+
+Additionally, the DAPT model used language like "we believe the company ..." reflecting too heavy weighting for 10-k filings. If re-doing dapt is necessary, we will try to balance this out with more diverse document types to achieve the desired language and tonality. 
 
 ### Base Model vs Base Model + DAPT + SFT
 *Coming Soon*
