@@ -83,7 +83,7 @@ def train_model():
         output_dir="./qwen3_4b_dapt-700k_SFT-260_v1",
         per_device_train_batch_size=1,
         gradient_accumulation_steps=16,
-        num_train_epochs=3,
+        num_train_epochs=2,
         learning_rate=2e-5,
         fp16=True,
         logging_steps=10,
