@@ -100,7 +100,6 @@ training_args = TrainingArguments(
     load_best_model_at_end=True,
     save_total_limit=2,
     gradient_checkpointing=True,
-    callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
 )
 
 # Data collator
@@ -121,6 +120,7 @@ trainer = Trainer(
     eval_dataset=eval_dataset,
     tokenizer=tokenizer,
     data_collator=data_collator,
+    callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
 )
 
 # Train
