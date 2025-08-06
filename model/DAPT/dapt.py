@@ -30,6 +30,7 @@ lora_config = LoraConfig(
     lora_dropout=0.1,
     bias="none",
     task_type="CAUSAL_LM",
+    target_modules=["q_proj", "v_proj"], 
 )
 model = get_peft_model(model, lora_config)
 model.gradient_checkpointing_enable()
