@@ -71,7 +71,10 @@ def process_csv_file(file_path, output_column):
     df = pd.read_csv(file_path)
     
     # Initialize new columns
-    prefix = output_column.split('_')[0]  
+    if output_column == "sft_dapt_output":
+        prefix = "sft"
+    else:
+        prefix = output_column.split('_')[0]
     tone_col = f"{prefix}_tone"
     accuracy_col = f"{prefix}_accuracy"
     structure_col = f"{prefix}_structure"
@@ -113,14 +116,14 @@ def process_csv_file(file_path, output_column):
 
 def main():
     base_file = "results_base.csv"
-    dapt_sft_file = "results_dapt_sft-v1.csv"
+    sft_file = "results_dapt_sft-v1.csv"
     
     if not os.path.exists(base_file):
         print(f"Error: {base_file} not found")
         return
     
-    if not os.path.exists(dapt_sft_file):
-        print(f"Error: {dapt_sft_file} not found")
+    if not os.path.exists(sft_file):
+        print(f"Error: {sft_file} not found")
         return
     
     print("=" * 50)
@@ -129,9 +132,9 @@ def main():
     base_df = process_csv_file(base_file, "base_output")
     
     print("=" * 50)
-    print("Processing DAPT results...")
+    print("Processing SFT results...")
     print("=" * 50)
-    dapt_df = process_csv_file(dapt_sft_file, "sft_dapt_output")
+    sft_df = process_csv_file(sft_file, "sft_dapt_output")
     
     # Print summary statistics
     print("\nBase Results Summary:")
@@ -142,23 +145,23 @@ def main():
     base_total = len(base_df)
     print(f"Total hallucinations: {base_hallucinations}/{base_total} ({base_hallucinations/base_total*100:.1f}%)")
     
-    print("\nDAPT Results Summary:")
-    print(f"Tone: {dapt_df['sft_dapt_tone'].mean():.2f} ± {dapt_df['sft_dapt_tone'].std():.2f}")
-    print(f"Accuracy: {dapt_df['sft_dapt_accuracy'].mean():.2f} ± {dapt_df['sft_dapt_accuracy'].std():.2f}")
-    print(f"Structure: {dapt_df['sft_dapt_structure'].mean():.2f} ± {dapt_df['sft_dapt_structure'].std():.2f}")
-    dapt_hallucinations = dapt_df['sft_dapt_hallucinated'].sum()
-    dapt_total = len(dapt_df)
-    print(f"Total hallucinations: {dapt_hallucinations}/{dapt_total} ({dapt_hallucinations/dapt_total*100:.1f}%)")
+    print("\nSFT Results Summary:")
+    print(f"Tone: {sft_df['sft_tone'].mean():.2f} ± {sft_df['sft_tone'].std():.2f}")
+    print(f"Accuracy: {sft_df['sft_accuracy'].mean():.2f} ± {sft_df['sft_accuracy'].std():.2f}")
+    print(f"Structure: {sft_df['sft_structure'].mean():.2f} ± {sft_df['sft_structure'].std():.2f}")
+    sft_hallucinations = sft_df['sft_hallucinated'].sum()
+    sft_total = len(sft_df)
+    print(f"Total hallucinations: {sft_hallucinations}/{sft_total} ({sft_hallucinations/sft_total*100:.1f}%)")
     
     print("\nHallucination Comparison:")
     print(f"Base model: {base_hallucinations} hallucinations")
-    print(f"SFT DAPT model: {dapt_hallucinations} hallucinations")
-    if base_hallucinations > 0 or dapt_hallucinations > 0:
-        improvement = base_hallucinations - dapt_hallucinations
+    print(f"SFT model: {sft_hallucinations} hallucinations")
+    if base_hallucinations > 0 or sft_hallucinations > 0:
+        improvement = base_hallucinations - sft_hallucinations
         if improvement > 0:
-            print(f"Improvement: {improvement} fewer hallucinations with SFT DAPT model")
+            print(f"Improvement: {improvement} fewer hallucinations with SFT model")
         elif improvement < 0:
-            print(f"Regression: {abs(improvement)} more hallucinations with SFT DAPT model")
+            print(f"Regression: {abs(improvement)} more hallucinations with SFT model")
         else:
             print("No change in hallucination count")
 

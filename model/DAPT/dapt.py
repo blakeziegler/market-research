@@ -12,7 +12,7 @@ import torch
 
 # Config
 model_name = "Dev9124/qwen3-finance-model"
-output_dir = "v3"
+output_dir = "v4"
 
 # Load tokenizer and FP16 base model
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
@@ -87,7 +87,7 @@ training_args = TrainingArguments(
     output_dir=output_dir,
     per_device_train_batch_size=1,
     gradient_accumulation_steps=16,
-    num_train_epochs=1,
+    num_train_epochs=2,
     learning_rate=2e-5,
     fp16=True,
     save_steps=500,
