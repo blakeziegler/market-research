@@ -4,7 +4,6 @@ from transformers import (
     Trainer,
     TrainingArguments,
     DataCollatorForLanguageModeling,
-    EarlyStoppingCallback,
 )
 from datasets import load_dataset
 from peft import LoraConfig, get_peft_model
@@ -36,7 +35,6 @@ model = get_peft_model(model, lora_config)
 model.gradient_checkpointing_enable()
 model.print_trainable_parameters()
 
-# Load and filter dataset
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
@@ -65,7 +63,7 @@ tokenized_dataset = dataset.map(
     num_proc=4
 ).flatten_indices()
 
-# Validate token types
+# Validate
 def check_token_types(dataset, num_batches=5):
     for i, example in enumerate(dataset):
         if i >= num_batches:
@@ -76,17 +74,16 @@ def check_token_types(dataset, num_batches=5):
 
 check_token_types(tokenized_dataset)
 
-# Train/test split (5% for validation)
 split_dataset = tokenized_dataset.train_test_split(test_size=0.05, seed=42)
 train_dataset = split_dataset["train"]
 eval_dataset = split_dataset["test"]
 
-# Training arguments
+# Training Arguments
 training_args = TrainingArguments(
     output_dir=output_dir,
     per_device_train_batch_size=1,
     gradient_accumulation_steps=16,
-    num_train_epochs=2,
+    num_train_epochs=1,
     learning_rate=1e-5,
     fp16=True,
     optim="adamw_torch",
@@ -95,14 +92,11 @@ training_args = TrainingArguments(
     warmup_ratio=0.1,
     save_steps=500,
     logging_steps=10,
-    evaluation_strategy="steps",
-    eval_steps=500,
-    load_best_model_at_end=True,
     save_total_limit=2,
     gradient_checkpointing=True,
 )
 
-# Data collator
+# Data Collator
 class SafeDataCollator(DataCollatorForLanguageModeling):
     def __call__(self, features):
         batch = super().__call__(features)
@@ -112,7 +106,7 @@ class SafeDataCollator(DataCollatorForLanguageModeling):
 
 data_collator = SafeDataCollator(tokenizer=tokenizer, mlm=False)
 
-# Trainer setup
+# Train
 trainer = Trainer(
     model=model,
     args=training_args,
@@ -120,8 +114,5 @@ trainer = Trainer(
     eval_dataset=eval_dataset,
     tokenizer=tokenizer,
     data_collator=data_collator,
-    callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
 )
-
-# Train
 trainer.train()
