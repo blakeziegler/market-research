@@ -685,3 +685,4 @@ LOS 28.l
 Comparison of company financial statements may require statements to be adjusted
 to reflect the same inventory costing methods for both firms, or for the subject firm
 and any industry or PEer group of firms used for comparison.
+<|endoftext|>

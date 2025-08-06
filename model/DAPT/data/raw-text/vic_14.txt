@@ -40,3 +40,4 @@ One possible risk to RCL is that the incremental economics will degrade from Coc
 Conclusion
 RCL’s baseline value algorithm generates >15% EPS growth per annum.  I believe the development of RCL’s private destination portfolio easily can add another 200-300 bps of pricing growth per annum over the next 3-5 years. It is not difficult to pencil out EPS exceeding $30/share by the end of the decade, suggesting CAGRs exceeding 20% per year.  Even from $30/share, the growth algorithm may revert to the ~15% normalized CAGRs.  
 The combination of unbounded demand growth, restricted supply growth, oligopoly industry structure, and attractive and unique ship financing results in a nice stream of steady, long-term earnings growth.  
+<|endoftext|>

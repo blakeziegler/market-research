@@ -1,0 +1,119 @@
+Summary Thesis
+
+We believe that TSMC is at an inflection point in its structural FCF growth story. Management is now much more willing to exert pricing power. At the same time, TSMC will extract a greater share of the AI chips value chain in the coming years thanks to increasing competition. Layering this on the core growth story presents an immensely powerful compounding algorithm that you can buy at one of the steepest discounts to the SOX semiconductor index in the Company’s history.
+
+Why the Opportunity Exists
+
+Short-term positioning issues
+
+Shorter-term price setters are reluctant to initiate a position given uncertainty over the American election and any comments from American policymakers regarding Taiwan
+
+Overblown fears over Intel’s ability to take share in the country space
+
+Longer-term investors might be hesitant to underwrite TSMC given Intel’s recent ambitious plans to create a competitor to TSMC’s foundry
+
+Worries about the sustainability of the current AI spending
+
+We think it’s very likely that the current level of investment see a pullback in the medium term; however, TSMC seems well-positioned to withstand that given its relatively conservative capacity expansion plans
+
+In the long term, we are believers in the potential of AI, though it will take time to find appropriate applications
+ 
+Importantly for us as long-term investors, none of these issues should impact the Company’s long-term trajectory.
+
+ 
+Company Overview
+
+For a more detailed overview, we recommend some of the previous write-ups on TSMC on this site.
+
+TSMC is the world’s largest foundry with a ~70% market share. In the most advanced chips, TSMC is a monopoly with a ~90%/80% share in the 3N/5N leading-edge nodes (3N being the most advanced). The only other companies able to manufacture leading-edge nodes are Samsung and Intel. Each new node generation (e. g. from 5N to 3N) delivers a 15-20% performance improvement at same power and 30-40% power improvement at same performance.
+
+The Company manufactures chips for chip designers (think NVIDIA/AMD – no capability to manufacture their chips) and Integrated Device Manufacturers (IDMs; think Intel – can design and manufacture but outs. It segments its revenues into five end markets: 1) high-performance computing (servers, tablets, data centers, PCs, gaming consoles; 46% of revenue; uses most advanced nodes), 2) smartphones (38%; uses most advanced nodes), 3) automotive (5%; nodes range from most advanced for ADAS/on-board compute to older ones for sensors/power management/embedded flash memory), 4) internet of things (radio frequency chips that enable WiFi/BlueTooth communications; 6%; don’t use advanced nodes), and 5) digital consumer electronics (smart devices like TVs, SetTop boxes, cameras; 2%; only limited use of advanced chips in 8k/4k TVs, mostly use trailing edge nodes).
+
+The Company prices per wafer. Each wafer starts as a round piece of silicon (typically 12-inch diameter) upon which the circuits are “built” through several different processes. The wafer is then cut into several dies, which are cut out. The dies have to be “packaged” and “tested”. A packaged die is a “chip”. Until recently, packaging was mostly outsourced. However, TSMC has recently ramped its in-house packaging. The most talked about one is the Chip-on-Wafer-on-Substrate (CoWoS) packaging, which is critical for the functionality of modern chips, including the AI chips made by Nvidia. TSMC also offers other types of packaging used by different customers.
+
+The Company has one of the deepest moats we have seen thanks to a virtuous cycle between its technological leadership and deep customer entanglement. TSMC is usually the first foundry to get to a new leading-edge node. Its nodes mostly outperform competitors on power and performance metrics. This creates a virtuous cycle where customers prefer to work with TSMC. Customer engagement allows TSMC to comfortably build leading-edge nodes because they know they will have higher utilization. The process is then “married” to the customers’ designs. This is a two-way interaction: the process gets tailored to the design and the design gets tailored to the process. Smaller foundries that didn’t have this level of customer engagement have left the leading-edge node race.
+
+The cycle reinforces itself by granting TSMC a superior scale. The scale allows TSMC to invest more into foundry R&D (Intel and Samsung only offer consolidated figures). Scale is further important for capacity utilization, which 
+
+It is extremely challenging for Intel and Samsung to break the cycle. Customers typically only work with one fab on a given node. The design process is lengthy and requires considerable engineering effort. It is much easier for customers to do this with only one supplier than two or three. Thus, we don’t think TSMC’s moat is under any threat.
+
+The Core Growth Story
+
+TSMC is backed by a robust secular growth story. The semiconductor market (ex memory & AI) is expected to grow at MSD-HSD % till the end of the decade. The growth is powered by a growing number of devices and a greater silicon footprint with EVs, autonomous vehicles, and 5G being the core growth drivers.
+
+We expect foundries to slightly outgrow the semis market, growing by HSD % till the end of the decade. TSMC should outgrow the foundry market thanks to taking volume share on the margins and stronger-than-industry base-rate pricing. Thus, we think the reasonable through-cycle growth rate for TSMC is LDD %, excluding the AI growth and the inflection in pricing growth we are seeing today.
+
+Investment Thesis
+
+1)
+
+Management will finally utilize the enormous pricing power amassed by TSMC’s monopolistic position. C. C. Wei, who was appointed as the CEO in 2018, was chosen as the chairman this year. He has expressed several times his plan to price closer to value. In 2022, the Company raised wafer prices by 10% and by 5% in 2023.
+
+We think the story’s importance has been underestimated given its impact on the long-term FCF generation ability. Sell-side mostly talks about the story as a boost to near terms numbers, but not a thesis-altering news. We disagree. We view this as a change in the Company’s strategy rather than short-term opportunistic hiking.
+
+ 
+
+Taiwanese media have unveiled that the price hikes will continue in 2025. 3N/5N processes prices will rise by ~5-6%. AI-related customers will see a 10% hike. CoWoS packaging (exposure again mostly to AI customers) should grow 10-15%. Overall, excluding AI revenue, we expect ~3-4% price growth in 2025.
+
+We think there is room for pricing to run post 2025. Management has stated that it plans to bring pricing closer to value, after previous management was lambasted by investors for pricing extremely conservatively. We highlight several remarks from recent earnings calls: “my customers are doing very well also, okay? You knew that. So we should do well also”.
+
+The pricing case is supported by the supply tightness expected for 2025 and 2026, especially in leading-edge nodes and advanced packaging. CoWoS, TSMC’s advanced packaging process, is supposed to double capacity this and next year. However, there should still be a 20% supply/demand gap in 2025, supporting HSD%-LDD% price hikes in 2026. Leading edge nodes are also bottlenecked due to the demand from AI chip makers. Given this is a structural trend, we see room for LSD-MSD % price increases on leading-edge nodes till 2028.
+
+We also expect a significant contribution from mix. N2 pricing is rumored to be ~20% higher than N3 pricing. The management has indicated that the N2 ramp should be in line with N3. The utilization could be higher given the very high demand. N2 should come into volume production in 2025. Following that, TSMC should roll-out volume production of N2P and A16 nodes in H2/26. N2P/A16 should deliver 5%/15% improvement in speed over N2 and a 7.5%/26% power efficiency improvements. We expect mix to deliver LSD % growth till 2028.
+
+ 
+
+Note on Intel:
+
+We don’t think the price/mix story will be disrupted by Intel. TSMC is currently the foundry-of-choice for leading-edge nodes and the advantage here will strengthen over time.
+
+We’ve seen that play out historically. You need customer engagement to tailor the process and to continuously improve upon it to maximize the yield (in layman terms, the % of chips that are good vs. ones that have to be scrapped). TSMC already has 5 customers using its 3N process with 4 more rumored ones. Samsung only has 3 rumored ones, while Intel lacks any apart from itself and uses TSMC for its most advanced chips. As a result, TSMC has been gaining incremental market share with every new node.
+
+A large reason why TSMC has been so successful in the past decade is its close relationship with Apple. After the two formed their partnership, TSMC always had a strong customer that they could rely on when introducing new nodes, making their development worthwhile. Foundries without a similar anchor have struggled.
+
+Intel does have an anchor. However, Intel is outsourcing a significant portion of its in-house manufacturing. TSMC has been manufacturing Intel’s GPU (tiles) for a few years and has recently outsourced parts of its Arrow Lake CPU. TSMC is also expected to manufacture Intel’s next-generation Falcon Shores AI chip.
+
+Moreover, with eroding market shares in CPUs and the consequent lower profitability, it’s in a much worse position to support the development of its foundry services. TSMC’s current CapEx is almost 3x Intel’s TTM EBITDA. Maintaining this level of CapEx might be unsustainable for Intel. Intel has already cut its FY’24 CapEx by 20% (FY’24 CapEx guide down from $31-33bn to $25-27bn; FY’25 to $20-23bn) on its most recent earnings call. Exacerbating this issue are losses from the foundr division which currently run at ~$10bn annualized.
+
+Intel might also have problems with retaining its engineer base. According to sources close to the situation, many engineers are thinking of leaving, perceiving Intel as a sinking ship. That’s not a situation you want to be in when you are trying to regain technological leadership after a decade of being behind.
+
+We would not be surprised if, a decade down the line, Intel throws in the towel and relies on TSMC completely to manufacture its leading-edge chips. Intel wouldn’t be the first Company to do that. Given the ~$10bn operating loss, we think investors might have enough in the next few years and put a stop to Intel’s plans.
+ 
+Thus, we expect TSMC to drive structurally higher pricing growth till the end of the decade. Overall, we expect a MSD % pricing/mix growth till 2028 (ex AI), which can prove conservative. That implies a 1-2 ppts. improvement to top-line growth till 2028 over the base-rate growth algorithm/consensus. Thanks to the high flow-through rate from pricing, the bottom line should see 2-4 ppts. annual improvement.
+
+II)
+
+We think that the market doesn’t fully discount the potential revenue from AI chips. The Company has a nearly 100% share in AI chips. Our primary differentiation comes from the take rate that TSMC will be able to extract.
+
+We think that TSMC will earn ~$34bn on AI chip revenue in 2028 thanks to a 20% market size CAGR in 2024-2028 and TSMC’s “take-rate” expanding from 13% to 25%.
+
+We size the market using consensus estimates for AMZN, GOOGL, META, MSFT, ORCL, and others' CapEx in ‘24, ‘25, and ‘26 and the methodology laid out by Barclays' in their "Cloud AI Capex: FOMO or Field of Dreams" note. We estimate what % of CapEx is compute only (looking at change in Compute CapEx / change in total CapEx) and then AI-compute specifically. We then assume that 40% of CapEx is done by non-hyperscalers (sovereigns and enterprises) vs. ~50% today. That gets us to a $135bn AI Chip market by 2028.
+We think the take rate will expand from two sources: (i) growth in the market driven by # of chips being produced vs. price per chip, (ii) TSMC base-rate price hikes, and (iii) price discrimination starting to be applied to AI chip makers.
+
+In 2024, TSMC will “extract” 13% of the value chain. We think the relatively low percentage is due to the current market setup. Few chips are being sold at very high prices and TSMC prices per wafer. That means its ability to extract value today is limited. 
+
+We think it’s likely that this setup will change. Nvidia is facing competition from startups and hyperscalers' own chips. Though Nvidia maintains its technological leadership, there are applications where other chips might be more cost-effective such as inference and AI at the edge (e.g. at your phone/computer). Companies like Apple, Qualcomm, Intel, and AMD should be leaders in the movement of AI to the edge. In inference, we expect the share of ASICs (“customized chips” trained for one purpose) to be higher than in training where Nvidia currently dominates. According to Google, its TPUs can deliver ~30% better inference performance per dollar than Nvidia’s GPUs.
+
+These chips will sell at a lower ASP, but the industry volume will expand substantially. If we believe that the ASP contracts by ⅓ due to the mix shift, the chip volume would expand at a 30% CAGR until ‘28. At constant pricing, that would allow TSMC’s take rate to expand to 20%.
+
+We further layer in the ~MSD% price hikes we expect on leading-edge nodes + from mix shift to N2.
+
+Finally, TSMC has a better ability to price discriminate on AI chips. On the Q2 call, C. C. Wei confirmed that TSMC is open to price discrimination. When asked whether pricing will be the same for smartphones and high-performance computing, he responded, “I think the pricing is strategic. So it won't be flat for the average product sector. So it will be different.” The 2025 rumored price hikes point in that direction. The leading edge node prices will scale up by ~10% for AI chip makers, with Nvidia being especially targeted. Nevertheless, we think this move won't be perceived badly by Nvidia. Its gross margins are much higher than that of other chip makers. Thus, any increase in manufacturing costs will disproportionately hurt their competitors, protecting its current market-leading position.
+
+Secondly, TSMC is hiking prices on its CoWoS packaging process that is critical to AI chips at rates above the leading-edge nodes. Currently, ½ to ¾ of the CoWoS capacity is used by Nvidia, with the rest split amongst AMD and mostly other AI chip makers. TSMC is pricing up CoWoS up by 10-15% in 2025. We think this is in large part because pricing CoWoS allows TSMC to price discriminate against the AI chip makers without explicitly hiking prices on them.
+
+As a result, we see TSMC’s take rate on AI chips roughly doubling by 2028.
+Valuation
+
+We see revenue growing at 29% in 2024, slightly below consensus, supported by strong cyclical recovery from 2023 and structural growth. The robust growth should continue into 2025.
+
+In 2026-2028, we then see non-AI revenue compounding at 12 %, with growth decelerating from ~25% in 2025 to 10% in 2028. Growth is driven by (i) capacity (LSD  - MSD %), (ii) utilization (LSD - MSD %), and (iii) pricing/mix (MSD %). Another way to think about this is a ~10% core growth algorithm from 2025 to 2028 with the ~1-2 ppts. increase from pricing inflection. Layering the AI revenue onto this forecast implies $160bn revenue in 2028. 
+
+Thanks to the pricing inflection point, we think gross margins can scale up to the high 50s vs. 53% today. Operating leverage should result in a 1.5 ppt. improvement in SG&A margin over the period. Overall, we get to ~32% FCF margins, above historical averages thanks to the pricing initiatives, resulting in ~$53bn of FCF in 2028.
+
+How much would you pay for a HSD-LDD % growing FCF stream of a monopoly that’s critical to the functioning of the modern economy? Likely at least 20x NTM FCF. We think 25x NTM FCF is reasonable. We apply a 10% haircut, adjusting for the possibility of the Chinese invasion of Taiwan to arrive at a 22.5x NTM FCF multiple in 2027, roughly in line with historical averages. Add in excess cash and the share price should compound at ~16% over the next 3.5 years. Adding in a LSD % dividend yield gives you a ~17-18% IRR, without share repurchases. 
+
+For those who think semiconductors are in a bubble, we think that shorting the SOX would be appealing. TSMC’s widest discount to the index is perplexing to us, given that any AI-related revenue should flow through TSMC’s numbers as well.
+
+In the bear case (excluding the Chinese invasion scenario), we think TSMC has a 23% downside. The bear case sees Intel succeeding with advanced nodes, crimping TSMC’s utilization, pricing, and multiple in the process, and AI-related spending inflecting downwards.
+<|endoftext|>

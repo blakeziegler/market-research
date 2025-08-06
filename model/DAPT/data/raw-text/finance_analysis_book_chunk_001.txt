@@ -510,3 +510,5 @@ A coherent financial reporting framework should exhibit transparency, comprehens
 Barriers to creating a coherent framework include issues of valuation, standard setting, and measurement.
 An analyst should be aware of evolving financial reporting standards and new products and innovations that generate new types of transactions.
 Under IFRS and U.S. GAAP, companies must disclose their accounting policies and estimates in the footnotes and MD&A. Public companies are also required to disclose the likely impact of recently issued accounting standards on their financial statements.
+
+<|endoftext|>

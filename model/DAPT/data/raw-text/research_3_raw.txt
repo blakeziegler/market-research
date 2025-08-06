@@ -122,3 +122,4 @@ Valuation behavior also varies within the group of sell-side analysts. While the
 Regarding non-financial information and IC indicators, the thesis shows that the relevance of such information depends on firm characteristics like size and industry. Accessibility is also a key factor in determining what information is used during the valuation process.
 
 The primary contribution of the thesis is empirical. Through observations on valuation methods in takeovers and among sell-side analysts, as well as usage of non-financial and IC-related information, it reveals how valuation practices differ both between and within market participant groups.
+<|endoftext|>

@@ -194,3 +194,4 @@ By the end of year 3, the company has recognized $9,408 in cumulative depreciati
 Year 5: Depreciation expense is $0, as the asset is fully depreciated.
 The DDB method doubles the straight-line rate (2 / 5) and applies it to a declining base—the asset’s book value at the beginning of each year. Only the book value base changes year to year.
 Firms may compute declining balance depreciation using any factor (e.g., 1.5×, 2×, 3×) depending on how rapidly they want to recognize depreciation.
+<|endoftext|>

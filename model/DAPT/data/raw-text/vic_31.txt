@@ -1,0 +1,126 @@
+I believe shares of Nubank can compound at between 16% to 34% over the next five years assuming exit multiples of 25x and 30x respectively, for a mid-point IRR of 25%.
+
+Shares currently trade at $10.82 which is 27x trailing GAAP earnings and 20x FY2025E GAAP earnings.
+
+Nubank has consistently generated very high returns on equity (28% in 2024) despite having a very well capitalized balance sheet.
+
+FWIW the low end of my earnings estimates is way below consensus for GAAP EPS growth, and the high end is still slightly below consensus.
+
+I apologize in advance for two reasons: one, I dislike posting ideas that have already been posted here. Nubank is, however, my best idea currently. Second, I really dislike South America, having grown up there. But I think the risk/reward here is good enough that I’ll make an exception.
+
+Nubank is a fast-growing tech company providing banking services in Brazil (60% of adults are Nubank customers) and growing quickly in new markets, Mexico and Colombia.
+
+I say tech company because this is how the company views itself; over time, it plans to expand beyond banking into other verticals. Already it has started bundling mobile service as an MVNO and it has fidelity agreements with Brazilian retailers. The thesis however does not count on an expansion in verticals. Rather, it hinges on the following variables:
+
+-              Continued customer growth: I expect customer growth to be low single digits in Brazil given its saturation there, but very high in Mexico and Colombia, given Nubank’s still-tiny presence in those markets
+-              I assume the percentage of active customers remains at around 84.9% for all markets going forward
+-              ARPAC, or average revenue per active customer per month, continues to grow in each market
+-              These inputs lead to revenues, and my model expects $24.5 bn by 2030 at the low end and $27.6 bn at the high end (consensus is $32.3 bn)
+-              At the low end I expect gross profit margins to stay flat at 46%; the company has said over time it expects gross margins to reach 60% as it puts more of its balance sheet to work and increases ARPAC
+-              I expect the company to remain best-in-class in terms of efficiency and cost to serve, so I’m modeling growth in opex lower than growth in revenues
+ 
+The company is very well managed, with industry-low cost to serve, low CAC, very high LTV, and very high profitability (NIMs in the teens and net margin of 17% on a GAAP basis).
+
+Business Merits
+
+Nubank publishes very detailed investor presentations showing more granularity on its business than I have ever seen. It also provides very detailed spreadsheets with all the relevant financials and KPIs going back to its IPO in 2021.
+
+Through these disclosures, we learn that Nubank’s cost to serve is approximately 85% lower than incumbent banks and that it operates with ~8,000 employees compared with ~60,000+ for incumbents.
+
+Nubank has no branches and benefits from a new tech stack developed in house. This allows it to iterate quickly and build digital-first products.
+
+Because it has a low cost to serve, it can offer higher interest earning accounts and undercut incumbents on loan rates. Despite this, the bank generates very high net interest margins, north of 10 percent.
+
+Currently its blended ARPAC is about $11. Mature cohorts are already at around $25. Incumbent banks are at $40.  
+
+While Nubank won’t be able to close the full gap because incumbent banks have very high net worth customers and armies of agents to handle them, it can keep climbing that curve and increase customer monetization over time.
+
+The bank’s efficiency ratio is currently in the low 30s, similar to the most efficient banks in the US, but nowhere near its ceiling according to management. 
+
+Nubank has 101.8m customers in Brazil, 10m in Mexico, and 2.5m in Colombia, as of Q4.
+
+The company provides “active %” for Brazil, and that’s 84.9%, so if we apply that across the board, the company has 97m active customers.
+
+Mexico and Colombia together are nearly as big as Brazil, so there’s a lot of runway to go. These populations are less banked than Brazil’s, and credit card penetration is lower. CEO Velez consistently points out that Mexico and Colombia are doing better than Brazil was at a similar point in Nubank’s history.
+
+With the successful Milei regime, founder and CEO David Velez recently noted that he’s looking at entering Argentina; there has also been news that the company is thinking of entering the US.
+
+My thesis only requires that the company keep growing in number of customers and ARPAC in its existing geographies; if so, the investment will do very well indeed.
+
+Business Quality
+
+Moats: these are the five types of moats. Does this company have any of them?
+
+1.        Low-cost production
+2.        High switching costs
+3.        Network effects
+4.        Intangible assets
+5.        Efficient scale
+
+Clearly Nubank enjoys low-cost production given its vastly lower cost to serve the customer.
+
+Switching costs in Brazil are low and likely going lower with Open Banking. Incumbents like Itau have made it easy to open an account through the app, just like Nubank. Therefore, Nubank cannot rely on switching costs as a moat.
+
+Network effects are de minimis, if they exist at all.
+
+Intangible asset: Nubank probably can claim to have a great brand given its very high NPS score and low marketing spend. Most new customers join Nubank through word of mouth. (A risk here: the Brazilian Central Bank has recently introduced a law that might force Nubank to change its name, because it’s not officially a bank, just a payments facilitator.)
+
+The bank currently has efficient scale given its profitability but this is not a source of moat.
+
+Conclusion: the moat for Nubank probably boils down to it being the lowest cost provider, which gives it supernormal profits, allowing it to reinvest in innovative products. Its brand also allows it to grow through word of mouth, an advantage compared to incumbents. 
+
+Management Quality
+
+Nubank’s management is excellent, led by co-founder David Velez as the CEO. CFO Lago is very sharp. Together, this team has built this juggernaut from the start.
+
+Velez seems to dream big; he likes to say that Nubank just happens to have started with financial services, and their goal is to grow the business beyond that, and grow into new geographies as well. This is not part of our thesis: the investment works out in the current geographies and with the current business model of banking. 
+
+Competitive Dynamics
+
+I believe the threat of entrants is high (the barrier to entry is low), however the barrier to scale is high, i.e., entrants can come in but it’s not easy to acquire customers. 
+
+Nubank used the wedge of payments and easy account creation on the smartphone to get a foothold and grow because it was better than incumbents. 
+
+However, another challenger using the same strategy will not succeed because the incumbent (Nubank) already offers a great user experience on the smartphone and has the brand loyalty and trust.
+
+I believe that Nubank’s focus on serving customers without having physical branches is a type of counter positioning because if incumbents were to adopt it, it would disrupt their existing operations. Incumbent banks are heavily invested in their branch networks, and adoption a fully digital, low-cost model would risk alienating their customer base, who are accustomed to in-person service.
+
+Valuation
+
+See above; our thesis hinges on continued customer growth, continued growth in ARPAC, continued low cost to serve, and steady profitability.
+
+The company has a huge opportunity to increase profitability by deploying customer deposits; currently the bank is massively under-invested compared to incumbents because it is being cautious and disciplined on its loan book. As it deploys more deposits into loans, profitability will inexorably rise. 
+ 
+
+Recent Developments
+
+Nubank stock declined 19.8% on Friday after reporting Q4 earnings. The narrative is that folks didn’t like the miss in revenue because of continued depreciation in the Brazilian Real. 
+
+The outlook on Brazil’s macro is negative; higher rates are expected this year, and Lula has a very low approval rating. Maybe this is good as they can finally get rid of this terrible leftist government in the 2026 elections but I’m not holding my breath. Ultimately this shouldn’t matter either way as Brazil is always either in a crisis or heading into the next crisis and yet Nubank has prospered over the years.
+
+As far as I can tell, Friday’s decline is a gift from Mr. Market. I bought more.
+
+Big Opportunities
+
+The low hanging fruit for Nubank is continuing to grow in the products it serves (see below), and deploying more of its balance sheet. Its loan to deposit ratio is still very low; as the company slowly deploys more of this into consumer loans, profitability will improve.
+
+In terms of geo expansion, Velez outlined the “dream” in the Q4 earnings call:
+
+“Nobody in history, as far as we can tell globally, no other global bank, global consumer retail bank has been able to build a multi-country platform that is extremely efficient that has one code base that ultimately could give them a significant advantage in expanding.
+
+And that's what we've actually been building this already for about 18 months and probably have another 18 months to 24 months and is something that will continue maybe forever is having a core bank, proprietary core banking platform that allows us to be in multiple countries that allows us to launch new countries with relatively low investment.”
+
+I highly recommend listening to the entire Q4 earnings call.
+ 
+Risks
+
+Poor underwriting is always a risk for banks but Nubank has proven adept at collecting mountains of data and underwriting new customers, not unlike what we’ve seen with other tech-first fintechs. 
+
+Geopolitical risk is something I always try to avoid and this one has it in spades given its exposure to Brazil, Colombia, and Mexico. However in my judgment the growth and adoption curve are so strong, I’m willing to take this risk given the potential rewards. 
+ 
+Pre-Mortem: Why did this investment fail?
+
+If this investment fails it will likely be because of some unforeseen circumstance, like regulation, change in government, fraud, or some blow-up in the credit book. I think it’s unlikely to fail because of competitive pressures.
+
+Another risk or bear case is that Nubank somehow can’t crack the Mexican and Colombian markets and can’t expand further, or if it does, it fumbles and returns on invested capital are much lower. This is possible, but I hope, not likely. 
+<|endoftext|>

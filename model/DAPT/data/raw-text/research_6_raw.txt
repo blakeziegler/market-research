@@ -64,3 +64,4 @@ Shows how much investors are paying for each dollar of earnings.
 Shows leftover funds after paying short-term liabilities.
 Bringing It All Together
 The statements are interrelated. Changes in the balance sheet impact income statements. Cash flows add depth to balance sheet and income statement data. No one statement tells the full story. Together, they are powerful tools for investors.
+<|endoftext|>

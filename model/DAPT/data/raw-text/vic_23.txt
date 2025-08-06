@@ -22,3 +22,4 @@ Branded market share: Apple Pay other digital wallets including offerings from A
 Unbranded competition:  Competition from Stripe and Adyen is fierce and these competitors are each ~2x the size of Braintree in terms of payment volumes.
 Take rate compression:  A ‘race to the bottom’ on pricing could ultimately squeeze take rates to the point where profitability declines even if volumes grow.  Need to confirm incremental take-rates are positive.
 Technicals:  Very near term, the stock appears a bit extended and could get a better entry at ~$60-61.
+<|endoftext|>

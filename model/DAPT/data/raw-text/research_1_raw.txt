@@ -973,3 +973,4 @@ A complete set of assumptions should now be embedded in the balance sheet and in
 In the example above, long-term debt acts as the plug. In years 1 through 4, assets and liabilities are balanced by calculating debt using a formula. However, this can result in negative debt if retained earnings grow substantially—an accounting impossibility. The formula should be revised to prevent negative debt. If assets exceed liabilities, the surplus is allocated to cash, and the cash forecast formula is adjusted accordingly.
 
 In practice, the same method is used, though with far more complex formulas. Once the pro forma statements are built, cash flows can be derived using the method outlined in Section 1.2.
+<|endoftext|>

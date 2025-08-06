@@ -1003,3 +1003,4 @@ Ratio analysis in conjunction with other techniques can be used to construct pro
 financial statements based on a forecast of sales growth and assumptions about the
 relation of changes in key income statement and balance sheet items to growth of
 sales.
+<|endoftext|>

@@ -1,0 +1,528 @@
+Operator
+
+Good day, and thank you for standing by. Welcome to the Q2 2025 Novo Nordisk Earnings Conference Call. [Operator Instructions]. Please be advised that today's conference is being recorded.
+
+I would now like to hand the conference over to your first speaker today, Jacob Rode, Head of Investor Relations. Please go ahead.
+
+Jacob Martin Wiborg Rode
+
+Thank you. Hello, everyone, and welcome to this Novo Nordisk Earnings Call for the First Half Year of 2025. My name is Jacob Rode, and I'm the Head of Investor Relations at Novo Nordisk.
+
+And with me today, I have CEO of Novo Nordisk, Lars Fruergaard Jørgensen; Executive Vice President, Product and Portfolio Strategy, Ludovic Helfgott; Executive Vice President, U.S. Operations, Dave Moore; Executive Vice President and Head of Development, Martin Holst Lange; Chief Financial Officer, Karsten Knudsen; and finally, Executive Vice President, International Operations as well as incoming CEO as of August 7, Mike Doustdar.
+
+All speakers will be available for the Q&A session. Today's announcement and the slides for this call are available on our website, novonordisk.com. Please note that the call is being webcasted live, and a recording will be made available on our website as well. The call is scheduled to last 1 hour.
+
+Please turn to the next slide. The presentation is structured as outlined on Slide 2. Please note that all sales and operating profit growth statements will be at constant exchange rates unless otherwise specified.
+
+Next slide, please. We need to advise you that this call will contain forward-looking statements. These are subject to risks and uncertainties that could cause actual results to differ materially from expectations. For further information on the risk factors, please see the company announcement for the first 6 months of 2025 as well as the slides prepared for this presentation.
+
+And with that, over to you, Lars, for an update on our strategic aspirations.
+
+Lars Fruergaard Jorgensen
+
+Thank you, Jacob.
+
+Next slide, please. In the first 6 months of 2025, we delivered 18% sales growth and 29% operating profit growth. As announced last week, Novo Nordisk has lowered the full year outlook for 2025 compared to the outlook issued in May of this year.
+
+The change in sales outlook for 2025 is driven by lower growth expectations for the second half of 2025. This is related to lower growth expectations for Wegovy in the U.S. obesity market, lower growth expectations for Ozempic in the U.S. GLP-1 diabetes market, as well as lower-than-expected penetration for Wegovy in select IO markets. Karsten will come back to this later in the call.
+
+I'd like to go through the performance highlights across our strategic aspirations before handing over the word to my colleagues.
+
+Starting with our focus on purpose and sustainability, we are now serving almost 46 million patients with our diabetes and obesity treatments. This is an increase of more than 3.5 million patients compared to the first 6 months of 2024.
+
+In R&D, Ozempic received a positive opinion by the EMA for the treatment of peripheral arterial disease in people living with Type-2 diabetes. Within obesity, we announced that subcutaneous and oral amycretin for weight management will advance into Phase III clinical development.
+
+Further, we initiated a new Phase IIIb trial, REDEFINE 11. The trial lasts for 80 weeks and investigates further potential efficacy and safety of CagriSema.
+
+Finally, we have entered an exclusive collaboration and license agreement with Septerna to discover and develop all small molecules for the treatment of obesity, Type-2 diabetes and other cardiometabolic diseases.
+
+Now I would like to turn over the word to Ludovic for an update on our commercial execution in the first 6 months of 2025.
+
+Ludovic Helfgott
+
+Thank you, Lars, and please turn to next slide.
+
+In the first 6 months of 2025, our total sales increased by 18%. The sales growth was driven by both operating units, U.S. operations grew 17% and international operations has grown 19%.
+
+Sales growth in the first 6 months of 2025 was positively impacted by gross to net sales adjustments related to prior years. Our GLP-1 sales in diabetes increased by 10%, driven by U.S. operations, growing 9%; and international operations growing 10%.
+
+Sales growth in the U.S. includes an adjustment related to the 340B provision of around DKK 3 billion in the second quarter of 2025. Incident sales increased by 4%, driven by U.S. operations growing 17%. The sales increase was driven by gross to net adjustments related to prior years as well as channel and payer mix partially countered by a decline in volume.
+
+International sales, operation sales decreased 1%. Obesity care sales increased 58%, driven by U.S. operations growing 36% and international operations growing 125%. The volume of compounding GLP-1s in the U.S. is estimated to have impacted the uptake of Wegovy prescriptions, as well as the growth of the branded obesity market during the first half of 2025.
+
+Please turn to next slide. Our rare disease sales increased by 15%. This was driven by a sales increase in the U.S. operations, 23%; and international operations 10%. Sales of rare endocrine disorder products increased by 49%, driven by Norditropin and Sogroya launch uptake across U.S. and international. As a reminder, in 2024, sales of Norditropin were negatively impacted by a reduction in manufacturing output, which has now improved.
+
+Red blood disorder sales increased by 6%, driven by an increased sales of NovoSeven and Alhemo in the U.S. and higher haemophilia B and Alhemo sales in international operations.
+
+And with that, I'll hand over to Dave.
+
+David S. Moore
+
+Thank you, Ludo. Please turn to the next slide.
+
+Sales of GLP-1 diabetes care products in the U.S. increased by 9% in the first 6 months of 2025. The sales increase was driven by continued uptake of Ozempic, partially countered by Victoza and Rybelsus. Ozempic sales in the U.S. were positively impacted by gross to net sales adjustments related to prior years.
+
+The weekly Ozempic prescriptions are currently around 690,000 and in standard units. While the full impact of the chronic kidney disease indication has yet to be fully realized. This indication allows us to reach an additional patient segment within the Type-2 diabetes population. And we will continue to invest in commercial activities and label updates towards driving further market penetration. This includes Ozempic in the cash channel, which we anticipate launching later this year.
+
+Please go to the next slide. Wegovy sales increased by 37% in U.S. operations in the first 6 months of 2025. The Wegovy sales growth was driven by increased volumes partially countered by lower realized prices. And Wegovy has around 280,000 weekly prescriptions.
+
+As Ludo said, despite the expiration of the FDA grace period for mass compounding on May 22, Novo Nordisk market research shows that unsafe and unlawful mass compounding has continued. Multiple entities continue to market and sell compounded GLP-1s under the false guise of personalization, and it is estimated to be around 1 million patients are on compounded GLP-1s in the U.S.
+
+Novo Nordisk is working to prevent unlawful and unsafe compounding of semaglutide in U.S., while making sure patients have access to safe legitimate semaglutide produced only by Novo Nordisk. As unsafe and unlawful mass compounding continues, the Wegovy penetration within the cash channel has been lower than expected.
+
+Novo Nordisk launched NovoCare Pharmacy in March 2025, and the penetration of Wegovy within the cash channel is now around 10% of total prescriptions.
+
+Novo Nordisk will continue to invest in the expansion of direct-to-patient initiatives, including NovoCare Pharmacy as well as telehealth collaborations.
+
+Within the insured channel, Novo Nordisk expects a volume contribution from changes to the CVS National Template Formulary. This went into effect on July 1, 2025, where Wegovy is now the only GLP-1 medicine covered for obesity.
+
+Although compounding persists, we do see positive early indicators in recent weeks of prescription data that we believe is driven by CVS Formulary decision as well as recent commercial efforts. We remain focused on driving commercial execution, which includes refining our messaging, launching new initiatives and pursuing additional indications over the course of this year.
+
+Our most recent Wegovy direct-to-consumer campaigns highlight real-world evidence that was presented at the ADA meeting in June, with additional campaigns planned for the second half of the year.
+
+Furthermore, we continue to anticipate a regulatory decision regarding the Wegovy MASH indication in the third quarter of 2025.
+
+Now I will turn it over to you, Mike, for an update on international operations.
+
+Maziar Mike Doustdar
+
+Thanks, Dave. Next slide, please. Sales in IO grew by 19% in the first 6 months of 2025, driven by GLP-1 products. GLP-1 diabetes sales increased 10%. This growth was negatively impacted by periodic supply movements. Our GLP-1 diabetes sales in Region China was also lower than expected, mainly because of the wholesaler inventory movements and timing.
+
+Having said that, Obesity care sales grew in IO by a very strong percentage. We grew the sales by 125% to DKK 13.9 billion. And if you discount for Saxenda and look at the sales at Wegovy alone, we have now reached more than DKK 12.2 billion, growing at an impressive rate of 335% by all the regions.
+
+Please go to the next slide. Novo Nordisk remains the market leader in IO with the total diabetes and obesity GLP-1 volume market share of 71%. Simply put, almost 3/4 of people that use GLP-1 products in IO are on a Novo-Nordisk GLP-1 product. With improved supply for both Ozempic and Wegovy and connected to that increased investments and higher innovation -- higher activations of commercial activities, we will accelerate our launches and further advance our GLP-1 leadership.
+
+Rybelsus is also available right now in 40 countries and will continue to gain market share in international operations. Meanwhile, Ozempic remains the leading GLP-1 diabetes product within IO, having launched in around 80 markets. As supply has started to increase towards IO markets, we are now all in with our promotional activities to further expand the number of patients that we are reaching. That also includes an increased online presence and telehealth collaborations in our markets.
+
+We have now launched Wegovy in around 35 countries, including more than 15 new launches just this year. Furthermore, we continue to drive innovation with Wegovy, having submitted for regulatory approvals in Japan for the treatment of MASH in May and a higher dose of Wegovy with the submission of semaglutide 7.2 milligram to the EMEA in July.
+
+The growth of Wegovy in IO is very encouraging, but there are still millions of people with obesity who need our medications, and we need to get to them soon. We will continue rolling out Wegovy in more countries during the second half of this year.
+
+Now over to you, Ludo.
+
+Ludovic Helfgott
+
+Thank you, Mike. That's right. And please turn to the next slide. As you've heard from Dave and Mike, there isn't much work to be done when it comes to reaching the millions of people worldwide living with diabetes and obesity.
+
+Over 550 million people live with Type-1 and Type-2 diabetes globally and over 900 million people live with obesity. In both cases, most of these people reside outside of the United States. Despite the prevalence of diabetes and obesity, more effort is required to help people get our innovative medicines.
+
+In diabetes, as an example, through -- though a patient can have more than one prescription, only 7% of total estimated prescriptions are of GLP-1. Furthermore, less than 1% of people with obesity globally are treated with branded anti-obesity medications. This, of course, means that there is a vast unmet need that is yet to be addressed.
+
+Novo Nordisk will keep investing across the value chain. Our goal is to gradually expand the diabetes and obesity markets, reaching new patient groups and new physician segments. We also work to introduce new channels and treatments and reduce barriers to access to our innovative treatments and devices can get a list of patients who need them.
+
+Please turn to next slide. As an example and in continuation thereof, unlocking the full potential of the obesity market requires addressing diverse patient segments through a broad and strategically aligned portfolio of treatments. The obesity market today in base
+
+is in magnitude of weight loss. And of course, we respond to that need. However, we will widen the scope of our medicines, and we ensure greater relevance across varying BMI categories and patient preferences.
+
+Our portfolio reflects this diversity, targeted at offering both subcontinuous and oral delivery and addressing comorbidities associated with obesity. This includes atherosclerosis, heart failure, MASH with fibrosis, and osteoarthritis. With these differentiated treatment goals, whether patients desire rapid weight loss or rather gradual progress supported by tolerability and safety, Novo Nordisk remains focused on providing solutions to current and future segments.
+
+And now over to Martin for an update on R&D.
+
+Martin Holst Lange
+
+Thank you, Ludo. Please turn to the next slide. I would like to start with a brief reminder of the amycretin Phase Ib/IIa data, which we presented at the ADA in addition to the next steps for the compound. The primary endpoint of the Phase Ib/IIa trial with subcutaneous amycretin in people with overweight obesity was treatment emergent adverse events. Overall, the trial demonstrated that the safety profile for amycretin was consistent with incretin-based therapies.
+
+The most common adverse events with amycretin or gastrointestinal and the vast majority were mild to moderate in severity. People treated with amycretin in the dose dependent -- sorry, in the dose response part of the trial achieved an estimated body weight loss of 9.7%, 16.2% and 22% after a 12-week maintenance period. This was in the 1.25-milligram, 5-milligram and 20-milligram doses, respectively.
+
+In the multiple ascending dose part of the trial, people on the 60-milligram amycretin dose achieved an encouraging estimated body weight loss of 24.3% at 36 weeks. Overall, we are very encouraged by the Phase Ib/IIa data speaking to the potential of amycretin, both on efficacy and on tolerability.
+
+After an end of Phase II discussions with the regulatory authorities, we are now looking forward to initiating a broad Phase III development program with amycretin for adults with overweight and obesity and associated comorbidities.
+
+Next slide, please. The comprehensive Phase III development program will be called AMAZE and will start in the beginning of 2026. The program has decided to investigate the weight loss potential of amycretin, while evaluating multiple maintenance doses, the subcutaneous and oral route of administration as well as several obesity-related comorbidities.
+
+For example, atherosclerotic cardiovascular disease, heart failure, chronic kidney disease, knee osteoarthritis and obstructive sleep apnea, with the plans to investigate additional comorbidities as well. We're excited about the potential that amycretin holds and the AMAZE program will be key to unlock this potential.
+
+Next slide, please. Turning to the upcoming R&D milestones. We are looking forward to the remainder of 2025 with a number of readouts and milestones. However, before speaking to this, I would like to highlight a few milestones from the past few months.
+
+Within obesity, we have initiated the REDEFINE 11 Phase III trial with CagriSema to investigate further weight-loss potential by exploring dose re-escalation and longer trial duration. Further, we have submitted semaglutide 7.2 milligram for approval within the EU. Looking ahead, we also anticipate the internal triple GLP-1, GIP, Amylin Phase I readout that will gate for potential further development into Phases Ib and II.
+
+Within diabetes, as Lars noted, we received a positive EMA opinion regarding the Ozempic label update for treating peripheral arterial disease and people living with Type-2 diabetes. This supports the accumulating evidence of cardiometabolic benefits for semaglutide 1.0 milligram and people living with Type-2 diabetes.
+
+Notably, semaglutide 1.0 milligram has demonstrated a 24% risk reduction in the risk of kidney related -- kidney disease-related events, in the FLOW trial and cardiovascular risk reduction of 26% in the SUSTAIN 6 trial, which is unsurpassed in the incretin space. This seems to corroborate what we have been speaking to for the last couple of years, namely that semaglutide appears to be unique in driving the magnitude of cardiovascular benefits in the class.
+
+In addition in diabetes, we are awaiting the readout of the REIMAGINE 3 trial, investigating the potential of CagriSema in diabetes. We also anticipate the Phase II results of the subcutaneous and oral amycretin in Type-2 diabetes.
+
+Within rare disease, the FDA has now approved Alhemo as once daily prophylactic treatment to prevent or reduce the frequency of bleeding episodes. The label covers adult and children 12 years of age and older with hemophilia A or B without inhibitors. We also received a positive opinion in EMA for Alhemo.
+
+Lastly, in rare disease, we expect to file Mim8 for hemophilia A approval in the U.S. and in EU in the second half of this year.
+
+Within cardiovascular disease and emerging therapy areas, we are excited to have submitted the ESSENCE Part I data with once- weekly semaglutide 2.4 milligram for regulatory approval in Japan for the treatment of MASH.
+
+We also anticipate a U.S. decision on the Wegovy MASH indication later this quarter. In July, we successfully completed a Phase II trial with Coramitug, an antibody designed to deplete amyloid deposits in transthyretin amyloid cardiomyopathy. Detailed data are expected to be shared at a medical conference later this year.
+
+Following the successful completion of this Phase II trial, Coramitug in ATTR cardiomyopathy is expected to initiate Phase III during the course of 2025.
+
+Lastly, we look forward to the readout of the EVOKE and EVOKE+ Phase III trials in patients with early Alzheimer's disease towards the end of this year. While we are excited about the potential for semaglutide in Alzheimer's disease, we must also highlight that this is a high risk reward opportunity -- sorry, high risk, high reward opportunity.
+
+With that, over to you, Karsten.
+
+Karsten Munk Knudsen
+
+Thank you, Martin. Please turn to the next slide. In the first 6 months of 2025, our sales grew by 16% in Danish kroner and by 18% at constant exchange rates, driven by both operating units. The gross margin decreased to 83.4% compared to 84.9% in 2024.
+
+The decrease mainly reflects amortizations and depreciations related to Catalent as well as costs related to ongoing capacity expansions. This is partially countered by a positive product mix, driven by increased sales of GLP-1-based treatments.
+
+Sales and distribution costs increased by 15% in both Danish kroner and at constant exchange rates. The increase in cost is driven by both U.S. operations and international operations.
+
+In U.S. operations, the cost increase is mainly driven by promotional activities related to Wegovy and Ozempic, while in international operations, the increase is primarily related to Wegovy launch and promotional activities.
+
+R&D costs decreased by 11% in both Danish kroner and at constant exchange rates. The decrease is driven by the impairment loss related to ocedurenone of DKK 5.7 billion and other impairments of intangible assets in 2024. This is partly countered by increasing investments within obesity care and reflecting increased late-stage clinical trial activity as well as increased early research activities.
+
+Administration costs increased by 10% in Danish kroner and 11% at constant exchange rates. Operating profit increased by 25% measured in Danish kroner and by 29% at constant exchange rates, while EBITDA increased by 16% measured in Danish kroner and 19% at constant exchange rates.
+
+Net financial items showed a net loss of DKK 1.4 billion compared with a net loss of DKK 530 million last year. This primarily reflects financing costs related to the funding of the Catalent transaction. The effective tax rate was 21.6% in the first 6 months of 2025 compared to 20.6% in 2024. Net profit increased by 22% and diluted earnings per share increased by 23% to DKK 12.49.
+
+Free cash flow in the first 6 months of 2025 was DKK 33.6 billion compared to DKK 41.3 billion in the first 6 months of 2024. The reduction in free cash flow is driven by increased capital expenditures partially countered by higher net cash generated from operating units.
+
+Capital expenditure for property, plant and equipment was DKK 28.1 billion compared to DKK 18.9 billion in 2024. This was primarily driven by investments in additional capacity for API production and fill/finish capacity for both current and future injectable and oral products.
+
+For 2025, the Board of Directors has decided to pay out an interim dividend of DKK 3.75 per share, an increase of 7% compared to August 2024. The interim dividend will be paid out in August this year. We have returned DKK 36.5 billion to shareholders, mainly as dividends in the first 6 months of 2025.
+
+Please go to the next slide. The updated financial outlook for 2025 was announced last week, where the key highlights and drivers were described in the company announcement and investor call. Sales growth is now expected to be 8% to 14% at constant exchange rates and operating profit growth is now expected to be 10% to 16% at constant exchange rates. Sales and operating profit growth reported in Danish kroner is now expected to be 3 and 5 percentage points lower than at constant exchange rates, respectively, based on exchange rates from 31st of July 2025.
+
+The lower sales outlook for 2025 is driven by lower growth expectations for the second half of 2025. This is related to lower growth expectations for Wegovy in the U.S., obesity market for Ozempic in the U.S., GLP-1 diabetes market as well as Wegovy in select IO markets. The updated guidance reflects several efforts already underway, as mentioned by Mike and Dave.
+
+Novo Nordisk expects net financial items to show a gain of around DKK 1.6 billion, this is mainly driven by anticipated gains on hedged currencies, primarily the U.S. dollar, partially offset by interest expenses, related to funding of the debt financed Catalent transaction.
+
+The effective tax rate for 2025 is still expected to be between 21% and 23%. Capital expenditure is still expected to be around DKK 65 billion in 2025, reflecting expansion of the global supply chain. In the coming years, the capital expenditures to sales ratio is still expected to be low double digits.
+
+Free cash flow is now expected to be DKK 35 billion to DKK 45 billion, reflecting the lower-than-expected sales growth, mainly driven by lower volume growth of GLP-1 treatment in the U.S.
+
+That covers the remaining details on the outlook for 2025.
+
+Now back to you, Lars.
+
+Lars Fruergaard Jorgensen
+
+Thank you, Karsten. Please turn to the next slide. The performance in the first 6 months of 2025 with 18% sales growth reflects that nearly 46 million people are now benefiting from our treatments. Further, we progressed our R&D pipeline, including initiating the CagriSema Phase IIIb trial REDEFINE 11 in people living with overweight and obesity.
+
+We have reduced our full year outlook compared to the guiding issued in May. While we have to adjust expectations for the second half of 2025, the organization is clear on what it needs to do going forward.
+
+I'm confident that with Mike at the helm, Novo Nordisk is equipped to continue to unlock the potential to treat more people living with the serious chronic diseases.
+
+It is with that, I would like to share my gratitude to the Board, my team and all Novo Nordisk employees for allowing me to lead this incredible organization. I'll continue to follow Novo Nordisk, and I'm excited for the organization's next chapter.
+
+With that, I'd like to hand over to Mike for final comments.
+
+Maziar Mike Doustdar
+
+Thank you, Lars. Please turn to the next slide. As of tomorrow, August 7, I'm excited to be taking over as President and CEO of Novo Nordisk. As we shared last week, there have been additional changes to the executive management team that I would like to highlight now.
+
+Marcus Schindler, Executive Vice President of Research and Early Development and Chief Scientific Officer, is retiring after 7.5 years at Novo Nordisk and 4 years in his current role. Marcus has been instrumental in discovering and advancing early scientific innovation across therapeutical areas and technologies.
+
+Novo Nordisk research and early development and development areas will be combined. The new research and development organization will be overseen by Martin Lange, currently Executive Vice President of Development. Martin has been appointed Chief Scientific Officer and will resume responsibility for research and development starting tomorrow, August 7. As CSO and Head of unified R&D organization, Martin will leverage his deep scientific expertise, strong leadership and long-standing experience at Novo Nordisk to ensure efficiency and continued innovation.
+
+We'll be focused on raising the innovation bar within diabetes and obesity, bringing new and better medicines to patients with serious chronic diseases.
+
+Lastly, Emil Larsen, currently Senior Vice President of Europe and Canada region will succeed me and assume the responsibility of Executive Vice President of International Operations. Emil currently leads region EUCAN, spanning 40 countries accounting for about 20% of Novo Nordisk's global sales.
+
+I would like to congratulate Martin and Emil under promotions and thank Marcus for his significant contributions and dedication to the company.
+
+Lastly, I would like to thank you, Lars, for your dedication and many years of service in Novo Nordisk. I consider it as a privilege to have worked under your for so many years, and I appreciate your support in passing the responsibility over to me.
+
+Looking ahead, we must act with greater urgency building on your company -- building on our company's strength while sharpening our focus on commercial execution and operational efficiency. By fostering innovation and making thoughtful investments, we will be having the greatest impact and we can ensure steady progress together.
+
+With that, over to you, Jacob.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Mike. Next slide, please. With that, we are ready for the Q&A. [Operator Instructions]. Then we are ready for the first set of questions, please, operator.
+
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions]. And your first question today comes from the line of Michael Nedelcovych from TD Cowen.
+
+Michael Thomas Nedelcovych
+
+I have two. My first is on Wegovy formulary position with CVS. The deal looks to already be having an impact on prescription volumes in the U.S. Lilly has suggested that the sum total of lives covered that might be affected by the formulary update is roughly 200,000. Does that align with your thinking as well? And how many of those people do you expect will actually make the switch to Wegovy? So that's my first question.
+
+And my second question is on compounding. Our understanding is that the statutes that compounders use to support their marketing of so-called personalized GLP-1 dosing are not clearly defined and that a broad court decision may be needed to get this practice fully shut down across the country. One could even imagine the Supreme Court needing to weigh in. So my question is whether Novo has initiated any litigation that could possibly serve that purpose.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Mike, for those two questions. I'll hand both of them as a start to you, Dave, and we'll start with the question on the CVS formulary, please.
+
+David S. Moore
+
+Yes. Thank you, Mike, for the question. We are pleased with what we're seeing so far on the CVS formulary conversion. That conversion is going according to plan at this point. We won't comment on the specific number of lives and what the actual percentage of conversion is. But to tell you that we are seeing things that are largely in line with what we expected and what was in the plans.
+
+On the compounding side, thank you for that question as well. This is something that, as you heard in our remarks, in the beginning of the call, this is a priority for our company. This is a priority to protect patient safety. This is a priority to ensure that the laws are followed. And as we mentioned, as of May 22, compounding is illegal in the U.S. except for rare circumstances. And the APIs that are being imported into the U.S. are legal and they are not coming from approved facilities.
+
+Not to comment directly on any litigation, but I will let you know that there is nothing categorically that is off the table. You saw earlier this week that we gave some more insight in terms of the legal actions that we are taking. And certainly, our viewpoints on that are broad. And we have updated or increased our recent dialogue with FDA. And we will continue that ongoing dialogue, and we continue to think that there should be pressure that's put on these entities that are false advertising, misleading patients with a legal API.
+
+Jacob Martin Wiborg Rode
+
+Thanks a lot, Dave. And also thank you to you, Mike, for the set of questions. With that, we'll move on to the next set of questions, please.
+
+Operator
+
+Your next question comes from the line of Peter Verdult from BNP Paribas.
+
+Peter Verdult
+
+Two for Mike, please. Just can we discuss China, Mike, before you move up to CEO just in a little more detail. Just interested to know why there's been so much destocking in Q2? And how confident you are about the growth outlook in China given the arriving of generic semaglutide next year?
+
+And then secondly, I just wanted to come back to a question post to you on last week's call about the go-forward strategy changes you intend to make. I mean, should we assume major changes in R&D focus? And can I push you, what exactly you can do differently with respect to commercial strategy that hasn't already been tried by the company year-to-date?
+
+Jacob Martin Wiborg Rode
+
+Thank you, Pete. And for those two questions, I'll go to you -- to you, Mike.
+
+Maziar Mike Doustdar
+
+Yes. Thanks very much, Pete. Let me start with China. Let me start by saying what it's not the reason for lower growth. We are not losing market share in China. Actually, the opposite. We're gaining market share. We're basically, as you know, a bit left alone, competition is not yet present. So that is not the reason for the lower growth. As mentioned to us, the reason for the lower growth, I would say, is one-and-a-half things.
+
+The one thing is comparing it to last year, where we basically in anticipation of Wegovy launches, build some large stocks -- we now, of course, need to make that adjustments for this quarter. So it's a timely event and that's what the definitions behind the sentences.
+
+The half issue is that, we need to accelerate the GLP-1 market growth, both, I would say, still in diabetes, but certainly also in obesity.
+
+We know that from our diabetes leadership and being in China for a long time, that you start somewhere in the center and you reach your customers, then you need to start going into the broader China in covering Tier 2 and Tier 3 and Tier 4. And then we need to do that both off-line as well as, of course, nowadays online. And that is, of course, what we are doing, and we're increasing investments and people behind our GLP-1 sales force, which gives me, of course, partially the confidence for the future.
+
+I'm very confident for China's future. And the reason I am is because it has a huge amount of unmet need and populations that are within diabetes and obesity where we serve. 200 million people living with obesity, 100 million people living with diabetes is what I get my confidence from. And then we have some of the best people, the best team on the ground to maximize on that.
+
+Jacob Martin Wiborg Rode
+
+Thanks for that Mike, for covering the China question, and there was a follow-up question in terms of strategic building blocks.
+
+Maziar Mike Doustdar
+
+Yes. So I cannot give you much more than what I gave you last week, because not much has changed, and I'm still not the CEO. I have one more day to go.
+
+But I can repeat what I said last week, Pete. We're going to focus more. We're going to focus more on diabetes and obesity as this is our main core and has always been. And I have a belief that when you focus on anything more, you increase the speed, increase the agility, and you get more out of that as we go forward.
+
+I think, I've been put into this position, because I execute and I outcompete my competition. At least in IO, I have done that. And I plan now to do more of that for the rest of the company. So execution, execution, execution is what we said also last time. And then, when I think about the future and the huge opportunities that we have, we need to be able to finance that and not fall behind the competition.
+
+To finance that, we need to reallocate, and relook at our cost base and really put the money where the growth is. So those are the three things I said last week, and they're still very valid today.
+
+Jacob Martin Wiborg Rode
+
+Thanks a lot, Mike. And also thanks to you, Pete. Then we are ready for the next set of questions, please.
+
+Operator
+
+Your next question comes from the line of Sachin Jain from Bank of America.
+
+Sachin Jain
+
+I have two questions, please. One for Dave and then one for Karsten, I guess. So firstly, on the Wegovy recent TRx dynamics, you flagged in the presentation the NovoCare contribution. Just to follow-up to prior, any sense of how much the increase outside NovoCare is CVS versus remaining underlying growth? I'm just trying to get a sense of how much more CVS has to go and what the growth rate looks like once the CVS bolus is done? That's the first question.
+
+The second question is, I guess, a repeat of a question for Karsten from last week. I under -- so it's on 26 pushes and calls, if you want to provide some high level. I know you didn't last week, but if consensus is corrected dramatically, obviously, a big share price move, wonder whether you wanted to assess whether you think we collectively are thinking about is correctly, consensus has fallen out at about 9% to 10% sales and EBIT growth.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Sachin, for those two questions. I'll give the first one to you, Dave. I think you covered part of it firstly, but on CVS and then also NovoCare please?
+
+David S. Moore
+
+Yes. Thanks, Sachin. It's still early days with respect to CVS and the conversion. We have a couple of data points in July. So most of those obviously show up in the first case in NBRx. And as I mentioned, we're seeing that largely in line, but there's still data points to come, right, and some time to go. The increases that we are seeing in our uptick, they are partly due to CVS, but they're also partly due to our other commercial efforts.
+
+As I had mentioned in the previous quarter, we have a new campaign that we launched and focused on the weight loss of Wegovy as the primary message. So it's a mix of both. And then with respect to NovoCare Pharmacy, we will continue to expand that channel. It is a focus for us. Certainly, the early days of NovoCare pharmacy have been impacted by the continuation of compounding.
+
+But we think there's a real opportunity to continue to expand that channel. We are encouraged in terms of what we're seeing in our overall cash business. And we think there's certainly an opportunity to partner with more organizations, telehealth included, and other entities to expand the cash channel.
+
+And as I mentioned, we will, in the second half of the year, be offering another product, which is Ozempic and NovoCare Pharmacy as well.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Dave. And on the question -- second question on looking ahead and pushes and pulls, I'll turn to you, Karsten.
+
+Karsten Munk Knudsen
+
+Thanks for that question, Sachin. And I'd just like to take us back to the starting point around what we're pursuing as a company. And we're pursuing innovation-based growth and what we see in terms of unmet need, as Ludo covered in the prepared remarks, we are looking into two significant markets in diabetes and obesity, where our penetration with our current portfolio of products is still very, very low.
+
+And what you saw in our reporting today, you saw 19% growth in international operations. It's a big portfolio of markets. And we are not even done in terms of rolling out in all markets with Wegovy as an example. And GLP-1 penetration in diabetes is also very low on a global scale.
+
+So we believe that we have a substantial volume opportunity with our current portfolio, and that's what we'll be continuing to drive on the basis of what we're delivering this year. And then like any year, there are pushes and pulls between new launches like ortho and obesity in the U.S. build of new channels, cash channels in the U.S. and elsewhere.
+
+And of course, then there are few headwinds also LOE in a few select markets in IO. And to kind of size that in rough terms as we have also done historically on specific items of discretionary nature, then our assessment on LOE in the specific IO markets, in terms
+
+of impact to group growth next year is to the tune of low single digits of group sales. So that's what we're looking into next year, but clearly focused on driving growth with our portfolio and then continued Wegovy launches as well as oral sema in the U.S.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Karsten. And also thanks to you, Sachin. With that, we are ready to move on to the next set of questions, please.
+
+Operator
+
+Your next question comes from the line of Michael Novod from Nordea.
+
+Michael Novod
+
+Michael Novod from Nordea. Maybe you can comment a bit on how you stand in terms of capacity also for accelerating IO also going into next year. Because -- of course, there has been a lack of capacity, but how are you positioned now?
+
+And also in the same question, obviously, how well positioned do you believe you are for, sort of, any expansive launch of oral sema 25 milligrams for obesity? And then just lastly, a small note to Rybelsus. We've seen you sort of comment on a deprioritization. Is that something that we should just factor in will mean that the Rybelsus will be more sort of flattish going forward?
+
+Jacob Martin Wiborg Rode
+
+Thank you, Michael. On the first question on capacity, I'll turn that over to you, Karsten.
+
+Karsten Munk Knudsen
+
+Yes. Michael, thank you for that question. I think the best forward-looking indicator on capacity you can get is our current run rate. And when you look at Wegovy and IO year-to-date compared to last year, it's up 4x. So we are scaling really fast in terms of both in market penetration and number of launches.
+
+And as to number of launches, if you just take over the last roughly 6 months, then we started the year in around 20 markets and now we're in around 35 markets and still counting. So the pace of launches is high in International Operations, and you should expect that to continue to be the case.
+
+And then for capacity on the oral sema for obesity, you should expect us to launch that come next year in the U.S. in a non-supply restricted way.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Karsten. Very clear. And on the second question on Rybelsus, mainly in the U.S., I'll turn it over to you, Dave.
+
+David S. Moore
+
+Yes. Thank you for that question. Yes, I think you have it right, Michael. The priority certainly is continuing to expand with Ozempic, in the Type-2 diabetes market, the priority is with Wegovy. In the obesity market, and as Karsten mentioned, with a MASH launch coming up as well as the oral sema for obesity. So I think, the terms of flattish trends with Rybelsus is really just a signal in terms of where our priorities are. This is on our commercial investments and execution in Ozempic and Wegovy.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Dave, and thanks to you, Michael. With that, we're ready to go to the next question, please.
+
+Operator
+
+Your next question comes from the line of Evan Seigerman from BMO Capital Markets.
+
+Evan David Seigerman
+
+I wanted to touch on one of your development assets. We noticed you discontinued your development above Zalfermin and MASH. Can you walk us through kind of the rationale and what you saw in that trial to drive this decision? And do you still have interest in the FGF21 target?
+
+Jacob Martin Wiborg Rode
+
+Evan, thanks for that. The question on Zalfermin and FGF21, I'll turn that to you, Martin.
+
+Martin Holst Lange
+
+Yes, absolutely. Thank you for the question. I think you've heard me talk to before, we do not progress assets that are not differentiated in a meaningful way. We conducted a trial comparing Zalfermin or FGF21 both in monotherapy to semaglutide, but also in combination with semaglutide.
+
+And we did not see from an efficacy perspective a dramatic improvement, neither in monotherapy nor in combination, above and beyond what we know already now semaglutide can do. In F2 and F3 and actually also in F4. This largely speaks to the power of semaglutide. We have some very strong data in MASH that are currently under FDA review. As you know, FDA granted priority review, because of the data package. And we expect the readout of that this quarter. Semaglutide is difficult to beat in this space. It doesn't mean that we are necessarily done with the FGF21 biology, but specifically in a head-to-head comparison, it just didn't substantially differentiate from semaglutide.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Martin, and thank you for the question, Evan. Let's move on to the next set of questions, please?
+
+Operator
+
+Your next question comes from Richard Vosser from JPMorgan.
+
+Richard Vosser
+
+One question just to follow up on pricing. We talked a lot about volume in the second half, but just the thoughts on the price a little bit more on that color. I know, we covered it last week, but price around Wegovy and Ozempic in the second half and into '26 as well. And then secondly, on the -- just wondered if I could get your thoughts on SURPASS-CVOT, and how you think that will impact the competitive dynamics in the diabetes market with Ozempic?
+
+Jacob Martin Wiborg Rode
+
+Thanks a lto, Richard, for those two questions. First, on the pricing question, I'll turn it over to you first, Karsten.
+
+Karsten Munk Knudsen
+
+Yes. Thank you for that question, Richard. And as we've said consistently, then do be careful in terms of working too much with the pricing on a quarterly basis. There are fluctuations there with the inventories at wholesalers, gross to net and the like. So what I would say is that, that directionally, when we talk about the Wegovy pricing, then the price erosion is more skewed towards the second half of the year linked to the fact that we're building the cash channel, and hence, there's a channel mix element to it.
+
+And then, we're also investing in reducing friction in the access we have in place in the insured channel. So patients can get better access to reimburse the Wegovy in the U.S. marketplace. So more skewed to the second half in terms of price erosion. But of course, something we do in a very disciplined, thoughtful manner.
+
+Jacob Martin Wiborg Rode
+
+Absolutely. Thanks, Karsten. And on the second question on competitor trial, I'll turn it over to you first, Martin, and let you add if anything, Ludo, afterwards.
+
+Martin Holst Lange
+
+Yes, absolutely. Thank you for the question. Of course, we've only seen headline data. So it's difficult to go into details. Looking at the headline, however, it was clear that based on the primary analysis, tirzepatide wasn't fair to -- sorry, non-inferior to dulaglutide, which means basically it did not demonstrate a benefit versus dulaglutide. Dulaglutide that in the REWIND study demonstrated a 12% CV risk reduction versus placebo. This despite of a better weight loss and better glycemic control.
+
+I'll remind you that semaglutide by comparison through SUSTAIN 6 has shown a 26% CV risk reduction, which is to date, unsurpassed in the incretin space. This does seem to confirm that semaglutide stands hard on the magnitude of CV benefit among the incretin-based drugs. And it also, a little bit appears to be driven by more than just weight loss. So for CV benefit, for also other comorbidities, semaglutide appears to stand out at this point.
+
+Ludovic, any comments from you?
+
+Ludovic Helfgott
+
+Absolutely. I think you're right. I think that we have with semaglutide, an agent here that has an unsurpassed CV profile. And of course, as we discussed earlier on, as this market is expanding, we're going to have to target new populations, new groups of patients, new physicians. And it's extremely important to make sure that for those patients for which beyond the weight, the comorbidities are important in their journey, we make sure that the quality of the CV quality and CV profile of semaglutide are being heard, and that's true with the endocrinologists, the GPs, the cardiologists. It's also true for those patients who decide maybe to learn by themselves, which product they want to get.
+
+And we have to make sure that this profile is known. And then -- and renowned for what it gives. I think it's actually very interesting. And a validation of what I think Martin was saying, all along, not all GLP-1s are the same.
+
+Jacob Martin Wiborg Rode
+
+Perfect. Thank you, Ludo, and also thank you to you, Martin, as well for the question, Richard. Let's turn to the next set of questions, please.
+
+Operator
+
+Your next question comes from the line of Martin Parkhoi from SEB.
+
+Martin Parkhoi
+
+Yes, Martin Parkhoi, SEB. Also two questions, Karsten. First, a question to you on CapEx, now that, that there's a little less growth in Novo, then it turns more to a value case. And then it would be interesting to hear your more long-term thoughts on cash flow development. And that's, of course, CapEx, which are very high right now. When should we actually expect a more maintenance level and what kind of level are we actually looking at a very long term?
+
+And then the second question, just on Dave, also on the all the Wegovy launch and maybe already touch a little bit about it. But now there's a U.S. decision in Q4 according to your table and how will that immediately be launched in the cash channel? And how important do you actually think that could change the trend of the uptake in the cash channel?
+
+Jacob Martin Wiborg Rode
+
+Martin, thanks for those questions. So the first one on the CapEx part, we'll give a go, Karsten.
+
+Karsten Munk Knudsen
+
+Yes. So thank you for that question, Martin. And the level of CapEx we're pursuing is directly a function of the opportunity we see in unmet need, I was talking to before, in both diabetes and obesity as well as our other assets that we're investing into. So I would say in terms of CapEx at risk, I do believe that we're investing in the core of the company and to the long term, both marketed assets as well as pipeline assets.
+
+And then, in terms of shape of the CapEx curve and how to get to a maintenance level and the magnitude of that. Then I would say that, that we're actually starting to see some of our bigger CapEx project announcements in API, getting very, very close to delivering to market and to regulatory approval. So of course, that then ties into the spending of those projects coming down. So -- but then we have fill/finish projects that are slightly delayed compared to that.
+
+So I would say we are fairly close to the peak. And then as we conclude on the assets, then you will see a gradual decline. I won't guarantee from next year, but we're getting close to it at least. And then for the maintenance level of CapEx, then at least what we've seen historically, then the maintenance level has been around 5% to sales -- CapEx to sales. And now we're in the low double digits.
+
+But of course, hopefully, CapEx will be higher in the case of growth outlook and pipeline coming to fruition. But I would say on our peptide fill/finish platform with what we have going now, we will be able to cater to many millions of patients in the coming decades. So we have a solid installed footprint in place there.
+
+Jacob Martin Wiborg Rode
+
+Thanks a lot, Karsten. That was question one, on the CapEx part. And for the second question, oral Wegovy in the U.S., let's turn that to you, Dave, please.
+
+David S. Moore
+
+Yes. Thank you for the question, Martin. We are anticipating the approval, as you mentioned, towards the end of 2025. We are excited about this potential approval and launch. And as you can imagine, at this point, Martin, all of the typical launch readiness activities are fully underway and are building momentum. I won't comment on exact timing of launch, but certainly expect that we will launch the product as close to approval as possible, and having the organization ready to do that.
+
+No specific comments on pricing strategy. However, since you mentioned it, having a cash channel option exists, and that's different in the way that we thought about launching products previously. Launching NovoCare Pharmacy is a very long-term view from our perspective. And we think obesity products, certainly lend themselves to the cash channel. So it's an option that we have, and we certainly look forward to making sure that we can meet patients wherever they are in terms of their access needs, whether that's through insurance or other forms that we can make available to them.
+
+Jacob Martin Wiborg Rode
+
+Thank you for that, Dave. And with that, we are approaching the turn of the hour. So we're ready for the last set of questions, please.
+
+Operator
+
+Your final question for today comes from the line of Emmanuel Papadakis from Deutsche Bank.
+
+Emmanuel Douglas Papadakis
+
+Maybe I'll come back to guidance, if I may, for the second half of this year, even let alone next year. So now that we actually have the full set of Q2 results, perhaps you could just enlighten us on what set of assumptions would lead us to arrive at the bottom end of the range for this year in particular? What assumptions did you make around the outlook for Ozempic and Wegovy in H2 led you to believe we may have zero group revenue growth in H2 and high single-digit decline?
+
+And then, maybe a question on R&D, for Martin. Thanks for the CagriSema single chamber update. You talked about for clinical development next year, but it's unclear, would a simple bridging study be enough to then bring that to the market? Or would you actually acquire a full Phase III? And would successful development here enable you to make use of all your existing installed single-chamber device manufacturing capacity for Ozempic and Wegovy? Would you actually require additional investments in new facilities for that device?
+
+Jacob Martin Wiborg Rode
+
+Thank you, Emmanuel, for those two questions. On the first one, on guidance, clearly goes to you, Karsten.
+
+Karsten Munk Knudsen
+
+Yes. Thank you for that, Emmanuel. And let me be clear. So our guidance, we didn't build it for the low end. So clearly, we are closer to the center in terms of our base case, which is based on the trends we are seeing in terms of script numbers as well as the run rate in IO markets and launches there. And now you have the product and geography split to beyond what you had last week. So that's our base case. And of course, everyone at Novo, we are pushing to deliver at least that and hopefully even more than that.
+
+And then, the reason why we have the guidance range and the low range is basically to cater for unforeseen events beyond what the trends we're seeing right now. And these events could be, for instance, gross to net adjustments in the U.S., given that we have a rebate provision of more than DKK 100 billion if you look in our reporting this quarter. So just the forecast uncertainty on that number positive or negative, could move the numbers up or down in the range.
+
+And then, as we've seen, the obesity market is somewhat volatile. So we can have a scenario where trends are stronger and we can have a scenario where trends are softer, and that's basically what the way we constructed our guidance range.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Karsten, for answer on question one in terms of guidance. For the second one on CagriSema co-formulation, that goes to you, Martin.
+
+Martin Holst Lange
+
+Yes. Thank you very much for the question. So you're absolutely right. We have established pharmacology equivalents, which is obviously very gratifying. We do not expect to need to do a full Phase III program, but we do have to establish what we call clinical equivalent, showing a little bit of the same efficacy and safety potential as we see for the dual chamber device. So that is in progress from a manufacturing perspective. I guess, I can say this does not require new builds to fill/finish.
+
+Jacob Martin Wiborg Rode
+
+Thank you, Martin. Thank you, Karsten, and also thank you to you, Emmanuel.
+
+And with that final question, that concludes our Q&A session. I would like to thank you for participating and urge you to contact Investor Relations in case of any follow-up questions.
+
+Before formally closing the call, I would like to hand over to you, Lars, for your final, final remarks.
+
+Lars Fruergaard Jorgensen
+
+Yes. Thank you, Jacob. Let me just reiterate that we don't take our guidance reduction light. We treat that with utmost seriousness. We are -- have strong conviction in our ability to drive commercial execution and get to many more patients that are currently treated, than what is treated with our products today. And -- but we also acknowledge that we need to show that in real hard data, and we look forward to doing that over the coming period of time.
+
+We're also excited about the pipeline readouts we have for the rest of the year and also looking into next year. And finally, I would like to again congratulate Mike with this appointment. I'm confident that with Mike and the team we have set, we have the execution power needed to deliver on our expectations.
+
+And a final remark. Thank you all in the investment community for the many interactions we've had over the years, I have truly appreciated your challenging questions and support over the years. And I wish all the best of luck as I leave the company as of today.
+
+With that, we will close the call. And again, thank you all for your attention. Bye-bye.
+<|endoftext|>

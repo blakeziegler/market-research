@@ -880,3 +880,4 @@ FCFE = CFO - fixed capital investment + net borrowing
 Cash flow PErformance ratios, such as cash return on equity or on assets, and cash
 coverage ratios, such as debt coverage or cash interest coverage, provide information
 about the firm's oPErating PErformance and financial strength.
+<|endoftext|>

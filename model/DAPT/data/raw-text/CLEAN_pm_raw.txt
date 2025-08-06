@@ -120,3 +120,4 @@ Year  ROA  ROE  ROIC  Shares Out.  Revenue/Share  FCF/Share
 2023 12.3% —   20.8% 1553 22.65 5.08
 
 Note: All figures in millions of U.S. dollars unless per share or otherwise noted.
+<|endoftext|>

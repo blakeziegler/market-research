@@ -131,3 +131,4 @@ Debt/EBITDA: 3.0, 2.4, 1.9, 1.7, 1.6
 Receivables Days: 35.1, 27.5, 32.5, 32.6, 35.1
 Days Payable: 12.8, 14.4, 11.0, 10.4, 10.6
 Inventory Days: 15.3, 17.2, 21.2, 19.2, 18.6
+<|endoftext|>

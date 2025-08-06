@@ -193,3 +193,4 @@ Comprehensive income = Net Income + OCI
 LOS 24.m:
 Transactions with owners (e.g., dividends, stock issuance) not on income statement. OCI includes equity impacts not in net income: FX translation, pensions, hedging, AFS securities.
 Accelerated depreciation results in higher early-year expenses and lower later-year ones than straight-line. Total depreciation same under both. Straight-line results in higher book value later, leading to larger losses on disposal.
+<|endoftext|>

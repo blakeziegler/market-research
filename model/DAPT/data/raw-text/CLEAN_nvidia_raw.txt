@@ -2595,3 +2595,5 @@ own investment decisions, not to provide investment adSustainalytics analyzes ov
 company's exposure to and management of ESG risks. In
 other words, ESG Risk Ratings measures a company's unmanaged ESG Risks represented as a quantitative score.
 Unmanaged Risk is measured on an oPEn-ended scale
+
+<|endoftext|>

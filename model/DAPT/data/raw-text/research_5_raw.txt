@@ -674,3 +674,4 @@ Dividends: $50M
 a. Estimate end-1999 book equity
 b. ROE using beginning book equity
 c. ROE using average book equity
+<|endoftext|>

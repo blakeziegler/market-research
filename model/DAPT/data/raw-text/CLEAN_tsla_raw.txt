@@ -332,3 +332,4 @@ Current Liabilities: 9,404
 LT Liabilities: 13,434
 Total Liabilities: 23,427
 Equity: 6,313
+<|endoftext|>

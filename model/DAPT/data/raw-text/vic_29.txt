@@ -11,3 +11,4 @@ I model a bit more EBIT margin expansion over the next two years because I have 
 While I model some slight volatility in earnings growth over the next few years, I am at the high-end of PEP’s EPS algo or slightly above. My FCF number is slightly below the Street this year because there was a big swing (decrease) in accounts payable this year, which impacts CFO. My FCF numbers are above the Street from 2024 and 2025.My risk reward is $147 x $195, wiht risk to the upside as the company continues to transform its PBNA margin structure.
 
 I did take down my P/E multiple a few turns to reflect the current environment, the possible GLP-1 overhang and volume lag. My current multiple 22.0x next year’s earnings, which even with the potential overhangs, gets you good upside
+<|endoftext|>

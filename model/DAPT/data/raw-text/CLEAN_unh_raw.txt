@@ -102,3 +102,4 @@ Year Return on Assets Return on Equity ROIC Shares Out Revenue/Share FCF/Share
 2022 8.8% 26.3% 15.1% 950 298.40 24.64
 2023 8.6% 26.0% 14.7% 938 339.10 27.38
 2024 5.0% 14.3% 8.4% 929 396.20 22.29
+<|endoftext|>

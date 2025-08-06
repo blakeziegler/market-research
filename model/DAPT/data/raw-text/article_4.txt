@@ -38,3 +38,5 @@ The CPI does not include new products as soon as they appear on the market. It c
 
 Cost of living
 The CPI is often used to measure changes in the cost of living, but it is not an ideal indicator of this. While the CPI measures price changes, cost-of-living inflation is the change in spending by households required to maintain a given standard of living. The ABS publishes other indexes that aim to provide a better indicator of the cost of living.
+
+<|endoftext|>

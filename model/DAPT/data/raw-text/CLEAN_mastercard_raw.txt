@@ -131,7 +131,6 @@ Economic MoatTM: Wide
 Equity Style Box: 2 Large Blend
 Uncertainty: Medium
 Capital Allocation: Standard
-ESG Risk Rating Assessment: ;;;;; (5 Feb 2025 06:00 UTC)
 
 Morningstar Historical Summary
 Financials as of 31 Dec 2024
@@ -250,3 +249,5 @@ Subindustry (Data Processing): Exposure 39.6
 Category: Medium
 Controversy Level: Low
 Management Score: 64.4% (Strong)
+
+<|endoftext|>
