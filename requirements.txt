@@ -19,6 +19,8 @@ pdfminer.six>=20221105
 # Text Processing and Utilities
 unidecode>=1.3.0
 tqdm>=4.65.0
+bs4>=0.0.1
+pandas>=2.0.0
 
 # Environment and Configuration
 python-dotenv>=1.0.0

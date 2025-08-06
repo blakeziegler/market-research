@@ -1,6 +1,6 @@
 # Model Comparisons
 
-The main method of comparison between models was 40 CFA level I, II, III valuation questions. The results were graded by ChatGPT 4o-turbo, and all grading was validated by a human. Each prompt-result pair was graded 3 times to account grading variation from run-to-run.
+The main method of comparison between models was 40 CFA level I, II, III valuation questions. The results were graded by ChatGPT 4o, and all grading was validated by a human. Each prompt-result pair was graded 3 times to account grading variation from run-to-run.
 
 Questions $PATH: model/DAPT/v3/benchmark_v2.csv \
 ChatGPT Grader $PATH : model/DAPT/v3/gpt_grader.py
@@ -29,64 +29,34 @@ The DAPT data consisted of a few main categories:
 Total Tokens: 699,844 \
 Total Documents: 73
 
+### DAPT (1.54M)
+- Finance Textbooks (657k)
+- Company 10-ks (371.4k)
+- Earnings Call Transcripts (164.4k)
+- Retail Investor Reports (101.5k)
+- Professional Investor Reports (85.1k)
+- CFA Guides (61.4k)
+- Research Papers (55.1k)
+- AI valuation Reports (15.3k)
+- Valuation Strategies (13.5k)
+- Valuation/General Finance Articles (12.6k)
+- Calculation Examples (3.1k)
+
 ### Base Model vs Base Model + DAPT (700k Tokens)
 
 *Link*: https://huggingface.co/blakeziegler/qwen3_4b_dapt-700k_v3
 
-**Round 1 Results:** \
 Base Results Summary: \
-Tone: 7.85 ± 0.36 \
-Accuracy: 8.70 ± 0.46 \
-Structure: 8.03 ± 0.53 \
-Total hallucinations: 0/40 (0.0%)
+Tone: 8.15 ± 0.36 \
+Accuracy: 7.10 ± 0.55 \
+Structure: 8.10 ± 0.50 \
+Total hallucinations: 15/40 (37.5%) 
 
 DAPT Results Summary: \
-Tone: 7.65 ± 0.48 \
-Accuracy: 8.12 ± 1.02 \
-Structure: 7.95 ± 0.64 \
-Total hallucinations: 8/40 (20.0%) \
-
-Hallucination Comparison: \
-Base model: 0 hallucinations \
-DAPT model: 8 hallucinations \
-Regression: 8 more hallucinations with DAPT model
-
-****
-**Round 2 Results** \
-Base Results Summary:\
-Tone: 7.90 ± 0.30 \
-Accuracy: 8.68 ± 0.57 \
-Structure: 8.10 ± 0.55 \
-Total hallucinations: 1/40 (2.5%) \
-
-DAPT Results Summary: \
-Tone: 7.67 ± 0.47 \
-Accuracy: 8.10 ± 1.08 \
-Structure: 7.95 ± 0.64 \
-Total hallucinations: 9/40 (22.5%)
-
-Hallucination Comparison: \
-Base model: 1 hallucinations \
-DAPT model: 9 hallucinations
-
-****
-**Round 3 Results** \
-Base Results Summary: \
-Tone: 7.85 ± 0.36 \
-Accuracy: 8.72 ± 0.51 \
-Structure: 8.00 ± 0.51 \
-Total hallucinations: 1/40 (2.5%)
-
-DAPT Results Summary: \
-Tone: 7.65 ± 0.48 \
-Accuracy: 8.00 ± 1.09 \
-Structure: 7.97 ± 0.66 \
-Total hallucinations: 9/40 (22.5%)
-
-Hallucination Comparison: \
-Base model: 1 hallucinations \
-DAPT model: 9 hallucinations \
-Regression: 8 more hallucinations with DAPT model
+Tone: 7.97 ± 0.53 \
+Accuracy: 6.62 ± 1.03 \
+Structure: 7.62 ± 0.90 \
+Total hallucinations: 28/40 (70.0%)
 
 ****
 **Analysis & Conclusion** \
@@ -101,4 +71,15 @@ We hope SFT on 500 - 1000 I/O pairs will help mitigate hallucinations. If not, w
 Additionally, the DAPT model used language like "we believe the company ..." reflecting too heavy weighting for 10-k filings. If re-doing dapt is necessary, we will try to balance this out with more diverse document types to achieve the desired language and tonality. 
 
 ### Base Model vs Base Model + DAPT + SFT
-*Coming Soon*
+
+Base Results Summary:
+Tone: 8.15 ± 0.36
+Accuracy: 7.08 ± 0.80
+Structure: 8.00 ± 0.55
+Total hallucinations: 12/40 (30.0%)
+
+SFT Results Summary:
+Tone: 7.88 ± 0.56
+Accuracy: 6.47 ± 1.11
+Structure: 7.47 ± 0.93
+Total hallucinations: 30/40 (75.0%)
