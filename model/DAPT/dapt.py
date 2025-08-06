@@ -85,11 +85,15 @@ plt.show()
 # Training Arguments
 training_args = TrainingArguments(
     output_dir=output_dir,
-    per_device_train_batch_size=1,
-    gradient_accumulation_steps=16,
+    per_device_train_batch_size=2,
+    gradient_accumulation_steps=8,
     num_train_epochs=2,
     learning_rate=2e-5,
     fp16=True,
+    optim="adamw_torch",
+    weight_decay=0.01,
+    lr_scheduler_type="linear",
+    warmup_ratio=0.1,
     save_steps=500,
     logging_steps=10,
     save_total_limit=2,
