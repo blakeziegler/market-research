@@ -4,6 +4,7 @@ from transformers import (
     Trainer,
     TrainingArguments,
     DataCollatorForLanguageModeling,
+    EarlyStoppingCallback,
 )
 from datasets import load_dataset
 from peft import LoraConfig, get_peft_model
@@ -32,8 +33,10 @@ lora_config = LoraConfig(
     task_type="CAUSAL_LM",
 )
 model = get_peft_model(model, lora_config)
+model.gradient_checkpointing_enable()
 model.print_trainable_parameters()
 
+# Load and filter dataset
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
@@ -62,7 +65,7 @@ tokenized_dataset = dataset.map(
     num_proc=4
 ).flatten_indices()
 
-# Validate
+# Validate token types
 def check_token_types(dataset, num_batches=5):
     for i, example in enumerate(dataset):
         if i >= num_batches:
@@ -73,22 +76,18 @@ def check_token_types(dataset, num_batches=5):
 
 check_token_types(tokenized_dataset)
 
-# Histogram
-lengths = [len(x["input_ids"]) for x in tokenized_dataset]
-plt.hist(lengths, bins=50)
-plt.title("Token Length Distribution")
-plt.xlabel("Length")
-plt.ylabel("Frequency")
-plt.grid(True)
-plt.show()
+# Train/test split (5% for validation)
+split_dataset = tokenized_dataset.train_test_split(test_size=0.05, seed=42)
+train_dataset = split_dataset["train"]
+eval_dataset = split_dataset["test"]
 
-# Training Arguments
+# Training arguments
 training_args = TrainingArguments(
     output_dir=output_dir,
     per_device_train_batch_size=1,
     gradient_accumulation_steps=16,
     num_train_epochs=2,
-    learning_rate=2e-5,
+    learning_rate=1e-5,
     fp16=True,
     optim="adamw_torch",
     weight_decay=0.01,
@@ -96,10 +95,15 @@ training_args = TrainingArguments(
     warmup_ratio=0.1,
     save_steps=500,
     logging_steps=10,
+    evaluation_strategy="steps",
+    eval_steps=500,
+    load_best_model_at_end=True,
     save_total_limit=2,
+    gradient_checkpointing=True,
+    callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
 )
 
-# Data Collator
+# Data collator
 class SafeDataCollator(DataCollatorForLanguageModeling):
     def __call__(self, features):
         batch = super().__call__(features)
@@ -109,13 +113,15 @@ class SafeDataCollator(DataCollatorForLanguageModeling):
 
 data_collator = SafeDataCollator(tokenizer=tokenizer, mlm=False)
 
-# Train
+# Trainer setup
 trainer = Trainer(
     model=model,
     args=training_args,
-    train_dataset=tokenized_dataset,
+    train_dataset=train_dataset,
+    eval_dataset=eval_dataset,
     tokenizer=tokenizer,
     data_collator=data_collator,
 )
 
+# Train
 trainer.train()
