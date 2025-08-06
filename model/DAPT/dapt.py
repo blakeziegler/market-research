@@ -27,7 +27,7 @@ model = AutoModelForCausalLM.from_pretrained(
 lora_config = LoraConfig(
     r=16,
     lora_alpha=32,
-    lora_dropout=0.05,
+    lora_dropout=0.1,
     bias="none",
     task_type="CAUSAL_LM",
 )
@@ -38,8 +38,8 @@ dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["tra
 dataset = dataset.filter(lambda x: bool(x["text"].strip()), num_proc=4)
 
 # Tokenization
-MAX_LENGTH = 16384
-STRIDE = 8192
+MAX_LENGTH = 8192
+STRIDE = 4096
 
 def chunk_with_tokenizer(batch):
     tokenized = tokenizer(
