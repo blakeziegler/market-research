@@ -9,6 +9,7 @@ from datasets import load_dataset
 from peft import LoraConfig, get_peft_model
 import matplotlib.pyplot as plt
 import torch
+from transformers.trainer_callback import EarlyStoppingCallback
 
 # Config
 model_name = "Dev9124/qwen3-finance-model"
@@ -32,6 +33,7 @@ lora_config = LoraConfig(
     task_type="CAUSAL_LM",
 )
 model = get_peft_model(model, lora_config)
+model.gradient_checkpointing_enable()
 model.print_trainable_parameters()
 
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
@@ -85,6 +87,10 @@ training_args = TrainingArguments(
     num_train_epochs=1,
     learning_rate=1e-5,
     fp16=True,
+    eval_strategy="steps",
+    eval_delay=500,
+    save_strategy="steps",
+    eval_steps=500,
     optim="adamw_torch",
     weight_decay=0.01,
     lr_scheduler_type="linear",
@@ -92,6 +98,7 @@ training_args = TrainingArguments(
     save_steps=500,
     logging_steps=10,
     save_total_limit=2,
+    gradient_checkpointing=True,
 )
 
 # Data Collator
@@ -112,5 +119,6 @@ trainer = Trainer(
     eval_dataset=eval_dataset,
     tokenizer=tokenizer,
     data_collator=data_collator,
+    callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
 )
 trainer.train()
