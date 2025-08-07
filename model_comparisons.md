@@ -130,3 +130,6 @@ The increase in tone score and decrease in creativity score are fairly trivial a
 Another interesting thing to point out is the decrease in standard deviation across all scoring categories, alluding to the model producing more consistent outputs.
 
 While the 1.5M token DAPT model did improve, it was not as much as we were expecting. We found no significant benefit in tone or creativity, and only slight improvements in accuracy and hallucination rate. For the next round of DAPT pre-training, we will increase the total token count by an additional ~ 1.5 - 3M tokens depending on how the DAPT + SFT model performs.
+
+## DAPT 1.5M Token + 750 I/O SFT Model
+*Coming soon*
