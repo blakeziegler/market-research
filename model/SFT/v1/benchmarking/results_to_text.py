@@ -59,7 +59,7 @@ def csv_to_text(csv_file, output_file, max_width=100):
                 f.write("EVALUATION SCORES:\n")
                 f.write(f"  Tone: {row['base_tone']:.1f}/10\n")
                 f.write(f"  Accuracy: {row['base_accuracy']:.1f}/10\n")
-                f.write(f"  Structure: {row['base_structure']:.1f}/10\n")
+                f.write(f"  Creativity: {row['base_creativity']:.1f}/10\n")
                 f.write(f"  Hallucinated: {'Yes' if row['base_hallucinated'] else 'No'}\n")
                 if pd.notna(row['base_justification']):
                     f.write("  Justification:\n")
@@ -73,18 +73,42 @@ def csv_to_text(csv_file, output_file, max_width=100):
                                 f.write(f"    {wrapped_line}\n")
                         else:
                             f.write(f"    {line}\n")
+                if pd.notna(row['base_scoring_reasoning']):
+                    f.write("  Scoring Reasoning:\n")
+                    reasoning_text = str(row['base_scoring_reasoning'])
+                    # Preserve original formatting, only wrap if line exceeds max_width
+                    lines = reasoning_text.split('\n')
+                    for line in lines:
+                        if len(line) > max_width - 4:  # Account for indentation
+                            wrapped_lines = textwrap.wrap(line, width=max_width-4)
+                            for wrapped_line in wrapped_lines:
+                                f.write(f"    {wrapped_line}\n")
+                        else:
+                            f.write(f"    {line}\n")
                 f.write("\n")
             elif 'sft_tone' in row and pd.notna(row['sft_tone']):
                 f.write("EVALUATION SCORES:\n")
                 f.write(f"  Tone: {row['sft_tone']:.1f}/10\n")
                 f.write(f"  Accuracy: {row['sft_accuracy']:.1f}/10\n")
-                f.write(f"  Structure: {row['sft_structure']:.1f}/10\n")
+                f.write(f"  Creativity: {row['sft_creativity']:.1f}/10\n")
                 f.write(f"  Hallucinated: {'Yes' if row['sft_hallucinated'] else 'No'}\n")
                 if pd.notna(row['sft_justification']):
                     f.write("  Justification:\n")
                     justification_text = str(row['sft_justification'])
                     # Preserve original formatting, only wrap if line exceeds max_width
                     lines = justification_text.split('\n')
+                    for line in lines:
+                        if len(line) > max_width - 4:  # Account for indentation
+                            wrapped_lines = textwrap.wrap(line, width=max_width-4)
+                            for wrapped_line in wrapped_lines:
+                                f.write(f"    {wrapped_line}\n")
+                        else:
+                            f.write(f"    {line}\n")
+                if pd.notna(row['sft_scoring_reasoning']):
+                    f.write("  Scoring Reasoning:\n")
+                    reasoning_text = str(row['sft_scoring_reasoning'])
+                    # Preserve original formatting, only wrap if line exceeds max_width
+                    lines = reasoning_text.split('\n')
                     for line in lines:
                         if len(line) > max_width - 4:  # Account for indentation
                             wrapped_lines = textwrap.wrap(line, width=max_width-4)
@@ -159,12 +183,23 @@ def main():
                 f.write("BASE MODEL EVALUATION:\n")
                 f.write(f"  Tone: {base_df.iloc[idx]['base_tone']:.1f}/10\n")
                 f.write(f"  Accuracy: {base_df.iloc[idx]['base_accuracy']:.1f}/10\n")
-                f.write(f"  Structure: {base_df.iloc[idx]['base_structure']:.1f}/10\n")
+                f.write(f"  Creativity: {base_df.iloc[idx]['base_creativity']:.1f}/10\n")
                 f.write(f"  Hallucinated: {'Yes' if base_df.iloc[idx]['base_hallucinated'] else 'No'}\n")
                 if pd.notna(base_df.iloc[idx]['base_justification']):
                     f.write("  Justification:\n")
                     justification_text = str(base_df.iloc[idx]['base_justification'])
                     lines = justification_text.split('\n')
+                    for line in lines:
+                        if len(line) > 96:  # Account for indentation
+                            wrapped_lines = textwrap.wrap(line, width=96)
+                            for wrapped_line in wrapped_lines:
+                                f.write(f"    {wrapped_line}\n")
+                        else:
+                            f.write(f"    {line}\n")
+                if pd.notna(base_df.iloc[idx]['base_scoring_reasoning']):
+                    f.write("  Scoring Reasoning:\n")
+                    reasoning_text = str(base_df.iloc[idx]['base_scoring_reasoning'])
+                    lines = reasoning_text.split('\n')
                     for line in lines:
                         if len(line) > 96:  # Account for indentation
                             wrapped_lines = textwrap.wrap(line, width=96)
@@ -192,12 +227,23 @@ def main():
                 f.write("SFT MODEL EVALUATION:\n")
                 f.write(f"  Tone: {sft_df.iloc[idx]['sft_tone']:.1f}/10\n")
                 f.write(f"  Accuracy: {sft_df.iloc[idx]['sft_accuracy']:.1f}/10\n")
-                f.write(f"  Structure: {sft_df.iloc[idx]['sft_structure']:.1f}/10\n")
+                f.write(f"  Creativity: {sft_df.iloc[idx]['sft_creativity']:.1f}/10\n")
                 f.write(f"  Hallucinated: {'Yes' if sft_df.iloc[idx]['sft_hallucinated'] else 'No'}\n")
                 if pd.notna(sft_df.iloc[idx]['sft_justification']):
                     f.write("  Justification:\n")
                     justification_text = str(sft_df.iloc[idx]['sft_justification'])
                     lines = justification_text.split('\n')
+                    for line in lines:
+                        if len(line) > 96:  # Account for indentation
+                            wrapped_lines = textwrap.wrap(line, width=96)
+                            for wrapped_line in wrapped_lines:
+                                f.write(f"    {wrapped_line}\n")
+                        else:
+                            f.write(f"    {line}\n")
+                if pd.notna(sft_df.iloc[idx]['sft_scoring_reasoning']):
+                    f.write("  Scoring Reasoning:\n")
+                    reasoning_text = str(sft_df.iloc[idx]['sft_scoring_reasoning'])
+                    lines = reasoning_text.split('\n')
                     for line in lines:
                         if len(line) > 96:  # Account for indentation
                             wrapped_lines = textwrap.wrap(line, width=96)

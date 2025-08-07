@@ -93,14 +93,14 @@ Response:
                 return result
             else:
                 print(f"Could not find JSON in response: {content}")
-                return {"tone": 5, "accuracy": 5, "structure": 5, "hallucinated": 0, "justification": "Error parsing response", "scoring_reasoning": "Error parsing response - unable to evaluate"}
+                return {"tone": 5, "accuracy": 5, "creativity": 5, "hallucinated": 0, "justification": "Error parsing response", "scoring_reasoning": "Error parsing response - unable to evaluate"}
         except json.JSONDecodeError:
             print(f"Failed to parse JSON from response: {content}")
-            return {"tone": 5, "accuracy": 5, "structure": 5, "hallucinated": 0, "justification": "Error parsing response", "scoring_reasoning": "Error parsing response - unable to evaluate"}
+            return {"tone": 5, "accuracy": 5, "creativity": 5, "hallucinated": 0, "justification": "Error parsing response", "scoring_reasoning": "Error parsing response - unable to evaluate"}
             
     except Exception as e:
         print(f"Error evaluating output: {e}")
-        return {"tone": 5, "accuracy": 5, "structure": 5, "hallucinated": 0, "justification": "Error during evaluation", "scoring_reasoning": "Error during evaluation - unable to provide feedback"}
+        return {"tone": 5, "accuracy": 5, "creativity": 5, "hallucinated": 0, "justification": "Error during evaluation", "scoring_reasoning": "Error during evaluation - unable to provide feedback"}
 
 def process_csv_file(file_path, output_column):
     print(f"Processing {file_path}...")
@@ -108,7 +108,10 @@ def process_csv_file(file_path, output_column):
     df = pd.read_csv(file_path)
     
     # Initialize new columns
-    prefix = output_column.split('_')[0]  # 'base' or 'dapt'
+    if output_column == "sft_dapt_output":
+        prefix = "sft"
+    else:
+        prefix = output_column.split('_')[0]
     tone_col = f"{prefix}_tone"
     accuracy_col = f"{prefix}_accuracy"
     creativity_col = f"{prefix}_creativity"
@@ -152,15 +155,15 @@ def process_csv_file(file_path, output_column):
     return df
 
 def main():
-    base_file = "results_base_v3.csv"
-    dapt_file = "results_dapt_v3.csv"
+    base_file = "results_base.csv"
+    sft_file = "results_dapt_sft-v1.csv"
     
     if not os.path.exists(base_file):
         print(f"Error: {base_file} not found")
         return
     
-    if not os.path.exists(dapt_file):
-        print(f"Error: {dapt_file} not found")
+    if not os.path.exists(sft_file):
+        print(f"Error: {sft_file} not found")
         return
     
     print("=" * 50)
@@ -169,9 +172,9 @@ def main():
     base_df = process_csv_file(base_file, "base_output")
     
     print("=" * 50)
-    print("Processing DAPT results...")
+    print("Processing SFT results...")
     print("=" * 50)
-    dapt_df = process_csv_file(dapt_file, "dapt_output")
+    sft_df = process_csv_file(sft_file, "sft_dapt_output")
     
     # Print summary statistics
     print("\nBase Results Summary:")
@@ -182,23 +185,23 @@ def main():
     base_total = len(base_df)
     print(f"Total hallucinations: {base_hallucinations}/{base_total} ({base_hallucinations/base_total*100:.1f}%)")
     
-    print("\nDAPT Results Summary:")
-    print(f"Tone: {dapt_df['dapt_tone'].mean():.2f} ± {dapt_df['dapt_tone'].std():.2f}")
-    print(f"Accuracy: {dapt_df['dapt_accuracy'].mean():.2f} ± {dapt_df['dapt_accuracy'].std():.2f}")
-    print(f"Creativity: {dapt_df['dapt_creativity'].mean():.2f} ± {dapt_df['dapt_creativity'].std():.2f}")
-    dapt_hallucinations = dapt_df['dapt_hallucinated'].sum()
-    dapt_total = len(dapt_df)
-    print(f"Total hallucinations: {dapt_hallucinations}/{dapt_total} ({dapt_hallucinations/dapt_total*100:.1f}%)")
+    print("\nSFT Results Summary:")
+    print(f"Tone: {sft_df['sft_tone'].mean():.2f} ± {sft_df['sft_tone'].std():.2f}")
+    print(f"Accuracy: {sft_df['sft_accuracy'].mean():.2f} ± {sft_df['sft_accuracy'].std():.2f}")
+    print(f"Creativity: {sft_df['sft_creativity'].mean():.2f} ± {sft_df['sft_creativity'].std():.2f}")
+    sft_hallucinations = sft_df['sft_hallucinated'].sum()
+    sft_total = len(sft_df)
+    print(f"Total hallucinations: {sft_hallucinations}/{sft_total} ({sft_hallucinations/sft_total*100:.1f}%)")
     
     print("\nHallucination Comparison:")
     print(f"Base model: {base_hallucinations} hallucinations")
-    print(f"DAPT model: {dapt_hallucinations} hallucinations")
-    if base_hallucinations > 0 or dapt_hallucinations > 0:
-        improvement = base_hallucinations - dapt_hallucinations
+    print(f"SFT model: {sft_hallucinations} hallucinations")
+    if base_hallucinations > 0 or sft_hallucinations > 0:
+        improvement = base_hallucinations - sft_hallucinations
         if improvement > 0:
-            print(f"Improvement: {improvement} fewer hallucinations with DAPT model")
+            print(f"Improvement: {improvement} fewer hallucinations with SFT model")
         elif improvement < 0:
-            print(f"Regression: {abs(improvement)} more hallucinations with DAPT model")
+            print(f"Regression: {abs(improvement)} more hallucinations with SFT model")
         else:
             print("No change in hallucination count")
 
