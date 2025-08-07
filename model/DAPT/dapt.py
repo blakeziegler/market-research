@@ -98,6 +98,7 @@ training_args = TrainingArguments(
     save_steps=500,
     logging_steps=10,
     save_total_limit=2,
+    load_best_model_at_end=True,
 )
 
 # Data Collator
