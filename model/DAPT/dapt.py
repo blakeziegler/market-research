@@ -33,7 +33,6 @@ lora_config = LoraConfig(
     task_type="CAUSAL_LM",
 )
 model = get_peft_model(model, lora_config)
-model.gradient_checkpointing_enable()
 model.print_trainable_parameters()
 
 dataset = load_dataset("text", data_files={"train": "data/raw-text/*.txt"})["train"]
@@ -99,7 +98,6 @@ training_args = TrainingArguments(
     save_steps=500,
     logging_steps=10,
     save_total_limit=2,
-    gradient_checkpointing=True,
 )
 
 # Data Collator
