@@ -95,6 +95,7 @@ training_args = TrainingArguments(
     weight_decay=0.01,
     lr_scheduler_type="linear",
     warmup_ratio=0.1,
+    metric_for_best_model="eval_loss",
     save_steps=500,
     logging_steps=10,
     save_total_limit=2,
