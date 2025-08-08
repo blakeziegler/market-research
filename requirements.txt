@@ -24,6 +24,7 @@ tqdm>=4.65.0
 bs4>=0.0.1
 pandas>=2.0.0
 pdfminer.six>=20221105
+PyPDF2>=3.0.0
 
 # Environment and Configuration
 python-dotenv>=1.0.0

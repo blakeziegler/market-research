@@ -15,7 +15,7 @@ from transformers.trainer_callback import EarlyStoppingCallback
 
 # Config
 model_name = "Dev9124/qwen3-finance-model"
-output_dir = "v4"
+output_dir = "v5"
 
 # Load tokenizer and FP16 base model
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
