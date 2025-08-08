@@ -1,0 +1,73 @@
+Source: https://ift.world/booklets/equity-introduction-to-industry-and-company-analysis-part3/
+
+
+The Term Structure of Interest Rates: Spot, Par, and Forward Curves
+
+Industry Comparison (Internal Factors)
+The table below discusses three industries using the characteristics we have discussed so far. Analyze and test your understanding for the reasoning behind the characteristic. For instance, barriers to entry for branded pharmaceutical companies are high because it requires substantial financial and intellectual capital. A new entrant would require a sizeable investment in R&D and manufacturing facility.
+Industry Comparison (Internal Factors)
+Branded Pharma | Oil Services | Confections/Candy
+Major companies | Pfizer, Novartis, Merck, GlaxoSmithKline | Schlumberger, Halliburton | Cadbury, Nestle, Hershey, Mars
+Barriers to success/entry | Very high | Medium | Very high
+Level of concentration | Concentrated: small no. of companies control majority of the global market. | Fragmented | Very concentrated: top four companies control most of the global market.
+Impact of Industry Capacity | NA | Medium/High | NA
+Industry Stability | Stable | Unstable | Very stable
+Life Cycle | Mature: no rapid change in demand year on year. | Mature | Very mature: demand varies according to population growth and pricing.
+Price competition | Low/medium | High | Low
+
+External Influences on Industry
+The five external factors affecting an industry’s growth are macroeconomic, technological, demographic, governmental, and social influences.
+Macroeconomic Factors: Demand for products and services are affected by overall economic activity at any point in time. Economic variables that affect an industry’s revenues and profits are: GDP, level of interest rates, inflation, and how easily money is available to businesses.
+Example: People cut down on discretionary spending during the festive/holiday season if inflation is very high (emerging economies), or if the economy is in a recession leading to job cuts.
+Technological Influences: New technologies can rapidly change an industry or push them into the decline stage faster.
+Examples: Invention of the microchip and the evolution of the computer hardware industry; impact of digital imaging technology on the photographic film industry, USBs on DVD/CD, digital music on cassette player industry.
+Demographic Influences: Changes in population size, age, and gender ratio.
+Examples: Surge in retirement-oriented investment products in the U.S. between 1990 and 2000 to cater to the baby boomers. Impact of Japan’s aging population on local economy. Impact of India’s young population on several sectors of the economy: education, housing, consumer spending, hospitality, technology, etc.
+Governmental Influences: Tax rates and rules set by governments affect an industry’s revenues and profits. Similarly, regulatory changes such as environmental restrictions, how much of foreign investment is allowed in an industry, or restrictions on gold imports influence an industry’s performance.
+Examples: Governments control, through regulations, how much money financial institutions can accept from investors for issuing securities and savings deposits. The objective is to protect investors from fraudulent practices. Patients in developed countries can be treated and prescribed treatment only by certified doctors.
+
+Influences: How people work, spend their money and leisure time pursuing hobbies, and travel affect various industries. For example, more women entering the workforce worldwide has spun many new industries, while boosting others. Restaurants, work wear for women, home and child care services, and demand for more cars are some of the effects of this trend.
+Environmental Influences: In recent times, the need to evaluate and mitigate environmental impact has become an important consideration for industries. Climate change poses a real threat to the growth and profitability of many industries. For example, public awareness about the environmental impact of livestock and protection of animal rights has been increasing. Many people are shifting towards healthier and plant-based diets. These factors will impact the agriculture industry.
+
+Industry Comparison (External Influences)
+--- | Branded Pharma | Oil Services | Confections/Candy
+Demographic Influences | Population increasing. Demand for drugs is high. | Low | Low
+Government and Regulatory Influences | Very high as it requires govt. approval. | Medium | Low
+Social Influences | N/A | N/A | N/A
+Technological Influences | Medium/High | Medium/High | Low
+Growth vs. Defensive vs. Cyclical | Defensive | Cyclical | Defensive
+
+Company Analysis involves analyzing a company’s financial position, products and/or services, and competitive strategy. Porter has identified two chief competitive strategies: low-cost strategy (also called price leadership) and a product/service differentiation strategy.
+
+Low-cost Strategy/Price Leadership
+In this strategy, companies price their products and services lower than their competition to stimulate demand and gain market share. Examples: low cost airlines, cheap alternatives of iPad/iPhone.
+It is a defensive strategy to protect market share in the near term. Companies may then raise prices in the future to increase profits. Example: full service airlines use this strategy to compete against low cost carriers to protect lucrative routes.
+Usually adopted by experienced companies to lower costs. Requires tight cost controls, efficient operating systems, continuous monitoring of the operating costs, lowering of labor costs, and eliminating any overheads.
+The company must have easy access to capital to invest in technology and production-improving equipment.
+Low switching costs for customers, little to no product differentiation helps this strategy.
+
+Differentiation Strategy
+In this strategy, companies establish themselves as suppliers of products/services that are unique in quality/type/distribution. Caters to a niche market with specific needs.
+The target customer base is usually not price sensitive.
+The higher rate of return is by selling the products at a premium. The price premium should be greater than the costs of differentiation. Focus is on building brand recognition and a loyal customer base.
+Focus is on market research and R&D to understand a customer’s needs and incorporating them in product design. These companies employ creative people to design such products. Example: Apple Inc.
+Companies also need to invest in marketing and sales efforts to create brand awareness.
+
+Elements that should be covered in a Company Analysis
+Some of the important points that should be covered in the research report for a company are listed below:
+Company profile: products/services, sales composition, management strengths & weaknesses, labor issues, legal actions, etc.
+Industry characteristics: industry analysis, stage in life cycle, brand loyalty.
+Analysis of demand for products/services: sources of demand, differentiation, long term outlook.
+Analysis of supply of products/services: sources of supply, industry/company capacity.
+Analysis of pricing: historical relationship between demand, supply, and prices; pricing outlook based on demand and supply; impact of raw materials and labor costs.
+Financial ratios and measures: activity ratios, liquidity ratios, solvency ratios, profitability ratios, and other financial statistics for the previous years to forecast performance.
+
+Spreadsheet Modeling
+Spreadsheet modeling is a widely used tool by analysts in company analysis, but it has certain limitations:
+Most models are highly complex in nature and require a lot of assumptions. For instance, revenue growth projections for the next five years, leverage/equity financing, wages, inventory costs, tax rate, beta, etc.
+The complexity of the model may make it appear that the conclusions or stock price forecasts are right, when in fact they may be inaccurate.
+Here is what an analyst can do to determine whether a model is valid:
+Start with the income statement. Ask what important changes have taken place since the previous year.
+What effects do these changes have on the net income? Are they reasonable? For instance, is a 5% growth in revenue leading to a 30% growth in net income?
+Does the financial model’s format match that of the company’s financial statements?
+<|endoftext|>

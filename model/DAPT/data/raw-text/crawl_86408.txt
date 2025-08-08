@@ -1,0 +1,135 @@
+Source: https://stablebread.com/sum-of-the-parts-valuation/
+
+Sum of the parts (SOTP) valuation is a method that assesses a company\'s worth by separately valuing its individual business segments.
+
+This approach is particularly useful for evaluating diversified companies or conglomerates with distinct business units, as it can uncover hidden value and provide a more nuanced understanding of a complex entity\'s true worth.
+
+The SOTP method involves identifying business segments, valuing each segment independently to determine their enterprise values, and then combining these values while adjusting for company-wide factors such as net debt and non-operating assets or liabilities to arrive at the overall equity value.
+
+This process allows investors to account for the unique growth rates, risk profiles, and market positions of different business units within a single company.
+
+SOTP valuation is not applicable for companies with a single line of business or those that don\'t disclose segment information.
+Primary limitations include increased complexity and subjectivity in assumptions, time and resource intensity, and potential oversight of inter-segment synergies.
+These factors can lead to a higher potential for error compared to applying a single valuation method to the entire company.
+
+While SOTP valuation can provide valuable insights for complex businesses, it should be viewed as an advanced technique rather than a separate valuation approach.
+Investors should consider using it when the added complexity is warranted by the company\'s structure and the potential for revealing hidden value justifies the additional effort.
+
+Detailed segment-level financial information may be limited, especially for companies with minimal disclosures.
+This can force investors to make assumptions that may not accurately reflect reality.
+
+The method assumes markets would value individual segments similarly to standalone companies, which may not hold true due to scale differences or unique market positioning.
+
+Rapid shifts in industry dynamics or company structure can quickly render SOTP valuations obsolete, requiring frequent updates.
+
+The SOTP method might overestimate the value of a diversified company because it doesn\'t account for \"holding company discounts.\"
+
+The method typically doesn\'t account for tax consequences, such as those involved in potential spinoffs or divestitures.
+
+The sum of the parts valuation method assesses a company's worth by valuing its individual business segments separately. This technique is particularly useful for evaluating diversified companies or conglomerates with distinct business units. By breaking down a complex entity into its components, investors may gain a more accurate understanding of its true value. This article will explain the sum of the parts method in detail, describe its formula and approach, and include a real-world example along with a free Excel model to help you apply this technique. Additionally, we'll discuss the limitations and practical considerations of this valuation approach.
+
+Sum of the parts (SOTP) valuation, also known as break-up valuation, is a method used to value a company by separately assessing the worth of its individual business segments or divisions. This approach is based on the premise that analyzing a company's components individually can provide a more accurate valuation, especially when different segments have distinct growth rates, risk profiles, or operate in varied industries.
+
+SOTP valuation is particularly useful when analyzing diversified companies, conglomerates, or businesses with multiple distinct operating segments. By valuing each segment independently, investors can account for the unique characteristics of different business units within a single company. This can uncover hidden value or assess whether a company might be worth more if its parts were separated. However, this approach is not suitable for companies with a single, focused business model or those with highly integrated operations where individual segments are difficult to separate. In these cases, SOTP valuation would not be applicable.
+
+Sum of the parts (SOTP) doesn't have a single, standardized valuation formula. Instead, it involves a multi-step process of valuing each business segment individually and then combining these values. However, the general concept of SOTP valuation can be represented as follows: SOTP Valuation = Σ(Value of Individual Segments) - Net Debt - Non-Operating Liabilities + Non-Operating Assets where: Net Debt: Total short-term and long-term debt, minus cash, cash equivalents, and short-term investments. Non-Operating Liabilities: Obligations not directly related to the company's main operational activities, including pension obligations, environmental cleanup liabilities, pending lawsuit settlements, and minority interest. Non-Operating Assets: Assets not essential to the company's ongoing core business operations, such as excess cash beyond working capital needs, marketable securities, investment properties, and unused land or equipment.
+
+The SOTP valuation formula calculates equity value (the value available to shareholders) from enterprise value (the total value of a company's operations). It starts with the sum of segment enterprise values, then subtracts net debt to account for financial obligations, subtracts non-operating liabilities to reflect obligations not related to core operations, and adds non-operating assets to include value from resources not essential to the main business. This approach captures both core business worth and extra items that affect shareholder value, providing a complete picture of the company's total value.
+
+To estimate the value of individual segments, investors can use appropriate valuation methods for each segment, such as: Discounted Cash Flow: Estimates value based on expected future cash flows. Comparable Company Analysis: Compares the company to similar public companies to derive financial multiples. Precedent Transactions Analysis: Uses financial multiples from past M&A transactions in the same industry. Sum of the parts valuation works for any valuation method where you can separately derive the enterprise values of distinct business units or assets and then combine them for a total company valuation. The specific valuation method for each segment can vary, and it's possible to mix and match approaches based on what's most appropriate for each unit (considering factors like business nature, available financial data, and industry norms).
+
+To demonstrate the sum of the parts (SOTP) valuation approach, we'll use 3M Company (MMM) as our example. 3M operates a diversified business model focused on innovation across multiple global sectors, including industrial, healthcare, consumer goods, and safety products. Given 3M's diverse range of business units, which are clearly detailed in its 10-K annual report, it's well-suited for a SOTP valuation. For this example, we'll build a relatively simple comparable company analysis (aka comps) valuation model, as each of 3M's segments has suitable publicly traded peers for comparison.
+
+Here are the steps for performing a SOTP valuation using the comps approach: Step #1: Identify Business Segments Step #2: Select Comparable Companies for Each Segment Step #3: Gather Relevant Financial Information Step #4: Spread Key Ratios Across Every Comparable Company Step #5:
+
+Transportation and Electronics: **$8,501M** (26%)
+Health Care: **$8,195M** (25.1%)
+Consumer: **$5,026M** (15.4%)
+
+While the table above provides operating income (EBIT), we need EBITDA for our analysis.
+EBITDA is preferred over EBIT as it offers a clearer picture of operational performance by excluding non-cash expenses.
+Fortunately, a separate table in 3M's 10-K annual report breaks down the company's depreciation & amortization (D&A) by business segment for FY 2023, as outlined below:
+
+Safety and Industrial: **$2,854M** ($2,324M + $530M)
+Transportation and Electronics: **$1,849M** ($1,312M + $537M)
+Health Care: **$2,200M** ($1,603M + $597M)
+Consumer: **$1,067M** ($904M + $163M)
+
+Since net income is not broken down by business segment in 3M's 10-K annual report, and overall EBITDA is negative, we'll focus on deriving the company's valuation using its EV/Revenue multiples.
+Additionally, because these financials are based on FY 2023, we'll estimate their TTM financials in the final step of our SOTP comps valuation.
+
+The fourth step involves calculating and organizing key financial ratios for all companies in the analysis.
+This step allows for direct comparison between companies and provides the basis for valuing each of 3M's business segments.
+The key ratios typically used in a comps analysis are described below:
+**EV/Revenue** : Measures the company's total value relative to its sales.
+**EV/EBITDA** : Indicates how many years it would take for a company's earnings to pay off its total value.
+**P/E Ratio** : Shows how much investors are willing to pay per dollar of earnings.
+These ratios should be calculated for each comparable company and organized by business segment.
+
+Benchmarking the comparable companies is necessary for establishing a range of valuation multiples that will be used to imply the valuation of each 3M business segment.
+This step allows us to see how 3M's segments compare to similar businesses in the market.
+It provides context for the relative value of each segment and helps identify potential areas of over- or undervaluation.
+For our example, we're comparing 3 companies for each of 3M's 4 business segments, totaling 12 comparable companies.
+We've calculated the mean and median of the valuation multiples (EV/Revenue, EV/EBITDA, and P/E) for each segment.
+
+Finally, after benchmarking comparable companies and calculating summary statistics, we can apply appropriate valuation multiples to imply the valuation of 3M Company.
+As previously mentioned, due to negative overall EBITDA and lack of segmented net income in 3M's 10-K annual report, we'll base our valuation on EV/Revenue multiples.
+In our Excel model, we've estimated TTM segmented revenues by assuming the same proportions as FY 2023 segmented revenues, since all other information was based on TTM financials.
+We used MIN and MAX functions to reference the low/high mean and median multiples for each business segment, then multiplied these implied EV/Revenue multiples by each segment's estimated TTM revenue.
+This calculation resulted in implied enterprise values for each segment.
+
+The resulting SOTP enterprise valuation breakdown by segment, based on the low and high EV/Revenue multiples range, is visualized in the charts below:
+Summing the low and high implied enterprise values yields **$76,894M** and **$87,783M** respectively.
+We then bridged from enterprise value to equity value using this formula: Equity Value = Enterprise Value + Cash and Equivalents + Short-Term Investments - Total Debt - Minority Interest.
+Lastly, we divided the result by diluted shares outstanding (including potential shares from options and convertible securities for a more conservative estimate) to calculate per-share intrinsic price, resulting in a range of **$118-$138**.
+Comparing this to 3M's current stock price of ~**$101.67** suggests the company may be **undervalued**.
+
+The sum of the parts (SOTP) valuation method is valuable in assessing complex, multi-segment businesses by breaking them down into their constituent parts.
+However, it's important to recognize that SOTP valuation comes with its own set of limitations, in addition to those inherent in the underlying valuation models used for each segment, as discussed below:
+**Complexity and Subjectivity** : The process often involves multiple valuation techniques for different segments, introducing potential for inconsistency and bias in assumptions and methodologies.
+Even when using the same valuation approach across segments, the complexity of analyzing multiple business units can lead to increased subjectivity.
+**Time and Resource Intensity** : Conducting a thorough SOTP analysis can be highly time-consuming,
+
+Benchmark the Comparable Companies Across Every Business Segment * **Step #6** : Sum the Segment Valuations and Imply Valuation
+
+### Step #1: Identify Business Segments
+The first step in conducting a SOTP valuation is to identify and clearly define the company\'s distinct business segments. This forms the foundation for accurately valuing each part of the business separately and helps identify which comparable companies to select. For most companies, including 3M, this information is typically available in their annual reports and financial filings. If this information is not readily available, you\'ll need to make reasonable assumptions based on data from company filings or online sources such as press releases. If meaningful segmentation cannot be determined, the company may not be suitable for a SOTP valuation. Here\'s a description of 3M\'s main business units:
+
+* **Safety and Industrial** : Provides personal safety equipment, adhesives, abrasives, and other industrial products for various markets including automotive, electronics, and construction.
+* **Transportation and Electronics** : Offers solutions for transportation, electronic displays, and semiconductor manufacturing, including films, tapes, and advanced materials.
+* **Health Care** : Provides medical and surgical supplies, drug delivery systems, dental and orthodontic products, and health information systems.
+* **Consumer** : Offers a wide range of products for home and office, including cleaning supplies, adhesives, and stationery products.
+
+### Step #2: Select Comparable Companies for Each Segment
+For each of 3M\'s business segments, we\'ll select three publicly traded companies (for simplicity) that are comparable in terms of business model, products, and target markets. These companies are focused players in their respective industries. This step is important as the selection of appropriate comparable companies forms the foundation of a reliable comps valuation, directly impacting the accuracy and relevance of the resulting valuation multiples.
+
+###### Safety and Industrial
+1. **Avery Dennison ([AVY](https://www.nasdaq.com/market-activity/stocks/avy))**: Manufactures pressure-sensitive adhesive materials, apparel branding labels and tags.
+2. **MSA Safety ([MSA](https://www.nasdaq.com/market-activity/stocks/msa))**: Develops, manufactures and supplies safety products that protect people and facility infrastructures.
+3. **RPM International ([RPM](https://www.nasdaq.com/market-activity/stocks/rpm))**: Produces specialty coatings, sealants, and building materials for industrial and consumer markets.
+
+###### Transportation and Electronics
+1. **TE Connectivity ([TEL](https://www.nasdaq.com/market-activity/stocks/tel))**: Designs and manufactures connectivity and sensor solutions for harsh environments in automotive and industrial applications.
+2. **Amphenol ([APH](https://www.nasdaq.com/market-activity/stocks/aph))**: Produces interconnect systems, sensors, and antennas for the automotive, broadband, and military industries.
+3. **Vishay Intertechnology ([VSH](https://www.nasdaq.com/market-activity/stocks/vsh))**: Manufactures discrete semiconductors and passive electronic components for various industries.
+
+###### Health Care
+1. **Integra LifeSciences Holdings ([IART](https://www.nasdaq.com/market-activity/stocks/iart))**: Develops, manufactures, and markets surgical implants and medical instruments for neurosurgery, extremity reconstruction, and general surgery.
+2. **Dentsply Sirona ([XRAY](https://www.nasdaq.com/market-activity/stocks/xray))**: Manufactures professional dental products and technologies, including dental implants, CAD/CAM systems, and imaging systems.
+3. **Henry Schein ([HSIC](https://www.nasdaq.com/market-activity/stocks/hsic))**: Distributes healthcare products and services to office-based dental and medical practitioners, including dental supplies and equipment.
+
+###### Consumer
+* **The Clorox Company ([CLX](https://www.nasdaq.com/market-activity/stocks/clx))**: Manufactures and markets consumer and professional cleaning and disinfecting products.
+* **Newell Brands ([NWL](https://www.nasdaq.com/market-activity/stocks/nwl))**: Produces consumer and commercial products across various categories including home appliances, writing products, and outdoor equipment.
+* **Church & Dwight ([CHD](https://www.nasdaq.com/market-activity/stocks/chd))**: Develops, manufactures, and markets household, personal care, and specialty products under various brand names.
+
+### Step #3: Gather Relevant Financial Information
+The next step is to gather relevant financial information for both the target company (3M) and all comparable companies across every applicable business segment. This step provides the raw data needed to calculate valuation multiples and perform the comparative analysis. For the target company (3M) and each comparable company, gather these financial metrics:
+
+* **Enterprise Value (EV)** : Total value of a company, including equity, debt, and cash. It represents the theoretical takeover price of a company.
+* **Equity Value** : Value available to shareholders, typically the company\'s market capitalization.
+* **Revenue** : Total amount earned from sales of goods or services.
+* **EBITDA** : Earnings before interest, taxes, depreciation, and amortization.
+* **Net Income** : Company\'s total earnings or profit.
+**Related** : [Enterprise Value vs. Equity Value](https://stablebread.com/enterprise-value-vs-equity-value/)
+<|endoftext|>

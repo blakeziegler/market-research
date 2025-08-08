@@ -1,0 +1,61 @@
+Source: https://ift.world/booklets/fra-financial-analysis-techniques-part2/
+
+LM06 Financial Analysis Techniques
+
+7. Common Ratios Categories & Interpretation and Context
+A large number of ratios are used to measure various aspects of performance. Commonly used financial ratios can be categorized as follows:
+Category | What they measure | Example
+Activity ratios | Efficiency of a company in performing its day-to-day operations. | Revenue/Assets
+Liquidity ratios | A company’s ability to meet its short-term obligations. | Current Assets/Current Liabilities
+Solvency ratios | A company’s ability to meet its long term obligations. | Assets/Equity
+Profitability ratios | A company’s ability to generate profit from its resources. | Net Income/Assets
+Valuation ratios | Quantity of an asset or flow per share. | Earnings/Number of Shares
+Single statement ratios: Note that for some ratios, the numerator and denominator are from the same statement (Income statement, balance sheet or cash flow statement). For example, net profit margin (net income/sales), where both items are from the income statement.
+Mixed ratios: For other ratios, the numerator is from one statement and the denominator is from another statement. An example is the asset turnover ratio (sales/assets), where the numerator is from the income statement and the denominator is from the balance sheet.
+
+Interpretation and Context
+As standalone numbers, the financial ratios of a company are not meaningful. The ratios are usually industry specific. For instance, one cannot compare the ratios of Schlumberger with that of Facebook. The financial ratios should be used to periodically evaluate a company’s past performance (trend analysis) and its goals and strategy; how it fares against its peers in the industry (cross-sectional analysis); and the effect of economic conditions on its business.
+
+8. Activity Ratios
+Activity ratios measure how efficiently a company manages its assets. They are also known as asset utilization ratios or operating efficiency ratios. The activity ratios usually have an element from the income statement in the numerator and one from the balance sheet in the denominator. The average of the balance sheet element is generally taken because the balance sheet only shows the value at the end of the period, whereas the income statement measures what happened during the period.
+Activity Ratios | Formula | Interpretation
+Inventory turnover | Cost of Goods Sold/Average
+
+* Indicates how many times per period the entire inventory was sold.
+* Measures the ability of a company to sell its inventory.
+* Higher number means greater efficiency because inventory is kept for a shorter period. It could also mean insufficient inventory, which in turn, might affect growth/ revenue.
+
+* On an average, how many days of inventory is kept on hand.
+
+* Indicates how quickly a company collects cash.
+* More appropriate to use credit sales instead of revenue but it is not readily available.
+* Higher number means greater efficiency in credit and collection. It could also mean stringent cash collection policies are hurting potential sales.
+
+* Elapsed time between credit sale and cash collection.
+* Higher number means it takes a long time to collect receivables.
+
+* Indicates how quickly a company pays suppliers.
+* A high number means the company is paying suppliers quickly and is possibly not making use of credit facilities.
+* Low number may mean the company is facing trouble making payments on time and a sign of liquidity issues.
+
+* On an average, how many days it takes to pay suppliers.
+
+* Indicates how efficiently a company generates revenue from working capital.
+* Working capital = current assets (CA) – current liabilities (CL)
+* Higher number means greater efficiency. If CA = CL, then working capital would be zero making the ratio meaningless.
+
+* Indicates how efficiently a company generates revenue from fixed assets.
+* Higher number means efficient use of fixed assets.
+* Lower number may mean inefficiency, or newer business (higher carrying value on B/S), or a capital intensive business.
+
+* Indicates how efficiently a company generates revenue from total assets (fixed + current assets).
+* As with other turnover ratios, higher number means efficiency.
+
+Purchases = Cost of goods sold + Ending inventory – Beginning inventory
+
+1. Name of the ratio indicates the balance sheet item. For example, in the receivables turnover ratio, average receivables is the balance sheet item.
+2. The income statement item is in the numerator.
+3. Average value of the balance sheet item is in the denominator. Income statement measures an item over a period but balance sheet indicates values of items only at the end of a period. So, analysts typically use the average value for balance sheet items.
+4. Turnover ratios except inventory turnover and payables turnover use revenue in the numerator. Inventory turnover uses cost of goods sold, while payables turnover uses purchases.
+Higher number for turnover ratios = greater efficiency
+<|endoftext|>

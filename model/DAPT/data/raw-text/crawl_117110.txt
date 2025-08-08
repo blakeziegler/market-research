@@ -1,0 +1,65 @@
+Source: https://ift.world/booklets/economics-understanding-business-cycles-part2/
+
+The sector is sensitive to demographics such as: are many new people moving into a region (influx of people into the IT sector in the San Francisco area over the past decade), how quickly new families are formed, or if older people are vacating existing homes, etc. This buying is based on a need.
+
+Impact on the Economic Cycle The points discussed above offer a gauge to measure how quickly the housing market can correct and return to normal growth. Due to increasing urbanization in fast growing developing economies, the demand for housing units is high. This demand can quickly reverse any cyclical weakness in such economies.
+
+
+Orders precede actual shipments, so orders for capital equipment are a widely watched indicator of the future direction of capital spending.
+New orders intended to increase capacity may be an early indicator of the late stage of the expansion phase.
+Companies continue to place new orders as they operate at or near capacity.
+New orders halted, and some existing orders canceled (no need to expand).
+Initial cutbacks may be sharp and exaggerate the economy’s downturn.
+As the general cyclical bust matures, cutbacks in spending on heavy equipment further intensify the contraction.
+Maintenance scaled back.
+
+Increase and decrease in inventory happens very rapidly, and has a major effect on economic growth despite the small size.
+I/S ratio is an important indicator.
+Final sales numbers better reveal the reality of the economic situation than inventory numbers because the inventory may accumulate or companies may want to dispose obsolete inventory before starting production; it depends on the stage of the business cycle.
+Inventories tend to rise when the I/S ratio is low.
+During recovery, inventory will be less than sales and companies start production to increase inventory.
+Exhibit 9 from the curriculum shows how production, sales, and inventories typically move through different phases of the business cycle.
+
+Phase | Recovery | Expansion | Slowdown | Contraction
+Sales and production | Sales decline slows. Sales subsequently recover. Production upturn follows but lags behind sales growth. Over time, production approaches normal levels as excess inventories from the downturn are cleared. | Sales increase. Production rises fast to keep up with sales growth and to replenish inventories of finished products. This increases the demand for intermediate products. “Inventory rebuilding or restocking stage.” | Sales slow faster than production; inventories increase. Economic slowdown leads to production cutbacks and order cancellations. | Businesses produce at rates below the sales volumes necessary to dispose of unwanted inventories.
+Inventory–sales ratio | Begins to fall as sales recovery outpaces production. | Ratio stable. | Ratio increases. Signals weakening economy. | Ratio begins to fall back to normal.
+
+Households represent the largest single sector of most economies. Therefore, patterns of household consumption determine the overall economic direction more than any other sector.
+
+Consumer confidence reflects expectations of future incomes and employment prospects.
+Consumer confidence is usually gauged through surveys.
+
+Consumer spending into three parts: 1. Durable goods – Most cyclical part 2. Non-durable goods – Least cyclical part 3. Services – Can include both more and less cyclical components
+Exhibit 10 from the curriculum shows how consumer spending typically changes through different phases of the business cycle.
+
+Growth in income provides an indication of consumption prospects. It is a better indicator than surveys. Particularly relevant is after-tax income known as disposable income.
+Overall income can be divided into temporary and permanent income. Temporary income is gains from sources such as stocks that are not sustainable. Permanent income is reliable income.
+Some analysts focus on permanent income than overall income to determine spending behavior.
+Increases in permanent income is a good indicator of basic consumption spending.
+
+The housing sector is a smaller part of the overall economy compared to consumer spending, but it can move up and down quickly; hence can count more in overall economic movements than the sector’s relatively small size might suggest.
+
+Generally, statistics on housing such as the inventory of unsold homes and the average or median price of homes are easily available in developed countries.
+
+The sector is particularly sensitive to interest rates. Lower mortgage rates can lead to expansion in housing activity.
+The housing sector might follow its own internal cycle.
+When housing prices are low relative to average incomes and the mortgage rates are low, the demand for housing increases and vice versa.
+People may also buy real estate for speculative purposes if prices have risen rapidly in the past.
+This can result in overbuilding.
+The large inventory of unsold homes eventually puts downward pressure on real estate prices, leading to a more severe correction.
+
+Business Cycle Fluctuations from A Firm’s Perspective
+
+The Workforce and Company Costs
+Exhibit 7 from the curriculum depicts the pattern of hiring and employment through different phases of the business cycle.
+Phase | Recovery | Expansion | Slowdown | Contraction
+Description of activity levels | Economy starts at trough and output below potential. Activity picks up, and gap starts to close. | Economy enjoying an upswing, with activity measures showing above-average growth rates. | Economy at peak. Activity above average but decelerating. The economy may experience shortages of factors of production as demand may exceed supply. | Economy goes into a contraction, (recession, if severe). Activity measures are below potential. Growth is lower than normal.
+Employment | Layoffs slow. Businesses rely on overtime before moving to hiring. Unemployment remains higher than average. | Businesses move from using overtime and temporary employees to hiring. Unemployment rate stabilizes and starts falling. | Businesses continue hiring but at a slower pace. Unemployment rate continues to fall but at slowly decreasing rates. | Businesses first cut hours, eliminate overtime, and freeze hiring, followed by outright layoffs. Unemployment rate starts to rise.
+Levels of employment lag the cycle
+
+Fluctuations in Capital Spending
+Exhibit 8 from the curriculum depicts the fluctuations in capital spending through different phases of the business cycle.
+Phase | Recovery | Expansion | Slowdown | Contraction
+Business conditions and expectations | Excess capacity during trough, low utilization, little need for capacity expansion. Interest rates tend to be low—supporting investment. | Companies enjoy favorable conditions. Capacity utilization increases from low levels. Over time, productive capacity may begin to limit ability to respond to demand. Growth in earnings and cash flow gives businesses the financial ability to increase investment spending. | Business conditions at peak, with healthy cash flow. Interest rates tend to be higher—aimed at reducing overheating and encouraging investment slowdown. | Companies experience fall in demand, profits, and cash flows.
+Capital spending | Low but increasing as companies start to enjoy better conditions. Capex focus on efficiency rather than capacity. Upturn most pronounced in orders for light producer equipment. Typically, the orders initially reinstated are for equipment with a high rate of obsolescence, such as software, systems, and technological hardware. | Customer orders and capacity utilization increase. Companies start to focus on capacity expansion.
+<|endoftext|>

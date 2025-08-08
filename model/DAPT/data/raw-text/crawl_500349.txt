@@ -1,0 +1,88 @@
+Source: https://ift.world/booklets/fra-financial-analysis-techniques-part1/
+
+
+insight into a company’s financial standing. Consider the following percentage changes for a company to identify some potential issues: Revenue: +15%, Operating income: +15%, Operating cash flow: -10%, Inventory: +60%, Receivables: +40%, Total assets: +30% Some of the potential issues based on these numbers are: * The assets are growing at a faster rate than revenue, which implies the company is spending more than the sales it is able to generate. * Operating cash flow is negative whereas operating income is +15%, indicating a problem that the company is booking sales (accrual accounting) but has not realized the cash yet. * Similarly, when inventory and receivables grow at a much faster pace than sales, it shows signs of poor inventory and receivables management.
+
+## 6. The Use of Graphs and Regression Analysis Graphs can be considered an extension of the financial analysis. It is a pictorial representation of the analysis done, be it ratio analysis or trend analysis. Analysts use appropriate graphs such as line charts and bar graphs based on the type of data to be shown. This helps in quick comparison of financial performance and structure over time. **Regression Analysis** Regression analysis, described in detail in Level II, is a statistical method of analyzing relationships (correlations) between variables.
+
+Graphs, and regression analysis help in evaluating a company’s performance. Evaluations require comparisons, but to make a meaningful comparison of a company’s performance, the data needs to be adjusted first. An analyst can then compare a company’s performance to other companies at any point in time (cross-section analysis) or its own performance over time (time-series analysis).
+
+A ratio is an indicator of some aspect of a company’s performance like profitability or inventory management that tells us what happened, but not why it happened. Ratios help in analyzing the current financial health of a company, evaluate its past performance, and provide insights for future projections. Calculating ratios is straightforward, but interpreting them is subjective.
+
+Ratios allow us to evaluate:
+* operational efficiency.
+* financial flexibility.
+* changes in company/industry over time.
+* company performance relative to industry.
+
+Ratio analysis also has certain limitations. Some of the factors to consider include:
+* Need to use judgment: An analyst must exercise judgment when interpreting ratios. For example, a current ratio of 1.1 may not necessarily be good/bad unless viewed in perspective of other companies/industry.
+* Use of alternate accounting methods: Using alternate methods may require adjustments before the ratios are comparable. For example, Company A might use the LIFO method to measure inventory, while a comparable company might use the FIFO method. Similarly, one company may use the straight line method of depreciation, while another may use an accelerated method.
+* Nature of a company’s business: Companies may have divisions operating in many different industries. This can make it difficult to find comparable ratios.
+* Consistency of results of ratio analysis: One set of ratios may indicate a problem, while the other may indicate the problem is short term making the results inconsistent.
+
+Common-size financial statements are used to compare the performance of different companies within an industry or a company’s performance over time. Common size statements are prepared by expressing every item in a financial statement as a percentage of a base item.
+
+A vertical common-size balance sheet is prepared by dividing each item on the balance sheet by the total assets for a period and expressed as a percentage. This highlights the composition of the balance sheet.
+Vertical common-size balance sheet account (in %) = (Balance sheet account / Total assets) * 100
+
+A simple common-size vertical balance sheet for Everest Inc. is shown below:
+Vertical common-size (partial) balance sheet for Everest Inc.
+---
+ASSETS | 2015 | 2014
+Cash and cash equivalents | 10.81% | 13.12%
+Short-term marketable securities | 1.24% | 0.62%
+Accounts receivable | 7.50% | 4.80%
+Inventory | 25.32% | 25.97%
+Other current assets | 3.37% | 2.14%
+Property, plant, and equipment (PPE) | 38.76% | 40.06%
+Other non- current assets | 0.03% | 0.02%
+Total | 100.00% | 100.00%
+EQUITY and LIABILITIES
+Short-term borrowing | 0.46% | 0%
+Deferred tax liabilities | 4.01% | 4.20%
+Stockholder’s equity | 58.88% | 60.13%
+Equity and Liabilities | 100.00% | 100.00%
+
+Trend analysis or time-series analysis provides information on historical performance and growth. It indicates how a particular item is changing – whether it is improving or deteriorating – relative to total assets over multiple periods. For the data given above, we can observe that inventory decreased as a percentage of total assets in 2015, while accounts receivable increased as a percentage of total assets.
+
+The vertical common-size balance sheet can be used in cross-sectional analysis (also called relative analysis) to compare a specific metric of one company with the same metric for another company or companies for a single time period. As illustrated in the table below, this method allows comparison across companies which might be of significantly different sizes and/or operate in different currencies.
+Everest Inc. | Alps Corp.
+---|---|---
+2015 | | 2015
+Cash and cash equivalents | 10.81% | $3,500 | 9.00% | €1,755.00
+Short-term marketable securities | 1.24% | $400 | 4.00% | €780.00
+Accounts receivable | 7.50% | $2,430 | 5.20% | €1,014.00
+Inventory | 25.32% | $8,200 | 20.10% | €3,919.50
+Other non-current assets | 0.03% | $10 | 0.50% | €97.50
+Total Assets | 100.00% | $32,382 | 100.00% | €19,500.00
+This presentation makes it easy to see that Alps Corp. has lower receivables as a percentage of total assets relative to Everest Inc. Alps Corp. also has lower inventory as a percentage of total assets relative to Everest Inc.
+
+Financial analysis is a useful tool in evaluating a company’s performance and trends.
+The primary source of data is the company’s annual reports, financial statements, and MD&A.
+An analyst must be capable of using a company’s financial statements along with other information such as economy/industry trends to make projections and reach valid conclusions.
+
+Before beginning any financial analysis, an analyst must clarify the purpose and context of why it is needed.
+Once the purpose is defined, an analyst can choose the right techniques for the analysis.
+For example, the level of detail required for a substantial long-term investment in equities will be higher than one needed for a short-term investment in fixed income.
+
+This reading focuses on steps 3 and 4 of the financial analysis framework in detail: how to adjust financial statements, compute ratios, and produce graphs and forecasts.
+The processed data is then analyzed to arrive at a conclusion.
+
+Financial Analysis Framework
+Phase | Output of the phase
+1. Define purpose and context based on the analyst’s function, client input, and organizational guidelines. | ObjectiveQuestions to be answered Nature and content of report to be provided Timetable and budget
+2. Collect data : financial statements, other financial data, industry/economic data, discussions with management, suppliers, customers, and competitors. | Organized financial statementsFinancial tables Completed questionnaires
+3. Process data | Adjusted financial statementsCommon-size statements Ratios and graphs Forecasts
+4. Analyze and interpret processed data | Analytical results
+5. Develop and communicate conclusions and recommendations | Report answering questions from phase 1Recommendation regarding the purpose of the analysis
+6. Follow-up | Updated recommendations
+
+Distinguishing between Computation and Analysis
+An effective analysis is not just a compilation of various pieces of information, tables, and graphs.
+It includes both calculations and interpretations.
+For analyzing past performance, an analyst computes several ratios, compares them against benchmarks, evaluates how the company performed, and determines the reasons behind its good/bad performance.
+Similarly, for a forward-looking analysis, an analyst must forecast and make recommendations after analyzing trends, management quality, etc.
+
+Various tools and techniques such as ratios, common size analysis,
+<|endoftext|>

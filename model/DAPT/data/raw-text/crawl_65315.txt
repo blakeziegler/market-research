@@ -1,0 +1,84 @@
+Source: https://www.investopedia.com/terms/q/qualitativeanalysis.asp
+
+Qualitative analysis is a method of evaluating a company's financial health and performance by examining non-numerical factors, such as management quality, brand strength, and market position.
+
+Qualitative analysis works by assessing the qualitative aspects of a company, which can include its business model, competitive advantages, and overall market environment.
+
+Qualitative data refers to non-numerical information that can provide insights into a company's operations, such as customer feedback, employee satisfaction, and brand reputation.
+
+In a business context, qualitative analysis can help investors understand the underlying factors that may affect a company's future performance, beyond what is reflected in financial statements.
+
+An example of qualitative analysis in business could involve evaluating a company's leadership team, assessing their experience and track record in the industry.
+
+Qualitative analysis is often compared to quantitative analysis, which focuses on numerical data and financial metrics to evaluate a company's performance.
+
+Qualitative analysis is a method of evaluating a company's financial health and performance by examining non-numerical factors. This approach focuses on understanding the qualitative aspects of a business, such as its management quality, brand strength, market position, and competitive advantages.
+
+Investors often use qualitative analysis in conjunction with quantitative analysis to gain a comprehensive view of a company's value. While quantitative analysis relies on financial metrics and ratios, qualitative analysis provides insights into the underlying factors that drive a company's success.
+
+Key qualitative factors to consider include the company's business model, industry trends, regulatory environment, and customer satisfaction. These elements can significantly impact a company's long-term performance and should be factored into any investment decision.
+
+By understanding the qualitative aspects of a company, investors can make more informed decisions and better assess the risks and opportunities associated with their investments.
+
+Qualitative analysis explores a company’s nonnumerical data, helping it understand its value or prospects.
+
+In business and management, qualitative analysis uses subjective judgment to analyze a company’s value or prospects based on nonquantifiable information, such as management expertise, industry cycles, strength of research and development, and labor relations.
+Qualitative analysis contrasts with quantitative analysis, which focuses on numbers found in reports such as balance sheets.
+The two techniques, however, will often be used together to examine a company’s operations and evaluate its potential as an investment opportunity.
+
+Qualitative analysis uses subjective judgment based on 'soft' or nonquantifiable data.
+Qualitative analysis deals with intangible and inexact information that can be difficult to collect and measure.
+Machines struggle to conduct qualitative analysis, as intangibles can’t be defined by numeric values.
+Understanding people and company cultures is central to qualitative analysis.
+Looking at a company through the eyes of a customer and understanding its competitive advantage both assist with qualitative analysis.
+
+The distinction between qualitative and quantitative approaches is similar to the difference between human and artificial intelligence.
+Quantitative analysis uses exact inputs such as profit margins, debt ratios, earnings multiples, and the like.
+These can be plugged into a computerized model to yield an exact result, such as the fair value of a stock or a forecast for earnings growth.
+Of course, for the time being, a human has to write the program that crunches these numbers, and that involves a fair degree of subjective judgment.
+Once they are programmed, though, computers can perform quantitative analysis in fractions of a second, while it might take even the most gifted and highly trained humans minutes or hours.
+Qualitative analysis, on the other hand, deals with intangible, inexact concerns that belong to the social and experiential realm rather than the mathematical one.
+This approach depends on the kind of intelligence that machines currently lack, since things like positive associations with a brand, management trustworthiness, customer satisfaction, and cultural shifts are difficult, arguably impossible, to capture with numerical inputs.
+
+Many social scientists use qualitative analysis in their research, and it is especially prominent among anthropologists and sociologists.
+
+Qualitative analysis may sound almost like 'listening to your gut,' and indeed, many qualitative analysts would argue that gut feelings have their place in the process.
+This does not mean, however, that it is not a rigorous approach.
+Indeed, it can consume much more time and energy than quantitative analysis.
+People are central to qualitative analysis.
+An investor might start by getting to know a company’s management, including their educational and professional backgrounds.
+One of the most important factors is their experience in the industry.
+More abstractly, do they have a record of hard work and prudent decision making, or are they better at knowing—or being related to—the right people?
+Their reputations are also key: Do their colleagues and peers respect them?
+Their relationships with business partners are also worth exploring, since these can have a direct impact on operations.
+
+The way employees view the company and its management is important.
+Are they satisfied and motivated, or do they resent their bosses?
+The rate of employee turnover can indicate employees’ loyalty or lack thereof.
+What does workplace culture say about the company?
+Overly hierarchical offices promote intrigue and competition and sap productive energy; a sleepy, unmotivated environment can mean employees are mainly concerned with punching the clock.
+The ideal is a vibrant, creative culture that attracts top talent.
+
+Gathering data for qualitative analysis can sometimes be difficult.
+Fortune 500 CEOs are not known for sitting down with retail investors for a chat or showing them around the corporate headquarters.
+In part, Warren Buffett can use qualitative analysis so effectively because people are willing to give him access to their time and information.
+The rest of us have to sift through news reports and companies’ filings to get a sense of managers’ records, strategies, and philosophies.
+
+discussion and analysis (MD&A) section of a company’s 10-K filing and quarterly earnings conference calls provide a window into strategies and communication styles. Clear, transparent communication and coherent strategies are useful. Buzzwords, evasiveness, and short-termism, not so much. Qualitative data can also be collected in a number of other ways, including interviews, panel groups, ethnography (participant observation), archival work, and document analysis. Qualitative data is often read carefully and coded thematically to identify themes, patterns, and trends.
+
+Customers are the only group more crucial to a company’s success than management and employees, since they are the source of its revenue. Ironically, if a company places customers’ interests before shareholders, it may be a better long-term investment. If feasible, it’s a good idea to try being a customer. Say you’re considering investing in an airline that has reined in costs, beat earnings estimates in three consecutive quarters, and plans to buy back shares. When you try to actually use the airline, however, you find the website bug-ridden, the customer service representatives cranky, the extra fees petty, and your fellow passengers resentful. The negative experience tells you that the company has a lack of priority for its customers and to be careful investing in the airline. A company’s business model and competitive advantage are vital components of qualitative analysis. What gives the firm an enduring leg up over its rivals? Has it invented a new technology that competitors will find hard to replicate, or that has intellectual property protection? Does it have a unique problem-solving approach for its customers? Is its brand globally recognized—in a good way? Does its product have cultural resonance or an element of nostalgia? Will there still be a market for it in 20 years? If you can plausibly imagine another company stepping in and doing what this one does just a little bit better, then the barrier to entry may be too low. Why will an unestablished company be the one to create or disrupt its chosen market, and why won’t it then be replaced in turn?
+
+The idea behind quantitative analysis is to measure things; the idea behind qualitative analysis is to understand them. The latter requires a holistic view and a fact-based overarching narrative. Context is key. For example, a CEO who dropped out of college would be a red flag in some cases, but Mark Zuckerberg and Steve Jobs are exceptions. Silicon Valley is, for better or worse, a different beast. A look at McDonald’s Corp. (MCD) financials a few years ago would have told you nothing about a looming backlash against cheap, unhealthy food. On the other hand, a purely qualitative approach is vulnerable to distortion by blind spots and personal biases. Quantitative measures can act as a check on these tendencies.
+
+Qualitative analysis relies on thick description and deep understanding of the subject being researched, obtained from in-depth interviews, observations, and/or close readings of text. This type of research typically looks at case studies and can be used to understand local phenomena. Quantitative analysis instead relies on the statistical analyses of numerical data obtained from surveys, experiments, or administrative records. From this, inferences can be made and correlations between variables analyzed to understand more generalized phenomena.
+
+| Qualitative Analysis | Quantitative Analysis ---|---|--- Type of data | Words, text, descriptions, direct observations | Numbers, figures, statistics How data is collected | Observations, interviews, and textual analysis | Measuring and counting things How data is analyzed | Text analysis; grouping data into meaningful themes or categories | Statistical analysis Level of analysis | Small groups, case studies, local phenomena; more subjective | Large-scale, generalizable, fixed Type of findings | “Thick description,” understanding the why or how about phenomena | How much, how many, or how often; correlations or causation among variables
+
+Although the exact steps may vary, most researchers and analysts undertaking qualitative analysis will follow these steps: 1. Define your goals and objective. 2. Collect or obtain qualitative data. 3. Analyze the data to generate initial topic codes. 4. Identify patterns or themes in the codes. 5. Review and revise codes based on initial analysis. 6. Write up your findings.
+
+Qualitative research encompasses a wide range of techniques and methodologies. The most common include: 1. Interviews 2. Ethnography (participant observation) 3. Narrative or discourse analysis 4. Focus groups 5. Document/archival analysis
+
+Qualitative data can take many forms. Common types include transcripts generated from one-on-one interviews, free text responses on surveys, narratives, quotations, text documents, images, or observations taken down in a notebook or research journal.
+
+Qualitative analysis can be applied to a wide range of research topics or practical settings. It is best used if you are interested in understanding human behavior from an informant or participant perspective to get a better understanding of what is going on in the social context around you.
+<|endoftext|>

@@ -1,0 +1,52 @@
+Source: https://sellside.substack.com/p/goldman-sachs-commentary-on-markets
+
+The executed flow in general ended +297 basis points compared to +27 basis points, the average of the last 30 days.
+LOs: Ended as net buyers with +$500 million, driven by demand in Consumer Discretionary, Healthcare and Financials, versus supply in Technology.
+HFs: They ended balanced, with supply in Health, Finance and Industrial, compared to demand in macro products.
+
+Movements by Results:
+NFLX: +14.8% due to a great result and improved forecasts (18.9 million new subscribers vs. 9 million expected).
+STX: +590 basis points thanks to gross margins that boosted earnings per share (EPS).
+IBKR: +460 basis points (low volume); Adjusted EPS beat expectations with net income up 4% and margins 230 basis points above consensus.
+HAL: +1.7% on low volume. Q4 EPS of $0.70, in line with consensus. Revenue of $5.6 billion vs. $5.65 billion expected.
+GEV: -2% (vs. -6% previously). Weaker quarterly orders and EBITDA in line with expectations, although expected to exceed.
+TXT: -3% with low volume due to missing revenue estimates.
+JNJ: -20 basis points (previously +1.5%) following mixed Q4 results and initial guidance for 2025.
+
+Trump is pushing for an early renegotiation of the U.S. trade deal with Mexico and Canada, even though the continental pact is not scheduled for review until 2026.
+
+China sees scope to avoid trade war with Donald Trump, despite tariff threat. New US president hints at possible deal that would link TikTok ownership to tariffs.
+
+Our model shows traders with maximum gamma exposure (+$4.77 billion). This exposure will decrease in either direction, reversing to short by +2%.
+
+CTA Flows in Equities (01/21/2025):
+Sideways market: Buyers for $34.25 billion (of which $10.03 billion in the US).
+Market up: Buyers for $38.17 billion ($9.98 billion in the US).
+Bear Market: Buyers for $4.46 billion ($2.72 billion outflow in the US).
+SPX Key Levels:
+Short term: 5959
+Medium term: 5795
+Long term: 5314
+
+History can be useful, but no two cycles are the same. Recent changes in asset markets reflect a significant macro adjustment:
+1. Big and fast growth update.
+2. Restrictive monetary policy shock in recent weeks. These fundamental changes seem reasonable in the current macroeconomic context.
+
+The first day after Trump's inauguration closed with the major indices solidly higher:
+SPX: +88 basis points
+NDX: +58 basis points
+RTY: +185 basis points
+The market digested a wealth of policy-related headlines. In the TMT (Technology, Media and Telecommunications) sector, the main theme was small companies > large companies, with highlights being:
+AAPL: -3%, again underperforming.
+R2K Tech: +2.5%, racking up an impressive +9% in 5 days.
+
+Featured Movements in Technology:
+BKNG: -5% and general weakness in OTA (Online Travel Agencies).
+PINS: +5.
+TSM: +3.5% (explained only by the absence of tariffs on China?).
+AAPL: Still lagging; questions remain as to what will stop this downward trend.
+NFLX - Reported strong after-hours results, with better-than-expected net subscriber growth and improved fiscal year guidance.
+
+The NDX has been above its 200-day moving average since 03/13/2023, accumulating +84% in this period.
+However, AAPL is on track to have its worst month (-11.09%) since December 2022. It currently lags the NDX by about 10 points month-to-date (MTD), marking its biggest underperformance (-13.75%) since November 2018.
+<|endoftext|>

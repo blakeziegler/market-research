@@ -1,0 +1,58 @@
+Source: https://ift.world/booklets/economics-understanding-business-cycles-part1/
+
+it helps them understand developments in the housing and construction markets
+it helps them assess the extent of business cycle phases
+it helps them better anticipate policy makers’ actions
+
+The focus of our previous reading was GDP, the goods and services produced in an economy, and the factors that affect it in the long run.
+In this reading, we look at the factors causing short-term movements in the economy, such as money, inflation, population, technology, and capital.
+This reading is organized into the following sections:
+What is a business cycle; what are the different phases in a business cycle?
+Credit cycles and their relationship to business cycles
+Introduction to business cycle theory, and the different economic schools of thought.
+Unemployment and inflation, and how they affect economic policy.
+Economic indicators that are useful in predicting the future of an economy.
+
+The curriculum defines business cycle as: “Business cycles are a type of fluctuation found in the aggregate economic activity of nations that organize their work mainly in business enterprises : a cycle consists of expansions occurring at about the same time in many economic activities, followed by similarly general recessions, contractions, and revivals which merge into the expansion phase of the next cycle; this sequence of events is recurrent but not periodic ; in duration, business cycles vary from more than one year to 10 or 12 years.”
+Some important points to be noted from the definition:
+Business cycles occur in economies where there are a large number of private companies, and not just agriculture economies.
+The economic activity shows a cyclical behavior between expansion and recession.
+They are pervasive, i.e., the cycle includes many economic activities and not just one sector. And the phases of expansion or contraction occur at the same time throughout the economy. For example, banking and real estate both may be in an expansion stage.
+They are recurrent but not periodic, i.e., the cycles repeat. To say they are not periodic means that the intensity and the duration differs. For instance, if an economic boom lasted for five years from 2002-07, it does not mean that the expansion phase will last for five years in the next cycle. Each cycle lasts about 1 to 12 years.
+
+Types of Cycles
+‘Classical cycle’ refers to fluctuations in the level of economic activity when measured by GDP in volume terms. It is rarely used in practice,
+
+‘Growth cycle’ refers to fluctuations in economic activity around the long-term potential trend growth level. The focus is on how much actual economic activity is below or above trend growth in economic activity. The advantage of this method is that it divides economic activity into a part reflecting long-term trends and a part reflecting short-term fluctuations.
+‘Growth rate cycle’ refers to fluctuations in the growth rate of economic activity. A growth rate above potential growth rate reflects upswings, while a growth rate below potential growth rate reflects downswings. The advantage of this definition is that there is no need to estimate a long-run growth path first. Also, peaks and troughs can be recognized earlier than when using the other two definitions.
+
+There are four phases of a business cycle:
+1. Recovery: The economy is going through the trough of the cycle. Economic activity (which includes consumer and business spending) is below potential but is starting to increase.
+2. Expansion: The recovery gathers momentum and economic activity rises above potential. The economy enters the so-called ‘boom’ phase.
+3. Slowdown: The economy is going through the peak of the cycle. Economic activity is above potential but is starting to decrease.
+4. Contraction
+
+This connection between aggregate demand and phases of a business cycle is not explicitly given in the curriculum. But, let us tie the concepts we covered in the previous reading to this one:
+* Aggregate demand plots price level (y-axis) vs real GDP (x-axis).
+* When the business cycle is at its peak after expansion, the intersection of AD and SRAS curves occurs to the right of the LRAS curve. The GDP is greater than potential GDP, and it results in expansionary gap.
+* When the business cycle is at its trough after contraction, the intersection of AD and SRAS curves occurs to the left of the LRAS curve. The GDP is below the potential GDP, and the gap is known as recessionary gap.
+
+Some of the important characteristics of each phase in a business cycle are presented in Exhibit 5 from the curriculum.
+Phase | Recovery | Expansion | Slowdown | Contraction
+---|---|---|---|---
+Description | Economy going through a trough. Negative output gap starts to narrow. | Economy enjoying an upswing. Positive output gap opens. | Economy going through a peak. Positive output gap starts to narrow. | Economy weakens and may go into a recession. Negative output gap opens.
+Activity levels – consumers and businesses | Activity levels are below potential but start to increase. | Activity measures show above-average growth rates. | Activity measures are above average but decelerating. Moving to below-average rates of growth. | Activity measures are below potential. Growth is lower than normal.
+Employment | Layoffs slow. Businesses rely on overtime before moving to hiring. Unemployment remains higher than average. | Businesses move from using overtime and temporary employees to hiring. Unemployment rate stabilizes and starts falling. | Businesses continue hiring but at a slower pace. Unemployment rate continues to fall but at decreasing rates. | Businesses first cut hours, eliminate overtime, and freeze hiring, followed by outright layoffs. Unemployment rate starts to rise.
+Inflation | Inflation remains moderate. | Inflation picks up modestly | Inflation further accelerates. | Inflation decelerates but with a lag.
+
+The behavior of businesses and households often leads or lags the turning points of the business cycle. For example, at the start of an expansion phase, businesses rely on overtime and wait to hire new employees until they are certain that the economy is truly growing.
+
+Recovery phase: When markets expect the end of a recession and the start of an expansion phase, risky assets are repriced upwards. Investors start incorporating higher profit expectations into the prices of stocks and bonds. Equity markets typically hit a trough about 3-6 months before the economy hits the trough.
+Expansion phase: The boom phase tests the limits of the economy. For example, companies may expand so much that they have difficulty finding qualified labor and will compete with other companies by raising wages. Companies may also borrow a lot to fund capacity expansions. The government may have to step in to prevent the economy from overheating.
+Slowdown phase: During the boom, the riskiest assets will usually have significant price increases. Whereas, safe assets such as government bonds may have lower prices and thus higher yields.
+Contraction phase: During contraction, investors prefer safer assets such as government securities and defensive companies with stable positive cash flows.
+
+Credit cycles describe the changing availability—and pricing—of credit. When the economy is strong the willingness of lenders to extend credit on favorable terms is high. Whereas, when the economy is weak lenders make credit less available and more expensive. This can result in decline of asset values and cause further economic weakness and higher defaults.
+
+Credit cycles should be studied due to the importance of credit in the financing of construction and the purchase of property. The duration of recessions and recoveries are often shaped by linkages between business and credit cycles. Recessions accompanied by rapid fall in credit tend to be longer and deeper. Such situations can also lead to housing and equity price busts. Recoveries accompanied by rapid growth in credit tend to be stronger. They can also lead to a revival in house and equity prices. Credit cycles are not always synchronized with the business cycle. They tend to be longer, deeper, and sharper than the business cycle.
+<|endoftext|>

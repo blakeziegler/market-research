@@ -1,0 +1,58 @@
+Source: https://ift.world/booklets/equity-market-organization-and-structure-part5/
+
+
+Orders and Execution Instructions Brokers, dealers and exchanges arrange the trades between buyers and sellers by issuing orders. All orders specify the following basic information:
+What instrument to trade (name of the stock, ETF, bond, etc.)
+How much to trade (quantity such as 500 socks of Microsoft Corp.)
+Whether to buy or sell (example: sell Oracle stock)
+Most orders have additional instructions:
+Execution instruction: How to fill the order.
+Validity instruction: When the orders may be filled.
+Clearing instruction: How to arrange the final settlement.
+In many markets, dealers are willing to buy/sell from traders. The dealer creates the market. Some important terms:
+Bid and ask price: The prices at which dealers are willing to buy are called bid prices. The prices at which dealers are willing to sell are called ask prices. The ask prices are usually higher than the bid prices.
+Bid and ask size: Traders often trade various quantities of a stock at various prices. The quantities for a bid offer are called bid sizes and the quantities for an ask offer are called ask sizes.
+The highest bid in the market is called the best bid and lowest ask in the market is called the best ask. The difference between the best bid and best offer is the market bid-ask spread.
+
+Execution Instructions Execution instructions types are:
+Market Orders:
+The order is immediately executed at the best price available.
+It executes the order quickly. However there can be substantial slippages in execution price if a stock is thinly traded.
+Limit Orders:
+Sets a minimum execution price on sell orders and maximum execution price on buy orders.
+The order ensures that an investor never exceeds his price limit on a transaction.
+However, there is a possibility that the order may not execute at all if the markets are fast moving or there isn’t enough liquidity.
+All-or-Nothing Orders:
+These orders will be executed only if the entire quantity can be traded.
+Are beneficial when the trading costs depend on the number of executed trades and not on the size of the order.
+Hidden Orders:
+These are large orders that are known only to the brokers or exchanges executing them until the trades are executed.
+Iceberg Orders:
+A small visible portion of a large hidden order is executed first to gauge the market liquidity before the entire order is executed.
+From a testability perspective, it is important to note the difference between a market order and a limit order.
+
+Advantages
+Quick execution when a trader believes that the prices are volatile.
+Avoids slippages as the orders are executed at the pre-determined or better prices.
+Disadvantages
+Quick execution can lead to unfavorable trade prices and has trade price uncertainty.
+In a volatile market, the order might be partially filled or not filled at all, making the possibility of missing out on trade.
+Additional information
+Trader sacrifices price certainty for immediate liquidity.
+Types of limit orders:· Marketable or aggressively priced: Limit buy order above the best ask or a limit sell order below the best bid. It will be immediately executed.
+Making a new market or inside the market: Limit price is between the best bid and the best ask.
+Behind the market: Limit buy order with limit price below the best bid, and limit sell order with limit price above the best ask. If the limit prices are way behind the market, they are termed as far from the market limit orders.
+
+Validity Instructions and Clearing Instructions
+Validity instructions types are:
+Day orders: Orders that expire if unfilled for the trading day on which they are submitted.
+Good-till-cancelled orders: Orders that last until the buy or sell order is executed.
+Immediate or cancel (fill or kill) orders: These orders are to be immediately filled, i.e., when they are received by the broker or exchange. If it fails to execute, the order is canceled from the system.
+Good-on-close (market-on-close): These orders can only be filled at the close of trading. Mutual funds often rely on this order type.
+
+Stop orders
+Also called stop-loss orders, this order comes with a trigger price. Stop-sell order executes only if the price is at or below the stop price or trigger price. Stop-buy order executes only if the price is at or above the stop price or trigger price.
+
+Clearing Instructions
+Clearing instructions tell brokers and exchanges how to arrange final settlement of trades. These instructions convey who is responsible for clearing and settling the trade.
+<|endoftext|>

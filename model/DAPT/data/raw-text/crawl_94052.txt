@@ -1,0 +1,66 @@
+Source: https://www.investopedia.com/articles/investing/080913/equity-valuation-comparables-approach.asp
+
+Valuation is as much an art as it is a science. Instead of obsessing over what the true dollar figure of an equity might be, it is most valuable to come down to a valuation range. For instance, if a stock trades toward the lower end, or below the lower end of a determined range, it is likely a good value. The opposite may hold true at the high end and could indicate a shorting opportunity.
+
+Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our editorial policy.
+
+1. Alberro, Jose and Zurek, Paul. "Market Approach or Comparables," Law Business Research Ltd, 2018, pp. 254-368.
+2. Fidelity. "How to Short Stocks."
+
+The Comparables Approach to Equity Valuation
+
+Equity Valuations: An Overview
+
+Comparables Approach: An Overview
+
+Example of the Comp Method
+
+Important Considerations
+
+Comparables Approach FAQs
+
+The Bottom Line
+
+The main purpose of equity valuation is to estimate the value of a firm or its security. A key assumption of any fundamental value technique is that the value of the security (in this case an equity or a stock) is driven by the fundamentals of the firm’s underlying business at the end of the day. There are a number of different methods of valuing a company with one of the primary ways being the comparable (or comparables) approach. Before we explore what this valuation method entails, let's compare it to other valuation methods.
+
+There are many equity valuation models including the discounted cash flow (DCF), the comparable (or comparables) approach, the precedent approach, the asset-based approach, and the book value approach.
+The first primary comparable approach is the most common and looks at market comparables for a firm and its peers.
+The comparable model is a valuation approach that analyzes the financial performance of various companies to determine which may be overvalued or undervalued.
+The comparables model often utilizes price-to-book, price-to-earnings, price-to-free cash flow, or other metrics that compare equity valuations to financial performance.
+The comparables approach is similar to but different from the precedent approach which relies on historical sales of similar companies to derive values.
+
+There are a number of different ways to perform equity valuation. The most popular methods include but are not limited to:
+* **Comparables Approach.** A company's equity value should bear some resemblance to other equities in a similar class. This entails comparing a company's equity to competitors or other firms in the same sector.
+* **Discounted Cash Flow.** A company's equity value is determined by the future cash flow projections using net present value. This approach is most useful if the company has strong data to support future operating forecasts.
+* **Precedent Transactions.** A company's equity depends on historical prices for completed M&A transactions involving similar companies. This approach is only relevant if similar entities have been recently valued and/or sold.
+* **Asset-Based Valuation.** A company's equity value is determined based on the fair market value of net assets owned by the company. This method is most often used for entities with a going concern, as this approach emphasizes outstanding liabilities determining net asset value.
+* **Book-Value Approach.** A company's equity value is determined based on its previous acquisition cost. This method is only relevant for companies with minimal growth that might have undergone a recent acquisition.
+
+The comparables approach goes by many names. It is also referred to as the "trading multiples", "peer group analysis", "equity comps", or "public market multiples".
+
+One of the more popular equity valuation approaches is the comparables approach. This strategy evaluates similar companies and compares relevant valuation metrics. The comparables approach is often one of the easier valuations to perform as long as the company being valued as public company comparables. The comparables valuation can simply be determined by comparing a firm to its key rivals, or at least those rivals that operate similar businesses. Discrepancies in the value between similar firms could spell opportunity. The hope is that it means the equity is undervalued and can be bought and held until the value increases. The opposite could hold true, which could present an opportunity for shorting the stock or positioning one’s portfolio to profit from a decline in its price.
+
+The comparables Common market multiples include the following: enterprise-value-to-sales (EV/S), enterprise multiple, price-to-earnings (P/E), price-to-book (P/B), and price-to-free-cash-flow (P/FCF). To get a better indication of how a firm compares to rivals, analysts can also look at how its margin levels compare. For instance, an activist investor could make the argument that a company with averages below peers is ripe for a turnaround and subsequent increase in value should improvements occur.
+
+The precedent approach and the comparables approach are very similar. Though technically different, both use market information from other companies to determine an equity value.
+A different valuation approach called the precedent approach looks at market transactions where similar firms, or at least similar divisions, have been bought out. These companies would have been acquired by other rivals, private equity firms, or other classes of large, deep-pocketed investors. The primary difference between the precedent approach and the comparables approach is the nature of the business being compared to. The precedent approach relies on prior sales and dispositions. Meanwhile, the comparables approach relies on operating information and financial performance. While the precedent approach focuses on similar sales, the comparables approach focuses on similar operations.
+
+The comparables approach is best illustrated through an example. Below is an analysis of the largest, most diversified chemical firms that trade in the U.S. The financial information below is current.
+
+**Company** | **Market Cap (in billions)** | **Enterprise Value (MRQ) (in billions)** | **P/E Ratio (TTM)** | **P/R Ratio (TTM)** | **P/B Ratio (TTM)** | **Net Margin (TTM)** | **Free Cash Flow (TTM) (in millions)** Eastman Chemical Company (NYSE: [EMN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=emn)) | $13.31 | $19.803 | 16.95 | 1.25 | 2.33 | 0.076 | $844 Dow Chemical (NYSE: [DOW](https://www.investopedia.com/markets/quote?tvwidgetsymbol=DOW)) | $48.83 | $60.189 | 7.35 | 0.86 | 2.73 | 0.118 | $7,376 DuPont (NYSE: [DD](https://www.investopedia.com/markets/quote?tvwidgetsymbol=DD)) | $33.29 | $48.150 | 21.89 | 2.11 | 1.27 | 0.090 | $1,253 Air Products & Chemicals (NYSE: [APD](https://www.investopedia.com/markets/quote?tvwidgetsymbol=apd)) | $52.52 | $60.405 | 24.35 | 4.65 | 3.89 | 0.191 | $390 Huntsman Chemical (NYSE: [HUN](https://www.investopedia.com/markets/quote?tvwidgetsymbol=hun)) | $7.44 | $9.428 | 6.56 | 0.85 | 1.73 | 0.132 | $740 Average of Selected Multiples | $31.08 | $39.595 | 15.42 | 1.94 | 2.39 | 0.121 | $2,121
+
+When performing the comparables approach, it's valuable to not only select similar companies in the same sector but to compare performance against industry average. Although our sample size is small in this example, let's compare Eastman Chemical Company to other companies in addition to the average of our sample.
+* **Market Capitalization:** Of the companies selected, Eastman is among the smallest in terms of market cap. This is valuable information when comparing dollar figures like [net income](https://www.investopedia.com/terms/n/netincome.asp), net margin, and free cash flow. This also sets the precedent that Eastman may have less operational efficiencies than Dow Chemical, Dupont, or Air Products & Chemicals.
+* **Enterprise Value:** The enterprise value of Eastman is almost 50% higher than its market cap. The closest comparable is Huntsman, whose enterprise value is roughly 25% higher than its market cap. This indicates that Eastman may have higher debt or lower cash value than the nearest comparable sample.
+* **Price/Earnings Ratio:** Of our sample of 5 companies, Eastman's P/E ratio is fairly similar to the average. This is important to note when comparing other ratios. Because Eastman is among the higher P/E ratios, the market is pricing in expectations that there will be further company growth (at least compared to the companies with lower P/E ratios such as Huntsman or Dow Chemical).
+* **Price/Revenue Ratio:** Unlike the P/E ratio, Eastman is below our sample average for the P/R ratio. This indicates the market expects less revenue growth compared to other firms. By comparison, this means the market is anticipating expense savings or operational efficiencies due to the difference in expectations regarding P/E and P/R.
+* **Price/Book Ratio:** Again, Eastman appears to be on target with our sample average. This indicates the company's stock is not trading at too high of a premium compared to the industry average.
+* **Net Margin:** As expected, Eastman has yet to capture many [economies of scale](https://www.investopedia.com/terms/e/economiesofscale.asp) that the larger companies have been able to capture. Its net margin is the lowest of the group and below the sample average, indicating that this small company is operating on the smallest margins. This indicates that while Eastman has some favorable metrics, it is likely still operating with inefficiencies due to its size.
+* **Free Cash Flow:** The industry average does get skewed by Dow Chemical's large free cash flow (which appears to be a potentially unlikely outlier). Still, it is encouraging to see Eastman's free cash flow similar to (and even larger than) some bigger companies like DuPont and Air Products. This may that Eastman may have cash on hand to invest in its infrastructure for future growth.
+
+Overall, Eastman has a relatively fair price compared to similar industry leaders. Its valuation will likely be negatively impacted by its low net margin compared to other companies; however, Eastman has free cash flow to address operational inefficiencies.
+
+It is important to note that it can be difficult to find truly comparable companies and transactions to value an equity. This is the most challenging part of a comparables analysis. For instance, in the example above, only Huntsman Chemical is relatively close in size to Eastman. The other three industry leaders are nearly three times the operational size and likely have the scale and magnitude to operate differently. Additionally, using trailing and [forward multiples](https://www.investopedia.com/terms/e/ev-ebitda.asp) can make a big difference in an analysis. If a firm is growing rapidly, a historical valuation will not be overly accurate. What matters most in valuation is making a reasonable estimate of future market multiples. If profits are projected to grow faster than rivals, the value should be higher. It is also worth noting that different valuation approaches may yield different findings. For example, the discounted cash flow approach looks solely at the company being valued and ignores market factors or competitor data. On the flip side, the stock market can become overvalued at times, which would make a comparable approach less meaningful, especially if [comps](https://www.investopedia.com/terms/c/comps.asp) are overvalued. For this reason, using an aggregate of different approaches often yields the greatest results.
+
+The comparables approach to equity valuation relies on similar companies and their operating performance. Using financial information of other companies, you can analyze how a company compares to competitors and peers within the same sector. Depending on how a company sizes up, this is one approach to determining whether the company is overvalued, undervalued, or valued appropriately.
+<|endoftext|>

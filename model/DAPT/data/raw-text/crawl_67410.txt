@@ -1,0 +1,129 @@
+Source: https://www.investopedia.com/terms/e/enterprisevalue.asp
+
+Enterprise Value (EV) is a measure of a company's total value, often used as a comprehensive alternative to equity market capitalization.
+
+Enterprise value is calculated as the market capitalization of a company plus debt, minority interest, and preferred shares, minus total cash and cash equivalents.
+
+The formula for calculating enterprise value is: EV = Market Capitalization + Total Debt + Preferred Shares + Minority Interest - Cash and Cash Equivalents.
+
+Enterprise value is used in various financial ratios, including the EV/EBITDA ratio, which helps investors assess a company's valuation relative to its earnings.
+
+Unlike market capitalization, which only considers equity, enterprise value provides a more complete picture of a company's total value.
+
+The EV/P/E ratio is another important metric that compares enterprise value to earnings, providing insights into valuation relative to earnings.
+
+While enterprise value is a useful metric, it has limitations, such as not accounting for differences in capital structure among companies.
+
+For example, if a company has a market cap of $1 billion, total debt of $500 million, and cash of $200 million, its enterprise value would be $1.3 billion.
+
+Enterprise value is important because it provides a more accurate representation of a company's value for potential buyers and investors.
+
+In summary, enterprise value is a critical metric for evaluating a company's worth, especially in the context of mergers and acquisitions.
+
+Macy’s had 274.3 million outstanding shares valued at $18.64 per share at the end of its 2023 fiscal year (Feb. 3, 2024).
+Macy’s market capitalization was $5.13 billion (274.3 million × $18.64).
+Macy’s had short-term debt of $0 and long-term debt of $2.998 billion, for a total debt of $2.998 billion.
+Macy’s had $1.03 billion in cash and cash equivalents.
+Macy’s Enterprise Value = $5.13 billion + $2.998 billion - $1.03 billion
+Macy’s EV = $7.098 billion
+
+Enterprise value is considered comprehensive when valuing a company because anyone purchasing Macy’s outstanding shares for its then market capitalization of $5.13 billion would also have to settle the $2.998 billion in outstanding debts that Macy's had at that time.
+In total, the acquiring company would have to spend more than $8 billion to purchase Macy’s.
+However, since Macy’s has $1.03 billion in cash, this amount could be added to repay the debt.
+This lowers the total needed to purchase Macy's at the end of their fiscal year 2023 to just over $7 billion.
+
+Enterprise value shows a company’s total value, including debts and cash, and is generally used in mergers and acquisitions to evaluate a prospect.
+You might also see embedded value used to value life insurance companies, primarily in Europe.
+
+To calculate enterprise value, calculate market capitalization by multiplying the number of outstanding shares by the current stock price.
+Next, total all debt (short- and long-term) on the company’s balance sheet.
+Finally, add the market capitalization to the total debt and subtract any cash and cash equivalents from the result.
+
+Enterprise value is the total value of a company, while market value is the value of its shares on the stock market.
+Market capitalization is the total value of all shares on the stock market and does not take into account the value of a company's cash or debts.
+
+Enterprise value estimates a company’s total value, including debt and cash.
+It is generally used by companies when considering a merger or acquisition.
+Investors can also use EV to estimate a company’s size and worth to help them evaluate their stock choices.
+EV is best used with other metrics for valuing a stock.
+Some popular ratios are EV/sales and EV/EBITDA.
+
+Enterprise value (EV) is a measure of a company's total value, often used as a comprehensive alternative to equity market capitalization.
+
+It includes not only the market capitalization of a company but also its debt, minority interest, and preferred shares, minus total cash and cash equivalents.
+
+The formula for calculating enterprise value is: EV = Market Capitalization + Total Debt + Preferred Shares + Minority Interest - Cash and Cash Equivalents.
+
+Enterprise value is important because it provides a more accurate representation of a company's value than market capitalization alone, especially for companies with significant debt.
+
+Investors and analysts use enterprise value to assess a company's worth in the context of mergers and acquisitions, as it reflects the total cost to acquire a business.
+
+What Is Enterprise Value (EV)? Enterprise value (EV) measures a company’s total value. Its calculation includes not only the market capitalization of a company but also short-term and long-term debt, as well as any cash or cash equivalents on the company’s balance sheet. It is often used as a more comprehensive alternative to market capitalization when valuing a company.
+
+Key Takeaways
+Enterprise value (EV) measures a company’s total value, often used as a more comprehensive alternative to equity market capitalization.
+EV is calculated using information from a company\'s financial statement.
+Enterprise value takes into account the market capitalization of a company, as well as short-term and long-term debt and any cash on the company’s balance sheet.
+Enterprise value is used as the basis for many financial ratios that measure a company’s performance.
+
+How Enterprise Value (EV) Works
+Enterprise value (EV) differs significantly from simple market capitalization in several ways, and many consider it to be a more accurate representation of a firm’s value.
+EV tells investors or interested parties a company’s value and how much another company would need if it wanted to purchase that company.
+A company’s EV can be negative if the total value of its cash and cash equivalents surpasses that of the combined total of its market cap and debts.
+This is a sign that a company is not using its assets very well—it has too much cash sitting around not being used.
+Extra cash can be used for many things, such as distributions, buybacks, expansion, research and development, maintenance, employee pay raises, bonuses, or paying off debts.
+Enterprise value uses figures from a company’s financial statements and current market prices.
+
+The components that make up EV are:
+Market cap: The total value of a company’s outstanding common and preferred shares
+Debt: The sum of long-term and short-term debt
+Preferred equity: Preferred shares of equity need to be included as well since they are claimed on the company\'s equity not included in market capitalization.
+Minority interest: The equity value of a subsidiary with less than 50% ownership
+Cash and cash equivalents: The total amount of cash, certificates of deposit (CDs), drafts, money orders, commercial paper, marketable securities, money market funds, short-term government bonds, or Treasury bills that a company possesses.
+
+Formula and Calculation
+Enterprise value is the sum of a company\'s market capitalization and any debts, minus cash or cash equivalents on hand.
+EV=MC+TotalDebt−C where:
+MC=Market capitalization; equal to the current stock price multiplied by the number of outstanding stock shares
+Total debt=Equal to the sum of short-term and long-term debt
+C=Cash and cash equivalents; the liquid assets of a company, but may not include marketable securities.
+To calculate market capitalization—if not readily available online—you would multiply the number of outstanding shares by the current stock price.
+Next, total all debt on the company’s balance sheet, including both short-term and long-term debt.
+Finally, add the market capitalization to the total debt and subtract any cash and cash equivalents from the result.
+
+Financial Ratios That Use Enterprise Value
+Enterprise value is used as the basis for many financial ratios that measure the performance of a company.
+For example, the enterprise multiple contains enterprise value.
+It relates the total value of a company from all sources to the earnings before interest, taxes, depreciation, and amortization (EBITDA).
+EBITDA measures a company’s ability to generate revenue and is used as an alternative to simple earnings.
+
+EBITDA, however, can be misleading because it strips out the cost of capital investments like property, plant, and equipment. Another figure, EBIT, can be used as a similar financial metric without the drawback of removing depreciation and amortization expenses related to property, plant, and equipment (PP&E).
+### Note
+**EBITDA** = Net Income + Interest Expense + Taxes + Depreciation + Amortization
+
+The enterprise multiple (EV/EBITDA) metric is used as a valuation tool to compare the value of a company and its debt to the company’s cash earnings, less its non-cash expenses. As a result, it’s ideal for analysts and investors looking to compare companies within the same industry.
+The enterprise multiple is useful when:
+* Comparing firms with different [degrees of financial leverage (DFLs)](https://www.investopedia.com/terms/d/dfl.asp)
+* Valuing capital-intensive businesses with high levels of depreciation and amortization
+However, the enterprise multiple also has a few drawbacks. If [working capital](https://www.investopedia.com/terms/w/workingcapital.asp) is growing, EBITDA will overstate cash flows from operations (CFO or OCF). Further, this measure ignores how different revenue recognition policies can affect a company’s OCF. Because free cash flow to the firm captures the number of [capital expenditures (CapEx)](https://www.investopedia.com/terms/c/capitalexpenditure.asp), it is more strongly linked with valuation theory than EBITDA. EBITDA will be a generally adequate measure if capital expenses equal depreciation expenses.
+
+Another commonly used multiple for determining the relative value of firms is the enterprise value-to-sales ratio, or [EV/sales](https://www.investopedia.com/terms/e/enterprisevaluesales.asp). EV/sales is regarded as a more accurate measure than the price/sales ratio since it considers the value and amount of debt that a company must repay at some point.
+A company with a lower EV/sales multiple is often seen as more undervalued and therefore more attractive. The EV/sales ratio can be negative when the cash held by a company is more than the market capitalization and debt value. A negative EV/sales implies that a company can pay off all of its debts.
+
+Why doesn’t market capitalization properly represent a firm’s value? It leaves a lot of essential factors out, such as a company’s debt and cash reserves. Enterprise value is a modification of market cap, as it incorporates debt and cash for determining a company’s value.
+### Important
+Market capitalization is not intended to represent a company’s book value. Instead, it represents a company’s value as determined by market participants.
+Imagine two identical widget manufacturers, Company A and Company B, have the same stock price of $4.32 per share. Each has 1 million outstanding shares with a market cap of $4.32 million. Now, imagine Company A has $500,000 in cash and cash equivalents and $250,000 in total debt. Its EV (total worth) is:
+> ($4.32 per share x 1 million shares) + $250,000 - $500,000 = $4.07 million
+Company B, on the other hand, has $1 million in cash and $250,000 in debt. Its EV is:
+> ($4.32 per share x 1 million shares) + $250,000 - $1,000,000 = $3.57 million
+The companies looked identical when using just their market capitalization. However, once the EV takes into account both debt and cash, the value of Company A is significantly higher.
+
+The [price-to-earnings ratio (P/E ratio)](https://www.investopedia.com/terms/p/price-earningsratio.asp) is a ratio for valuing a company that measures its current share price relative to its [earnings per share (EPS)](https://www.investopedia.com/terms/e/eps.asp). The price-to-earnings ratio is sometimes known as the price multiple or the earnings multiple.
+The P/E ratio doesn’t consider the amount of debt that a company has on its balance sheet. EV includes debt when valuing a company and is often used in tandem with the P/E ratio to achieve a comprehensive valuation.
+
+EV includes total debt, so it’s essential to consider how management utilizes that debt when valuing a company. For example, capital-intensive industries such as the oil and gas industry typically carry significant amounts of debt, which is used to foster growth in ways like purchasing a plant and equipment.
+In a less capital-intensive industry, however, high levels of debt could indicate that a company is unable to generate enough revenue to cover the costs of basic operations. As a result, the EV can be skewed when comparing companies across industries.
+If the company being looked at is undergoing a merger or acquisition, the acquiring company will need to account for the amount of debt it is taking on in the merger. Investors can use this information to evaluate what the merged companies will look like in the future.
+As with any financial metric, it’s best to compare companies within the same industry to better understand how the company is valued relative to its peers.
+<|endoftext|>

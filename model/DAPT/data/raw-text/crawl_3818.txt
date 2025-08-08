@@ -1,0 +1,30 @@
+Tags: evaluating_stocks
+When you buy a stock, you\'re buying part ownership of a company and an opportunity to partake in its successes (or failures) over time. Choosing an individual stock takes time and forethought and should involve due diligence. Getting answers to some key questions and making use of some well-established methods of stock evaluation can help you determine if a stock is right for you.
+
+Tags: key_questions
+Whether you’re following up on a stock tip, or are already familiar with a company, start by getting answers to important questions about a company’s operations and finances:
+* How does the company make money?
+* Are its products or services in demand, and why?
+* How has the company performed in the past?
+* Are talented, experienced managers in charge?
+* Is the company positioned for growth and profitability?
+* How much debt does the company have?
+
+Tags: industry_analysis
+You’ll also want to understand where the company fits within its industry and the risks it faces both an as an individual company and as a piece of the broader economy:
+* How is the company’s industry doing as a whole?
+* What are the obstacles and challenges the company faces?
+* Does the company face any economic, political or cultural risks?
+
+Tags: financial_reports
+The good news is that you can find most of the answers to these questions in just a few documents. All companies that trade publicly on national exchanges report earnings to the Securities and Exchange Commission (SEC) on a quarterly basis in an unaudited filing known as the 10-Q, and annually in an audited filing known as the 10-K. These reports include a wealth of important information including
+
+Tags: financial_analysis
+a business overview and discussion of risks facing the business, such as supply chain challenges or lawsuits. In addition, income statements found in both the 10-Q and 10-K offer a good starting point for answers to profitability questions. They show a company’s sales and revenue, expenses and before-tax earnings, among other things. The SEC offers pointers on how to read a 10-K or 10-Q. Learn more about using company financial statements and reports to help evaluate investment opportunities.
+
+Tags: valuation_ratios
+Because companies differ in size and the number of shares they have issued, you might want to use ratios to compare the value of different stocks. Several key ratios can be derived from a company’s earnings reports—and you can easily find many of them using FINRA’s Market Data Center. Here are a few ratios commonly used to evaluate stocks: * Earnings per share (EPS): Calculated by dividing a company\'s total earnings by the number of shares, a company’s earnings per share allows you to compare the financial results of companies of different sizes. EPS is one indication of a company’s current financial strength. * Price-to-earnings ratio (P/E): Calculated by dividing the current price of a stock by its EPS, the P/E ratio is a commonly quoted measure of stock value. In a nutshell, P/E tells you how much investors are paying for a dollar of a company\'s earnings. For example, if Company A has a P/E of 25, and Company B has a P/E of 20, investors are paying more for each dollar earned by Company A than for each dollar earned by Company B. * Price-to-sales ratio (P/S): Calculated by dividing the market capitalization of a company by its revenue, the P/S ratio doesn’t factor in profit, which can be helpful when evaluating companies that haven’t yet made a profit. * Debt-to-equity ratio (D/E): Calculated by dividing a company’s total liabilities by total shareholder equity (total assets minus total liabilities), the D/E ratio allows investors to evaluate a company’s leverage and how much it is using debt to fund its operations. Also, understand how these ratios compare to the market as a whole and to a company’s particular industry, since there can be significant variation in the average ratio across industries. Learn more about key financial terms and metrics.
+
+Tags: stock_research_sources
+FINRA’s Market Data Center is a comprehensive, content-rich, free online information resources for retail investors. It features detailed market data—including company profiles, key ratios and valuation information—and trading data on a wide range of stocks. Another way to learn more about individual stocks is through professional stock research. Some brokerage firms, typically full-service firms, provide research from their own analysts and perhaps from outside sources. You can also find independent research from analysts who aren\'t affiliated with a brokerage firm, as well as consensus reports that bring together opinions from a variety of analysts. Some of this research is free, while some comes with a price tag. Research provided by FINRA-registered broker dealers is required to include clear, comprehensive and prominent disclosure of conflicts of interest. And FINRA rules prohibit certain conduct where the conflicts are considered too pronounced to be cured by disclosure. Investment research obtained from other sources may not have similar investor protections in place. For example, stock analysis found on social media or online forums might not disclose if the publisher or promoter of that research has a financial stake in the company or investors taking certain actions. Posts can be used to spread false or misleading information to try to manipulate a stock\'s price (either positively or negatively), resulting in real consequences for companies, particularly small or micro-cap companies, and investors who trade on this information. At the end of the day, while it’s important to evaluate each stock in which you individually invest, it’s also important to evaluate it as part of your overall portfolio. Always remember to consider how an investment in a given stock will fit with your overall investment strategy and whether it will help you achieve asset allocation or diversification that you are looking for in your portfolio.
+<|endoftext|>

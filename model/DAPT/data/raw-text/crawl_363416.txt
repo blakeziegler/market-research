@@ -1,0 +1,56 @@
+Source: https://www.valuationresearch.com/insights/triggering-event-impairment-testing/
+
+demand for a company’s goods or services * Decline in market multiples for the company’s peer group These events do not fully include all potential signals of a triggering event. But given the uncertainty we’ve seen with the current tariff implementations and pauses on the financial markets, specific industry segments, and companies, it is hard to ignore that these examples sound like headline news.
+
+Some issues stemming from the U.S. Administration’s April tariff announcements showed a potential impact in the form of public company announcements that started in mid-April, as companies had been withdrawing earnings forecasts, first quarter reporting, or second quarter projections while citing “macroeconomic uncertainties.” As of April 30, the S&P 500 index closed at 5,569.06, which at that time represented a YTD decline of approximately 6.86%. The market has, however, recently started to bounce back; as of May 19, the index closed at 5,963.60, and at the beginning of the year, it stood at 5,979.52, bringing the year-to-date change to a decline of approximately 0.26%.
+
+As we consider the potential impact of these tariff announcements on financial reporting, it is likely too soon to identify the April market reactions as triggering events for companies with a fiscal year ending December 31, 2024. When considering the current situation, it is helpful to look at recent history for guidance. The COVID pandemic, which presented companies with significant market uncertainties, can serve as a useful comparison in examining how companies responded to the pandemic and gain insights into how they might approach the current tariff situation.
+
+For companies that report on a calendar-year basis, the early-year 2020 pandemic outbreak and the market downturn primarily established themselves as current-period events. Whether it was then considered a Q1 or Q2 (or beyond) event was a conundrum that business entities faced at that time. Just as companies faced uncertainty in 2020, they are facing similar challenges in 2025, with many unknowns still to be resolved. Even though ambiguity seemed to be another manifestation of the pandemic, some of the most significant 2020 financial consequences were seen in company disclosures.
+
+Once again, as we look back, we note that in a blog from Calcbench (which offers database-accessible insight into SEC public company filings), for the period ending February 1, 2020, disclosures were starting to address the Coronavirus in the risk factor sections of company filings. For example, L Brands added “significant health hazards or pandemics,” and Home Depot added “public health issues” to disclosures. While seemingly ambiguous, it was undoubtedly apparent that two well-known public companies had potentially acknowledged COVID-19 as a triggering event and were very likely anticipating engaging in interim impairment testing as a result.
+
+As we look to the future, companies may likely take similar steps to address the potential impact of the tariffs on their financial reporting, including revising their disclosures and potentially conducting interim impairment testing.
+
+In VRC’s opinion, when companies find themselves in the face of a large-scale triggering event, such as they did in early 2020 at the start of the pandemic and potentially now with the current tariff announcements, they must gather more concrete financial evidence to determine if interim impairment testing is required. We also saw that effects on complex accounting and valuation issues take time to be resolved; however, the amount of time and for how many quarters on a go-forward basis can certainly be anyone’s guess.
+
+Nearly all companies must manage through a wide swath of challenges due to a market downturn. Large-scale events continue to evolve, and companies will want to continue seeking guidance from their partners. Even small-to-medium-scale events warrant similar level-headed approaches. Engaging with third-party valuation experts promptly to understand how evolving situations may impact fair value measurements, including goodwill impairment, is the best way to proactively address impairment issues in a timely and accurate manner.
+
+VRC professionals are connected to our clients, partners, professional affiliations, and regulatory bodies. We have extensive experience working with public corporations and privately held firms to develop supportable impairment studies.
+
+Economic Uncertainty and Impairment Testing
+A guide to triggering events and goodwill impairment
+
+Recent market uncertainty, driven partly by recent tariff announcements, may trigger the need to conduct interim impairment testing.
+To determine if a triggering event has occurred, companies must consider factors such as deterioration in macroeconomic conditions, stock price and market capitalization declines, and changes in revenue or earnings expectations, among others.
+Accurately identifying the potential triggering events for the impairment of goodwill and other assets is a necessary approach that companies should take with their trusted partners.
+
+Avoiding the Unexpected
+In today’s fast-paced and unpredictable business environment, minimizing surprises is a top priority for CFOs, corporate controllers, and financial reporting professionals as they navigate complex market fluctuations and ensure seamless financial reporting.
+However, the stark reality in the current uncertain economic environment, which is being driven in part by the White House Administration’s April 2025 tariff announcements, is quite the opposite.
+Many companies are seeing declines in market capitalization, operational and supply chain disruptions, and market volatility, like the effects of tariffs we recently discussed in our private market and tax valuation article updates.
+In such cases, and depending upon a company’s unique set of facts and circumstances, market events around these impacts may trigger the need to conduct interim impairment testing.
+
+Mindfulness in the Model
+No one can predict the future, and any projection of future cash flow involves judgment.
+Setting uncertainties aside, solace can be found in the facts – Did we meet Q1 targets for revenues and earnings?
+What was our cushion in our most recent impairment test?
+Has our short-term or long-term outlook for the business changed?
+The model for goodwill impairment testing involves comparing the fair value of the reporting unit to its carrying amount.
+Impairment testing for assets such as intellectual property, other intangible assets and long-lived assets must be completed first, and any impairment must be reflected in the reporting unit’s carrying amount before moving on to goodwill impairment testing.
+ASC 350 guidance requires annual goodwill impairment testing.
+It requires testing more frequently when events occur that indicate a greater than 50 percent probability that the reporting unit could be impaired.
+Leveraging ASC 350 guidance, companies must focus on the circumstances affecting the reporting unit to determine if a triggering event is present, requiring an interim test.
+
+Tariff Turbulence = Triggering Event
+Even in a “normal” market, questions must be asked and answered to determine if a triggering event has occurred.
+Below, we highlight what we believe to be relevant factors that would cause companies to consider whether goodwill may be impaired:
+Deterioration in macroeconomic conditions
+Decline in company stock price and market capitalization
+Current period operating or cash flow decline or loss
+A change in revenue or earnings expectations well below previously forecasted levels
+Adverse change in the business climate due to legal, regulatory, or political factors
+Manufacturing or other types of production slowdowns or shutdowns
+Supply chain disruptions
+Decline in market
+<|endoftext|>

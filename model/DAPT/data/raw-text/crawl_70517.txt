@@ -1,0 +1,59 @@
+Source: https://www.investopedia.com/terms/r/ratioanalysis.asp
+
+
+
+Why Is Ratio Analysis Important? Ratio analysis can be used to understand the financial and operational health of a company; static numbers on their own may not fully explain how a company is performing. Consider a business that made a record $1 billion in revenue last quarter. Although this seems ideal, the company may have experienced a negative gross profit margin, a decrease in liquidity ratio metrics, and lower earnings compared to equity in prior periods. This means the company is performing below its previous periods in spite of its high revenue.
+
+What Is an Example of Ratio Analysis? Consider the inventory turnover ratio, which measures how quickly a company converts inventory into sales. A company can track its inventory turnover over a full calendar year to see how quickly it converted goods to cash each month. Then, a company can explore the reasons certain months lagged or why they exceeded expectations.
+
+The Bottom Line There is often an overwhelming amount of data and information useful for a company to make decisions. To make better use of their information, a company may compare several numbers together. Financial ratio analysis allows a company to gain better insights into how it is performing over time, against competition, and against internal goals. Ratio analysis is usually rooted heavily in financial metrics, though ratio analysis can be performed with non-financial data.
+
+Financial ratio analysis utilizes a company\'s financial statements to evaluate its profitability, efficiency, and liquidity by examining the relationships between accounts and line items.
+
+Ratio analysis is a method of examining a company\'s balance sheet and income statement to learn about its liquidity, operational efficiency, and profitability. It doesn\'t involve a single metric; instead, it is a method of analyzing a range of financial data about a company. Ratio analysis is a cornerstone of fundamental equity analysis. There are many different ratios that investors and other business experts can use to make predictions about a company\'s financial stability and potential future growth. These can be used to evaluate either how a company\'s performance has changed over time or how it compares to other businesses in its industry.
+
+* Ratio analysis compares line-item data from a company\'s financial statements to evaluate its profitability, liquidity, efficiency, and solvency.
+* Ratio analysis can track a company\'s performance over time or compare it to another business in the same industry or sector.
+* Ratio analysis may also be required by external parties that set benchmarks, often tied to risk, such as lenders.
+* While ratios offer useful insight into a company, they should be paired with analysis of other information to obtain a broader picture of a company\'s financial health.
+* Examples of ratios used in analysis include the current ratio, gross profit margin ratio, and inventory turnover ratio.
+
+Investors and analysts use ratios to evaluate a company\'s financial health by scrutinizing its past and current financial statements. For example, comparing the price per share to earnings per share allows investors to find the [price-to-earnings (P/E) ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp), a key metric for determining the value of a company\'s stock. The ratios of these different financial metrics from a company can be used to:
+* Evaluate a company\'s performance over time
+* Estimate likely future performance
+* Compare a company\'s financial standing with industry averages
+* Measuring how a company stacks up against others within the same sector.
+
+Ratio analysis can help investors understand a company\'s current performance and likely future growth. However, companies can make small changes that make their stock and company ratios more attractive without changing any underlying financial fundamentals. To counter this limitation, investors also need to understand the variables behind ratios, what information they do and do not communicate, and how they are susceptible to manipulation. Ratios also can\'t be used in isolation. Instead, they should be used in combination with other ratios or financial metrics to give a fuller picture of both a company\'s financial state and how it compares to other companies in the same industry.
+
+The financial ratios available can be broadly grouped into six types based on the kind of data they use and what they communicate. Using ratios in each category will provide a comprehensive view of the company from different angles, helping you identify potential red flags.
+
+Liquidity ratios measure a company\'s ability to pay off short-term debts as they become due, using the company\'s current or quick assets. Liquidity ratios include:
+* Current ratio
+* Quick ratio
+* Working
+
+2. Solvency Ratios Also called financial leverage ratios, solvency ratios compare a company\'s debt levels with its assets, equity, and earnings. These are used to evaluate the likelihood of a company staying afloat over the long haul by paying off both long-term debt and the interest on that debt. Examples of solvency ratios include: * Debt-equity ratios * Debt-assets ratios * Interest coverage ratios
+
+3. Profitability Ratios These ratios convey how well a company can generate profits from its operations. Examples of profitability ratios are: * Profit margin ratio * Return on assets * Return on equity * Return on capital employed * Gross margin ratio
+
+4. Efficiency Ratios Also called activity ratios, efficiency ratios evaluate how efficiently a company uses its assets and liabilities to generate sales and maximize profits. Key efficiency ratios include: * Turnover ratio * Inventory turnover * Day\'s sales in inventory
+
+5. Coverage Ratios Coverage ratios * Times interest earned ratio * Debt-service coverage ratio
+
+6. Market Prospect Ratios Market prospect ratios are the most commonly used ratios by investors. Typically, they use these metrics to attempt to predict earnings and future performance. These ratios include: * Dividend yield * P/E ratio * Earnings per share (EPS) * Dividend payout ratio
+
+## Application of Ratio Analysis Using ratio analysis will give you multiple figures and values to compare. However, those values will mean very little in isolation. Instead, the values derived from these ratios should be compared to other data to determine whether a company\'s financial health is strong, weak, improving, or deteriorating.
+
+### Ratio Analysis Over Time Comparing how the same ratio changes over time provides a picture of how a company has performed during that period, what risks might exist in the future, and what growth trajectory it is likely to follow. To perform ratio analysis over time, select a single financial ratio, then calculate that ratio at set intervals (for example, at the beginning of every quarter). Then, analyze how the ratio has changed over time (whether it is improving, the rate at which it is changing, and whether the company wanted the ratio to change over time).
+
+### Comparative Ratio Analysis Across Companies Comparative ratio analysis can be used to understand how a company\'s performance compares to similar companies in the same industry. For example, a company with a 10% gross profit margin may be in good financial shape if other companies in the same sector have gross profit margins of 5%. However, if the majority of competitors achieve gross profit margins of 25%, that\'s a sign that the original company may be in financial trouble. When using ratio analysis to compare different companies, be sure to: * Only analyze similar companies within the same industry. * Be mindful of how different capital structures and company sizes may impact a company\'s ability to be efficient. * Consider the impact of varying product lines (for example, two companies offer similar services, but only one sells physical products).
+
+### Important Different industries have different ratio expectations. A debt-equity ratio that might be normal for a utility company that can obtain low-cost debt might be deemed unsustainably high for a technology company that relies more heavily on private investor funding.
+
+### Ratio Analysis Against Benchmarks Companies may set internal targets for their financial ratios. The goal may be to hold current levels steady or to strive for operational growth. For example, a company\'s existing current ratio may be 1.1; if it wants to become more liquid, it could address the issue by increasing production to generate more revenue, streamlining processes, and removing inefficiencies. Benchmarks are also frequently implemented by external parties such as lenders. Lending institutions often set requirements for financial health as part of covenants in loan document\'s terms and conditions. An example of a benchmark set by a lender is often the debt service coverage ratio, which measures a company\'s cash flow against its debt balances. If a company doesn\'t maintain certain levels for these ratios, the loan may be recalled or the interest rate attached to that loan may increase.
+
+## Examples of Ratio Analysis in Use Ratio analysis can help analysts estimate a company\'s future performance _,_ for better or worse. When a company generally boasts solid ratios in all areas, any sudden hint of weakness in one area may spark a significant stock sell-off. For example, net profit margin, often referred to simply as profit margin or the bottom line, is a ratio that investors use to compare the profitability of companies within the same sector. It\'s calculated by dividing a company\'s net income by its revenues and is often used instead of dissecting financial statements to compare the profitability of companies. If company ABC and company DEF are in the same sector with profit margins of 50% and 10%, respectively, an investor comparing the two companies will conclude that ABC converted 50% of its revenues into profits, while DEF only converted 10%. This can be combined with additional ratios to learn more about the companies in question. If ABC has a P/E ratio of 100 and DEF has a P/E ratio of 10, that means investors are willing to pay $100 per $1 of earnings ABC generates and only $10 per $1 of earnings DEF generates.
+
+## What Are the Types of Ratio Analysis? Financial ratio analysis is often broken into six different types: profitability, solvency, liquidity, turnover, coverage, and market prospects ratios. Other non-financial metrics (managerial metrics) may be scattered across various departments and industries. For example, a marketing department may use a conversion click ratio to analyze customer capture.
+<|endoftext|>

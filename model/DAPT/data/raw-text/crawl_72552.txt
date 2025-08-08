@@ -1,0 +1,112 @@
+Source: https://ift.world/booklets/equity-market-organization-and-structure-part1/
+
+Managing Risk Entities face financial risks related to exchange rates, interest rates, and raw material prices and might want to hedge these risks.
+Example of financial risk management: Consider a sugarcane producer (typically farmers) and a sugar-refining firm.
+The sugar-refining firm purchases sugarcane from the farmers and processes them to produce sugar.
+The sugarcane season typically lasts 150 days in a year but is based on a variety of factors such as amount of rainfall, temperature, pests, etc.
+Both the farmer and refining firm are worried about what the prices will be when the sugarcane is ready.
+The farmer fears it will be lower due to overproduction or poor quality of crop, while the refining firm fears it will be higher because of demand, global commodity prices, and production worldwide.
+By entering in to a forward contract (discussed in detail in the derivatives reading), they eliminate the uncertainty related to changing prices.
+
+Exchanging Assets for Immediate Delivery (Spot Market Trading) People often trade one asset for another if the value of the other asset is more to them.
+Examples include currencies, carbon credits, and gold.
+The financial system facilitates these exchanges when liquid spot markets exist, which removes substantial transaction costs.
+
+Information-Motivated Trading Information-motivated traders aim to profit from information that they believe allows them to predict future prices.
+Unlike pure investors, information-motivated traders strive to leverage their information to earn extra return in addition to the normal return expected by investors.
+Active investment managers are information-motivated traders who, after a thorough analysis, buy under-valued and sell over-valued securities.
+Pure investors and information-motivated traders differ in their motives and not so much in the risk they take.
+The primary motive of the latter is to profit from the superior information they possess.
+
+Determining Rates of Return Saving, borrowing, and selling equity are all means of moving money through time.
+While savers move money from the present to the future, borrowers and issuers of equity move money from the future to the present.
+Money can travel forward in time if an equal amount of money is traveling in the other direction.
+Think of it this way: the instruments in which savers invest are those created by the borrowers.
+For instance, a bond or a stock that a saver invests in is issued by a government or a company.
+The company is moving money to now, while the investor is saving it for later.
+How much savers save or move consumption to the future is related to the expected return on investments.
+If the rates are high, investors will want to save more.
+Similarly, if the cost of borrowing is less for borrowers now, they will want to move more money from the future to the present, i.e., borrow more.
+The total amount of money saved must equal the total amount of money borrowed to achieve a balance.
+It will create an imbalance if either one of them is too high or low.
+If rate of return is low, savers will want to save less now than how much borrowers will want to borrow.
+Equilibrium interest rate is the interest rate at which the aggregate supply of funds equals the aggregate demand for funds.
+Different securities have different equilibrium rates based on their characteristics which are usually a function of risk, liquidity, and time.
+For instance, investors demand a higher rate of return for equities than debt, long-term investments than short-term investments, or illiquid securities than liquid securities.
+
+Capital Allocation Efficiency Primary capital markets are the markets in which companies and governments raise capital.
+Economies are considered allocationally efficient when capital (money) is allocated to the most productive uses, i.e., projects with the highest NPV or internal rate of return (IRR).
+Investors actively seek information on the various investment opportunities available before making investment decisions.
+
+This reading covers the functions of the financial system, the various assets used by financial analysts, the role of financial intermediaries, different positions one can take like short and long, various types of orders, market participants, primary and secondary markets and, finally, the characteristics of a well-functioning financial system.
+
+The financial system includes markets and financial intermediaries that help transfer financial assets, real assets, and financial risk between entities from one place to another, and from one point in time to another.
+The six purposes people use the financial system for are as follows:
+* to save money for the future.
+* to borrow money for current use.
+* to raise equity capital.
+* to manage risks.
+* to exchange assets for immediate and future deliveries.
+* to trade on information.
+Three main functions of the financial system are to:
+* achieve the purposes for which people use the financial system.
+* discover the rates of return that equate aggregate savings with aggregate borrowings.
+* allocate capital to the best uses.
+
+People often use a single transaction to achieve more than one of the six purposes when using the financial system.
+For example, an investor who buys the stock of a bank may be saving for the future, or trading based on research that the stock is undervalued, or trying to benefit from the central bank’s policy to slash interest rates in the medium term.
+Each of the six purposes listed earlier are discussed in detail below:
+
+Saving is moving money from the present to the future.
+By saving, we choose not to spend now and make that money available in the future.
+One common example is people saving for retirement.
+The financial system offers various instruments such as bank deposits, stocks, and bonds for this purpose.
+
+Entities like people, companies, and governments often want to spend money now but do not have money.
+People borrow to buy homes, cars, and education, while companies borrow to fund new projects.
+Governments borrow to provide better infrastructure, rural development, or other such benefits for its citizens.
+The financial system facilitates borrowing by aggregating from savers the funds that borrowers require.
+In simple terms, these are known as loans.
+
+Companies raise money for projects by selling equity ownership interests.
+Instead of taking a loan, they sell a certain percentage of ownership in the company to raise funds.
+The financial system brings together the companies in need of money and entities providing money in the form of investment banks.
+Investment banks help companies issue equities, analysts value the securities that companies sell, regulators and standards-setting bodies ensure meaningful financial disclosures are
+
+1. Which of the following is most likely a purpose of the use the financial system?
+A. To prevent entities to trade on information.
+B. To prohibit to borrow money for current use.
+C. To exchange assets for immediate and future deliveries.
+C is correct. The six purposes people use the financial system for are as follows:
+* to save money for the future.
+* to borrow money for current use.
+* to raise equity capital.
+* to manage risks.
+* to exchange assets for immediate and future deliveries.
+* to trade on information.
+
+2. Which of the following is least likely a function of the financial system?
+A. Determines rate of return that will equate aggregate savings to aggregate borrowing.
+B. Prevents entities from utilizing information.
+C. Enables efficient allocation of capital.
+B is correct. A financial system has the following main functions:
+* allows entities to save, borrow, exchange assets, issue capital, trade on information and manage risks
+* helps determine the rate of return that will equate aggregate savings to aggregate borrowing
+* Enables efficient allocation of capital
+
+3. Which of the following is most likely correct ?
+A. Financial systems facilitate people to manage risks.
+B. Financial systems allow people to borrow money for future use.
+C. Financial systems restrict people to trade based on available information.
+A is correct. The six purposes people use the financial system for are as follows:
+* to save money for the future.
+* to borrow money for current use.
+* to raise equity capital.
+* to manage risks.
+* to exchange assets for immediate and future deliveries.
+* to trade on information.
+Three main functions of the financial system are to:
+* achieve the purposes for which people use the financial system.
+* discover the rates of return that equate aggregate savings with aggregate borrowings.
+* allocate capital to the best uses.
+<|endoftext|>

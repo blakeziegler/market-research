@@ -1,0 +1,42 @@
+Source: https://www.investopedia.com/terms/a/absolute-value.asp
+
+Absolute value is a mathematical term that refers to the distance of a number from zero on a number line, regardless of direction. It is denoted by two vertical bars surrounding the number, for example, |x|.
+
+To calculate the absolute value of a number, you can use the following methods: If the number is positive, the absolute value is the number itself. If the number is negative, the absolute value is the number multiplied by -1.
+
+For example, the absolute value of -5 is 5, and the absolute value of 5 is also 5.
+
+Absolute value is used in various fields such as finance, engineering, and physics to measure distances, deviations, and errors.
+
+
+Absolute value, also known as an intrinsic value, refers to a business valuation method that uses discounted cash flow (DCF) analysis to determine a company's financial worth. The absolute value method differs from the relative value models that examine what a company is worth compared to its competitors. Absolute value models try to determine a company's intrinsic worth based on its projected cash flows.
+
+Absolute value refers to a business valuation method that uses discounted cash flow analysis to determine a company's financial worth.
+Investors can determine if a stock is currently under or overvalued by comparing what a company's share price should be given its absolute value to the stock's current price.
+There are some challenges with using the absolute value analysis including forecasting cash flows, predicting accurate growth rates, and evaluating appropriate discount rates.
+Absolute value, unlike relative value, does not call for the comparison of companies in the same industry or sector.
+
+Finding out whether a stock is under or overvalued is a primary play of value investors. Value investors use popular metrics like the price-to-earnings ratio (P/E) and the price-to-book ratio (P/B) to determine whether to buy or sell a stock based on its estimated worth.
+In addition to using these ratios as a valuation guide, another way to determine absolute value is the discounted cash flow (DCF) valuation analysis. Some form of a company’s future cash flows is estimated with a DCF model and is then discounted to the present value in order to determine an absolute value for the company.
+The present value is regarded as the true worth or intrinsic value of the firm. By comparing what a company's share price should be given its absolute value to the price that the stock is actually trading at, investors can determine if a stock is currently under or overvalued.
+
+Examples of methods used under the DCF model include the following models:
+Dividend discount model
+Discounted asset model
+Discounted residual income method
+Discounted FCF method
+All of these models require a rate of return or discount rate which is used to discount a firm’s cash flows—dividends, earnings, operating cash flow (OCF), or free cash flow (FCF)—to get the absolute value of the firm.
+Depending on the method employed to run a valuation analysis, the investor or analyst could use either the cost of equity or the weighted average cost of capital (WACC) as a discount rate.
+
+Relative value is the opposite of absolute value. While absolute value examines the intrinsic value of an asset or company without comparing it to any others, relative value is based on the value of similar assets or companies.
+Analysts and investors who use relative value analysis for stocks look at financial statements and other multiples of the companies they're interested in and compare it to other, similar firms to determine if those potential companies are over or undervalued.
+For instance, an investor will look at the variables—market capitalization, revenues, sales figures, P/E ratios, etc.—for companies like Amazon, Target, and/or Costco if they want to know the relative value of Walmart.
+
+Estimating a company’s absolute value does not come without its setbacks. Forecasting the cash flows with complete certainty and projecting how long the cash flows will remain on a growth trajectory is challenging.
+In addition to predicting an accurate growth rate, evaluating an appropriate discount rate to calculate the present value can be difficult.
+Since the absolute valuation approach to determining the worth of a stock is strictly based on the characteristics and fundamentals of the company under analysis, there is no comparison made to other companies in the same sector or industry.
+But companies within the same sector should be considered when analyzing a firm since a market-moving activity—a bankruptcy, government regulatory changes, disruptive innovation, employee layoffs, mergers and acquisitions, etc.—in any one of these companies can affect how the entire sector moves.
+Therefore, the best way to evaluate a stock’s real value is to incorporate a mix of both the absolute and relative value methods.
+
+Consider Company X, which currently trades on the market for $370.50. After running a DCF analysis on its estimated future cash flows, an analyst determines that the absolute value of the firm is $450.30. This presents a buying opportunity for an investor who is led to believe, based on the numbers, that Company X is undervalued.
+<|endoftext|>

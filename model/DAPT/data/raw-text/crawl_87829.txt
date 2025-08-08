@@ -1,0 +1,37 @@
+Source: https://en.wikipedia.org/wiki/Positive_and_normative_economics
+
+argue the dichotomy in economics has been greatly overstated, in that many policy disagreements often described as value judgments are simply disagreements about facts. They cite evidence showing that descriptive statements have a strong effect on policy prescriptions, and that economics education tends to substantially affect both.
+
+In the philosophy of economics, economics is often divided into positive (or descriptive) and normative (or prescriptive) economics. Positive economics focuses on the description, quantification and explanation of economic phenomena, while normative economics discusses prescriptions for what actions individuals or societies should or should not take.
+
+Is There Progress in Normative Economics? in Stephan Boehm et al., eds., Is There Progress in Economics?, pp. 145–170.
+Positive economics, The New Palgrave: A Dictionary of Economics, v. 3, pp. 920–921.
+On Abstract and Historical Hypotheses and on Value judgments in Economic Sciences, Critical edition with an Introduction and Afterword by Paolo Silvestri, Routledge, London & New York, 2017.
+An introduction to positive economics (fourth ed.). Weidenfeld & Nicolson. pp. 4–6.
+
+of normative economics such as social choice, game theory, and decision theory typically emphasize the study of _prescriptive facts_, such as mathematical prescriptions for what constitutes rational or irrational behavior (with irrationality identified by testing beliefs for self-contradiction). Economics also often involves the use of _objective normative_ analyses (such as cost–benefit analyses) that try to identify the best decision to take, given a set of assumptions about value (which may be taken from policymakers or the public).
+
+Positive economics as a science concerns the investigation of economic behavior. It deals with empirical facts as well as cause-and-effect relationships. It emphasizes that economic theories must be consistent with existing observations and produce precise, verifiable predictions about the phenomena under investigation. Examples of positive economic statements are 'the unemployment rate in France is higher than that in the United States,' or 'an increase in government spending would lower the unemployment rate.' Either of these is potentially falsifiable and may be contradicted by evidence. Positive economics as such avoids economic value judgments. For example, a positive economic theory might describe how money supply growth affects inflation, but it does not provide any instruction on what policy _ought to_ be followed.
+
+An example of a normative economic statement is as follows: _The price of milk should be $6 a gallon to give dairy farmers a higher standard of living._ This is a normative statement, because it reflects value judgments; this specific statement makes the judgment that the benefits of the policy outweigh its costs.
+
+Some earlier technical problems posed in welfare economics have had major impacts on work in applied fields such as resource allocation, public policy, social indicators, and inequality and poverty measurement.
+
+Since its inception as a discipline, economics has been criticized for insufficiently separating prescriptive from descriptive statements and also for excessively separating prescriptive from descriptive statements. The field's current emphasis on positive economics originated with the positivist movement of Auguste Comte and with John Stuart Mill's introduction of Hume's fact-value distinction to define the science and art of economics in A System of Logic.
+
+John Neville Keynes's The Scope and Method of Political Economy defined positive economics as the science of 'what is' as compared to normative economics, the study of 'what ought to be.' Keynes was not the first person to make the distinction between positive and normative economics but his definitions have become the standard in economics teaching.
+
+The scientific or positive aspects of economics were emphasized by many early-to-mid 20th century economists in an attempt to prove economic theories could answer questions with the same scientific methodology as the physical sciences. The fierce commentary of Lionel Robbins in the 1930s, who argued that normative economics was wholly unscientific and should therefore be cast out of the field, were particularly influential for a time.
+
+Robbins's 1932 'Essay on the Nature and Significance of Economic Science' argued economics should take as its subject matter attempts to achieve a given end with limited resources, and should not take a point of view on which ends should or should not be pursued. Robbins was instrumental in promoting the fact-value distinction in economics and insisting that ethical or value judgments should not be a part of the discipline.
+
+By the 1950s some economists even asserted that Arrow's impossibility theorem proved any attempts to construct normative standards in economics were doomed to fail. Paul Samuelson's Foundations of Economic Analysis (1947) lays out the standard of operationally meaningful theorems through positive economics. Positive economics is commonly deemed necessary for the ranking of economic policies or outcomes as to acceptability.
+
+By contrast, Friedman in an influential 1953 essay emphasized that positive and normative economics could never be entirely separated, because of their relationship with economic policy. Friedman argued about economic policy are primarily due to an inability to agree about the likely consequences of a piece of legislation. As economics developed, Friedman believed that it would become increasingly possible to derive undisputed results about positive economic statements and that this would help to make clear judgments about the best ways to achieve normative goals.
+
+According to Friedman, the ultimate goal of a positive science is to develop a 'theory' or 'hypothesis' that makes meaningful predictions of a phenomenon that is not yet examined. Friedman states that sometimes it is a 'language' that designed to promote 'systematic and organised methods of reasoning' and in part, 'It is a body of substantive hypotheses designed to abstract essential features of complex reality.'
+
+The logical basis of such a relation as a dichotomy has been disputed in philosophical literature. Such debates are reflected in discussion of positive science. Hilary Putnam has criticized the foundation of the positive/normative dichotomy from a linguistic perspective, arguing that it is not possible to completely separate 'value judgments from statements of facts.' Many normative value judgments are held conditionally, to be given up if facts or knowledge of facts changes, so that a change of values may be purely scientific.
+
+Welfare economist Amartya Sen distinguishes _basic (normative) judgments_, which do not depend on such knowledge, from _nonbasic_ judgments, which do.
+<|endoftext|>

@@ -1,0 +1,56 @@
+Source: https://www.investopedia.com/terms/a/accretion.asp
+
+Accretion is the increase in a company's assets or earnings following an expansion or acquisition.
+
+In finance, accretion is the accumulation of the additional income an investor expects to receive after purchasing a bond at a discount and holding it until maturity.
+The most well-known applications of financial accretion include zero-coupon bonds or cumulative preferred stock.
+Accretion can also refer to the gradual growth of a company's assets and earnings.
+
+Accretion is the process of gradual growth or increase, typically in relation to the value of an asset over time.
+
+In finance, accretion refers to the increase in the value of an asset, often due to the accumulation of interest or the reinvestment of earnings.
+
+Accretion can also apply to the valuation of a company, where the value of its assets increases over time, contributing to overall company growth.
+
+Accretion refers to the gradual and incremental growth of assets.
+
+In finance, accretion is also the accumulation of additional income an investor expects to receive after purchasing a bond at a discount and holding until maturity.
+
+The accretion rate is determined by dividing a bond's discount by the number of years in its term to maturity.
+
+In corporate finance, accretion is the creation of value through organic growth or through a transaction.
+
+For example, when new assets are acquired at a discount or for a cost that is below their perceived current market value (CMV).
+
+In securities markets, purchasing bonds below their face or par value is considered buying at a discount, whereas purchasing above the face value is known as buying at a premium.
+
+In finance, accretion adjusts the cost basis from the purchase amount (discount) to the anticipated redemption amount at maturity.
+
+As interest rates increase, the value of existing bonds declines, which means that bonds trading in the market decline in price to reflect the interest rate increase.
+
+Since all bonds mature at the face amount, the investor recognizes additional income on a bond purchased at a discount, and that income is recognized using accretion.
+
+The rate of accretion is determined by dividing the discount by the number of years in the term.
+
+In the case of zero coupon bonds, the interest acquired is not compounding.
+
+Assume that an investor purchased a $1,000 bond for $860 and the bond matures in 10 years.
+
+Between the bond's purchase and maturity dates, the investor needs to recognize additional income of $140.
+
+The earnings-per-share (EPS) ratio is defined as earnings available to common shareholders divided by average common shares outstanding, and accretion refers to an increase in a firm’s EPS due to an acquisition.
+
+For example, assume that a firm generates $2,000,000 in available earnings for common shareholders and that 1,000,000 shares are outstanding; the EPS ratio is $2.
+
+The company issues 200,000 shares to purchase a company that generates $600,000 in earnings for common shareholders.
+
+The new EPS for the combined companies is computed by dividing its $2,600,000 earnings by 1,200,000 outstanding shares, or $2.17.
+
+As another example, if a person purchases a bond with a value of $1,000 for the discounted price of $750 with the understanding it will be held for 10 years, the deal is considered accretive.
+
+If the bond purchase is a zero-coupon bond, there is no interest accrual.
+
+A primary example within corporate finance is the acquisition of one company by another.
+
+The accretion of a discount is the increase in the value of a discounted instrument as time passes, and the maturity date looms closer.
+<|endoftext|>

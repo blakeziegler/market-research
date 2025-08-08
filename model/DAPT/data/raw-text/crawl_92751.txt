@@ -1,0 +1,67 @@
+Source: https://www.investopedia.com/terms/c/coefficient-of-determination.asp
+
+The coefficient of determination, denoted as R², is a key statistical measure that explains how well a regression model fits the data. It provides insight into the proportion of variance in the dependent variable that can be predicted from the independent variable(s).
+
+A higher R² value indicates a better fit for the model, suggesting that the independent variable(s) explain a significant portion of the variance in the dependent variable. Conversely, a lower R² value suggests that the model does not explain much of the variance.
+
+R² values range from 0 to 1, where 0 indicates that the model does not explain any of the variance and 1 indicates that it explains all the variance. In practice, an R² value of 0.7 or higher is often considered a good fit.
+
+Coefficient of Determination: How to Calculate It and Interpret the Result
+
+What Is R-Squared?
+
+Understanding R-Squared
+
+Calculating R-Squared
+
+Interpreting R-Squared
+
+FAQs
+
+The Bottom Line
+
+The coefficient of determination (r-squared) explains to investors the influence a specific index has on a certain stock listed on that index.
+
+The coefficient of determination, also known as r-squared, quantifies the extent to which a stock’s price changes are influenced by movements in its associated stock index.
+Investors use this measure to understand what percentage of a stock’s price movement can be explained by broader movements of that index.
+
+The coefficient of determination is a complex idea centered on statistical analysis of data and financial modeling.
+It's used to explain the relationship between an independent and dependent variable.
+The coefficient of determination is commonly called r-squared (or r2) for the statistical value it represents.
+This measure is represented as a value between 0.0 and 1.0, where a value of 1.0 indicates a perfect correlation.
+This is a reliable model for future forecasts.
+A value of 0.0 suggests that asset prices aren't a function of dependency on the index.
+Financial analysts use the coefficient of determination to better understand stock price movement.
+
+The coefficient of determination is a measurement that’s used to explain how much the variability of one factor is caused by its relationship to another factor.
+This correlation is represented as a value between 0.0 and 1.0 or 0% and 100%.
+A value of 1.0 indicates a 100% price correlation and is a reliable model for future forecasts.
+A value of 0.0 suggests that the model shows that prices aren't a function of dependency on the index.
+A value of 0.20 suggests that 20% of an asset's price movement can be explained by the index.
+A value of 0.50 indicates that 50% of its price movement can be explained by it.
+
+The coefficient of determination is the square of the correlation coefficient, also known as "r" in statistics.
+The value "r" can result in a negative number, but r2 can't result in a negative number because r-squared is the result of "r" multiplied by itself or squared.
+The square of a negative number is always a positive value.
+
+Calculating the coefficient of determination is achieved by creating a scatter plot of the data and a trend line.
+You'd then create a scatter plot.
+How well the data fits the regression model on a graph is referred to as the goodness of fit.
+It measures the distance between a trend line and all the data points that are scattered throughout the diagram.
+
+Most spreadsheets use the same formula to calculate the r2 of a dataset.
+If the data reside in columns A and B on your sheet: > = RSQ ( A1 : A10 , B1 : B10 )
+You get an r2 of 0.347 using this formula and highlighting the corresponding cells for the S&P 500 and Apple prices, suggesting that the two prices are less correlated than if the r2 was between 0.5 and 1.0.
+
+Calculating the coefficient of determination manually involves several steps.
+First, gather the data as in the previous table, then calculate all the values you need as shown in this table:
+
+Use this formula and substitute the values for each row of the table where _n_ equals the number of samples taken. That\'s 20 in this case: r2=(n(∑xy)−(∑x)(∑y)[n∑x2−(∑x)2]×[n∑y2−(∑y)2])2\begin{aligned}&r ^ 2 = \Big ( \frac {n ( \sum xy) - ( \sum x )( \sum y ) }{ \sqrt { [ n \sum x ^ 2 - ( \sum x ) ^ 2 ] } \times \sqrt { [ n \sum y ^ 2 - ( \sum y ) ^ 2 ] } } \Big ) ^ 2 \\\\\end{aligned}​r2=([n∑x2−(∑x)2]​×[n∑y2−(∑y)2]​n(∑xy)−(∑x)(∑y)​)2​ Where √ represents the square root of the product in the brackets that follow it. r2=(20(10,262,772.73)−(77,781.69)(2,638.05)[20(302,584,424)−(77,781.69)2]×[20(348,307.23)−(2,638.05)2])2\begin{aligned}&r ^ 2 = \Big ( \tiny { \frac {20 ( 10,262,772.73) - ( 77,781.69 )( 2,638.05 ) }{ \sqrt { [ 20 ( 302,584,424 ) - ( 77,781.69 ) ^ 2 ] } \times \sqrt { [ 20 ( 348,307.23 ) - ( 2,638.05 ) ^ 2 ] } } } \Big ) ^ 2 \\\\\end{aligned}​r2=([20(302,584,424)−(77,781.69)2]​×[20(348,307.23)−(2,638.05)2]​20(10,262,772.73)−(77,781.69)(2,638.05)​)2​ You now have: 1.(20×10,262,772.73)−(77,781.69×2,638.05)=63,467.322.((20×302,584,424)−(77,781.69)2=1,697,180.74=1,302.763.((20×10,262,772.73)−(2,638.05)2=6,836.85=82.69\begin{aligned}&1. \tiny { ( 20 \times 10,262,772.73 ) - ( 77,781.69 \times 2,638.05 ) = 63,467.32 } \\\&2. \tiny { (\sqrt { ( 20 \times 302,584,424 ) - ( 77,781.69 ) ^ 2 } = \sqrt { 1,697,180.74 } = 1,302.76 } \\\&3. \tiny { (\sqrt { ( 20 \times 10,262,772.73 ) - ( 2,638.05 ) ^ 2 } = \sqrt { 6,836.85 } = 82.69 }\\\\\end{aligned}​1.(20×10,262,772.73)−(77,781.69×2,638.05)=63,467.322.((20×302,584,424)−(77,781.69)2​=1,697,180.74​=1,302.763.((20×10,262,772.73)−(2,638.05)2​=6,836.85​=82.69​ Now multiply steps two and three, divide step one by the result, and square it: (63,467.321,302.76×82.69)2=0.347\begin{aligned}&\Big ( \frac { 63,467.32 }{ 1,302.76 \times 82.69 } \Big ) ^ 2 = 0.347\end{aligned}​(1,302.76×82.6963,467.32​)2=0.347​ You can see how this can become very tedious with lots of room for error, particularly if you\'re using more than a few weeks of trading data.
+
+Once you have the coefficient of determination, you use it to evaluate how closely the price movements of the asset you\'re evaluating correspond to the price movements of an index or benchmark. The coefficient of determination for the period was 0.347 in the Apple and [S&P 500](https://www.investopedia.com/terms/s/sp500.asp) example.
+A coefficient of determination of 0.347 indicates that Apple stock price movements are somewhat correlated with the index, as 1.0 represents a high correlation and 0.0 indicates no correlation. One aspect to consider is that r-squared doesn\'t tell analysts whether the coefficient of determination value is intrinsically good or bad. It\'s at their discretion to evaluate the meaning of this correlation and how it may be applied in future trend analyses.
+
+The coefficient of determination shows the level of correlation between one dependent and one independent variable. It\'s also called r2 or r-squared. The value should be between 0.0 and 1.0. The closer it is to 0.0, the less [correlated](https://www.investopedia.com/terms/c/correlation.asp) the dependent value is. The closer to 1.0, the more correlated the value.
+R-squared in regression tells you whether there\'s a dependency between two values and how much dependency one value has on the other.
+The coefficient of determination can\'t be more than one because the formula always results in a number between 0.0 and 1.0. Something is incorrect if it\'s greater or less than these numbers.
+<|endoftext|>

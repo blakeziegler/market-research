@@ -1,0 +1,129 @@
+Source: https://ift.world/booklets/fra-inventories-part1/
+
+The two types of inventory systems used to keep track of changes in the inventory are:
+Periodic system
+Perpetual system
+
+Periodic system
+The company measures the quantity of inventory on hand periodically.
+It is not a continuous process unlike the perpetual system.
+Purchases are recorded in a purchases account.
+Ending inventory is determined through a physical count of the units in inventory.
+Cost of goods sold (COGS) = Beginning Inventory + Purchases – Ending Inventory
+The formula above can be rearranged to determine the value of any of the items.
+For example: Ending inventory = Beginning Inventory + Purchases – COGS
+
+Perpetual system
+As the name implies, inventory and COGS are continuously updated in this system.
+Purchases and sale of units are directly recorded in the inventory as and when they occur.
+
+Comparison of Inventory Valuation Methods
+The allocation of total cost of goods available for sale to COGS and ending inventory varies under different inventory valuation methods.
+The following table compares LIFO vs. FIFO for different parameters when prices are rising and inventory levels are stable:
+
+LIFO vs. FIFO with rising prices and stable inventory levels
+COGS | Higher | Lower
+Taxes | Lower | Higher
+Earnings before taxes (EBT) | Lower | Higher
+Earnings after taxes (Net Income) | Lower | Higher
+Ending inventory | Lower | Higher
+Working capital (CA-CL) | Lower | Higher
+Cash flow (after tax) | Higher | Lower
+
+Instructor’s Note:
+Weighted average costs provide results between FIFO and LIFO.
+Some tips for remembering the table above are listed below:
+1. Remember the pencils example of $1, $1, $2 and $2. Deducing the LIFO values from this example for COGS, net income, ending inventory becomes simpler.
+2. FIFO is the opposite of LIFO.
+3. Cash flow (after tax) is higher under LIFO as taxes paid are lower.
+4. Companies following US GAAP prefer LIFO because the taxes paid are lower.
+5. LIFO gives a better income statement and FIFO a better balance sheet as they reflect economic reality or recent costs.
+Under LIFO, cost of goods sold in income statement shows the most recent costs reflecting better quality.
+Similarly, under FIFO, ending inventory on the balance sheet shows the most recent costs, reflecting better quality.
+
+Inventories are assets held by a company to produce finished goods for sale. They are shown as a current asset on the balance sheet; and can represent a significant part of the total assets for many companies. Manufacturing and merchandising companies (Ex: Nike, Caterpillar) generate sales and profit through the sale of inventory. An important measure in calculating profits is cost of goods sold, i.e., how much cost the company incurred from procuring raw materials to converting it to a finished product, and finally selling it. There is no universal inventory valuation method. IFRS and US GAAP allow different identification methods to measure the cost of inventory such as specific identification, weighted average cost, first in, first out, and last in, first out.
+
+When a company spends money on inventory, most of the costs are capitalized. Capitalizing means creating an asset on the balance sheet. Inventory costs that are capitalized include: costs of purchase (this includes the purchase price, import and tax duties, transport and handling costs). costs of conversion (costs such as labor, material, and overheads which are directly related to converting raw materials to finished goods). costs necessary to bring inventories to their present location and condition (this will include the cost of transporting goods to a showroom). Costs that are expensed in the period incurred include: Abnormal costs arising due to wastage of material, labor, or other production inputs. Storage costs of final/finished goods. Administrative overheads. Selling costs. Unused portion of fixed production overhead. Transportation of finished goods to the customer.
+
+Example Kevin Corporation manufactures high-end tractors. The inventory related costs are shown below: Raw materials $56,000 Direct labor $40,000 Abnormal wastage $6,000 Transportation of raw materials $10,000 Transportation of finished goods to showroom $1,000 Storage of finished product $18,000 Transport of finished product to customer $250 What value of inventory is recorded? Which costs are expensed? Solution: The value of inventory is based on the costs which are capitalized. These costs are raw materials, direct labor, transportation of raw materials and transportation of finished goods to showroom: $56,000 + $40,000 + $10,000 + $1,000 = $107,000. Abnormal wastage, storage
+
+The four inventory valuation methods for accounting inventory are:
+Specific Identification
+FIFO (First In, First Out)
+Weighted Average Cost
+LIFO (Last In, First Out)
+
+Specific identification is used when:
+Items are unique in nature and not interchangeable.
+Cost of inventory is high.
+Every item in the inventory can be tracked individually.
+Under specific identification, items are shown on the balance sheet at their actual costs.
+Examples: Jewelry, expensive watches, highly valued art pieces, used cars, etc.
+
+Under First In, First Out:
+Oldest goods purchased or manufactured are assumed to be sold first.
+Newest goods purchased or manufactured remain in ending inventory.
+When prices are increasing or stable, cost assigned to items in inventory is higher than the cost of items sold.
+The following example illustrates how cost of goods sold and inventory are accounted for in each period:
+Assume you bought four pencils. The first two pencils were worth $1 each and the next two pencils were worth $2 each. Before you start selling, your inventory consists of four pencils.
+In period 1, you sell two pencils. The cost of pencils sold in period 1 is $2 (two pencils of $1 each). The pencils that were bought first are considered sold. Inventory at the end of period 1 is $4 and looks like this (2 pencils of $2 each):
+As you could see, cost of pencils sold in period 1 was $2 (cheaper pencils bought initially) whereas the cost of pencils in inventory was $4.
+In period 2, you again sell two pencils. The cost of pencils sold in period 2 is $4. Inventory at the end of period 2 is 0.
+Advantage of using FIFO is that it is less subject to manipulation. It results in higher income when prices are increasing.
+
+Under weighted average cost method, each item in inventory is valued using an average cost of all items in the inventory.
+Weighted Average Cost = Total cost of Units available for sale / Total units available for sale
+Let’s use the pencils example again to illustrate how inventory is calculated using the WAC method.
+Total cost of pencils available for sales = $6
+Total number of pencils available for sale = 4
+Weighted average cost per pencil = $6/4 = $1.5
+WAC Method
+Item | WAC
+Cost of 2 pencils sold in period 1 | $3
+Inventory for 2 pencils at the end of period 1 | $3
+Cost of 2 pencils sold in period 2 | $3
+Inventory at the end of period 2 | $0
+
+Under Last-In, First-Out method:
+The newest items purchased or manufactured are assumed to be sold first.
+Oldest goods purchased or manufactured remain in ending inventory.
+Cost of goods sold reflects cost of goods purchased or manufactured recently; value of inventory reflects cost of older goods purchased.
+Let’s continue with the pencils example to see how inventory is accounted for in LIFO:
+Unlike FIFO, at the end of period 1, LIFO inventory consists of the first two pencils:
+LIFO Method
+Item | LIFO
+Cost of 2 pencils sold in period 1 | $4
+Inventory for 2 pencils at the end of period 1 | $2
+Cost of 2 pencils sold in period 2 | $2
+Inventory at the end of period 2 | $0
+LIFO is not allowed under IFRS; it is allowed only under US GAAP. Companies use LIFO during inflation to reduce taxes as cost of goods sold (COGS) is high.
+Under LIFO, ending inventory is valued using earliest purchase costs. Therefore, in an inflationary environment, LIFO ending inventory will be less than current costs. Also, LIFO COGS will be higher than FIFO COGS leading to a lower net income.
+
+Calculations of Cost of Sales, Gross Profit, and Ending Inventory
+Based on the inventory valuation method used by a company, the allocation of inventory costs between cost of goods sold on the income statement and inventory on the balance sheet varies in periods of changing prices.
+Continuing with the pencils example, assume each of the pencils was sold for $5.
+The table below summarizes the cost of goods sold, inventory ending value and gross profit under each of the methods:
+Inventory Accounting under Various Methods
+Item | FIFO (in $) | LIFO (in $) | WAC (in $)
+COGS for period 1 | 2 | 4 | 3
+Gross profit for period 1 | 8 | 6 | 7
+Inventory at end of period 1 | 4 | 2 | 3
+COGS for period 2 | 4 | 2 | 3
+Gross profit for period 2 | 6 | 8 | 7
+Inventory at end of period 2 | 0 | 0 | 0
+Some points to be noted:
+The total gross profit and COGS for all the periods combined is the same under each of the methods.
+As the prices of pencils were increasing, the ending inventory was highest and COGS was lowest under FIFO.
+Similarly, the ending inventory was lowest and COGS was highest under LIFO.
+
+Example
+A company bought 400 generators at a price of $300 each on January 5. Out of these 300 generators were sold at a price of $450 each by the end of March. On April 10, 250 more generators were bought at a price of $325 each. By May 31, 225 generators were sold at a price of $500 each. For the period ending 30 June, what is the ending inventory using FIFO?
+Solution:
+Purchased 400
+Sold (300)
+Remainder as at March 2012 100
+Purchased further 250
+Sold (100 old+125 new) (225)
+Remainder (new) 125
+Therefore, inventory cost 125 x 325
+<|endoftext|>

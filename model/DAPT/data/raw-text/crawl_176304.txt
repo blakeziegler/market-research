@@ -1,0 +1,102 @@
+Source: https://ift.world/booklets/quant-time-value-of-money-part3/
+
+$100 2 | $200 3 | $300 Assuming a discount rate of 10%, the PV of these cash flows can be computed as: PV = 100/1.1 + 200/1.12 + 300/ 1.13 = $481.59
+
+Example Andy makes an investment with the expected cash flow shown in the table below. Assuming a discount rate of 9% what is the present value of this investment?
+Time Period | Cash Flow($)
+1 | 50
+2 | 100
+3 | 150
+4 | 200
+5 | 250
+Solution: PV = 50/1.09 + 100/1.092 + 150/1.093 + 200/1.094 + 250/1.095 = $550.03
+
+We can also use the cash flow register on our financial calculator to solve this problem quickly. The key strokes are as follows:
+Keystrokes | Explanation | Display
+[2nd] [QUIT] | Return to standard mode | 0
+[CF] [2nd] [CLR WRK] | Clear CF Register | CF = 0
+0 [ENTER] | No cash flow at t = 0 | CF0 = 0
+[↓] 50 [ENTER] | Enter CF at t = 1 | C01 = 50
+[↓] [↓] 100 [ENTER] | Enter CF at t = 2 | C02 = 100
+[↓] [↓] 150 [ENTER] | Enter CF at t = 3 | C03 = 150
+[↓] [↓] 200 [ENTER] | Enter CF at t = 4 | C04 = 200
+[↓] [↓] 250 [ENTER] | Enter CF at t = 5 | C05 = 250
+[↓] [NPV] [9] [ENTER] | Enter discount rate | I = 9
+[↓] [CPT] | Compute NPV | 550.03
+
+10. Present Value of a Perpetuity A perpetuity is a series of never ending equal cash flows. The present value of perpetuity can be calculated by using the following formula: PV = A/r where: A = annuity amount r = discount rate
+Let’s say that we have a really simple perpetuity where we receive $10 at the end of every year forever, and let’s say that the interest rate is 5%.
+The PV of this perpetuity can be computed as: PV = 10/0.05 = $200
+
+Instructor’s Note : Keep in mind that the present value of $200 is one period before the first cash flow. Many students show the present value of $200 at the same time as the first cash flow, which is incorrect.
+10.1. Present Values Indexed at Times Other Than t=0 An annuity or perpetuity beginning sometime in the future can be expressed in present value terms one period prior to the first payment. That value can then be discounted back to today’s present value.
+Let’s say you are offered a cash flow of $10 at the end of year 5, end of year 6, and so on forever. What is the PV of these cash flows, assuming a discount rate of 10%?
+The PV of the perpetuity at the end of year 4 can be computed as: PV4 = 10/0.1 = $100
+This value has to be discounted back four periods to get the PV at time period 0. PV0 = $100/1.14 = $68.30
+
+Example Bill Graham is willing to pay for a perpetual preferred stock that pays dividends worth $100 per year indefinitely. The first payment will be received at t = 4. Given that the required rate of return is 10%, how much should Mr. Graham pay today?
+Solution: The time line for this scenario is
+The PV of the perpetuity at the end of year 3 can be computed as PV3 = 100/0.1 = $1,000
+This value has to be discounted back 3 periods to get the PV at time period 0. PV0 = $1,000/1.13 = $751.31
+
+at an Australian pension fund. 5 years from today he wants a lump sum amount of AUD40, 000. Given that the current interest rate is 4% a year, compounded monthly, how much should Orlando invest today?
+Solution: We have monthly compounding, therefore the inputs to our calculator will be N = 5 x 12 = 60 I = 4 /12% PMT = 0 FV = $40,000 CPT PV = – $32,760.12
+
+Non-Annual Compounding (Present Value) When our compounding frequency is not annual, we use the following formula to compute present value:
+PV= {FV}_N \(1 + \\frac{r_s}{\(m\)}\)^{-mN}
+where: rs = the stated annual interest rate in decimal format m = the number of compounding periods per year N = the number of years
+
+Let’s understand this concept using an example. You want to know how much to deposit today to receive a lump-sum payment of $100,000 after 5 years. This amount will be invested in a 5-year certificate of deposit that offers a stated annual interest rate of 10% compounded quarterly. How much should you invest today?
+Solution : There are two methods to solve this question.
+Formula Method : FV is $100,000. The number of compounding periods per year is 4. The stated annual rate is 10%. So, the interest rate per period is 10%/4 = 2.5% The total number of periods is 4 x 5 = 20. Therefore, the present value today is: PV=$100,000 (1+0.025)(-20)=$61,027.09
+Calculator Method : You can also solve this problem using a financial calculator; the key strokes are given below: N = 20, I/Y = 2.5%, FV = $100,000, PMT = 0, CPT PV = -$61,027.09 PMT is 0 because there are no intermediate payments in this example.
+
+Present Value of a Series of Equal and Unequal Cash Flows
+The Present Value of a Series of Equal Cash Flows
+Ordinary Annuity An ordinary annuity is a series of equal payments at equal intervals for a finite period of time. Examples of ordinary annuity: mortgage payments, pension income etc. Consider an ordinary annuity with A = $10, r = 5% and N = 5.
+We can compute the PV of this annuity using three methods
+Brute-Force Method : Simply take each cash flow and compute the PV. Add all values to get the PV for the annuity.
+PV = $43.29.
+Formula Method : The present value can also be computed using the following formula:
+PV=A\\ \\left\[\\frac{1-\\left\(\\frac{1}{{\\left\(1+r\\right\)}^N}\\right\)}{r}\\right\]
+where: A = annuity amount r = interest rate per period corresponding to the frequency of annuity payments N = number of annuity payments The term in square brackets is called the present value annuity factor (PVAF). Hence the equation above can also be written as: PV = A x PVAF.
+Therefore, using the formula we get, PV=10\\ \\left\[\\frac{1-\\left\(\\frac{1}{{\\left\(1+0.05\\right\)}^5}\\right\)}{0.05}\\right\]=\\$43.29
+Calculator Method : The keystrokes to solve this using a financial calculator are given below:
+Keystrokes | Explanation | Display
+[2nd] [QUIT] | Return to standard calc mode | 0
+[2nd] [CLR TVM] | Clears TVM Worksheet | 0
+5 [N] | Five years/periods | N = 5
+5 [I/Y] | Set interest rate | I/Y = 5
+0 [FV] | Set to 0 because there is no final payment other than the periodic annuity amounts | FV = 0
+10 [PMT] | Set annuity payment | PMT = 10
+[CPT] [PV] | Compute present value | PV = -43.29
+
+7. Present Value of a Single Cash Flow
+Let’s say that one year from today you will receive a cash flow of $110. What is the value of that $110 today? (Assume that the interest rate is 10%)
+PV = $110 / (1 + 0.1) = $100
+The $110 one year from today has a present value of $100. In other words, you will be indifferent between $100 today and $110 one year from today.
+What if you were going to receive $121 at the end of two years, what is its present value?
+PV = $121 / (1 + 0.1)^2 = $100
+Using these two examples we can write a general formula for computing PV. Given a cash flow that is to be received in N periods and an interest rate of r per period, the PV can be computed as:
+PV = FV_N / (1 + r)^N
+where: N = number of periods, r = rate of interest, FV = future value of investment
+
+Notice that this formula can also be obtained by simply rearranging the formula for FV that we studied earlier.
+FV_N = PV (1 + r)^N => PV = FV_N / (1 + r)^N
+Based on this formula we can make two observations:
+For a given discount rate, the farther in the future the amount to be received, the smaller the amount’s present value.
+Mathematical explanation: In the first case the PV is $110/1.1, whereas in the second case PV is $110/1.12. Since we are dividing by a larger number the PV will be lower in the second case.
+Intuitive explanation: Clearly receiving a certain amount of money sooner is better than receiving the same amount of money later.
+Holding time constant, the larger the discount rate, the smaller the present value of a future amount.
+In the first case PV is $110/1.1, whereas in the second case PV is $110/1.2. Clearly the PV is going to be lower in the second case, because we are dividing by a larger number.
+
+Example: Liam purchases a contract from an insurance company. The contract promises to pay $600,000 after 8 years with a 5% return. What amount of money should Liam most likely invest? Solve using the formula and TVM functions on the calculator.
+Solution: Formula Method
+PV = $600,000 / (1.05)^8 = $406,104
+Calculator Method: N = 8, I/Y = 5%, PMT = 0, FV = $600,000; CPT PV => PV = – $406,104
+
+Example: Mathews wishes to fund his son, Nathan’s, college tuition fee. He purchases a security that will pay $1,000,000 in 12 years. Nathan’s college begins 3 years from now. Given that the discount rate is 7.5%, what is the security’s value at the time of Nathan’s admission?
+Solution:
+PV_3 = $1,000,000 / (1.075)^9 = $521,583.47
+
+<|endoftext|>

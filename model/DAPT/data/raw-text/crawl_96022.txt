@@ -1,0 +1,83 @@
+Source: https://www.investopedia.com/articles/fundamental-analysis/09/book-value-basics.asp
+
+What Book Value Means to Investors
+
+Stock Valuation Methods
+Bottom-Up Investing
+Ratio Analysis
+Liquidation Value
+Market Capitalization
+Discounted Cash Flow (DCF)
+Enterprise Value (EV)
+How to Use Enterprise Value to Compare Companies
+How to Analyze Corporate Profit Margins
+Return on Equity (ROE)
+Decoding DuPont Analysis
+
+What Is the Delphi Method, and How Is It Useful in Forecasting?
+The Cost of Making an iPhone
+Total Shareholder Return (TSR): Definition and Formula
+What Is a Good WACC? Analyzing Weighted Average Cost of Capital
+Data Analytics: What It Is, How It's Used, and 4 Basic Techniques
+Residual Income: What It Is, Types, and How to Make It
+Linear Relationship: Definition, Formula, and Examples
+Understanding Normal Distribution: Key Concepts and Financial Uses
+Type II Error: Definition, Example, vs. Type I Error
+Using Monte Carlo Analysis to Estimate Risk
+Intrinsic Value vs. Current Market Value: What's the Difference?
+Relative Valuation Model: Definition, Steps, and Types of Models
+Market Efficiency Explained: Differing Opinions and Examples
+Representative Sample: Definition, Importance, and Examples
+
+What Is Book Value?
+
+Book value is an accounting measure that represents the value of a company's assets minus its liabilities. It is often used by investors to assess whether a stock is undervalued or overvalued.
+
+Value Play or Value Trap?
+
+Investors often look for stocks that are trading below their book value, but this can sometimes lead to value traps where the stock price remains low due to underlying issues.
+
+Depreciation and Book Value
+
+Depreciation can affect book value, as it reduces the value of assets over time, which can mislead investors if not properly accounted for.
+
+Company Debt and Book Value
+
+High levels of debt can significantly impact a company's book value, as liabilities are subtracted from assets to determine the book value.
+
+Typical Book Value Plays
+
+Certain industries, such as manufacturing and utilities, are more likely to have stocks that are suitable for book value plays due to their tangible assets.
+
+Cashing in on Book Value
+
+The Bottom Line
+
+Investors should consider book value as one of many metrics when evaluating a stock, as it provides insight into the company's financial health.
+
+or hidden in the [footnotes](https://www.investopedia.com/terms/f/footnote.asp). Like a person securing a car loan by using their house as [collateral](https://www.investopedia.com/terms/c/collateral.asp), a company might use valuable assets to secure loans when it is struggling financially. In this case, the value of the assets should be reduced by the size of any secured loans tied to them. This is especially important in bankruptcy candidates because the book value may be the only thing going for the company, so you can\'t expect strong earnings to bail out the stock price when the book value turns out to be inflated.
+
+Critics of book value are quick to point out that finding genuine book value plays has become difficult in the heavily-analyzed U.S. stock market. Oddly enough, this has been a constant refrain heard since the 1950s, yet value investors continue to find book value plays. The companies that have [hidden values](https://www.investopedia.com/terms/h/hiddenvalues.asp) share some characteristics: * They are old. Old companies have usually had enough time for assets like real estate to appreciate substantially. * They are big. Big companies with international operations, and thus with international assets, can create book value through growth in overseas land prices or other foreign assets. * They are ugly. The third class of book value buys is the ugly companies that do something dirty or boring. The value of wood, gravel, and oil go up with [inflation](https://www.investopedia.com/terms/i/inflation.asp), but many investors overlook these [asset plays](https://www.investopedia.com/terms/a/assetplay.asp) because the companies don\'t have the dazzle and flash of [growth stocks](https://www.investopedia.com/terms/g/growthstock.asp).
+
+Even if you\'ve found a company that has true hidden value without any claims on it, you have to wait for the market to come to the same conclusion before you can sell for a profit. [Corporate raiders](https://www.investopedia.com/terms/r/raider.asp) or [activist shareholders](https://www.investopedia.com/terms/s/shareholderactivist.asp) with large [holdings](https://www.investopedia.com/terms/h/holdings.asp) can speed up the process, but an investor can\'t always depend on inside help. For this reason, buying purely on book value can actually result in a loss, even when you\'re right! If a company is selling 15% below book value, but it takes several years for the price to catch up, then you might have been better off with a 5% [bond](https://www.investopedia.com/terms/b/bond.asp). The lower-risk bond would have similar results over the same period. Ideally, the price difference will be noticed much more quickly, but there is too much uncertainty in guessing the time it will take the market to realize a book value mistake, and that has to be factored in as a risk.
+
+That said, looking deeper into book value will give you a better understanding of the company. In some cases, a company will use excess earnings to update equipment rather than pay out [dividends](https://www.investopedia.com/terms/d/dividend.asp) or expand operations. While this dip in earnings may drop the value of the company in the [short term](https://www.investopedia.com/terms/s/shortterm.asp), it creates long-term book value because the company\'s equipment is worth more and the costs have already been discounted. On the other hand, if a company with outdated equipment has consistently put off repairs, those repairs will eat into profits at some future date. This tells you something about book value as well as the character of the company and its management. You won\'t get this information from the P/B ratio, but it is one of the main benefits of digging into the book value numbers and is well worth the time.
+
+Book value shopping is no easier than other types of investing; it just involves a different type of research. The best strategy is to make book value [one part of what you are looking for](https://www.investopedia.com/ask/answers/05/bookvintrinsic.asp) as you research each company. You shouldn\'t judge a book by its cover, and you shouldn\'t judge a company by the cover it puts on its book value. In theory, a low price-to-book-value ratio means you have a cushion against poor performance. In practice, it is much less certain. Outdated equipment may still add to book value, whereas appreciation in property may not be included. If you are going to invest based on book value, you have to find out the real state of those assets.
+
+Earnings, debt, and assets are the building blocks of any public company\'s financial statements. For the purpose of disclosure, companies break these three elements into more refined figures for investors to examine. Investors can calculate valuation ratios from these to make it easier to compare companies. Among these, the book value and the price-to-book ratio (P/B ratio) are staples for value investors. But does book value deserve all the fanfare? Read on to find out.
+
+* The book value of a company is the difference in value between that company\'s total assets and total liabilities on its balance sheet.
+* Value investors use the price-to-book (P/B) ratio to compare a firm\'s market capitalization to its book value to identify potentially overvalued and undervalued stocks.
+* Traditionally, a P/B less than 1.0 is considered a good value, but it can be difficult to pinpoint a \"good\" P/B ratio since it can vary by industry and any particular company may have underlying financial troubles.
+
+What Is Book Value? Book value is the amount found by totaling a company\'s tangible assets (such as stocks, bonds, inventory, manufacturing equipment, real estate, and so forth) and subtracting its liabilities. In theory, book value should include everything down to the pencils and staples used by employees, but for simplicity\'s sake, companies generally only include large assets that are easily quantified. Companies with lots of machinery, like railroads, or lots of financial instruments, like banks, tend to have large book values. In contrast, video game companies, fashion designers, or trading firms may have little or no book value because they are only as good as the people who work there. Book value is not very useful in the latter case, but for companies with solid assets, it\'s often the No.1 figure for investors. A simple calculation dividing the company\'s current stock price by its stated book value per share gives you the P/B ratio.1 If a P/B ratio is less than one, the shares are selling for less than the value of the company\'s assets. This means that, in the worst-case scenario of bankruptcy, the company\'s assets will be sold off and the investor will still make a profit.
+
+A price-to-book ratio under 1.0 typically indicates an undervalued stock, although some value investors may set different thresholds such as less than 3.0. Failing bankruptcy, other investors would ideally see that the book value was worth more than the stock and also buy in, pushing the price up to match the book value. That said, this approach has many flaws that can trap a careless investor.
+
+If it\'s obvious that a company is trading for less than its book value, you have to ask yourself why other investors haven\'t noticed and pushed the price back to book value or even higher. The P/B ratio is an easy calculation, and it\'s published in the stock summaries on any major stock research website. The answer could be that the market is unfairly battering the company, but it\'s equally probable that the stated book value does not represent the real value of the assets. Companies account for their assets in different ways in different industries, and sometimes even within the same industry. This muddles book value, creating as many value traps as value opportunities.
+
+You need to know how aggressively a company has been depreciating its assets. This involves going back through several years of financial statements. If quality assets have been depreciated faster than the drop in their true market value, you\'ve found a hidden value that may help hold up the stock price in the future. If assets are being depreciated slower than the drop in market value, then the book value will be above the true value, creating a value trap for investors who only glance at the P/B ratio. Manufacturing companies offer a good example of how depreciation can affect book value. These companies have to pay huge amounts of money for their equipment, but the resale value for equipment usually goes down faster than a company is required to depreciate it under accounting rules. As the equipment becomes outdated, it moves closer to being worthless. With book value, it doesn\'t matter what companies paid for the equipment. It only matters what they can sell it for. If the book value is based largely on equipment, rather than something that doesn\'t rapidly depreciate (oil, land, etc.), it\'s vital that you look beyond the ratio and into the components. Even when the assets are financial in nature, and not prone to depreciation manipulation, the mark-to-market (MTM) rules can lead to overstated book values in bull markets and understated values in bear markets.
+
+An investor looking to make a book value play has to be aware of any claims on the assets, especially if the company is a bankruptcy candidate. Usually, links between assets and debts are clear, but this information can sometimes be played down.
+<|endoftext|>

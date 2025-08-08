@@ -1,0 +1,78 @@
+Source: https://sellside.substack.com/p/goldman-sachs-global-markets-update
+
+Trade Tensions: U.S.-China Tariffs and Retaliatory Measures
+On February 4, the U.S. implemented an additional 10% tariff on all Chinese imports. In response, China announced a combination of countermeasures, including:
+* New tariffs on U.S. goods
+* Export restrictions on critical minerals
+* Blacklist expansion for U.S. companies
+* Antitrust investigations targeting foreign entities
+Comparative Impact of Tariffs
+* China imposed an additional 12% tariff on $14 billion of U.S. goods
+* The U.S. imposed an additional 10% tariff on $525 billion of Chinese goods
+* Bottom Line: While China’s tariff response is less aggressive in absolute monetary terms, the combination of non-tariff barriers suggests a coordinated and strategic policy approach.
+
+Market Activity & Liquidity Trends
+Total Flow Executed
+* Net flow ended at +53 basis points (bps) vs. the 30-day average of +75 bps
+Institutional Flows
+* Long-Only Funds (LOs): Net sellers of $1 billion, driven by macro and technology sectors
+* Hedge Funds (HFs): Net buyers of $1 billion, with demand in healthcare, communications services, and industrials
+CTAs and Expected Short-Term Flows
+Projected positioning for next week:
+* Flat market: +$9.14B in purchases ($1.00B in the U.S.)
+* Rising market: +$9.29B in purchases ($765M in the U.S.)
+* Falling market: -$11.53B in sales (U.S. outflows: -$11.82B)
+These estimates are expected to be revised downward with lower demand.
+Energy Markets
+* WTI crude oil fell to $71.56 (-2.2%), reflecting rising tensions in U.S.-China trade relations.
+S &P 500 Market Depth
+* Top of Book liquidity fell to $3.68M, returning to January lows and well below the YTD average of $11.3M.
+New Tariffs
+* 15% tariffs: U.S. LNG and coal
+* 10% tariffs: Crude oil, agricultural machinery, autos, and trucks
+Key Stocks to Monitor
+* Energy & Commodities: VG, LNG
+* Industrial & Machinery: DE, AGCO, CNH
+
+Fixed Income & Interest Rate Movements
+* Treasury yields fell, led by the long end of the curve after a quiet Asia session.
+* Duration supply aligned with Europe, with 5-year UK bonds in focus.
+* 5-year GBP swaps tightened by 1 bp.
+* Emerging markets saw net inflows into mid-duration positions.
+
+Basket Performance
+* GS24TRFS: U.S. companies in tariff-exposed sectors (apparel, retail, autos). Estimated $100M daily trading volume (~3% of total).
+* GS24TRIM: Counter-basket of tariff-immune companies.
+* GSCNSTAR: Focused on consumer-exposed stocks within GS24TRFS. Estimated $100M daily trading volume (~6% of total).
+* GSCBCTAR: Canadian stocks in energy, materials, industrials, and consumer goods.
+Impact of Trade Policy Risk on U.S. Equities
+* Relative performance of companies with U.S. vs. international sales is monitored.
+
+Macroeconomic & Hedge Fund Positioning
+Key Macroeconomic Factors
+* Market expectations for U.S. economic growth
+* Interest rate outlook
+* Oil price fluctuations
+Hedge Fund Performance – January 2025 (Goldman Sachs PB)
+* Core L/S funds gained +2.6%, marking the best month since February 2024.
+* Systematic L/S strategies rose +2.7%, benefiting from market momentum.
+
+Hedge Fund Activity
+* Global equities were sold at the fastest pace in 5 months, with significant macro-driven rotations.
+* Gross stock-level activity increased for the 6th consecutive month, but net exposure remained flat as long buying was offset by short selling.
+
+Leverage & Exposure Trends
+* Gross leverage rose to record highs.
+* Net leverage increased more moderately.
+* Long/Short ratio narrowed.
+
+Regional Positioning
+* Net selling: U.S. & Europe
+* Net buying: Asian developed & emerging markets (3rd consecutive month of inflows)
+
+Sector Positioning – U.S. Equities
+* Rotation away from consumer discretionary & cyclical sectors
+* Increased allocations to defensive sectors & TMT (technology, media, telecom)
+* Healthcare was the most purchased sector in nominal terms
+* Consumer discretionary saw the highest net sales since March 2022.
+<|endoftext|>

@@ -1,0 +1,116 @@
+Source: https://ift.world/booklets/economics-understanding-business-cycles-part3/
+
+Leading indicators are particularly useful as they can help predict where the economy is likely to be in the near future.
+Coincident and lagging indicators can help confirm what the leading indicators are telling us.
+
+Apart from the LEI used in the US, there are several other composite leading indicators that are used across different countries.
+
+Composite indicators often make use of economic surveys.
+These surveys are usually conducted by central banks, research institutes, statistical offices, and trade associations on a monthly or quarterly basis.
+The surveys are conducted among either businesses, consumers, or experts.
+For example, among the 10 components of the LEI, the following three components are survey based:
+* ISM new order index
+* Manufacturers’ new orders for non-defense capital goods excluding aircraft
+* Average consumer expectations for business conditions
+
+In recent years, due to the vast increase in the amount of information and the number of variables that go into composite indicators, statistical techniques such as ‘principal component analysis’ are frequently used while constructing indexes using economic indicators.
+
+Policy makers and market practitioners have started monitoring economic and financial variables such as internet searches and electronic payment data in real-time.
+This allows them to continuously assess current conditions and produce a nowcast.
+Nowcasting produces an estimate of the current state of the economy.
+The advantage of this method is that it helps overcome delays associated with the release of actual measures.
+For example, measures such as GDP are only published with delay, after the end of the time period under consideration.
+
+GDPNow is a nowcast published by the Federal Reserve Bank of Atlanta.
+According to the Atlanta Fed, “GDPNow” is “best viewed as a running estimate of real GDP growth based on available data for the current measured quarter.”
+
+This sector varies in size and importance from one country to another. It is significant for countries like Japan, where most of domestic produce is exported, but is a small amount for U.S.
+
+Imports rise with domestic GDP growth. They are a reflection of the domestic cycle. Exports rise with growth in the rest of the world. They do not reflect domestic cycle and rise even if domestic economy is slowing down. Exports increase if foreign demands for domestic output increase.
+Phase of the Cycle (domestic economy) | Recovery | Expansion | Slowdown | Contraction
+Exports | Driven by external demand
+Imports (assuming exchange rate remains unchanged) | Imports below average, start to increase. | Imports increase. | Imports peak and start to decline. | Imports in decline to below-average levels.
+
+Currency exchange rate has a major impact on imports/exports:
+Stronger domestic currency 🡪 increase in imports, decline in exports.
+Weaker domestic currency 🡪 decrease in imports, increase in exports.
+
+Domestic GDP growth and global GDP growth have an immediate and straightforward impact on imports and exports respectively. In contrast, exchange rates have a more complex and gradual effect.
+
+Until the 1930s, economists believed that business cycles were a natural feature of the economy, and recessions were temporary. The Great Depression changed that view and gave rise to new schools of economic thought. In the subsequent sections we discuss theories that try to explain causes of a business cycle, and what must/must not be done to restore equilibrium.
+
+Neoclassical and Real Business Cycle (RBC) theories focus on fluctuations of aggregate supply (AS). The basic premise of the neo-classical school is: markets will reach equilibrium because of the invisible hand or free markets. No government intervention is needed for equilibrium.
+AS can shift to the left because of an input price increase or shift to the right because of a price decrease or technical progress. In both cases, the economy will gradually converge to its new equilibrium on its own.
+Government intervention is not required because it can amplify
+
+Neoclassical economists also argue that polices should not prevent “creative destruction” from taking place.
+Creative destruction refers to new innovations that introduce new products or a new, more efficient way to produce an existing good or service.
+Companies that adopt the innovation will survive, while companies that do not adopt the innovation may perish.
+
+The Austrian school believes that business cycles are the outcome of excessive credit growth due to an artificially low interest rate.
+During boom, low interest rates lead to excessive borrowing from banking system for funding projects with low returns.
+Low interest rates lead to widespread malinvestment.
+Subsequently, when interest rates increase, investments that were profitable at low rates now become unprofitable.
+As a result, the economy moves back into recession.
+Since the business cycles are the result of government / central bank’s expansionary monetary policies, the Austrian school believes that the government’s interference should be minimal because markets are self-stabilizing.
+
+What do the Monetarists say?
+Monetary and fiscal policy should be clear and consistent so that all economic agents can forecast government action.
+Minimal intervention from the government.
+They reject active management of aggregate demand (AD).
+In contrast to neoclassical economists, monetarists emphasize a steady money supply, i.e., money supply must grow at a steady rate.
+Business cycles occur because of exogenous shocks and government intervention.
+Let AD and AS find own equilibrium rather than risking further economic fluctuation.
+The Monetarist school objected to Keynesian intervention for three reasons:
+The Keynesian model does not recognize the importance of the money supply.
+If the supply is too fast, the boom will be unsustainable.
+If the supply is low, it will lead to recession.
+The Keynesian model fails to consider long-term costs of government intervention.
+Reducing taxes or increasing government spending can have a detrimental effect in the long run, which the Keynesian model does not consider.
+The timing of the government’s economic policy response is uncertain and it can cause more harm than good.
+
+Key points related to the Keynesian school of thought are as follows:
+There is no quick adjustment mechanism for markets as advocated by neoclassicals.
+The focus is on AD fluctuations.
+If AD shifts left, the theory believes that it would be hard to restore equilibrium in the event of a crisis by wage and price reduction alone.
+Wages are downward sticky, but even if lower wages are accepted, consumption, and hence AD will be lower because workers would cut their spending.
+Simply lowering interest rates would not ignite growth because business confidence (or animal instincts) is
+The government’s intervention is needed during a severe crisis.
+The government should use monetary and fiscal policy to keep capital and labor employed even if this means a large fiscal deficit.
+The fiscal policy tools are government spending and taxes.
+The government can either reduce taxes or increase spending to increase AD.
+Monetary policy tools are money supply and interest rates.
+The government can either increase money supply or lower interest rates to increase AD.
+Agreed with neoclassical and Austrian schools about the economy self-correcting in the long run, but states that by that point we will all be dead.
+Why is the Keynesian policy criticized?
+Fiscal deficit leads to more government debt.
+It focuses on the short term.
+In the long run, the impact of low interest rates could be inflationary.
+Takes time to implement fiscal policy.
+By then the economy is already recovering.
+
+Today’s mainstream economists use an analytical framework that incorporates all three broad theories – Neoclassical, Keynesian, and monetarism.
+
+Summary of Business Cycle Schools:
+Economic Schools of Thought
+School of Thought | Comment | Recommended Policy
+Neo-classical | Invisible hand. | Do nothing.
+Austrian | Fluctuations caused by misguided government intervention. | Do nothing.
+Keynesian | Focus on the AD curve. Economy does not automatically correct in the short-run. | Use fiscal/monetary policy because in the “long run, we are all dead”.
+Monetarist | Monetary policy. | Steady, predictable growth of money supply.
+
+Economic indicators are variables that are used to assess the state of the overall economy and for providing insights into future economic activity.
+
+Economic indicators can be classified based on whether they lag, lead, or coincide with changes in an economy’s growth.
+Leading indicators have turning points that tend to precede those of the business cycle.
+They help in forecasting the economy in the near term.
+Ex: Weekly hours in manufacturing, S&P 500 return, private building permits.
+Coincident indicators have turning points that tend to coincide with those of the business cycle and are used to indicate the current phase of the business cycle.
+Ex: Manufacturing activity, personal income, number of non-agricultural employees.
+Lagging indicators have turning points that tend to occur after those of the business cycle.
+Ex: Bank prime lending rate, inventory-to-sales ratio, average duration of unemployment.
+
+Composite indicators consist of a composite of different variables that all tend to move together.
+Different countries will have different composite indices.
+These indicators are based on empirical observations of an economy.
+<|endoftext|>

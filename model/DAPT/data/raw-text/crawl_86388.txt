@@ -1,0 +1,42 @@
+Source: https://www.investopedia.com/articles/fundamental-analysis/11/valuation-prefered-stock.asp
+
+Preferred shares are a type of equity investment that provides a steady stream of income and potential appreciation. Both of these features need to be taken into account when attempting to determine their value.
+
+Calculations using the dividend discount model are difficult because of the assumptions involved, such as the required rate of return, growth, or length of higher returns.
+
+The dividend payment is usually easy to find, but the difficult part comes when this payment is changing or potentially could change in the future.
+
+Also, finding a proper discount rate can be very difficult, and if this number is off, then it could drastically change the calculated value of the shares.
+
+
+
+Preferred shares have the qualities of stocks and bonds, which makes their valuation a little different than common shares. The owners of preferred shares are part owners of the company in proportion to the held stocks, just like common shareholders. Preferred shares are hybrid securities that combine some of the features of common stock with that of corporate bonds.
+
+Technically, they are equity securities, but they share many characteristics with debt instruments since they pay consistent dividends and have no voting rights.
+Preferred shareholders also have priority over a company\'s income, meaning they are paid dividends before common shareholders and have priority in the event of a bankruptcy.
+As a result, preferred shares must be valued using techniques such as dividend growth models.
+
+Preferred shares differ from common shares in that they have a preferential claim on the assets of the company. That means in the event of a bankruptcy, the preferred shareholders get paid before common shareholders.
+In addition, preferred shareholders receive a fixed payment that\'s similar to a bond issued by the company. The payment is in the form of a quarterly, monthly, or yearly dividend, depending on the company\'s policy, and is the basis of the valuation method for a preferred share. Generally, the dividend is fixed as a percentage of the share price or a dollar amount. This is usually a steady, predictable stream of income.
+
+If preferred stocks have a fixed dividend, then we can calculate the value by discounting each of these payments to the present day. This fixed dividend is not guaranteed in common shares. If you take these payments and calculate the sum of the present values into perpetuity, you will find the value of the stock.
+For example, if ABC Company pays a 25-cent dividend every month and the required rate of return is 6% per year, then the expected value of the stock, using the dividend discount approach, would be $50. The discount rate was divided by 12 to get 0.005, but you could also use the yearly dividend of $3 (0.25 x 12) and divide it by the yearly discount rate of 0.06 to get $50. In other words, you need to discount each dividend payment that\'s issued in the future back to the present, then add each value together.
+
+V=D11+r+D2(1+r)2D3(1+r)3+⋯+Dn(1+r)nwhere:V=The valueD1=The dividend next period
+For example: V=$0.251.005+$0.25(1.005)2+$0.25(1.005)3+⋯+$0.25(1.005)nV=$0.249+$0.248+⋯
+Because every dividend is the same we can reduce this equation down to: V=DrV=$0.250.005
+
+If the dividend has a history of predictable growth, or the company states a constant growth will occur, you need to account for this. The calculation is known as the Gordon Growth Model.
+V=D(r−g)
+
+Although preferred shares offer a dividend, which is usually guaranteed, the payment can be cut if there are not enough earnings to accommodate a distribution; you need to account for this risk.
+The risk increases as the payout ratio (dividend payment compared to earnings) increases.
+Also, if the dividend has a chance of growing, then the value of the shares will be higher than the result of the calculation given above.
+Preferred shares usually lack the voting rights of common shares.
+This might be a valuable feature to individuals who own large amounts of shares, but for the average investor, this voting right does not have much value.
+However, you should still consider it when evaluating the marketability of preferred shares.
+Preferred shares have an implied value similar to a bond, which means it will move inversely with interest rates.
+When the market interest rate rises, then the value of preferred shares will fall.
+This is to account for other investment opportunities and is reflected in the discount rate used.
+Something else to note is whether shares have a call provision, which essentially allows a company to take the shares off the market at a predetermined price.
+<|endoftext|>

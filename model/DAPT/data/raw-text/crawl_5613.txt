@@ -1,0 +1,110 @@
+Source: https://ift.world/booklets/equity-market-organization-and-structure-part6/
+
+The role of a market regulator is to ensure fair trading practices. The objectives of market regulation are to: Prevent fraud. Control agency problems by setting minimum standards of competence for agents. Promote fairness. Set mutually beneficial standards such as IFRS or U.S. GAAP. Prevent undercapitalized firms from exploiting their investors by making excessively risky investments. Ensure that long-term liabilities are funded.
+
+Primary markets are where issuers first sell their securities to investors.
+For example, when a private company goes public, its shares are issued first to the investors in the primary market before it starts trading in the secondary market.
+
+Issuers generally contract with an investment bank to help them sell their securities to the public.
+The investment bank builds the list of subscribers who will buy the security.
+This process is known as book building.
+Investment banks attract investors by providing investment information and opinion about the issuing company.
+In an accelerated book build, issuers may issue securities with the help of an investment bank in only one or two days.
+The two major types of offerings provided by investment banks are the underwritten offering and the best efforts offering.
+
+The investment bank guarantees the amount of shares and the price at which they will be sold (think of it as though the issuer has sold the entire issue to the investment bank, who then sells it to other investors through the book building process).
+This price is called the offering price.
+Assume the investment bank promises to sell 1,000,000 shares at $20 and only 800,000 are sold.
+If the entire issue is not sold, the investment bank buys the remaining securities at the offering price, in this case it buys the remaining 200,000 shares.
+The issuer pays an underwriting fee of about 7% to the bank for these services.
+
+Unlike underwritten offering, in this case the investment bank only serves as a broker to bring investors to the issuer.
+Any securities not sold in an undersubscribed issue will remain as is.
+
+An IPO (Initial Public Offering) is where issuers sell securities to the public for the first time.
+IPO could be oversubscribed or undersubscribed.
+If the offering price is low, more investors will be interested in subscribing than the number of shares issued (oversubscribed).
+Similarly, if the price is high, less number of investors will be interested, leading to the issue being undersubscribed.
+Investment banks have a conflict of interest in their dual role as agents and underwriters in choosing the right offering price.
+As an underwriter, it is in the interests of the investment bank to have the offering price as low as possible.
+But as agents for issuers, the offering price should be right to raise the required amount of money for the issuer.
+
+A seasoned or secondary offering is where an issuer sells additional units of a previously issued security.
+As an example a company might have raised $10 million through an IPO and four years later wants to raise another $15 million through a secondary offering.
+
+A private placement is where corporations sell securities directly to a small group of qualified (sophisticated) investors as opposed to the public.
+Private placement requires relatively low disclosure requirements because qualified investors are aware of the risks involved.
+It is less costly than a public offering.
+
+In a shelf registration, corporations sell seasoned securities directly to the public on a piecemeal basis over time instead of selling it in a single transaction.
+They are sold in secondary markets.
+
+In a rights offering, companies distribute the right to buy new stock at a fixed price to existing shareholders in proportion to their holdings.
+For example, a publicly traded Italian company is raising new capital.
+Its existing shareholders may purchase three shares for €3.07 per share for every 10 shares they hold.
+
+Primary markets are where entities raise money.
+Secondary markets are markets where investors trade (buy/sell) in securities.
+The cost of raising capital in primary markets is lower for corporations and governments whose securities trade in liquid secondary markets.
+In a liquid market, the transaction costs are low to buy/sell a security.
+Since investors value liquidity, they are willing to pay more for liquid securities.
+These high prices result in lower costs of capital for issuers.
+
+Call markets: Trade takes place only at specific times of the day where all the traders are present and all bid-ask quotes are used to arrive at one negotiated price.
+Markets are highly liquid when the market is in session and illiquid when the market isn’t in session.
+Usually used for smaller markets or to determine the opening and closing prices at stock exchanges.
+
+Continuous markets: Trades can occur at any time the market is open where the prices are either quote-driven or auction-driven.
+The example below illustrates how a large order is filled in a continuous trading market.
+Example At the start of the trading day, the limit order book for stock X looks as follows:
+Buyer | Bid Size | Limit Price ($) | Offer Size | Seller
+---|---|---|---|---
+John | 150 | 30 | |
+Joe | 80 | 31 | |
+Jill | 100 | 32 | |
+| | 33 | 40 | Sam
+| | 34 | 60 | Simon
+| | 35 | 120 | Sue
+Tom submits an order to buy 150 shares, limit $34. What is the impact on the limit order book?
+Solution: Tom has placed a marketable limit order. He will buy 40 shares from Sam and 60 shares from Simon as these satisfy the limit price criteria of at or below $34.
+He will not buy from Sue as hers is a limit order of $34. Only 100 shares are filled; 50 remain unfilled.
+Average price = 0.4 x 33 + 0.6 x 34 = 33.6
+In the limit order book, Tom is a buyer with bid size of 50 at a price of $34.
+Sam and Simon’s orders are removed from the limit order book as they are filled.
+It looks like this:
+Buyer | Bid Size | Limit Price (in $) | Offer Size | Seller
+---|---|---|---|---
+John | 150 | 30 | |
+Joe | 80 | 31 | |
+Jill | 100 | 32 | |
+Tom | 50 | 34 | |
+| | 33 | 40 | Sam
+| | 34 | 60 | Simon
+| | 35 | 120 | Sue
+
+Quote-Driven Markets: Trade takes place at the price quoted by dealers who maintain an inventory of the security.
+Dealers provide liquidity in these markets and gain from the difference in bid-ask spread (high in opaque market).
+They are also called over-the-counter markets, price-driven, or dealer markets.
+
+Order-Driven Markets: Trading rules match buyers to sellers, thus making them supply liquidity to each other.
+Trading rules uses two sets of rules:
+Order matching rules: This establishes the order precedence based on price, their arrival time, and other factors.
+Trade pricing rules: This determines the price of the transaction.
+
+Brokered Markets: Brokers arrange trades between counterparties.
+Used for instruments that are unique or illiquid, like real estate or art pieces.
+
+Market Information Systems: The two categories of the securities market based on when the information is disclosed are as follows:
+Pre-trade transparent: Here trade information on quotes and orders is publically available prior to the trades.
+Post-trade transparent: Here trade information on quotes and orders is publically available after the trade.
+
+Why do we need a well-functioning financial system?
+So that investors can save (move money from the present to the future) and obtain a fair rate of return.
+Borrowers can borrow money easily (move money from the future to the present).
+Hedgers can offset their risks.
+Traders can trade currencies for commodities.
+Four characteristics of a well-functioning financial system include:
+Well-developed markets trade instruments that help people solve their financial problems.
+Liquid markets with low cost of trading (operationally efficient markets) where commissions, bid-ask spreads and order price impacts are low.
+Timely and accurate
+<|endoftext|>

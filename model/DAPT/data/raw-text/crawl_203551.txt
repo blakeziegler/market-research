@@ -1,0 +1,78 @@
+Source: https://www.valuationresearch.com/insights/unlocking-the-potential-of-arr-a-guide-for-private-lenders/
+
+The credit agreement and based on either a specific amount of time that has passed or when a specific performance metric is achieved after issuance. While the difference between pre- and post-conversion covenant or coupon spread levels can vary (i.e., case-by-case or absent altogether), this type of covenant or pricing mechanism is a common feature in ARR deals. Additionally, conversion levels and pricing grid spreads can be adjusted to be more or less stringent, altering the underlying credit risk of the deal and aligning with the lender’s risk appetite. Additional considerations include but are not limited to liquidity profile, covenants, customer concentration, total addressable market (TAM), and LTV ratios. These factors can significantly impact the overall risk profile of an ARR deal, and underwriters must carefully evaluate them to ensure the loan is appropriately structured and priced to mitigate potential risks.
+
+One of the primary challenges with ARR is that it is not a Generally Accepted Accounting Principles (GAAP) measure. This lack of standardization means that different companies may interpret and calculate ARR differently, making cross-company comparisons difficult. For example, one-time fees, promotional subscription prices, revenue from trial periods, ad-hoc charges, and sign-up fees are typically excluded from the calculation. However, the inclusion or exclusion of these items can vary, leading to subjective “wiggle room” in the calculation, which underwriters need to be wary of. Contracts often do not align with the calendar year, have terms exceeding 12 months, and may involve different payments over the term, adding complexity to the ARR calculation. A 20-month contract would need to be normalized to a 12-month period, which can introduce discrepancies depending on the company’s approach. Payments of contracts may also be front- or back-end loaded, introducing incremental subjectivity to the ARR calculation. Each firm may have its own method for handling these nuances, leading to variations in how ARR is reported and, therefore, should be interpreted. Private creditors must conduct thorough diligence on a company’s financial statements and internal reporting to fully understand a company’s ARR and its consistency with industry standards.
+
+In summary, ARR has emerged as a cornerstone metric in private credit as it provides a unique metric for lenders to assess a company’s credit risk profile. ARR-based lending structures offer flexible financing options that can help early-stage, high-growth companies scale and also provide lenders a pathway to attractive returns while balancing risk and reward for both parties. However, as with any lending metrics, diligence in the quality of reporting is a necessity. As the number of technology applications and companies continues to expand, ARR deals will likely continue to increase their share of private credit markets, presenting both opportunities and challenges for borrowers and lenders alike.
+
+At VRC, our portfolio valuation practice group has extensive experience valuing thousands of private investments, including structured products and complex securities. Our team of experts can provide detailed and supportable valuations necessary to navigate the complexities of ARR deals, ensuring that your financial decisions are well-informed.
+
+Since gaining popularity in the alternative investments space more than twenty years ago, private credit has continued to increase its market share of assets under management (AUM) compared to other alternative investments.
+Current estimates of AUM in U.S. private credit strategies are approximately $1.5 trillion.
+This growth can be attributed to the perceived favorable risk-adjusted returns and diversification benefits of private lending strategies.
+However, increased portfolio allocation to private lending strategies comes at a cost to existing private lenders.
+As capital continues to flow in, competition and crowding result in more competitive borrowing rates, thus creating a more challenging environment for private lenders to achieve favorable risk-adjusted returns.
+As such, private lenders have continuously adopted new strategies and developed innovative approaches to private credit investments in pursuit of alpha.
+
+In pursuit of new lending opportunities, private creditors have increasingly provided capital to earlier-stage growth companies.
+As part of the evolving landscape, Annual Recurring Revenue (ARR) has emerged as a cornerstone metric for evaluating the performance and risk profile of subscription-based growth companies.
+These companies often operate in high-growth industries under a Software as a Service (SaaS) business model, and they can also extend to other subscription-based service offerings, such as media and entertainment, telecommunications, security systems, and utilities.
+Given the nature of long implementation times and frequent new customer (or logo) wins for subscription-based growth companies, ARR is used to reflect the full-year impact of recent bookings, upsells, downsells, and churn, presenting the latest forward-looking top-line view.
+This contrasts with the latest trailing-twelve-month revenue (TTM) metric, which has been historically implemented and only captures the recognized revenue over a historical twelve-month period.
+
+ARR can be a subjective calculation, as discussed later in this article; however, the calculation essentially boils down to:
+1. The total amount of yearly subscription revenue (existing subscription revenue),
+2. Plus, the annualized subscription revenue gained from new customers (new subscriptions),
+3. And expansion with existing customers (upsells),
+4. Less annualized subscription revenue lost from contraction (downsells),
+5. And canceled subscriptions (churn).
+
+The formula for ARR is:
+Annualized Existing Subscription Revenue + Annualized New Subscriptions + Annualized Upsells – Annualized Downsells – Annualized Churn
+
+EBITDA may not be positive now, as the company realizes contractual revenue and the operating cost structure normalizes (typically via sales and marketing, general operating costs, and payroll costs tapering off on a common-sized basis), the improvement in operating leverage will allow incremental earnings to flow to the bottom line, thus, the company will become a stable cash-flowing entity.
+This means that low or negative operating cash flow in the near term may not be indicative of the prospective borrower’s credit risk profile.
+While future cash flow expectations are a critical component of any underwriting process, ARR deals tend to have several unique characteristics that allow lenders to gain comfort in the borrower’s riskier profile while still generating attractive risk-adjusted returns.
+A few examples of these characteristics include, but are not limited to, PIK toggle options or pari passu delayed draw facilities that can be used to service the interest on the term debt.
+
+ARR provides insight into the risk profile of the business, allowing lenders to become more comfortable lending to a business with negative cash flow that demonstrates high recurring revenue and a manageable cost structure.
+Underwriters consider both quantitative and qualitative factors when evaluating ARR deals, including: ARR Leverage Ratio.
+As discussed previously, early-stage companies may not be cash flow positive but exhibit an ARR risk profile that is less risky than what traditional EBITDA-based credit statistics may suggest (e.g., xEBITDA leverage, cash flow coverage metrics, and interest coverage ratios).
+Therefore, a leverage ratio expressed based on ARR, or “xARR leverage,” may provide lenders with a more accurate interpretation of the company’s risk profile.
+ARR leverage is typically more restricted compared to traditional small or middle-market loans underwritten for stable, cash-flowing businesses, as lenders require additional risk compensation for the uncertainty of realizing top-line future revenue streams via contractual revenue, which is reflected in the bottom line.
+Additionally, ARR leverage may be more restrictive compared to traditional loans, as ARR credits typically represent loans to businesses in more volatile sectors (i.e., early-stage SaaS companies).
+The restriction of xARR leverage levels compared to traditional xEBITDA leverage metrics indicates the additional risks that ARR loans present.
+Thus, a greater amount of equity cushion is required behind the debt.
+ARR deals often garnish maximum leverage limits of approximately 2.0x to 2.5x ARR and loan-to-value ratios (LTV) of around 25% to 35%.
+
+Key Performance Indicators (KPIs).
+Churn rate and logo retention are key metrics in evaluating the quality of a company’s ARR.
+A high churn rate (calculated as the number of customers lost over a given period over the total number of customers at the beginning of the period) versus industry standards can signal the company may be providing a poor quality product, poor customer service, or may reflect non-durability in the company’s product mix, as end customers cut costs and cancel subscriptions.
+Industry participants typically examine retention metrics on both a gross and net retention rate basis, providing additional insight into the overall quality of a company’s annual recurring revenue.
+All of these metrics provide insight into the risk of realizing growth expectations and future operating cash flows, which is ultimately a private lender’s primary concern, whether the deal involves an ARR or not.
+
+Growth Expectations.
+The Rule of 40 is a widely used benchmark in the SaaS industry, indicating that the sum of a company’s revenue growth rate and EBITDA margin should be at least 40%.
+This Rule helps underwriters assess whether a company is efficiently growing and in the process of realizing a normalized operating cost structure.
+For example, a company with 20% revenue growth and 20% EBITDA margins, as well as a company with 50% revenue growth and a -10% EBITDA margin, both meet the Rule of 40.
+Thus, a company with lower EBITDA margins would need to compensate investors with higher growth expectations to satisfy the Rule.
+Industry participants may also use a “Weighted Rule of 40” approach to tailor the Rule to their personal preferences and risk tolerance (e.g., [1.33 * revenue] + [0.66 * EBITDA margin] if revenue growth is more important to the investor.
+Despite the potential downsides of this benchmark, there have been generally positive correlations between the Rule of 40 scores and Enterprise Value/ARR multiples used to value a company.
+
+Cost Management.
+Underwriters evaluate the company’s customer acquisition costs (CAC) in addition to the overall cost structure.
+Efficient cost management and the ability for future revenue streams to flow to the bottom line is key.
+For example, a company with a variable cost structure may be more attractive to a lender primarily concerned with capital return, as costs can be reduced concurrently if growth is not realized.
+On the other hand, equity holders may prefer a fixed cost structure that provides more substantial upside potential via operating leverage as the company scales.
+Industry participants often view CAC relative to a contract’s lifetime value, which is an important KPI for SaaS companies (calculated as lifetime value over CAC).
+This ratio provides insight into a company’s profitability and sustainability and is typically viewed on a rule-of-thumb benchmark of 3 to 1.
+A ratio above the benchmark indicates efficient customer acquisition costs, while a ratio below may be unsustainable over the long term or signal operational inefficiencies.
+Additionally, a weaker ratio may amplify future problems of customer churn, given that replacing lost customers can become incrementally, or even exponentially, more expensive.
+
+Other Considerations.
+Underwriters also consider several other qualitative metrics that impact the risk of an ARR deal, including, but not limited to, the consideration of EBITDA-based leverage covenants and pricing grid levels.
+Leverage ratio covenants and pricing grid test metrics typically transition from xARR to xEBITDA at a future date, as the company is expected to achieve operating cash flow growth.
+This “switch” is commonly referred to as a “conversion,” which can be optional (i.e., at any time during the loan’s life, upon the borrower’s election) or mandatory, as prescribed by the lender.
+The latter will typically be explicitly defined in terms of
+<|endoftext|>

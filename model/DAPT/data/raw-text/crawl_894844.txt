@@ -1,0 +1,67 @@
+Source: https://ift.world/booklets/fra-inventories-part3/
+
+
+An inventory write-down reduces both profit and carrying amount of inventory on the balance sheet, which in turn, affects the ratios.
+The following table shows the effect of inventory write-downs on various financial ratios:
+Ratio | Effect | Reason
+---|---|---
+Liquidity ratios
+Current ratio | Lower | Current assets decrease due to lower inventory.
+Activity ratios
+Inventory turnover | Higher | COGS increases assuming inventory write-downs are reported as part of cost of sales. Average inventory decreases. Lower inventory carrying amounts make it appear as if the company is managing its inventory effectively, but write-downs reflect poor inventory management.
+Days of inventory on hand | Lower | Inventory turnover is higher.
+Profitability ratios
+Net profit margin | Lower | Cost of sales is higher. Sales stay the same.
+Gross profit margin | Lower | Cost of sales is higher. Sales stay the same.
+Companies that use weighted average, specific identification and FIFO are more likely to have inventory write-downs than companies using the LIFO method.
+
+Evaluation of Inventory Management: Disclosures & Ratios
+The efficiency and effectiveness of inventory management can be evaluated using the following ratios:
+* Inventory Turnover
+* Days of Inventory on hand
+* Gross Profit Margin
+An analyst must understand that the choice of inventory valuation method can impact several financial ratios and make comparisons between two firms difficult. He needs to be particularly careful when comparing an IFRS and US GAAP firm.
+
+Presentation and Disclosure
+IFRS requires the following financial statement disclosures concerning inventory:
+* The accounting policies used to measure inventory, including the cost formula.
+* The total carrying amount of inventories and the carrying amount in classification (for example, merchandise, raw materials, production supplies, work in progress, and finished goods appropriate to entity).
+* The carrying amount of inventories carried at fair value less costs to sell.
+* The amount of inventories recognized as an expense in the period (cost of sales).
+* The amount of any reversal of any write-down recognized as a reduction in cost of sales in the period.
+* What led to the reversal of a write-down in the inventories?
+* Carrying amount of inventories pledged as a security for liabilities.
+Disclosures under U.S. GAAP are similar to IFRS except that it does not permit reversal of write down of inventories. In addition, any income from liquidation of LIFO inventory must be disclosed.
+
+Inventory Ratios
+The choice of inventory valuation method impacts various components of the financial statements such as cost of goods sold, net income, current assets and total assets. As a result, it affects the financial ratios containing these items. Analysts must consider the differences in valuation methods when evaluating a company’s performance over time or in comparison to other companies.
+The table below summarizes the impact of valuation method on inventory-related ratios in an inflationary environment:
+Ratio | Numerator | Denominator | Impact on ratio
+---|---|---|---
+Inventory turnover | Cost of goods sold is higher under LIFO. | Average inventory is lower under LIFO. | Higher under LIFO.
+Days of inventory | No. of days are the same. | Higher under LIFO. | Lower under LIFO.
+Total asset turnover | Revenue is the same. | Lower average total assets under LIFO. | Higher under LIFO.
+Current ratio | Ending inventory is lower under LIFO so current assets are lower. | Current liabilities are the same. | Lower under LIFO.
+Cash ratio | Cash is higher under LIFO because taxes are lower. | Current liabilities are the same. | Higher under LIFO.
+Gross profit margin | Gross profit is lower under LIFO as COGS is higher. | Revenue is the same. | Lower under LIFO.
+Return on assets | Net income is lower under LIFO as COGS is higher. | Lower average total assets under LIFO. | Lower under LIFO.
+Debt to equity | Debt is the same. | Lower equity under LIFO. Equity = assets – liabilities. Total assets under LIFO are lower as ending inventory is lower. | Higher under LIFO.
+The ratios that are important in evaluating a company’s management of inventory are inventory turnover, number of days of inventory, and gross profit margin. A high inventory turnover implies that a company is utilizing inventory efficiently.
+
+Illustrations of Inventory Analysis
+Retailers normally report inventory in a single account. Whereas, manufacturing companies usually classify inventory into three separate accounts: raw materials, work in progress, and finished goods. These classifications can provide insights into a company’s future sales and profits.
+For example, a significant increase in the raw materials or work in progress inventory may be considered as a sign of increased demand, and higher future sales and profits. On the other hand, a significant increase in the finished goods inventory may be considered as a sign of slowing demand, and lower future sales and profits.
+Analysts should also compare the growth rate of finished good inventory to the growth rate of sales. For example, if growth of inventories is greater than the growth of sales, this could indicate slowing demand.
+
+Companies occasionally change their inventory valuation method. The change is acceptable if it results in the financial statements providing reliable and more relevant information. If the change is justified, then it must be applied retrospectively. Analysts must carefully analyze why a company is actually changing the inventory valuation method. Often, the company might be trying to reduce taxes or increase reported net income.
+
+Holding inventory for a prolonged period results in the risk of spoilage, obsolescence or decline in prices, and the cost of inventory may not be recoverable in such circumstances. We define some terms first before looking at the differences in how inventory is measured under IFRS and GAAP.
+Net realizable value : Estimated selling price under ordinary business conditions minus estimated costs necessary to get the inventory in condition for sale. NRV is from a seller’s perspective. Net realizable value = estimated sales price – estimated selling costs
+Market value: Current replacement cost subject to lower or upper limits. Market value has upper limit of net realizable value and lower limit of NRV less a normal profit margin. Market value is from a buyer’s perspective. Market value limits = (NRV – normal profit margin, NRV)
+
+Inventory measurement under IFRS and US GAAP
+IFRS | US GAAP
+Lower of cost or net realizable value. | Lower of cost or market value.
+If NRV is less than the balance sheet cost, the inventory is “written down” to NRV. The loss in value is reflected in the income statement in cost of goods sold. Inventory write-down has a negative effect on profitability, liquidity and solvency ratios and positive effect on activity ratios. | If cost exceeds market, inventory is written down to market value on balance sheet and the loss is recognized.
+If value recovers subsequently, inventory can be written up and gain is recognized in income statement. The amount of gain is limited to loss previously recognized. | If value recovers subsequently, no write up is allowed. There is no reversal of write-downs. This may motivate companies not to record inventory-write-downs unless the decline is permanent as
+<|endoftext|>

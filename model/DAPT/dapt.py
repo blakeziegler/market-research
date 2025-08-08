@@ -4,6 +4,8 @@ from transformers import (
     Trainer,
     TrainingArguments,
     DataCollatorForLanguageModeling,
+    Seq2SeqTrainer,
+    Seq2SeqTrainingArguments
 )
 from datasets import load_dataset
 from peft import LoraConfig, get_peft_model
@@ -74,7 +76,7 @@ def check_token_types(dataset, num_batches=5):
 
 check_token_types(tokenized_dataset)
 
-split_dataset = tokenized_dataset.train_test_split(test_size=0.05, seed=42)
+split_dataset = tokenized_dataset.train_test_split(test_size=0.1, seed=888)
 train_dataset = split_dataset["train"]
 eval_dataset = split_dataset["test"]
 
@@ -83,19 +85,20 @@ training_args = TrainingArguments(
     output_dir=output_dir,
     per_device_train_batch_size=1,
     gradient_accumulation_steps=16,
+    gradient_checkpointing=True,
     num_train_epochs=1,
     learning_rate=1e-5,
     fp16=True,
     eval_strategy="steps",
-    eval_delay=500,
+    eval_delay=1000,
     save_strategy="steps",
-    eval_steps=500,
+    eval_steps=200,
     optim="adamw_torch",
     weight_decay=0.01,
     lr_scheduler_type="linear",
     warmup_ratio=0.1,
     metric_for_best_model="eval_loss",
-    save_steps=500,
+    save_steps=200,
     logging_steps=10,
     save_total_limit=2,
     load_best_model_at_end=True,
@@ -119,6 +122,6 @@ trainer = Trainer(
     eval_dataset=eval_dataset,
     tokenizer=tokenizer,
     data_collator=data_collator,
-    callbacks=[EarlyStoppingCallback(early_stopping_patience=2)],
+    callbacks=[EarlyStoppingCallback(early_stopping_patience=3)],
 )
 trainer.train()

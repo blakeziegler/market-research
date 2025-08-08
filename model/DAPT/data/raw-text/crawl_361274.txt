@@ -1,0 +1,34 @@
+Source: https://ift.world/booklets/economics-the-firm-and-market-structures-part5/
+
+20%, 10% and 20%. The HHI is 0.52 + 0.22 + 0.12 + 0.22 = 0.34.
+Advantage: Simple and commonly used by regulators.
+Disadvantage: Does not consider barriers to entry.
+Does not consider elasticity of demand.
+
+Identification of Market Structure
+Analysts are interested in investing in markets with high pricing-power as it drives profitability. If there are very few large firms in an industry, then the price tends to be high and the quantity supplied low. When there is a possible merger, analysts should consider the impact of competition law (anti-trust law) as regulators might prevent the merger to keep the industry competitive. In many countries, competition law has been introduced to regulate the degree of market competition in different industries of different countries.
+
+Econometric Approaches
+Econometric approaches can be used for measuring market concentration or market power. Some key points in this context are as follows:
+Use regression analysis to estimate elasticity of demand and supply.
+If demand is inelastic, then it indicates companies may have market power.
+The disadvantage is that though it is theoretically appealing, but data is not easily available.
+
+Simpler Measures
+Simpler approaches to estimate elasticity that avoid the drawbacks in regression analysis include the N-firm concentration ratio and Herfindahl-Hirshman Index (HHI).
+
+N-Firm Concentration Ratio and HHI
+N-Firm concentration ratio: It is the sum of the market shares of the largest N firms. It is almost zero for perfect competition and 100 for monopoly. For example, in an industry, assume the five largest firms in the industry have a market share of 25%, 15%, 10%, 10% and 10%. The 5-firm concentration ratio would be 70%.
+Advantages:
+Data is easily available.
+Simple to use and understand.
+Disadvantages:
+Unaffected by mergers among top firms. Assume the top two firms by market share merge and the market shares of five largest firms are 40%, 10%, 10%, 10% and 2% now. The 5-firm concentration ratio would be 72% instead of 70%, which is not very different from what it was earlier. But the largest firm has a high market share of 40%, which is not evident in the concentration ratio number.
+Does not quantify market power.
+Does not consider barriers to entry.
+Does not consider elasticity of demand.
+
+Herfindahl-Hirschman Index (HHI)
+Sum of squared market shares of N largest firms in a market (ranges from 0 to 1). A number close to 1 indicates it is concentrated or monopolistic.
+For example, assume the market shares of four firms are 50%,
+<|endoftext|>

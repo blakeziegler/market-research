@@ -1,0 +1,81 @@
+Source: https://beyondspx.com/article/exelon-powering-growth-through-grid-investment-and-data-center-demand-nasdaq-exc
+
+Regulatory successes have de-risked a substantial portion of this plan, enhancing earnings visibility.
+While challenges related to regulatory policy, environmental liabilities, and customer affordability persist, Exelon's commitment to operational excellence, financial discipline, and technological advancement in grid infrastructure positions it to navigate these complexities.
+The company's ability to deliver reliable, affordable service while facilitating the transition to a cleaner, more electrified future forms the core of its investment thesis, offering investors exposure to stable growth underpinned by essential infrastructure and secular industry trends.
+
+Exelon Corporation is a pure-play transmission and distribution utility poised to benefit from significant secular trends in electrification and data center growth across its diverse service territories.
+The company has outlined a robust $38 billion capital investment plan through 2028, driving projected annualized rate base growth of 7.4% and underpinning its 5% to 7% operating earnings growth guidance through the same period.
+Recent regulatory successes, including multi-year plan approvals in Illinois (ComEd) and the District of Columbia (Pepco DC) and rate case settlements in Pennsylvania (PECO), provide significant earnings visibility and support for planned investments.
+Exelon is actively engaged in modernizing its grid infrastructure with advanced technologies to enhance reliability, integrate clean energy resources, and accommodate rapidly growing high-density loads like data centers, which represent a substantial pipeline of future opportunity.
+Despite facing challenges such as severe weather impacts, rising energy supply costs, and ongoing regulatory/tax matters, the company maintains a strong balance sheet and remains focused on operational excellence and customer affordability.
+
+Exelon Corporation stands as the nation's largest utility by customer count, a pure-play transmission and distribution (T&D) company serving over 10.7 million customers across six operating companies in Illinois, Pennsylvania, Maryland, the District of Columbia, Delaware, and New Jersey.
+Its history is deeply rooted in the foundational energy providers of major metropolitan areas, tracing back to the nation's first gas company in Baltimore (BGE, 1816) and early electric pioneers in Chicago (ComEd) and Philadelphia (PECO) in 1881.
+The strategic separation of its generation business in 2022 sharpened Exelon's focus on the regulated utility business, positioning it squarely at the intersection of critical energy trends: electrification, decarbonization, and the burgeoning demand for reliable power from new, energy-intensive industries.
+
+Exelon's core business model is centered on earning a regulated return on its invested capital in T&D infrastructure.
+This model provides a degree of earnings stability, but growth is contingent upon securing timely and supportive regulatory approvals for necessary investments and rate adjustments.
+The company's strategy is built on several pillars: executing a large-scale capital plan, maintaining operational excellence, engaging proactively in regulatory processes, upholding financial discipline, and prioritizing customer affordability.
+Central to Exelon's strategy is its commitment to modernizing the grid through technological advancements.
+While not a developer of generation technology, Exelon is a leader in deploying advanced grid technologies to enhance performance and meet evolving customer needs.
+Key initiatives include the rollout of Advanced Metering Infrastructure (AMI) and the implementation of smart grid technologies aimed at improving reliability and enabling distributed energy resources (DERs).
+
+Specific projects highlight this focus: The Vienna to Nelson transmission line rebuild at Delmarva Power exemplifies this modernization.
+This 14-mile, 138 kV line is being upgraded to 230 kV standards, replacing over 100 sixty-year-old wooden structures with more resilient steel poles capable of withstanding winds over 110 mph.
+The project is constructed above flood zones and includes an underground lead-in, significantly enhancing system resilience.
+Quantifiably, this project is on track for completion nearly two years ahead of schedule (December 2024) and will enable the retirement of the 410 MW Indian River 4 coal unit, saving customers approximately $100 million over two years – a figure exceeding 1.5 times the project's installed cost.
+This demonstrates how strategic grid investment can directly translate into customer savings and support decarbonization goals.
+
+Further technological initiatives include ComEd's Beneficial Electrification Plan 2, an approved $168 million investment over three years starting in 2026 to advance EV adoption, and ComEd's Voltage Optimization program, which saved customers approximately 100,000 MWh in 2024, equivalent to avoiding over 33,000 metric tons of CO2.
+Exelon utilities have also secured $330 million in total direct funding under the DOE's grid resilience and innovation partnership program, supporting further technological deployment.
+The "so what" for investors is clear: these technological investments are not merely operational upgrades; they are fundamental drivers of the investment thesis.
+They enhance the reliability and resilience of the grid, which is increasingly critical for all customers and particularly for high-density loads like data centers.
+They enable the integration of renewable energy and support electrification, aligning with state policy goals and creating opportunities for rate base growth.
+By improving efficiency (e.g., voltage optimization) and enabling cost savings (e.g., Vienna to Nelson project), they support customer affordability, which is crucial for maintaining constructive regulatory relationships and securing future investment recovery.
+These technological capabilities form a key part of Exelon's competitive moat, allowing it to attract and serve new load effectively.
+
+Exelon's recent financial performance reflects the impact of rate increases and ongoing investments.
+For the three months ended March 31, 2025, Exelon reported operating revenues of $6.71 billion, up from $6.04 billion in the prior-year period.
+Net income attributable to common shareholders increased significantly to $908 million, compared to $658 million in Q1 2024, resulting in diluted earnings per share of $0.90, up from $0.66.
+Adjusted operating earnings for Q1 2025 were $0.92 per share, compared to $0.68 in Q1 2024.
+These results were primarily driven by the favorable impacts of new distribution and transmission rates across its jurisdictions, timing of distribution earnings at ComEd, and favorable weather at PECO, partially offset by higher interest expense.
+
+For the full year 2024, Exelon delivered GAAP earnings of $2.45 per share and adjusted operating earnings of $2.50 per share, meeting the midpoint or better of its guidance for the third consecutive year as a pure T&D company.
+Profitability metrics for the trailing twelve months show a Gross Profit Margin of 37.94%, Operating Profit Margin of 19.97%, Net Profit Margin of 11.43%, and EBITDA Margin of 36.30%.
+
+While operating cash flow remains strong ($1.20 billion in Q1 2025, $5.57 billion TTM), free cash flow is negative (-$746 million Q1 2025, -$1.49 per share TTM), reflecting the significant capital expenditures currently underway.
+
+The company's liquidity position is supported by internally generated cash flows, access to capital markets, and $4 billion in aggregate credit facilities.
+As of March 31, 2025, $3.4 billion was available under these facilities.
+Exelon maintains a strong balance sheet, targeting a cushion of 100 to 200 basis points above credit rating downgrade thresholds, with metrics anticipated to approach 14% by the end of the forecast period.
+This commitment was underscored by S&P's upgrade of Exelon Corporation's credit rating to BBB+ in January 2025.
+
+The company is executing a balanced funding strategy for its capital plan, expecting to fund 40% of incremental capital with equity, totaling approximately $700 million annually over the 2025-2028 period.
+In Q1 2025, Exelon issued $2 billion in corporate debt and its utilities issued $425 million in long-term debt, completing its planned long-term debt financing needs for the year.
+
+Recent regulatory outcomes provide a solid foundation for Exelon's investment thesis.
+The Illinois Commerce Commission (ICC) approved ComEd's multi-year rate plan and grid plan adjustments in December 2024, providing approximately $1 billion in cumulative revenue increases from 2024 through 2027.
+In Pennsylvania, the Public Utility Commission (PAPUC) approved settlements in PECO's electric and gas rate cases in December 2024, allowing for a $354 million electric revenue increase (excluding a one-time credit) and a $78 million gas increase in 2025.
+The DC Public Service Commission (DCPSC) approved Pepco DC's multi-year plan in November 2024, providing $123.4 million in incremental revenue and a 9.5% ROE through 2026.
+These outcomes, covering approximately 90% of Exelon's rate base through 2026 or 2027, provide significant earnings visibility and support for the planned capital expenditures.
+
+Exelon operates in a competitive landscape dominated by large, investor-owned utilities like Duke Energy, Southern Company, NextEra Energy, Dominion Energy, and American Electric Power.
+Exelon's primary competitive advantages stem from its sheer scale (largest customer count) and its extensive, strategically located T&D infrastructure in major economic hubs.
+This allows it to capitalize on significant load growth opportunities, particularly from data centers.
+While competitors like NextEra Energy may lead in renewable generation development and some peers might exhibit slightly higher profitability margins or lower debt-to-equity ratios, Exelon's focus on regulated T&D provides a stable earnings base.
+Its operational performance, consistently ranking in the top quartile or decile for reliability and safety, positions it favorably against peers and supports its value proposition of delivering above-average performance at below-average rates (19% to 21% below US averages).
+
+Despite its strengths, Exelon faces notable risks.
+Regulatory outcomes, while recently favorable, can be unpredictable, particularly concerning the Maryland MYP lessons learned process and the treatment of tax benefits like Net Operating Loss Carryforwards (NOLCs) for ratemaking purposes, which could impact regulatory liabilities by $1.2 billion to $1.7 billion for most utilities.
+Environmental remediation liabilities, particularly for former Manufactured Gas Plant (MGP) sites and specific locations like Benning Road and Anacostia River, represent ongoing costs and potential future exposures.
+Severe weather events continue to pose operational and financial challenges, requiring significant storm restoration costs.
+Rising energy supply costs, exacerbated by market dynamics like the PJM capacity auction results, create affordability pressures for customers, necessitating proactive management and policy advocacy.
+
+The outlook for Exelon is anchored by its substantial capital investment plan and the anticipated benefits from grid modernization and load growth.
+The company is conducting advanced studies on an additional 16 gigawatts of high-density load beyond its current 17-gigawatt pipeline, signaling significant future investment potential.
+Opportunities like MISO Tranche 2.1 could add over $1 billion in transmission spend at ComEd.
+Management has initiated 2025 operating earnings guidance of $2.64 to $2.74 per share and reaffirmed its long-term target of 5% to 7% annualized operating earnings growth through 2028, with the goal of achieving the midpoint or better.
+The dividend is projected to grow at the lower end of this range, with a 2025 dividend of $1.60 per share (5.2% growth), maintaining a ~60% payout ratio.
+This growth trajectory is supported by the visibility provided by recent regulatory approvals and the strategic focus on high-return T&D investments.
+<|endoftext|>

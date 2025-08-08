@@ -1,0 +1,107 @@
+Source: https://ift.world/booklets/equity-introduction-to-industry-and-company-analysis-part2/
+
+
+Starting a restaurant as it requires a modest amount of capital and culinary skills.
+If the barriers to entry are low then the industry is likely to be highly competitive and pricing power will be low.
+Conversely, if the barriers to entry are high, then it discourages new entrants from entering the industry.
+The industry is likely to be less competitive and the pricing power will be high.
+Do not confuse barriers to entry with barriers to success.
+Entering some industries may be easy but becoming successful enough to threaten existing players may be quite difficult.
+Also, high barriers to entry does not automatically lead to good pricing power.
+For example, auto manufacturing, commercial aircraft manufacturing, and oil refining industries have significant barriers to entry.
+But these industries are still very competitive with limited pricing power.
+
+In concentrated industries, each player generally has high pricing power because the fortunes of the company are tied with the industry and they have more to gain by keeping prices high even though cutting prices might increase market share.
+In segmented industries, each player generally has low pricing power because companies gain more by undercutting competition in an effort to increase market share.
+However, there are exceptions to this rule.
+Do not automatically assume that high concentration leads to high pricing power, or that fragmented industries have weak pricing power.
+While industry fragmentation is a good indicator of a competitive industry with limited pricing power, there are a few fragmented industries with strong pricing power (the bottom left quadrant in the table below).
+
+Two Factor Analysis of Industries: Concentration & Pricing Power
+Strong Pricing Power
+Weak Pricing Power
+Concentrated
+Relatively low capital requirements.Differentiated products. Less number of players. Less price competition Ex: Soft drinks (Coke, Pepsi). US Defense. US Railroads. Alcoholic beverage industry.
+Generally capital intensive and sell commodity like products.Fierce competition between them. Relative market share matters more than absolute market share. Little or no differentiation in products. Ex: Commercial aircraft (Boeing, Airbus). Integrated oil companies (Exxon, Mobil, BP).
+Fragmented
+If one or two players are larger than the others, they compete with small players and not among themselves.Highly price-competitive. Each player has a smaller absolute market share. Ex: Asset Management Companies (Fidelity). If the customers are not price sensitive, then the players have high pricing power. Home Improvement (Home Depot– 11% and Lowe’s – 7% market share).
+Ex: Consumer packaged goods (Procter & Gamble, Unilever)Airlines. Retail. Homebuilding. Restaurants.
+
+Tight or limited capacity results in high pricing power as demand exceeds supply.
+Overcapacity leads to price cuts and a very competitive environment.
+When evaluating the impact of industry capacity on pricing, the following points should be considered:
+Current capacity as well as future capacity levels must be evaluated.
+Such an analysis might reveal the capacity crunch is temporary.
+It is quicker to shift financial and human capital to new uses but tough to shift capital invested in physical assets.
+Physical capital takes a relatively long time to establish.
+Capacity is fixed in the short term, and variable in the long term – new factories may be built to add capacity.
+
+Stable market share implies less competitive industries.
+Unstable market share implies highly competitive industries and limited pricing power.
+Factors that impact market share stability include: barriers to entry, switching costs, new product introductions, complexity of products, and pace of innovation.
+If barriers to entry are high, switching costs are high and new product introductions are low, then the market share stability will be high.
+If barriers to entry are low, switching costs are low and new product introductions are high, and the market share stability will be low.
+
+If price is a major factor in customer buying decisions, then competition will be high.
+Ex: commercial aircraft industry.
+Price is a major factor in an airline’s purchase decision.
+This weakens pricing power for Boeing and Airbus.
+
+There are five stages in the life cycle of any industry: embryonic, growth, shakeout, mature, and decline.
+Embryonic
+Slow growth, high prices.
+Product still not positioned in the market; buyers unaware; distribution channels to be developed.
+High investment and high risk of failure.
+Low volumes; no economies of scale.
+Growth
+Rapidly increasing demand; new customers.
+Falling prices as economies of scale are achieved.
+Low barriers to entry; threat of new entrants.
+Low competition leads to increased market share and profitability.
+Shakeout
+Slowing growth, intense competition, and declining profitability.
+Market is saturated; no new customers.
+Investment to add capacity leads to overcapacity.
+To boost demand, prices are cut which decreases profitability.
+Focus is on reducing costs and building brand loyalty.
+Ex: deregulation of telecom companies in the 1990s.
+Mature
+High barriers to entry; consolidation takes places resulting in oligopolies.
+Little or no growth.
+Market is saturated; it is a stable competitive environment.
+Companies with superior products gain market share.
+Decline
+Growth is negative.
+Excess capacity leads to price cuts resulting in price wars.
+Competition increases.
+Weaker companies exit.
+The life-cycle model is a well-defined framework to understand any industry’s evolution.
+But it is not a cookie-cutter model that all industries adhere to.
+There are external factors which significantly affect how an industry evolves causing some stages to be shorter or longer than expected.
+These are technological, social, regulatory, and demographic changes which we will see in detail in the next section.
+
+Describing and Analyzing an Industry and Principles of Strategic Analysis
+Investment managers and analysts examine industry performance in relation to other industries (cross-sectional analysis) and over time (time-series analysis).
+The objective of industry analysis is to identify industries that offer the highest potential risk-adjusted returns, i.e., industries that generate high return on invested capital relative to the weighted average cost of capital.
+In this context, it is important to recognize that not all industries perform well at any point in an economic cycle.
+Economic fundamentals and, hence, economic profits can vary substantially across industries.
+
+Principles of Strategic Analysis
+Strategic analysis refers to the process of researching a company’s competitive environment to formulate a corporate strategy.
+A commonly used framework for strategic analysis is Michael Porter’s ‘five forces’ framework.
+
+Porter’s Five Forces
+Threat of substitute products: If substitutes to a company’s products are easily available, then the threat is high and demand for the company’s products will decrease.
+Customers may switch to alternative products if switching costs are low.
+If this force is strong, it will weaken the pricing power of the market players.
+Bargaining power of customers: Customers enjoy bargaining power in industries with large volumes and smaller number of buyers.
+The price competition and profitability is low as customers demand low prices.
+Bargaining power of suppliers: Suppliers enjoy pricing power in industries where suppliers are small and the supply of key inputs to a company is scarce.
+Threat of new entrants: If barriers to entry are high, then the threat of new entrants is low.
+Conversely, if barriers to entry are low, then the threat of new entrants is high.
+Intensity of rivalry among existing competitors: Industries with high fixed costs, high exit barriers, little differentiation in products, and similar size experience intense rivalry.
+
+Barriers to Entry
+Barriers to entry refers to the ease with which new competitors can enter the industry and challenge existing players.
+Example of high barriers to entry: Global credit card networks such as Visa and MasterCard.
+<|endoftext|>

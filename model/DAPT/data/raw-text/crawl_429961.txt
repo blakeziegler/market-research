@@ -1,0 +1,99 @@
+Source: https://growthequityinterviewguide.com/growth-equity/what-is-growth-equity
+
+Growth equity firms prioritize long-term growth and expansion potential of companies rather than short-term profits.
+Their ultimate goal is to help companies achieve sustainable growth.
+
+Market Risk – potential market volatility of demand shifts
+Execution Risk – management team may fail to implement the expansion strategy
+Competition – increased competition could negatively affect the market share
+Valuation Risk – the actual growth potential may not match the company’s valuation
+
+Growth firms seek to acquire minority stakes in high growth, private companies with proven business models
+There’s no strict definition for which investment round corresponds to a “growth round,” but in most cases startups raise growth rounds in Series C or later
+Growth equity differs from private equity in that it targets high growth companies seeking minority investors with low or no debt, while private equity firms target more stable, high cash flow businesses in control transactions that use lots of debt
+The lines between growth investing and venture capital have started to blur as many venture capital firms have raise “late-stage” funds that target similar deals as growth equity firms
+
+Growth equity is an investing style that involves purchasing significant minority ownership stakes (less than 50%) in privately-held companies that are experiencing rapid growth and have demonstrated traction with a viable business model.
+Companies that take on growth equity investors usually have strong revenue growth and business momentum.
+Although not always, usually the funds from a growth equity investment round are used to fuel additional growth.
+Though not every transaction follows this pattern, it can be instructive to think of growth equity investment rounds as being pre-IPO and post-venture capital.
+That said, this distinction has become less helpful in recent years as many traditional venture firms have raised large growth funds to participate in investment rounds that would otherwise be considered growth equity rounds (so-called “late-stage venture” rounds).
+
+Growth equity investments generate returns primarily through growth.
+Unlike private equity firms, they do not typically generate returns through leverage.
+Further, unlike value investors, they do not typically seek to make money through multiple expansion or pricing inefficiencies.
+Most growth investors would agree that their primary job is “to identify the fastest growing markets and to invest in the best companies that are leaders in that space.”
+That said, there are no strict cutoffs for which investment round (e.g. Series A, B, etc.) constitutes the “growth” round.
+Instead, it’s more instructive to think of any round as potentially qualifying as a growth round so long as it meets the characteristics laid out above.
+Growth equity investments usually exhibit many, if not all, of these attributes:
+Significant revenue that is growing quickly (e.g. 30% or higher)
+Strong bias toward tech-enabled products and services, given high growth
+
+Proven business model (established offerings with customers) * Positive (or near-positive) cash flow or profitability; usually, no further fundraising rounds or dilution are forecasted until after exit * Owned and/or managed by founder(s) * Usually, a purchase of a significant yet minority ownership position (less than 50%) * Investment dollars are usually used to fuel growth, although it can also provide shareholder liquidity * Do not involve use of significant leverage (debt) * Growth (not leverage) is expected to drive investment returns
+
+To see how some of these attributes translate into real-world, let’s take Shopify’s success as an example.
+Shopify’s transformation through growth equity In 2010, Bessemer Venture Partners (BVP) made a significant investment worth $7 million to Shopify, a small but promising e-commerce platform. The capital came at the perfect time, as Shopify was looking to improve its platform and expand its market presence. The investment was allocated for technology development, particularly in mobile commerce and payment gateway solutions which are key areas that Shopify needed in order to outpace their competitors. These financial and strategic supports played a huge role in Shopify going public in 2015, with an IPO that raised more than $130 million. The company’s market capitalization also soared to $170+ billion by 2021, making the growth equity investment from BVP very successful in terms of ROI.
+
+Growth equity strategies and frameworks Due Diligence Process Before making an investment, growth equity firms conduct a thorough review of the company. This includes: * Financial review : Looking at past and future financial performance, revenue sources, and overall financial health. * Market analysis : Examining the size of the company’s market, its growth potential, competitive position, and market trends. * Offer viability : Evaluating how scalable and unique the company’s products or services are and their demand in the market. * Management assessment : Assessing the experience, history, and strategic vision of the management team.
+
+Value Creation Strategies After investing, growth equity firms work with the company to boost its growth and increase its value. Strategies often include: * Operational improvements : Making business operations more efficient and scalable. * Strategic guidance : Offering advice on market expansion, product development, and potential mergers or acquisitions. * Talent enhancement : Strengthening the team by hiring key executives or improving current management skills. * Technology advancement : Upgrading technology systems to improve products and customer service.
+
+Exit Planning Planning an effective exit strategy is important for maximizing the value of growth equity investments. Common exit routes include: * Initial Public Offering (IPO) : Preparing the company to go public, which often requires strong financial discipline and market positioning. * Strategic sale : Selling the company to a larger industry player who can benefit from the acquisition. * Secondary sale : Selling the investment to another private equity firm or financial investor interested in continuing the company’s growth. These strategies help ensure that when it’s time to exit, the growth equity firm and its investors can achieve the highest possible returns.
+
+History of the term “growth equity” Growth equity pioneers General Atlantic, TA Associates, and Summit Partners are often credited with popularizing the term “growth equity” to mean private investment rounds to provide expansion capital to companies. In today’s environment, the term “growth equity” can be somewhat confusing because, for many, it is assumed to simply mean “private equity firms who are investing in the growth stage.” In reality, given the ubiquity of technology and the attractiveness of growth stage returns, a diverse set of firms beyond just the traditional firms now invest at the growth stage. Therefore, the term had evolved to capture all investment activity at the growth stage.
+
+Growth equity firms Traditionally, the top growth equity firms (the “Big 3”) have been: General Atlantic, Summit Partners, and TA Associates. These firms helped popularize the term “growth equity,” and they each have decades of history and stellar investment track records. In recent years, there’s been an influx of new firms that compete to invest in growth companies. Many top venture firms have raised funds to invest larger amounts of capital in growth rounds of companies. Many top venture firms now have growth funds, including Sequoia, Andreessen Horowitz (a16z), and Google Ventures (Capital G). At the same time, traditional later stage investment firms have also raised growth funds, so they can participate in growth investments. Top firms from across the asset management business have gotten in on the action. Examples include: * Traditional asset manager: Fidelity * Private equity: KKR Growth, Carlyle Growth, Blackstone Growth * Sovereign wealth fund: Temasek * Hedge fund: Tiger Global, Coatue * SPACs: Social Capital At the fund level, growth equity firms make money by investing the funds of limited partners and charging fees for doing so. Like other investment funds, growth funds charge a management fee (assessed as a percentage of assets under management — usually 2%) plus investment carry (assessed as a percentage of investment gains — usually 20%).
+
+Growth stage companies Growth stage companies typically have achieved significant traction with customers, have proven some degree of viability with their business model, and are growing revenue at a fast pace (certainly above 10% and usually far in excess of 20%). Typically, these companies take growth equity investment as ‘expansion capital’ to grow or expand more rapidly. Companies in the growth stage differ from “startups” in that they have established proven product-market fit, and they are typically either profitable or near-profitable. Conversely, startups are usually still attempting to find initial customers and business model viability. While most growth stage companies are privately-held, the ‘growth stage’ designation is usually independent of ownership status and size. An iconic example of a growth stage company is Meta (originally “Facebook”). While Meta certainly grew rapidly as a private company (37% year-over-year revenue growth in 2012, the year of its IPO), it
+
+Growth equity vs private equity
+Many ask: is growth equity “private equity”? Given the similarity in names, “growth equity” and “private equity” are often confused or conflated, and although they are both investment strategies, they are NOT the same and have many key differences.
+While growth equity firms invest minority stakes in fast-growth firms, private equity firms usually target more mature companies that usually have lower growth but more stable cash flows (and therefore higher debt borrowing capacity).
+Private equity firms tend to purchase controlling stakes in companies, usually funding the purchase using significant amounts of debt taken on by the company (called a leveraged buyout or “LBO”).
+Meanwhile, growth equity transactions usually involve little or no debt.
+While it may vary by firm, both strategies have similar return expectations (~25% IRR or above).
+The confusion between growth equity and private equity has grown in recent years too as many private equity firms have raised “growth” or “technology” focused investment funds, as they evolve into broader asset management platforms.
+
+Growth equity vs venture capital
+While both growth equity and traditional venture capital target rapidly growing businesses, they differ in several important respects.
+Venture firms invest as early as the very beginning of a company’s development without any customers or proof of positive unit economics.
+Meanwhile, growth investment rounds typically occur after a company has proven its business models, established positive unit economics, and has a significant customer base.
+In this way, venture capital firms take “market” and “product” risk (“will this company work at all?”), while growth investment firms take “management” or “execution” risk (“can we scale what’s already working?”).
+The distinction between growth equity and venture capital investment firms has blurred in recent years as many venture capital firms have raised large “growth” funds reserved for new investments or “follow on” investments in the most successful companies from their venture portfolio.
+Likewise, some large growth equity firms have started to raise “venture” or “emerging growth” funds to get into the best companies even earlier.
+
+Growth equity career path
+The typical roles within a growth equity firm are similar to roles within private equity firms.
+Typically, the career progression within a growth equity firm is:
+Analyst – most junior role, hired out of undergrad; usually focused exclusively on sourcing and cold calling
+Associate – usually 2-3 years of experience in banking or consulting; executes and manages diligence tasks and does cold calling
+Senior Associate – same as associate, but generally more clout and responsibility within deal team
+Vice President – usually the “lead” on diligence process for live deals; the first post-MBA, partner-track role
+Principal – a partner in training; very senior role involved in senior-level tasks for deals and sourcing
+Managing Director or Partner – the team leader who manages the team and has ultimate say on investment decisions
+
+Growth equity salary, bonus, and compensation
+Growth equity salaries are extremely high compared to most careers, and indeed they are comparable to those of other competitive buyside roles (e.g. private equity, hedge fund, etc.).
+Because elite growth funds tend to be somewhat smaller than elite buyout/LBO funds in terms of overall assets under management, many believe the average salary at top growth funds would be somewhat less than that of buyout/LBO funds.
+However, according to our study of salaries at top growth firms compared to top private equity firms, this does not appear to be the case.
+Indeed, the average salary of associates at top growth equity firms ($143k) was essentially the same as that seen at top private equity firms ($139k).
+For more senior roles, compensation will vary based on ultimate fund economics and performance as senior investment professional begin to earn ownership in the fund.
+
+Growth equity hours, lifestyle, and work-life balance
+In my personal experience, it’s not super helpful to generalize about work hours, lifestyle, and culture since these factors can vary widely even within individual firms.
+However, that said, traditionally growth equity roles are thought to have somewhat better hours/lifestyle compared to similar private equity roles (and much better than that of investment banking).
+That said, you’ll still work very hard in growth equity, and any improvement in working hours will be highly variable throughout the year.
+That is, working on “live” deals in growth equity will be comparable to the intensity of private equity or investment banking; however, the periods in-between can be somewhat less demanding.
+
+Frequently asked questions
+What type of companies attract growth equity investment?
+Growth equity investors typically look for companies that already have proven business models and strong product-market fit.
+These companies are usually in the high-growth phase and need funding to support their expansion plans.
+What are the characteristics of an ideal target company?
+An ideal business for growth investing would have:
+A validated value proposition
+Clear target market and customer profiles
+Business plan focused on growth rather than immediate profitability
+Why would a company seek growth equity investment?
+Companies typically look for growth equity investment to fund their expansion strategy, capture more market share, or strengthen their market position and future profitability.
+<|endoftext|>

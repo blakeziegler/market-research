@@ -1,0 +1,63 @@
+Source: https://ift.world/booklets/fra-financial-analysis-techniques-part4/
+
+LM06 Financial Analysis Techniques
+
+14. Equity Analysis and Valuation Ratios
+One of the most common applications of financial analysis is that of selecting stocks. An equity analyst uses various tools (such as valuation ratios) before recommending a security to be included in an equity portfolio. The valuation process consists of the following steps:
+Understanding the company’s business and existing financial profile.
+Forecasting company’s performance such as revenue projections.
+Selecting the appropriate valuation model.
+Converting forecasts to a valuation.
+Making the investment decision to buy or not to buy.
+This section, in particular, focuses on the ratios used to value equity. Research has shown that ratios are useful in forecasting earnings and stock returns. Note that this material is covered in more detail in the equity segment of the curriculum.
+
+14.1 Valuation Ratios
+Valuation ratios aid in making investment decisions. They help us determine if a stock is undervalued or overvalued.
+Valuation Ratio | Formula | Interpretation
+P/E | Price Per Share / Earning Per Share | Most often used valuation measure. Prone to earnings manipulation. Non-recurring earnings may distort the ratio.
+P/CF | Price Per Share / Cash Flow Per Share | Less prone to manipulation than P/E.
+P/S | Price per Share / Sales Per Share | Used when net income is not positive.
+P/BV | Price per Share / Book Value per Share | An indicator of what the market perceives. A value greater than 1 means future rate of return is higher than required rate of return.
+
+Per share quantities
+Basic EPS | Net Income Minus Preferred Dividends / Weighted Average Number of Ordinary Shares Outstanding
+Diluted EPS | (Adjusted Income) / Weighted Average Number of Ordinary Shares Outstanding
+Cash flow per share | Cash Flow from Operations / Weighted Average Number of Ordinary Shares Outstanding
+EBITDA per share | EBITDA / Weighted Average Number of Ordinary Shares Outstanding
+Dividends per share | Common Declared Dividends / Weighted Average Number of Ordinary Shares Outstanding
+
+Dividend-related ratios
+Dividend-related formulae
+Dividend Ratios | Formula | Interpretation
+Dividend payout ratio | Dividends / Earnings | Measures the percentage of earnings a company pays out as dividends to equity shareholders.
+Retention rate | 1 – payout rate | Measures the percentage of earnings a company retains.
+
+Sustainable growth rate | Measures how much growth a company is able to finance from its internally generated funds. Higher retention rate and ROE result in higher sustainable growth rate.
+
+Industry-Specific Financial Ratios Ratios serve as indicators of some aspect of a company’s performance and value. Aspects of performance that are important in one industry may be irrelevant in another. These differences are reflected through industry-specific ratios. For example, companies in the retail industry may report same-store sales changes because in the retail industry it is important to distinguish between growth that results from opening new stores and growth that results from generating more sales at existing stores. Other examples of industry specific ratios include: * Service companies: revenue per employee, net income per employee * Hotels: Average daily rate, occupancy rate
+
+Credit Analysis Credit risk is the risk that the borrower will default on a payment when it is due. For example, if you are a bondholder, credit risk is the risk that the bond issuer will not pay you the interest on time. Credit analysis is the evaluation of this credit risk. Just as ratio analysis is useful in valuing equity, it can also be applied to analyze the creditworthiness of a borrower. Credit ratings are based on a combination of qualitative and quantitative factors. Qualitative factors include an industry’s growth prospects, volatility, technological change, competitive environment, operational effectiveness, strategy, governance, financial policies, risk management practices, and risk tolerance. Quantitative factors include profitability, leverage, cash flow adequacy, and liquidity.
+
+Credit Analysis Ratio | Formula | Interpretation
+EBITDA interest coverage | A high value implies good credit quality.
+FFO (Funds from operations) to debt | A high value implies good credit quality.
+Free operating cash flow to debt | A high value implies good credit quality.
+EBIT margin | A high value implies good credit quality.
+EBITDA margin | A high value implies good credit quality.
+Debt to EBITDA | Low debt/EBITDA implies good credit quality.
+Return on capital | A high value implies good credit quality.
+
+Business and Geographic Segments A business or geographic segment is a portion of a company that has risk and return characteristics distinct from the rest of the company and accounts for more than 10% of the company’s sales or assets. Companies are required to report some items for significant segments separately. Ratios can be computed for business segments to evaluate how units within a business are performing.
+
+Ratio | Formula | Measures
+Segment margin | Operating profitability relative to revenue.
+Segment turnover | Overall efficiency of the segment.
+Segment ROA | Operating profitability relative to assets.
+Segment debt ratio | Solvency.
+
+Model Building and Forecasting Analysts use several methods to forecast future performance. One commonly used method is to project sales and to combine the forecasted sales numbers with expected values for key ratios. For example, by using sales numbers and gross profit margin, one can determine cost of goods sold and gross profit. This method is particularly useful for mature companies with stable margins. Besides ratio analysis, techniques such as sensitivity analysis, scenario analysis, and simulations are often used as part of the forecasting process.
+Scenario analysis shows a range of possible outcomes as specific assumptions or input variables are changed.
+With scenario analysis, a number of different scenarios are defined and outcomes are estimated for each outcome.
+Simulations involve the use of computer models and input variables which are based on a pre-defined probability distribution.
+
+<|endoftext|>

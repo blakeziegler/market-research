@@ -1,0 +1,45 @@
+Source: https://ift.world/booklets/fra-inventories-part2/
+
+One-Period Binomial Model LM10 Valuing a Derivative Using a One-Period Binomial Model LM11 Financial Analysis Techniques LM11 Financial Reporting Quality LM11 Introduction to Big Data Techniques LM11 Yield-Based Bond Duration Measures and Properties LM12 Applications of Financial Statement Analysis LM12 Introduction to Financial Statement Modeling LM12 Yield-Based Bond Convexity and Portfolio Properties LM13 Curve-Based and Empirical Fixed-Income Risk Measures LM14 Credit Risk LM15 Credit Analysis for Government Issuers LM16 Credit Analysis for Corporate Issuers LM17 Fixed-Income Securitization LM18 Asset-Backed Security (ABS) Instrument and Market Features LM19 Mortgage-Backed Security (MBS) Instrument and Market Features
+
+IFT Notes for Level I CFA® Program Quantitative Methods Economics Financial Reporting and Analysis Corporate Issuers Equity Fixed Income Derivatives Alternative Investments Portfolio Management Ethics
+
+LIFO is permitted under US GAAP, but not under IFRS. Under the LIFO conformity rule, the When prices are increasing, LIFO method will result in higher COGS, lower profit, income tax expense, and net income. Due to lower taxes, the LIFO method will also result in higher after-tax cash flow.
+
+The LIFO reserve is the difference between the reported LIFO inventory carrying amount and the inventory amount that would have been reported if the FIFO method had been used instead. The equation for LIFO reserve is given by: LIFO reserve = FIFO inventory value – LIFO inventory value US GAAP requires companies using the LIFO method to disclose the amount of the LIFO reserve either in the notes to financial statements or in the balance sheet. An analyst can use the disclosure to adjust a company’s COGS and ending inventory from LIFO to FIFO. This makes it easier to compare the company’s performance with other companies that use FIFO. The following formulas show how to make adjustments for inventory, COGS and net income from LIFO to FIFO: FIFO inventory = LIFO inventory + LIFO reserve FIFO COGS = LIFO COGS – (ending LIFO reserve – beginning LIFO reserve) (The adjusted COGS is also impacted by inventory write-downs) FIFO NI = LIFO NI + change in LIFO reserve (1 – T) FIFO retained earnings = LIFO retained earnings + LIFO reserve (1 – T)
+
+Example Ace Inc. uses the LIFO method for reporting inventory. Excerpts from Ace’s financial statements are given below: All numbers in millions of USD | **2014** | **2015** ---|---|--- Ending inventory balance | 100 | 110 LIFO reserve at the end of the year | 10 | 15 Cost of sales | 500 | 550 Net income | 20 | 25 Net cash flow from operating | 22 | 27 1. What inventory values would Ace report for 2015 if it had used the FIFO method instead of the LIFO method? **Solution:** FIFO inventory = LIFO inventory + LIFO reserve = 110 + 15 = 125 1. What amount would Ace’s cost of goods sold for 2015 be if it had used the FIFO method instead
+
+FIFO COGS = LIFO COGS – (ending LIFO reserve – beginning LIFO reserve) = 550 – (15 – 10) = 545
+
+FIFO NI = LIFO NI + change in LIFO reserve (1 – T) = 25 + 5 – (5 x 0.3) = 28.5
+
+CFOFIFO = CFOLIFO – Impact of Changes on Net Income Taxes Paid = 27 – 1.5 = 25.5
+
+Tax saving = change in LIFO reserve x new tax rate + last year LIFO x old tax rate= 5 x 0.3 + 10 x 0.4 = 5.5
+
+Listed below are some tips to remember the equations:
+In equations involving the balance sheet, such as FIFO inventory and FIFO retained earnings, use LIFO reserve.
+In equations involving the income statement, such as FIFO COGS and FIFO NI, use change in LIFO reserve.
+It can be confusing to figure out whether to add LIFO or subtract reserve. The intuitive way is to think which value is lower: FIFO or LIFO. For instance, inventory value is higher for FIFO as the last purchased units at higher prices are added to the inventory. So LIFO reserve must be added to LIFO inventory to get the FIFO inventory.
+But FIFO COGS is lower, so a change in reserve must be subtracted from LIFO COGS to get FIFO COGS = LIFO COGS – (ending LIFO reserve – beginning LIFO reserve).
+For FIFO, if COGS is lower, then net income and retained earnings must be higher. So, LIFO reserve/change in reserve must be added to LIFO.
+
+In periods of rising inventory, the carrying amount of inventory under FIFO will exceed the carrying amount of inventory under LIFO. LIFO reserve is equal to the difference between LIFO inventory and FIFO inventory. LIFO reserve may increase for two reasons:
+The number of inventory units manufactured or purchased exceeds the number of units sold.
+Increasing difference between the older costs used to value inventory under LIFO and the more recent costs used to value inventory under FIFO.
+If a firm is liquidating its inventory or if the prices are declining, the LIFO reserve will decline. When the number of units sold in a period exceeds the number of units purchased/manufactured, it is called LIFO liquidation.
+In LIFO liquidation, the costs from older LIFO layers will flow to COGS and it can be used by the management to manipulate earnings and margins. The gross profits increase because the older inventory carrying amounts are used for COGS while sales are at current prices. An increase in gross profit accompanied by a decrease in LIFO reserve must be used as a warning sign.
+LIFO liquidation occurs for a number of reasons such as labor strikes, to reduce inventory during an economic recession when demand is low, and earnings manipulation.
+The consequences of LIFO liquidation are as follows:
+COGS does not reflect recent costs during periods of rising prices.
+Overstates net income.
+Higher taxable income and higher tax payments.
+Positive cash flow.
+Analysts must make the following adjustments to account for LIFO liquidation:
+Net income must be lowered.
+COGS must be adjusted to reflect current prices for the replaced units.
+
+Company A uses LIFO and has an increasing LIFO reserve. Company B uses FIFO. Company C uses LIFO and has a decreasing LIFO reserve. Which company’s COGS best reflect current costs?
+Company A’s COGS best reflects current costs because it uses the LIFO method and has an increasing LIFO reserve. Even though company C uses LIFO, it has a decreasing LIFO reserve, which may be an indicator of LIFO liquidation. In that case, COGS will not reflect current costs. Company B uses FIFO, hence its COGS reflects older costs.
+<|endoftext|>

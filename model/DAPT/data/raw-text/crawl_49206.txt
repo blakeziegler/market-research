@@ -1,0 +1,60 @@
+Source: https://fiscaldata.treasury.gov/treasury-savings-bonds/
+
+Series * Date Range 09/30/1998 - 06/30/2025 * Last Updated 07/14/2025 * Release Frequency Monthly * 3 Data Tables
+
+U.S. Treasury Monthly Statement of the Public Debt (MSPD) * Date Range 01/31/2001 - 07/31/2025 * Last Updated 08/06/2025 * Release Frequency Monthly * 7 Data Tables
+
+Average Interest Rates on U.S. Treasury Securities * Date Range 01/31/2001 - 07/31/2025 * Last Updated 08/06/2025 * Release Frequency Monthly * 1 Data Table
+
+In 1935, savings bonds were first introduced to promote thriftiness and allow individuals to purchase government-backed bonds at an affordable price. For many decades, the minimum purchase price for marketable securities was several thousand dollars, which meant that only very wealthy individuals and institutions could afford to invest in them. With the introduction of the first savings bonds, regular citizens were able to invest in Treasury securities, and they gained popularity as a 'safe haven' during times of economic uncertainty.
+
+The economy can also influence the popularity of investing in savings bonds. In times of heightened economic uncertainty, individual investors may favor savings bonds due to their low risk, even if they produce a more modest return. Conversely, economic growth may create attractive investment opportunities outside of savings bonds, where individual investors may be able to earn higher interest rates. In general, when interest rates are higher, demand for fixed-rate savings bonds like Series EE tends to increase. However, when people expect inflation to increase, savings bonds like Series I become attractive because they provide protection against inflation, preserving the value of the money invested.
+
+Generally, higher inflation rates are correlated with an increase in demand for inflation-protected securities like I bonds.
+
+A savings bond can be redeemed anytime after at least one year; however, the longer a bond is held (up to 30 years), the more it earns. When a savings bond is redeemed after five years, the owner receives the original value plus all accrued interest. If a bond is redeemed before five years, the holder loses the last three months of interest. Occasionally, bond owners hold onto bonds after they have reached maturity and are no longer earning interest. These outstanding but unredeemed bonds are called Matured Unredeemed Debt (MUD). The government continues to be responsible for this debt, as it may be redeemed at any time.
+
+If bonds are held past their maturity date, the bonds can lose value due to inflation. To understand how this value is lost, see the illustration below. If you redeem your bond today, you can redeem it for $1,600 and spend that on goods or services or reinvest that money in a new savings bond. If you hold onto that bond and don’t redeem it for another 10 years, it will still be worth $1,600, but the same goods and services you would have purchased 10 years ago now cost $2,050, effectively losing you $450 in value.
+
+Today, individuals can buy Series I and Series EE bonds online through TreasuryDirect. TreasuryDirect also offers a feature called Treasury Hunt, which allows users to search to see if there are unredeemed bonds in their name.
+
+The American public invested $1 billion in savings bonds this fiscal year to finance the federal government.
+$1,267,478,888 Fiscal year-to-date (since October 2024) total is updated monthly using the Electronic Securities Transactions dataset.
+Compared to the same period last year (Oct 2023 - Jul 2024), investments in savings bonds have decreased by $2 billion.
+
+Savings bonds are simple, safe, and affordable loans to the federal government that can be purchased by individual investors.
+These loans help finance the government and offer benefits to the purchaser.
+The level of investment in savings bonds has varied over the course of American history.
+In some cases, the government has developed public campaigns to promote savings bond purchases in an effort to fund activities such as the country’s participation in World War II.
+At other times, sales of savings bonds have increased or decreased in tandem with changes in interest rates or inflation.
+Savings bonds earn interest until they reach 'maturity,' which is generally 20-30 years, depending on the type purchased.
+If a bond is held past its maturity, the federal government remains responsible for the debt.
+However, savings bonds that are held past their maturity date do not continue to earn interest and may actually lose value due to inflation.
+
+U.S. Treasury savings bonds are a type of loan issued by the U.S. Department of the Treasury (the Treasury) to individual investors.
+They are low-risk, interest-bearing securities that individual investors can purchase directly from the government.
+Savings bonds are designed to offer a safe investment opportunity to ordinary Americans with the hope that by owning shares in their country, they may become more interested in national policy.
+Wondering how much your savings bond is worth today? Visit the Savings Bond Calculator to find the value of your paper bonds or log in to your TreasuryDirect account to determine how much your electronic bond is worth.
+
+The government finances programs like building and maintaining roads, school funding, or support for veterans through revenue sources like taxes.
+When the government spends more than it collects from revenue, this results in a deficit, which requires the government to borrow money by issuing loans (securities) that it promises to pay back with interest.
+Different types of securities earn interest in different ways.
+Treasury groups securities into two categories called marketable and non-marketable securities, which reflects whether they can be resold to another individual or entity after they are purchased.
+
+Savings bonds make up 0.5% of total debt held by the public through July 2025.
+This is 0.8 percentage points lower than the percent of debt held by the public ten years ago (1.3%).
+
+Today, there are two types of savings bonds available for purchase: Series I bonds and Series EE bonds.
+Type I Bonds: Protect buyer's money from inflation.
+EE Bonds: Guaranteed to double in value in 20 years.
+Issuing Method: Primarily Electronic for I Bonds; Electronic Only for EE Bonds.
+Interest Earnings: A fixed interest rate and a variable rate based on inflation for I Bonds; a steady interest rate that does not change for EE Bonds.
+Redemption: Redeemable after 1 year; if redeemed in the first five years, the interest accumulated from the last three months will be deducted from the final payout.
+
+Public demand for savings bonds has varied over time.
+Changes in interest rates or inflation can make bonds an attractive investment relative to other alternatives.
+In addition, investors may be motivated by the idea of supporting a national cause like a war effort or government project.
+
+The sale of U.S. Treasury marketable securities began with the nation’s founding, where private citizens purchased $27 million in government bonds to finance the Revolutionary War.
+These early loans to the government were introduced to raise funds from the American public to support war efforts as well as other national projects like the construction of the Panama Canal.
+<|endoftext|>

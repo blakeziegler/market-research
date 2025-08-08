@@ -1,0 +1,70 @@
+Source: https://www.investopedia.com/articles/fundamental-analysis/09/elements-stock-value.asp
+
+The 4 Basic Elements of Stock Value A Beginner's Guide to Stock Analysis With the Key Financial Ratios
+
+1. Price-to-Book (P/B) Ratio
+P/E Ratio
+PEG Ratio
+Dividend Yield
+
+Price-to-Book (P/B) Ratio
+
+P/E Ratio
+
+PEG Ratio
+
+Dividend Yield
+
+FAQs
+
+The Bottom Line
+
+By understanding what the data from the P/B, P/E, PEG, and dividend yield ratios provide and what they don\'t, you can refine your analytical skills as you build a portfolio to stand the test of time.
+
+The Fundrise Income Fund is designed to deliver consistent cash flow, even if interest rates start to fall.
+The Fund offers access to a diversified portfolio of income-focused assets worth more than half-a-billion dollars.
+Start growing your cash flow at Fundrise.com/Income.
+
+Before investing, consider the Fund’s objectives, risks, charges, and expenses.
+Prospectus available at Fundrise.com/Income.
+
+Investopedia requires writers to use primary sources to support their work.
+These include white papers, government data, original reporting, and interviews with industry experts.
+We also reference original research from other reputable publishers where appropriate.
+
+1. Financial Industry Regulatory Authority. \"Evaluating Stocks.\"
+2. Martin S. Fridson and Fernando Alvarez. \"Financial Statement Analysis: A Practitioner\'s Guide\", Pages 316-323. John Wiley & Sons, 2022.
+3. Martin S. Fridson and Fernando Alvarez. \"Financial Statement Analysis: A Practitioner\'s Guide\", Pages 266-274. John Wiley & Sons, 2022.
+4. S.K. Parameswaran. \"Fundamentals of Financial Instruments: An Introduction to Stocks, Bonds, Foreign Exchange,and Derivatives\", Pages 82-84. John Wiley & Sons, 2022.
+5. S. M. Bragg. \"Business Ratios and Formulas: A Comprehensive Guide\", Pages 65–66, 131–133. John Wiley & Sons, 2012.
+6. Learn \"What Is a Good P/E Ratio? A Beginner’s Guide\".
+
+Investors can struggle to determine a company\'s stock\'s true value, leading to missed prospects and potential losses. But what if there was a way to cut through all the market noise and decide based on a few critical numbers found on almost any trading platform? In this article, we\'ll explore four essential financial ratios that can help you do just that while analyzing a stock\'s value: the price-to-book (P/B) ratio, the price-to-earnings (P/E) ratio, the price-to-earnings growth (PEG) ratio, and the dividend yield. By mastering these tools, you can review a company\'s financial health, analyze its growth potential, and identify under or overvalued stocks.
+
+Key Takeaways
+* Analysts and investors use financial statements to calculate ratios that can help uncover the financial health of a stock.
+* Four of them, the price-to-book (P/B) ratio, the price-to-earnings (P/E) ratio, the price-to-earnings growth (PEG) ratio, and the dividend yield, are fundamental measures used in investment analysis and stock valuation.
+* No single ratio provides a complete picture. Combining these ratios with other financial metrics can offer a more comprehensive assessment of a stock\'s value.
+* Financial platforms often provide the P/E ratio, P/B ratio, PEG ratio, and dividend yield as part of their stock analysis tools and reports.
+
+1. Price-to-Book (P/B) Ratio
+The [P/B](https://www.investopedia.com/terms/p/price-to-bookratio.asp) ratio is most valuable for investors who prefer a conservative approach. This ratio compares a company\'s market value to its book value, which is the worth of its assets if they were liquidated. The P/B ratio is particularly useful when evaluating companies in mature industries. These don\'t generally have rapid growth, but they have significant value in what they own: equipment, buildings, land, and anything else that can be sold, including stock holdings and bonds.
+Fast Fact A company\'s [book value](https://www.investopedia.com/terms/b/bookvalue.asp) is its total assets minus liabilities, providing a snapshot of its net worth. Essentially, if all else goes wrong, how does the price stack up against its worth? To calculate the P/B ratio, you divide the stock\'s market price by the book value per share. A low P/B ratio, typically below 1.0, suggests the stock may be undervalued since the market price is lower than the company\'s book value. However, you should be cautious if you see a low ratio. A low P/B ratio could indicate problems with the company\'s assets that other investors know about, which is keeping its price down. In addition, sectors have different \"normal\" P/B values from each other. In the financial sector, lower P/B ratios near 1.0 and lower are normal given their assets, and the stock valuation can fluctuate with the market prices of the assets financial institutions hold. Meanwhile, in the tech sector, intangible assets like intellectual property can mean a much higher P/B ratio might be acceptable. Below is the aggregate P/B ratio for the [S&P 500](https://www.investopedia.com/terms/s/sp500.asp) since 2010.
+
+2. Price-to-Earnings (P/E) Ratio
+The [price-to-earnings (P/E) ratio](https://www.investopedia.com/terms/p/price-earningsratio.asp) is the most used financial ratio.1 A stock can increase in value without significant earnings increases, and the P/E ratio tells how much investors are willing to pay for a dollar of earnings. But without earnings to back up the price, a stock should eventually come back down.2 The P/E ratio is calculated by dividing a stock price by earnings per share ([EPS](https://www.investopedia.com/terms/e/eps.asp)). The result is the amount investors are paying in the market for each dollar of the company\'s earnings. A high P/E ratio indicates that investors are paying a premium for the stock, expecting significant growth in the future. Meanwhile, a low P/E ratio suggests that the stock is undervalued or that investors are pessimistic about the company\'s prospects. It\'s important to underline that you should only compare the P/E ratios of companies within the same industry and market. Different sectors have varying growth rates and market conditions, which will influence their P/E ratios. For example, technology companies often have higher P/E ratios because of their rapid growth potential. Prices might be higher now, even as earnings are low, because investors expect earnings to increase significantly over
+
+Below is the aggregate P/E ratio for the S&P 500 companies, using a trailing 12-month average. This gives you a sense of how financial ratios can change in different markets.
+
+## 3. Price-to-Earnings Growth (PEG) Ratio If we can compare the P/E ratio to a reliable compass that helps direct you in an often unclear financial landscape, the PEG ratio is like a GPS that gives you greater precision and a more three-dimensional view of the financial value of a stock. This metric takes the P/E ratio and factors in a company\'s expected growth rate based on its previous earnings. Using the PEG, you not only can pinpoint the present valuation of the company but also see ahead to map where it\'s going. The PEG ratio is calculated by taking the P/E ratio of a company and dividing it by the year-over-year growth rate of its earnings as an estimate going forward. The lower the PEG ratio, the better the deal you\'re likely getting, given the stock\'s estimated future earnings. Suppose you\'re interested in Company ABC, which has a P/E ratio of 25. Analysts covering the stock agree that ABC\'s anticipated earnings growth is 10% in the next five years. The PEG ratio is, therefore, 25/10, or 2.5. By comparing two stocks using the PEG, you can see how much you\'re paying for growth in each case. A PEG of one means you\'re breaking even as long as the company\'s growth continues. A PEG of two means you\'re paying twice as much for projected growth over a stock with a PEG of 1. You\'ll want to supplement the PEG ratio with other stock analyses and ratios. You should also include qualitative factors, such as the company\'s competitive advantage, management quality, and industry trends, to better understand a stock\'s investment potential. The PEG ratio is a valuable tool, but it can lead you astray because it can\'t account for market conditions, industry trends, or the company\'s management. To continue our metaphor above, using the PEG alone would be like using a GPS to tell you where to go but not looking up at any point to see if the tool is reliable.
+
+## 4. Dividend Yield It\'s nice to have a backup should the price of a stock you own falter, limiting your upside when you sell it. This is the reason, besides regular payments, why dividend-paying stocks are attractive to many investors—even when prices drop, you get distributions. The dividend yield shows how much you make in dividends for the price. You get a percentage by dividing the stock\'s annual dividend by the stock\'s price. This tells you how much cash you can expect to receive for each dollar you invest in the company at the present stock price. For example, if a company\'s stock price is $100 and pays an annual dividend of $5 per share, its dividend yield would be 5%. Companies with a history of consistent dividend increases and strong cash flows are more attractive to income-seeking investors than those with erratic or unsustainable payout ratios. Companies that manage this for 25 years while growing their dividend earn the moniker dividend aristocrats. When evaluating dividend yields, you\'ll want to assess whether they are sustainable and are expected to grow over time. As with the other financial ratios above, you don\'t want to rely on dividend yield alone. Some further points to consider when using this metric: 1. **High-yield \"traps\"**: A high dividend yield could indicate a strong company on a good trajectory. However, it could also signal a struggling company with a falling stock price. If a firm\'s dividend remains the same, its dividend yield goes up as its price goes down, and often, the prices could drop significantly since the last dividend was declared. Always explore the reasons behind an unusual yield. 2. **Dividend stability**: Companies often cut or eliminate dividends when financial issues or an economic downturn occur. You\'ll want to confirm that the firm has had a stable payout ratio and consistent earnings to support future dividends. 3. **Limits to growth**: High dividend-paying companies have less to reinvest in their development. This might limit the stock price\'s ability to appreciate compared with firms that put profits back into the company to grow.
+
+## What Is Considered a Good P/B Ratio? What is considered a “good” or \"bad\" P/B ratio depends on the industry in which the company is operating and the overall state of valuations in the market. Generally speaking, a P/B ratio under 1.0 is considered optimal since it indicates that an undervalued stock may have been identified. However, some investors assessing the P/B value of a stock may choose to accept a higher P/B ratio of up to 3.0.
+
+## What Is Considered a Good P/E Ratio? Again, this depends on the industry of the company in question, but, as rule of thumb, the lower the P/E is, the better. A good P/E ratio should also be lower than the average P/E ratio, which is between 20–25.
+
+## What Is Considered a Good PEG Ratio? In general, a PEG ratio is considered to be good when it has a value lower than 1.0, suggesting a stock is relatively undervalued. A PEG of 1.0 is a fair value—it\'s priced in line with the expected growth. Over 1.0, and you\'re paying for more growth than expected.
+
+## The Bottom Line The P/E ratio, P/B ratio, PEG ratio, and dividend yields are too narrowly focused to stand alone as a single measure of a stock. By combining valuation methods, you can better view a stock\'s worth. Any one of these can be influenced by creative accounting—as can more complex ratios like cash flow. Ultimately, the key to successful stock investing lies not in any ratio or formula but in the ability to think critically, assess risk, and make decisions based on a well-rounded understanding of a company\'s financial.
+<|endoftext|>

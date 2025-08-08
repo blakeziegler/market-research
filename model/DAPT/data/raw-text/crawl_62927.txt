@@ -1,0 +1,44 @@
+Source: https://www.investopedia.com/articles/stocks/08/due-diligence.asp
+
+
+
+Due diligence is the process of thoroughly investigating a company before making an investment decision. This includes analyzing financial statements, understanding the company's business model, and assessing market conditions.
+
+Investors should evaluate a company's valuation by looking at key metrics such as price-to-earnings ratio, price-to-book ratio, and other relevant financial ratios.
+
+Key financial statements to review include the balance sheet, income statement, and cash flow statement. These documents provide insights into the company's financial health and operational efficiency.
+
+Understanding the competitive landscape and market trends is crucial for assessing a company's potential for growth and profitability.
+
+understand both industry-wide risks and company-specific ones. Are there outstanding legal or regulatory matters? Is management making decisions that lead to an increase in the company\'s revenues? Is the company eco-friendly? What kind of long-term risks could result from it embracing or not embracing green initiatives? Investors should keep a healthy devil\'s advocate mindset at all times, picturing worst-case scenarios and their potential outcomes on the stock.
+
+How Is Market Capitalization Calculated? Market capitalization is a company\'s outstanding shares multiplied by the day\'s stock price. This tells you the total value of all outstanding shares. It\'s a quick and reasonably reliable indication of the company\'s value.
+
+What Is a Growth Stock? A growth stock is one with a growth rate that\'s significantly higher than that of the market in general. It will most likely earn you money more quickly than average.
+
+What Is Options Backdating? Options backdating is the process of granting options, typically to staff and employees, based on a date when their value was less than the current share price. These individuals therefore collect an immediate return. It\'s not illegal but the matter has found its way to court on numerous occasions.
+
+The Bottom Line You should be able to evaluate the company\'s future profit potential and how the stock might fit into your portfolio or investment strategy after you\'ve completed these steps. You\'ll inevitably have specifics that you\'ll want to research further. Following these guidelines should save you from missing something that could be vital to your decision, however. Veteran investors will throw many more investment ideas into the trash bin than they\'ll keep for further review so never be afraid to start over with a fresh idea and another company. There are tens of thousands of companies out there to choose from.
+
+Due diligence is the investigation of a product or a potential investment such as a stock to confirm all facts. It can include reviewing all financial records and past company performance plus anything else that's deemed material. Performing due diligence on a potential stock investment is voluntary but recommended for individual investors. The steps are organized so you'll build upon what you previously learned with each new piece of information.
+
+Key Takeaways
+Due diligence is an investigation of a potential investment such as a stock to confirm all facts and ensure that the purchase will meet the buyer's needs.
+You should consider a variety of factors when performing due diligence on a stock including company capitalization, revenue, valuations, competitors, management, and risks.
+You'll be better equipped to make a decision that aligns with your overall investment strategy by taking the time to perform due diligence on a stock before making a purchase.
+There will probably be specifics that you'll want to research further after you complete these steps.
+
+Step 1: Company Capitalization
+The first step is to form a mental picture or diagram of the company you're researching. You'll want to look at the company's market capitalization which shows you just how big the company is by calculating the total dollar market value of its outstanding shares. The market capitalization says a lot about how volatile the stock is likely to be, how broad the ownership might be, and the potential size of the company's end markets. Large-cap and mega-cap companies tend to have more stable revenue streams and less volatility. Mid-cap and small-cap companies may only serve single areas of the market and may have more fluctuations in their stock price and earnings. You're not making any judgments regarding the stock at this step in due diligence. You should focus your efforts on accumulating information that will set the stage for everything to come. The information you've gathered about the company's market capitalization will give you some perspective when you start to examine revenue and profit figures. You should also confirm the stock exchange the shares trade on. Are they based in the United States such as the New York Stock Exchange, Nasdaq, or over the counter? Or are they American depositary receipts with another listing on a foreign exchange? American depository receipts will typically have the letters 'ADR' written somewhere in the reported title of the share listing. Along with market cap, this information should help answer basic questions, such as whether you can own the shares in your current investment accounts.
+
+Step 2: Revenue, Margin Trends
+It may be best to start with the revenue, profit, and margin trends when you begin looking at the financial numbers related to the company you're researching. Look up the revenue and net income trends for the past two years at a financial news site that allows you to easily search for detailed company information using the company name or ticker symbol. These sites provide historical charts that show a company's price fluctuations over time. They'll also give you the price-to-sales (P/S) ratio and the price-to-earnings (P/E) ratio. Look at the recent trends in both sets of figures. Note whether growth is choppy or consistent or if there are any major swings such as more than 50% in one year in either direction. You should also review profit margins to see if they're generally rising, falling, or remaining the same. You can find specific information regarding profit margins by going directly to the company's website and searching their investor relations section for their quarterly and annual financial statements.
+
+Step 3: Competitors and Industries
+Now it's time to size up the industries it operates in and with whom it competes. Compare the margins of two or three competitors. Every company is partially defined by them. You may be able to determine how big the end markets are for its products just by looking at the major competitors in each line of the company's business if there's more than one. You can find information about the company's competitors on most major stock research sites. You'll usually find the ticker symbols of your company's competitors along with direct comparisons of.
+
+You\'ll want to answer some key questions regarding the company\'s management and ownership. Is the company still run by its founders or has management and the board shuffled in a lot of new faces? The age of the company is a big factor here because younger companies tend to have more of the founding members still around. Look at consolidated bios of top managers to see what kind of broad experiences they have. You can find this information on the company\'s website or in its [Securities and Exchange Commission](https://www.investopedia.com/terms/s/sec.asp) (SEC) filings. Look to see if founders and managers hold a high proportion of shares and what amount of the [float](https://www.investopedia.com/terms/f/float.asp) is held by institutions. [Institutional ownership](https://www.investopedia.com/terms/i/institutionalinvestor.asp) percentages indicate how much analyst coverage the company is getting as well as factors influencing trade volumes. Consider high personal ownership by top managers as a plus and low ownership as a potential red flag. Shareholders tend to be best served when the people running the company have a stake in the performance of the stock.
+
+You\'ll want to nail down just how long all classes of shares have been trading at this point as well as both short-term and long-term price movement. Has the stock price been choppy and volatile or smooth and steady? This outlines what kind of profit experience the average owner of the stock has seen and it can influence future stock movement. Stocks that are continuously volatile tend to have short-term shareholders and this can add extra risk factors to certain investors.
+
+<|endoftext|>

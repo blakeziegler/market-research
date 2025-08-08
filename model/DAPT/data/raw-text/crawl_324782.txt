@@ -1,0 +1,62 @@
+Source: https://ift.world/booklets/equity-introduction-to-industry-and-company-analysis-part1/
+
+In this reading, we will focus on:
+which factors to consider when analyzing an industry.
+what advantages are enjoyed by companies in strategically well-positioned industries.
+how to analyze the competitiveness of an industry.
+an introduction to company analysis.
+
+Industry analysis is primarily used in fundamental analysis. Its uses include:
+Understanding a company’s business and business environment: Industry analysis is used in stock selection and valuation as it helps an analyst understand the health of the industry, the issuer’s growth opportunities, and business risks. For a credit analyst, industry analysis provides insights into how much debt companies use, whether the industry is well-positioned for the companies to service this debt, and if a company is over-leveraged relative to its peers.
+Identifying active equity investment opportunities: Investors use a top-down approach to analyze the macroeconomic factors (which country offers better growth prospects); then classify industries based on positive, neutral, and negative outlook; and, finally, shortlist stocks within those industries. Investors then overweight, market weight or underweight industries. Or they also attempt to outperform the benchmark by industry or sector rotation.
+A sector rotation strategy involves timing investments in industries by analyzing fundamentals to take advantage of the business-cycle conditions. For example, when interest rates go down stocks in the financial and housing sectors tend to do well.
+Portfolio performance attribution: This is used to determine how a fund manager’s performance relative to a benchmark can be attributed to different sources such as asset class selection (stock/bond mix), industry/sector allocation, and stock selection.
+
+The three main methods for classifying companies are:
+Products and/or services offered: For example, firms that produce healthcare related products or provide healthcare related services will constitute the healthcare industry.
+Business-cycle sensitivities: Depending on the sensitivity to the business cycle, companies can be classified as:
+Cyclical: Earnings are highly dependent on the stage of the business cycle.
+Non-cyclical: Earnings are relatively stable over the business cycle. Companies that grows rapidly on a long-term basis but face above-average fluctuation in their revenues and profits over the course of a business cycle are known as “growth cyclical”.
+Non-cyclical industries can be further divided into:
+Defensive: Industries that are least affected by the stage of the business cycle, for example, utilities and consumer staples.
+Growth: Industries that have a very strong demand due to which they are largely unaffected by the stage of the business cycle.
+Limitations of business-cycle sensitivities classification:
+Cyclical/non-cyclical is a continuous spectrum. Recession usually affects all parts of the economy; a non-cyclical sector should be seen as a relative term. For instance, to say that a household spends the same
+
+A well-designed classification system is a useful starting point for industry analysis.
+Such systems allow analysts to compare industry trends and relative valuation among similar companies.
+Classification systems are provided by both commercial entities and government agencies.
+However, commercial classification systems are commonly used in the investment industry because they are more frequently updated as compared to government classification systems.
+In this reading we will focus on commercial classification systems.
+
+Major index providers classify companies in their equity indexes into industry groupings.
+These classification systems contain multiple levels: starting at the broadest level – a general sector grouping, that is then subdivided into more narrowly defined sub-industry groups.
+The two main commercial industry classification systems are:
+Global industry classification standard.
+Industry classification benchmark.
+
+GICS was jointly developed by Standard & Poor’s and MSCI.
+It uses a four-tier structure to classify companies based on the company’s primary business activity as measured by revenue.
+As of June 2020, this system consisted of 11 sectors, 24 industry groups, 69 industries, and 158 sub-industries.
+
+ICB was jointly developed by Dow Jones and FTSE.
+It uses a four-tier structure to classify companies based on the source from which a company derives the majority of its revenue.
+As of June 2020, this system consisted of 11 industries, 20 supersectors, 45 sectors, and 173 subsectors.
+The ICB and GICS are similar in the number of tiers and the method by which companies are assigned to particular groups.
+But the two systems use significantly different nomenclature.
+For example, GICS uses the term ‘sector’ to describe its broadest category, while ICB uses the term ‘industry’.
+Also, the two systems can classify the same company very differently.
+The following table provides an example.
+Company | GICS | ICB
+Paypal | Information Technology > Software & Services > IT Services > Data Processing & Outsourced Services | Industrials > Industrial Goods & Services > Support Services > Financial Administration
+
+A peer group is a group of companies engaged in similar business activities whose economics and valuation are influenced by closely related factors.
+For example, if you are valuating Toyota, it is appropriate to compare Toyota with other auto companies rather than Samsung.
+Some examples of Toyota’s peers include Daimler, Honda, Volkswagen, and General Motors.
+Group is a subjective process.
+Commercial classification systems can be used as a starting point to quickly discover public companies operating in the chosen industry.
+The analyst can then further investigate these companies using a variety of sources, such as the companies’ annual reports, industry trade publications.
+The analyst has to confirm that each comparable company derives a significant percentage of revenue from a business activity similar to the primary business of the subject company.
+A company could belong to more than one peer group.
+For example, Hewlett-Packard (before it separated its business in two parts) could be included in the personal computer industry as well as the information technology services industry.
+<|endoftext|>

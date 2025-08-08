@@ -568,14 +568,6 @@ def test_link11_bypass():
     if cleaner_selenium.driver:
         cleaner_selenium.driver.quit()
     
-    print("\n" + "="*60)
-    print("Link11 Bypass Recommendations:")
-    print("1. Use a VPN to change your IP address")
-    print("2. Try different browsers (Firefox, Safari)")
-    print("3. Use residential proxies")
-    print("4. Implement human-like browsing patterns")
-    print("5. Consider using a different data source")
-    
     return result
 
 def main():
@@ -591,7 +583,7 @@ def main():
     
     # List of tickers to scrape
     tickers = [
-        'MSFT', 'C', 'BSX', 'ETN', 'BLK', 'AMAT', 'ADBE', 'TFC',
+        'ADBE', 'TFC',
         'CARR', 'AFL', 'ROP', 'GLW', 'KMI', 'TEL', 'EFX', 'AWK',
         'NRG', 'UAL', 'V', 'T', 'STT', 'KHC', 'J', 'STLD', 'BIIB',
         'ON', 'TSN', 'HST', 'BRK.B', 'ORCL'

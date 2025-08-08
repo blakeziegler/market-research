@@ -1,0 +1,57 @@
+Source: https://www.blackrock.com/us/individual/insights/case-study-in-stock-selection
+
+The Fund is actively managed and does not seek to replicate the performance of a specified index.
+The Fund may have a higher portfolio turnover than funds that seek to replicate the performance of an index.
+Convertible securities are subject to the market and issuer risks that apply to the underlying common stock.
+Actively managed funds do not seek to replicate the performance of a specified index and may have a higher portfolio turnover than funds that seek to replicate the performance of an index.
+Buying and selling shares of ETFs may result in brokerage commissions.
+Diversification and asset allocation may not protect against market risk or loss of principal.
+
+The healthcare sector offers a compelling mix of defensive characteristics and growth potential driven by innovation.
+It also features ample dispersion that presents stock pickers with an opportunity to parse potential leaders and laggards in pursuit of above-market return.
+As active equity investors, we’re not content to accept what the market has to offer.
+Our mission is to assess companies on their underlying fundamentals to target those stocks that we believe have the potential to outperform the broad market over a three- to five-year time horizon.
+This mission takes on greater significance in what we see as a new era of more normalized interest rates and volatility ― an environment in which a rising tide no longer lifts all boats and stock selection becomes more important to portfolio outcomes.
+While attractive opportunities are on offer across all sectors and industries, our daily work as stock pickers has revealed that the opportunity for selectivity is more prominent in some areas of the market ― a function of greater dispersion and industry-level nuance that can be concealed at the broad index level.
+
+Case in point: The tech sector led the market in the first half of this year, but the lion’s share of that return came from semiconductors ― the not-so-secret sauce to enabling AI.
+More surprising may be the importance of selection in the healthcare sector.
+As shown in the chart below, healthcare ranks among the top three sectors for return differentiation across individual stocks.
+This suggests greater opportunity to apply fundamental research to parse potential winners and losers in pursuit of index-beating returns.
+
+The big picture around healthcare makes it an appealing sector for long-term investors.
+It tends to do relatively well no matter the economic backdrop, given that healthcare needs do not change with GDP.
+It benefits from the secular tailwind of aging populations, as age begets greater healthcare needs and associated increases in health-related spending.
+It’s also a diverse sector that is rife with innovation.
+And despite all of this, the healthcare sector has been trading at an attractive valuation that is below the broad market average.
+Importantly, however, not all healthcare stocks offer the same appeal, and investing at the index level could expose portfolios to big risk.
+The reason: U.S. healthcare benchmarks include heavy weightings in mature pharmaceutical companies ― and these face an onslaught of revenue-busting patent expirations that could weigh on their performance, as well as that of the healthcare indexes.
+
+When drug patents expire and cheaper generics come to market, drug maker revenues inevitably decline.
+Our analysis shows several major U.S. pharma companies losing patent protection on up to 70% of their revenue by 2030.
+These companies’ profits are also at risk of disproportionate decline, as it’s usually the oldest and highest-margin products that are losing patent protection.
+This is because drug makers tend to increase prices incrementally each year after a new product launch.
+Their manufacturing costs, however, remain stable ― allowing gross margins to rise.
+Companies also spend less on marketing as a drug matures and gains popular recognition.
+By the time these drugs hit patent expiration and fall off a company’s line-up, they typically have grown to become the highest-margin products.
+Another complicating factor: When a drug patent expires, the same sales force is selling one less product, rendering the business less productive.
+Companies must find something new to sell to justify the fixed cost of their sales force, or otherwise shrink their business.
+The options here are limited: Spend more on research and development (R&D) of new products.
+The rub: Returns on R&D have been declining and the process requires substantial time.
+Negotiate a deal to buy a (hopefully) blockbuster drug.
+The rub: Companies typically overpay on high expectations for an essentially unknown, never-marketed product.
+At the same time, the Inflation Reduction Act (IRA) imposes further price pressure by giving Medicare the authority to negotiate prices on select drugs.
+That process is underway, with results (and potential price reductions) due in September.
+Given all of the above, valuations of many U.S. pharma companies require close scrutiny.
+Pricing that underestimates the pending impact of the patent cliff can make some of these stocks “value traps” ― sporting a low price-to-earnings multiple that is actually much higher when accounting for their patent expirations and the associated earnings impact.
+
+Active stock pickers can seek to avert much of the risk at the index level by avoiding those companies most exposed and directing their investments to more interesting pockets of healthcare.
+Among them: European pharmaceutical companies.
+In general, these companies face a much less severe patent issue and have better drug pipelines, offering greater return potential and quality.
+
+Makers of GLP-1 “diabesity” drugs. GLP-1s are a notable exception to our U.S. pharma aversion. We believe these promising new therapies for diabetes and weight loss have ample runway as they just begin their success journey.
+
+Drug distributors. The patent cliff can be a boon for drug distributors in that they are able to distribute generic alternatives, which usually offer higher profit margins than branded products. Plus, volumes are higher as more generics become available once patent protection lapses.
+
+The above case study is just one example of how active stock selection can help to achieve alpha, or above-market return, through a deep understanding of sector-level dynamics. We believe the ability to parse potential winners and losers based on underlying company fundamentals and observations of the industry environment should bring increasing value to portfolios, especially against a backdrop of heightened market dispersion.
+<|endoftext|>

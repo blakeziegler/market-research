@@ -1,0 +1,40 @@
+Source: https://ift.world/booklets/equity-market-organization-and-structure-part3/
+
+Financial intermediaries help entities achieve their financial goals. They provide products and services which help connect buyers to sellers. There are several types of intermediaries:
+
+Brokers: They find counterparties for transactions (other entities willing to take the opposing side in a transaction) and do not indulge in trade with their clients directly.
+Block brokers: Provide similar services as brokers, except that their clients have large trade orders that might potentially impact the security prices if the trade is executed without proper care.
+Investment banks: They provide advice for corporate actions like mergers and acquisitions and help firms raise capital by issuing securities such as common stock, bonds, preferred shares, etc.
+Exchanges: They provide places where traders can meet. They regulate traders’ actions to ensure smooth execution of the trades.
+Alternative trading systems (ATS): They serve the same trading function as exchanges but have no regulatory oversight. ATS where client orders are not revealed are also known as dark pools.
+
+Dealers: They trade directly with their clients by taking the opposite side of their trades. They provide liquidity by buying or selling from their own inventory and earning profits on the spread between the transactions.
+
+Arbitrageurs trade when they can identify opportunities to buy and sell identical or essentially similar instruments at different prices in different markets.
+Example of an arbitrage opportunity: Consider a stock of HLL Corp. that trades on two exchanges in a country. If a trader buys the stock from one exchange at a lower price and sells on another at a higher price, then an arbitrage opportunity exists as you can profit at the same time due to differences in prices.
+If the same instrument (like HLL in the example above) is bought and sold in different markets at different prices, it is pure arbitrage. If markets are efficient, pure arbitrage opportunities rarely exist. When it does happen, the arbitrageur will engage in transactions that will quickly eliminate this arbitrage.
+However, buying an instrument in one form and selling it in another form is called replication. It is common for arbitrage opportunities to exist between similar instruments. Example: Buy stock and sell overpriced calls for the same stock.
+
+Securitization is the process of buying assets, placing them in a pool, and then selling assets that represent ownership of the pool. One common example is that of mortgage-backed securities or mortgage pass-through securities.
+Securitization example: Take the example of a mortgage bank that gives mortgage loans to a thousand homeowners. Each mortgage loan is like an asset on the bank’s balance sheet. If the mortgage bank combines the thousand individual mortgage loans into a
+
+pool and sells shares of the pool to investors as securities, then this process is called securitization. The mortgage bank acts as the intermediary as it connects investors who want to buy mortgages with homeowners who want to borrow money. The interest and principal payments from the homeowners are paid to the investors of these securities.
+
+Benefits of Securitization
+Improves liquidity in the mortgage markets as it allows investors to indirectly invest in mortgages that they would otherwise not buy. The risks associated with MBS are more predictable than that of individual mortgages, therefore MBS are easier to price and sell when investors need to raise cash.
+Reduces cost of borrowing for homeowners. Higher liquidity means that investors are willing to pay more for securitized mortgages. This results in higher mortgage prices and lower interest rates.
+Diversification of portfolio for individual investors who wish to invest in mortgages but cannot service it efficiently.
+Losses from default and early prepayments are more predictable.
+
+Depository Institutions and Other Financial Corporations
+Depository institutions include commercial banks, savings and loan banks, credit unions and similar institutions that raise funds from depositors and other investors and lend it to borrowers.
+Depositors (or investors) deposit their money in the banks. Banks pay interest to the depositors for using their money and offers services, such as check writing. The banks, in turn, lend this money to borrowers in need of the money. The borrowers pay an interest to the bank. The interest a bank earns from borrowers is usually higher than the interest it pays to the depositors, that is how the bank makes money. The bank is a financial intermediary here as it connects depositors with borrowers. Banks also raise funds by selling equity or issuing bonds of the bank.
+
+Insurance Companies
+Insurance companies help people and companies offset risks by issuing insurance contracts. The contracts make a payment to the party that buys the contracts in case an event occurs. Examples of insurance contracts include life, auto, home, fire, medical, theft, and disaster.
+Example of an insurance contract: Assume you own a car and wish to insure the car against any damages. You buy car insurance from an insurance company and pay a premium at periodic intervals (annually). By doing this, you have transferred the risk of car ownership to the insurance company. In case the car is involved in an accident, the insurance company pays for the damages.
+
+Settlement and Custodial Services
+A clearinghouse helps clients settle their trades. In futures markets, they guarantee contract performance and, hence, eliminate counterparty risk. By requiring participants to post an initial margin and maintain the margin, the clearinghouse ensures there are no defaults. In other markets they may act as escrow agents, transferring money from the buyer to the seller while transferring securities from the seller to the buyer.
+Depositories or custodians hold securities for their clients so that investors are insulated from loss of securities through fraud or natural disasters.
+<|endoftext|>

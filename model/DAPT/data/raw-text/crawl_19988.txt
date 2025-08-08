@@ -1,0 +1,34 @@
+Source: https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2025/residual-income-valuation
+
+Residual income models of equity value have become widely recognized tools in both investment practice and research. Conceptually, residual income is net income less a charge (deduction) for common shareholders’ opportunity cost in generating net income. It is the residual or remaining income after considering the costs of all of a company’s capital. The appeal of residual income models stems from a shortcoming of traditional accounting. Specifically, although a company’s income statement includes a charge for the cost of debt capital in the form of interest expense, it does not include a charge for the cost of equity capital. A company can have positive net income but may still not be adding value for shareholders if it does not earn more than its cost of equity capital. Residual income models explicitly recognize the costs of all the capital used in generating income. As an economic concept, residual income has a long history, dating back to Alfred Marshall in the late 1800s (Alfred Marshall, 1890). As far back as the 1920s, General Motors used the concept in evaluating business segments. More recently, residual income has received renewed attention and interest, sometimes under names such as economic profit, abnormal earnings, or economic value added. Although residual income concepts have been used in a variety of contexts, including the measurement of internal corporate performance, we will focus on the residual income model for estimating the intrinsic value of common stock.
+
+Among the questions we will study to help us apply residual income models are the following:
+* How is residual income measured, and how can an analyst use residual income in valuation?
+* How does residual income relate to fundamentals, such as return on equity and earnings growth rates?
+* How is residual income linked to other valuation methods, such as a price-multiple approach?
+* What accounting-based challenges arise in applying residual income valuation?
+
+The candidate should be able to:
+* calculate and interpret residual income, economic value added, and market value added;
+* describe the uses of residual income models;
+* calculate the intrinsic value of a common stock using the residual income model and compare value recognition in residual income and other present value models;
+* explain fundamental determinants of residual income;
+* explain the relation between residual income valuation and the justified price-to-book ratio based on forecasted fundamentals;
+* calculate and interpret the intrinsic value of a common stock using single-stage (constant-growth) and multistage residual income models;
+* calculate the implied growth rate in residual income, given the market price-to-book ratio and an estimate of the required rate of return on equity;
+* explain continuing residual income and justify an estimate of continuing residual income at the forecast horizon, given company and
+
+We have discussed the use of residual income models in valuation. Residual income is an appealing economic concept because it attempts to measure economic profit, which are profits after accounting for all opportunity costs of capital.
+
+Residual income is calculated as net income minus a deduction for the cost of equity capital. The deduction, called the equity charge, is equal to equity capital multiplied by the required rate of return on equity (the cost of equity capital in percent).
+
+Economic value added (EVA) is a commercial implementation of the residual income concept. EVA = NOPAT − (C% × TC), where NOPAT is net operating profit after taxes, C% is the percent cost of capital, and TC is total capital.
+
+Residual income models (including commercial implementations) are used not only for equity valuation but also to measure internal corporate performance and for determining executive compensation.
+
+We can forecast per-share residual income as forecasted earnings per share minus the required rate of return on equity multiplied by beginning book value per share. Alternatively, per-share residual income can be forecasted as beginning book value per share multiplied by the difference between forecasted ROE and the required rate of return on equity.
+
+In the residual income model, the intrinsic value of a share of common stock is the sum of book value per share and the present value of expected future per-share residual income. In the residual income model, the equivalent mathematical expressions for intrinsic value of a common stock are V 0 = B 0 + ∑ t = 1 ∞ RI t ( 1 + r ) t = B 0 + ∑ t = 1 ∞ E t − r B t − 1 ( 1 + r ) t = B 0 + ∑ t = 1 ∞ ( ROE t − r ) B t − 1 ( 1 + r ) t where _V_ 0 = value of a share of stock today (_t_ = 0) _B_ 0 = current per-share book value of equity _Bt_ = expected per-share book value of equity at any time _t_ _r_ = required rate of return on equity (cost of equity) _Et_ = expected earnings per share for period _t_ RI _t_ = expected per-share residual income, equal to _Et_ − _rBt_ –1 or to (ROE − _r_) × _Bt_ –1 ROET = return on equity.
+
+In the two-stage model with continuing residual income in stage two, the intrinsic value of a share of stock is V 0 = B 0 + ∑ t = 1 T RI t ( 1 + r ) t + P T − B T ( 1 + r ) T = B 0 + ∑ t = 1 T ( E t − r B t − 1 ) ( 1 + r ) t + P T − B T ( 1 + r ) T V 0 = B 0 + ∑ t = 1 T ( ROE t − r ) B t − 1 ( 1 + r ) t + P T − B T ( 1 + r ) T where _PT_ = expected per share price at terminal time _T_ _BT_ = expected per share book value at terminal time _T_.
+<|endoftext|>

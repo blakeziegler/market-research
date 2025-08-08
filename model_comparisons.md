@@ -61,6 +61,11 @@ Additionally, the DAPT model used language like "we believe the company ..." ref
 ## DAPT 700k Token + 260 I/O SFT Model
 *Link: https://huggingface.co/blakeziegler/qwen3_4b_dapt-700k_260-sft*
 
+### SFT Data 
+- 100 I/O Company Analysis
+- 100 I/O CFA level I, II, III Questions
+- 60 Balance Sheet Analysis
+
 ### Base Model vs Base Model + DAPT (700k) + SFT (260 I/O)
 
 Base Results Summary: \
@@ -132,4 +137,25 @@ Another interesting thing to point out is the decrease in standard deviation acr
 While the 1.5M token DAPT model did improve, it was not as much as we were expecting. We found no significant benefit in tone or creativity, and only slight improvements in accuracy and hallucination rate. For the next round of DAPT pre-training, we will increase the total token count by an additional ~ 1.5 - 3M tokens depending on how the DAPT + SFT model performs.
 
 ## DAPT 1.5M Token + 750 I/O SFT Model
+
+### SFT Data
+- 55 Company Overview Analysis
+- 50 CFA Level I, II, II Questions
+- 20 Balance Sheet Analysis
+
 *Coming soon*
+
+## DAPT 10M Token Model
+
+### DAPT Data (1.5M)
+- Finance Textbooks (657k)
+- Company 10-ks (371.4k)
+- Earnings Call Transcripts (164.4k)
+- Retail Investor Reports (101.5k)
+- Valuation/General Finance Articles (89.6k)
+- Professional Investor Reports (85.1k)
+- CFA Guides (61.4k)
+- Research Papers (55.1k)
+- AI valuation Reports (15.3k)
+- Valuation Strategies (13.5k)
+- Calculation Examples (3.1k)

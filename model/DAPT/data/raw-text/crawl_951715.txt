@@ -1,0 +1,26 @@
+Source: https://www.valuationresearch.com/insights/covid-economy-valuations-require-industry-analysis/
+
+Undeniably, every aspect of our lives feels the impacts of the pandemic’s fallout. When it comes to the brunt felt by businesses, the degrees of shock vary from industry to industry. For example, the cruise line industry has suffered tremendous declines in value due to significant consumer demand drops for leisure travel. In contrast, the logistics industry has seen increases in value, even as it faces supply chain disruptions. Governments deemed ports, shipping, and trucking essential; thereby, logistics companies have been able to continue implementing efficient transport of goods.
+
+Valuation professionals also do not have immunity from the strain. As VRC values closely-held businesses, we find ourselves needing to take new, altered views of our client companies. To develop our valuation analyses in a COVID-affected economy, we consider the fundamentals with even more rigor: * Short-term cash flow and liquidity concerns, * Long-term forecasting and an increased need to consider scenario analysis when forecasting expected future cash flows, * Increases in business risk to determine appropriate adjustments to the discount rate, * Increases in volatility to consider impacts on the discount for lack of marketability, and * Balance sheet impacts and disclosure requirements for government relief support from federal programs, such as an SBA PPP or EID loan, and state- and municipality-level programs.
+
+When addressing these fundamental factors, it is also essential to understand the substantial impacts this environment has on an organization’s industry. IRS Revenue Ruling 59-60 provides the most concise guide to valuing a business and outlines two of the eight items requiring careful analysis: * “The economic outlook in general and the condition and outlook of the specific industry in particular,” and * “The market price of stocks of corporations engaged in the same or a similar line of business having their stocks actively traded in a free and open market.”
+
+Following this guidance, we trace public market performance over the past year with two key market indices – the S&P 500 and the Russell 2000 – to help the valuation professional forecast cash flows and measure risk, and assess volatility in a given industry. While the S&P 500 declined 34% on March 23, 2020, from its market high on February 19, the Russell 2000 fell 41%. As of July 31, the S&P recovered most of its losses and was down only 3% compared to 13% for the Russell.
+
+The relative outperformance of large companies has been a theme of the work-from-home economy, and challenges, as described above, facing smaller businesses have been somewhat disproportionate, as the relative performance of the Russell 2000 vs. the S&P 500 partially suggests.
+
+economic impact of the pandemic, and * March 23, 2020 – the day the S&P 500 reached a low of 2,237 (34% drop) as uncertainty peaked surrounding both the solvency of capital markets and the short- to medium-term prospects of the global economy.
+
+We then create an industry index by selecting guideline public companies (GPCs) and determining their average market capitalizations on these benchmark dates.
+
+In this example, the GPC index is based on the average market capitalizations of 10 logistics companies, and three cruise ship companies.
+A review of the table yields the following observations: * The logistics industry dropped 22% on March 23 and has since amply recovered those losses, being up 39% on August 31, relative to February 19, 2020.
+
+As would be expected, the cruise industry has taken a big hit, having declined 75% on March 23 and still down 53% as of August 31, relative to February 19, 2020.
+
+This relatively simple analysis of tracking market capitalizations of GPCs in a given industry monthly (or more frequently), or at key dates, can provide some valuable insight on determining risk and volatility in that industry when valuing a business.
+
+As can be seen by the Logistics Index, just because there is significant worldwide uncertainty due to the pandemic, some businesses are doing better than before.
+Perhaps never as much as in the past has the analysis of a company’s industry been more important when valuing that business than in today’s environment.
+<|endoftext|>
