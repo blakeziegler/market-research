@@ -145,7 +145,7 @@ While the 1.5M token DAPT model did improve, it was not as much as we were expec
 
 *Coming soon*
 
-## DAPT 10M Token Model
+## DAPT 2.5M Token Model
 
 ### DAPT Data (1.5M)
 - Finance Textbooks (1.037M)
